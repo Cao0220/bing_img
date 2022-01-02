@@ -1,0 +1,3 @@
+cn: https://www.bing.com/th?id=OHR.LickObservatory_ZH-CN9676762110_UHD.jpg
+jp: https://www.bing.com/th?id=OHR.Tiger2022_JA-JP8390343176_UHD.jpg
+us: https://www.bing.com/th?id=OHR.SnowyPrague_EN-US0983025054_UHD.jpg

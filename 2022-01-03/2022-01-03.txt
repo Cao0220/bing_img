@@ -1,0 +1,3 @@
+cn: https://www.bing.com/th?id=OHR.BorregoBadlands_ZH-CN9913349081_UHD.jpg
+jp: https://www.bing.com/th?id=OHR.BorregoBadlands_JA-JP8458813856_UHD.jpg
+us: https://www.bing.com/th?id=OHR.LickObservatory_EN-US1062377366_UHD.jpg

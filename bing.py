@@ -26,7 +26,7 @@ def get_io(cc):
 
 os.system("mkdir /root/bing_img/"+time.strftime('%Y-%m-%d')+"/")
 
-print('========================',time.strftime('%Y-%m-%d %a %H:%M:%S'),'------------------------',sep='\n')
+print('------------------------',time.strftime('%Y-%m-%d %a %H:%M:%S')+' bing.py','========================',sep='\n')
 
 for i in ['de','cn','jp','us']:
     get_img(i)
@@ -38,6 +38,4 @@ with open('/root/bing_img/'+time.strftime('%Y-%m-%d')+'/'+time.strftime('%Y-%m-%
     log.write(json.dumps(io, sort_keys=False, indent=4, ensure_ascii=False, separators=(',', ':')))
 
 os.system('day=`date +%Y-%m-%d` && cd /root/bing_img/ && /usr/local/git/bin/git add . && /usr/local/git/bin/git commit -m $day &&/usr/local/git/bin/git push -u origin main')
-
-print('----------\nfinished!\n')
 

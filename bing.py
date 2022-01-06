@@ -18,7 +18,7 @@ def get_img(cc):
 
 def get_io(cc):
     global io
-    url='https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&cc='+cc
+    url='https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&video=1&cc='+cc
     json_data=requests.get(url).text
     data = json.loads(json_data)
     cc_io=data['images']

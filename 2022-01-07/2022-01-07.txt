@@ -1,3 +1,4 @@
 cn: https://www.bing.com/th?id=OHR.WinterBison_ZH-CN0120689382_UHD.jpg
 jp: https://www.bing.com/th?id=OHR.WinterBison_JA-JP8868313472_UHD.jpg
 us: https://www.bing.com/th?id=OHR.FortedeSao_EN-US1357701666_UHD.jpg
+de: https://www.bing.com/th?id=OHR.WinterBison_DE-DE3459345792_UHD.jpg

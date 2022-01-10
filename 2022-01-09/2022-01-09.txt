@@ -1,3 +1,4 @@
 cn: https://www.bing.com/th?id=OHR.SkiTouring_ZH-CN0237169285_UHD.jpg
 jp: https://www.bing.com/th?id=OHR.SkiTouring_JA-JP9870032566_UHD.jpg
 us: https://www.bing.com/th?id=OHR.RiceBangladesh_EN-US1519717699_UHD.jpg
+de: https://www.bing.com/th?id=OHR.SkiTouring_DE-DE3952843047_UHD.jpg

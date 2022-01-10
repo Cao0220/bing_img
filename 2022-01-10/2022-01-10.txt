@@ -1,0 +1,3 @@
+cn: https://www.bing.com/th?id=OHR.PorcupineWillow_ZH-CN0280041973_UHD.jpg
+jp: https://www.bing.com/th?id=OHR.PorcupineWillow_JA-JP9036979575_UHD.jpg
+us: https://www.bing.com/th?id=OHR.SkiTouring_EN-US1605895803_UHD.jpg

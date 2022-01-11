@@ -1,0 +1,3 @@
+cn: https://www.bing.com/th?id=OHR.FanjingStairs_ZH-CN0360402048_UHD.jpg
+jp: https://www.bing.com/th?id=OHR.FanjingStairs_JA-JP9123822960_UHD.jpg
+us: https://www.bing.com/th?id=OHR.PorcupineWillow_EN-US1683070352_UHD.jpg

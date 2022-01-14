@@ -1,0 +1,3 @@
+cn: https://www.bing.com/th?id=OHR.BigHole_ZH-CN2671071218_UHD.jpg
+jp: https://www.bing.com/th?id=OHR.BoguraChili_JA-JP1855515621_UHD.jpg
+us: https://www.bing.com/th?id=OHR.SaCalobra_EN-US0398649435_UHD.jpg

@@ -1,3 +1,4 @@
 cn: https://www.bing.com/th?id=OHR.BoguraChili_ZH-CN2707755390_UHD.jpg
 jp: https://www.bing.com/th?id=OHR.BigHole_JA-JP1966516856_UHD.jpg
 us: https://www.bing.com/th?id=OHR.BigHole_EN-US0665897807_UHD.jpg
+de: https://www.bing.com/th?id=OHR.BoguraChili_DE-DE1559568311_UHD.jpg

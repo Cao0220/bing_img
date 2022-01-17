@@ -1,3 +1,4 @@
 cn: https://www.bing.com/th?id=OHR.RydalWater_ZH-CN2787617470_UHD.jpg
 jp: https://www.bing.com/th?id=OHR.RydalWater_JA-JP2021070107_UHD.jpg
 us: https://www.bing.com/th?id=OHR.BoguraChili_EN-US0800461661_UHD.jpg
+de: https://www.bing.com/th?id=OHR.RydalWater_DE-DE1633177800_UHD.jpg

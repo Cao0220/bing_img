@@ -1,0 +1,3 @@
+cn: https://www.bing.com/th?id=OHR.BurghausenWinter_ZH-CN2822501718_UHD.jpg
+jp: https://www.bing.com/th?id=OHR.BurghausenWinter_JA-JP2070453364_UHD.jpg
+us: https://www.bing.com/th?id=OHR.TarrMemorial_EN-US1006824946_UHD.jpg

@@ -1,0 +1,3 @@
+cn: https://www.bing.com/th?id=OHR.SaintElias_ZH-CN2861097596_UHD.jpg
+jp: https://www.bing.com/th?id=OHR.GrahamAdelie_JA-JP2127547306_UHD.jpg
+us: https://www.bing.com/th?id=OHR.AshdownForest_EN-US1230205282_UHD.jpg

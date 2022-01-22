@@ -1,0 +1,3 @@
+cn: https://www.bing.com/th?id=OHR.MeotoIwa_ZH-CN3126370410_UHD.jpg
+jp: https://www.bing.com/th?id=OHR.LesserAntilles_JA-JP2361616975_UHD.jpg
+us: https://www.bing.com/th?id=OHR.LesserAntilles_EN-US1658249198_UHD.jpg

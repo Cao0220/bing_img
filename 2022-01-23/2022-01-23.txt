@@ -1,0 +1,3 @@
+cn: https://www.bing.com/th?id=OHR.ManhattanView_ZH-CN3156325644_UHD.jpg
+jp: https://www.bing.com/th?id=OHR.ManhattanView_JA-JP2421208311_UHD.jpg
+us: https://www.bing.com/th?id=OHR.MeotoIwa_EN-US1871391855_UHD.jpg

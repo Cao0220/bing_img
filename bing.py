@@ -1,7 +1,18 @@
-import json
-import requests
-import os
-import time
+import json,requests,os,time,re
+
+def dl_img():
+    img=[]
+    index=0
+    with open('/root/bing_img/'+time.strftime('%Y-%m-%d')+'/'+time.strftime('%Y-%m-%d')+'.json',"r") as log:
+        json_data = json.load(log)
+    for cc in json_data.keys():
+        img_url=json_data[cc][0]['urlbase']
+        img_io=re.search(r'R.*_',img_url,re.I).group()
+        img_io=img_io[2:-1:]
+        if not img_io in img:
+            img.append(img_io)
+            os.system("cd /root/bing_img/"+time.strftime('%Y-%m-%d')+"/ && wget https://www.bing.com"+img_url+"_UHD.jpg "+"-O "+str(index)+".jpg")
+            index+=1
 
 def get_img(cc):
     url='https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&cc='+cc
@@ -28,12 +39,10 @@ os.system("mkdir /root/bing_img/"+time.strftime('%Y-%m-%d')+"/")
 
 print('------------------------',time.strftime('%Y-%m-%d %a %H:%M:%S')+' bing.py','========================',sep='\n')
 
-for i in ['de','cn','jp','us']:
-    get_img(i)
-
 io={}
 for i in ['ar','at','au','be','br','ca','ch','cl','cn','de','dk','es','fi','fr','hk','ie','in','it','jp','kr','nl','no','nz','ph','pt','ru','se','sg','tw','uk']:
     get_io(i)
+
 with open('/root/bing_img/'+time.strftime('%Y-%m-%d')+'/'+time.strftime('%Y-%m-%d')+'.json',"a+") as log:
     log.write(json.dumps(io, sort_keys=False, indent=4, ensure_ascii=False, separators=(',', ':')))
 

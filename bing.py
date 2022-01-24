@@ -39,6 +39,9 @@ os.system("mkdir /root/bing_img/"+time.strftime('%Y-%m-%d')+"/")
 
 print('------------------------',time.strftime('%Y-%m-%d %a %H:%M:%S')+' bing.py','========================',sep='\n')
 
+for i in ['de','cn','jp','us']:
+    get_img(i)
+
 io={}
 for i in ['ar','at','au','be','br','ca','ch','cl','cn','de','dk','es','fi','fr','hk','ie','in','it','jp','kr','nl','no','nz','ph','pt','ru','se','sg','tw','uk']:
     get_io(i)

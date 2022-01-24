@@ -49,5 +49,7 @@ for i in ['ar','at','au','be','br','ca','ch','cl','cn','de','dk','es','fi','fr',
 with open('/root/bing_img/'+time.strftime('%Y-%m-%d')+'/'+time.strftime('%Y-%m-%d')+'.json',"a+") as log:
     log.write(json.dumps(io, sort_keys=False, indent=4, ensure_ascii=False, separators=(',', ':')))
 
+dl_img()
+
 os.system('day=`date +%Y-%m-%d` && cd /root/bing_img/ && /usr/local/git/bin/git add . && /usr/local/git/bin/git commit -m $day &&/usr/local/git/bin/git push -u origin main')
 

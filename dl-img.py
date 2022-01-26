@@ -2,7 +2,9 @@ import json,os,datetime,re
 
 def dl_img():
     img=[]
-    day=input("请输入时间\n时间请勿早于2022-01-01\n格式:xxxx-xx-xx\n")
+    day=input("请输入时间\n时间请勿早于2022-01-01\n格式:xxxx-xx-xx\n留空表示查看今日\n")
+    if day=='':
+        day=datetime.datetime.now().strftime('%Y-%m-%d')
     now_time=datetime.datetime.strptime(day,'%Y-%m-%d')
     yes_time=now_time+datetime.timedelta(days=-1)
     now_time_str=now_time.strftime('%Y-%m-%d')

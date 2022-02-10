@@ -164,3 +164,6 @@ Bing_img
 ----------------
 ![2022-02-10-0](https://www.bing.com/th?id=OHR.GranvilleBC_EN-CA5907132462_UHD.jpg)
 ![2022-02-10-1](https://www.bing.com/th?id=OHR.SnowyBern_ZH-CN5472524801_UHD.jpg)
+2022-02-11
+---------![2022-02-11-0](https://www.bing.com/th?id=OHR.TeaGardensMunnar_ZH-CN9587720369_UHD.jpg)
+![2022-02-11-1](https://www.bing.com/th?id=OHR.Rissyun2022_JA-JP5905190633_UHD.jpg)

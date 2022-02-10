@@ -26,21 +26,10 @@ def dl_img():
         if not img_io in img:
             img.append(img_io)
             os.system("cd /root/bing_img/"+now_time_str+"/ && wget https://www.bing.com"+img_url+"_UHD.jpg "+"-O "+str(index)+".jpg")
+            with open('/root/bing_img/readme.md',"a+") as log:
+                log.write("!["+now_time_str+"-"+str(index)+"]("+"https://www.bing.com"+img_url+"_UHD.jpg)\n")
             # print("cd /root/bing_img/"+now_time_str+"/ && wget https://www.bing.com"+img_url+"_UHD.jpg "+"-O "+str(index)+".jpg")
             index+=1
-
-def get_img(cc):
-    url='https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&cc='+cc
-    json_data=requests.get(url).text
-    data = json.loads(json_data)
-    for i in data['images']:
-        day=i["startdate"]
-        day_for=day[0:4]+"-"+day[4:6]+"-"+day[6:8]
-        img_url=i["urlbase"]
-        # os.system("mkdir /root/bing_img/"+day_for+"/")
-        os.system("cd /root/bing_img/"+day_for+"/ && wget https://www.bing.com"+img_url+"_UHD.jpg "+"-O "+cc+".jpg")
-        with open('/root/bing_img/'+day_for+'/'+day_for+'.txt',"a+") as log:
-            log.write(cc+": https://www.bing.com"+img_url+"_UHD.jpg\n")
 
 def get_io(cc):
     global io
@@ -53,6 +42,8 @@ def get_io(cc):
 os.system("mkdir /root/bing_img/"+time.strftime('%Y-%m-%d')+"/")
 
 print('------------------------',time.strftime('%Y-%m-%d %a %H:%M:%S')+' bing.py','========================',sep='\n')
+with open('/root/bing_img/readme.md',"a+") as log:
+    log.write(datetime.datetime.now().strftime('%Y-%m-%d')+"\n---------")
 
 io={}
 for i in ['ar','at','au','be','br','ca','ch','cl','cn','de','dk','es','fi','fr','hk','ie','in','it','jp','kr','nl','no','nz','ph','pt','ru','se','sg','tw','uk']:

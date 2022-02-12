@@ -43,7 +43,7 @@ os.system("mkdir /root/bing_img/"+time.strftime('%Y-%m-%d')+"/")
 
 print('------------------------',time.strftime('%Y-%m-%d %a %H:%M:%S')+' bing.py','========================',sep='\n')
 with open('/root/bing_img/readme.md',"a+") as log:
-    log.write(datetime.datetime.now().strftime('%Y-%m-%d')+"\n---------")
+    log.write(datetime.datetime.now().strftime('%Y-%m-%d')+"\n----------------\n")
 
 io={}
 for i in ['ar','at','au','be','br','ca','ch','cl','cn','de','dk','es','fi','fr','hk','ie','in','it','jp','kr','nl','no','nz','ph','pt','ru','se','sg','tw','uk']:

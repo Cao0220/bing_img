@@ -171,3 +171,7 @@ Bing_img
 2022-02-12
 ----------------
 ![2022-02-12-0](https://www.bing.com/th?id=OHR.DarwinsArch_ZH-CN9740478501_UHD.jpg)
+2022-02-13
+----------------
+![2022-02-13-0](https://www.bing.com/th?id=OHR.FaceOff_ZH-CN9969100257_UHD.jpg)
+![2022-02-13-1](https://www.bing.com/th?id=OHR.OtaruSnowFes_JA-JP0003426562_UHD.jpg)

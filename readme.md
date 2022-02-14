@@ -179,3 +179,7 @@ Bing_img
 ----------------
 ![2022-02-14-0](https://www.bing.com/th?id=OHR.MaldivesHeart_ZH-CN0032539727_UHD.jpg)
 ![2022-02-14-1](https://www.bing.com/th?id=OHR.SchlossBellevue_DE-DE1738179614_UHD.jpg)
+2022-02-15
+----------------
+![2022-02-15-0](https://www.bing.com/th?id=OHR.Latern2022_ZH-CN0112710917_UHD.jpg)
+![2022-02-15-1](https://www.bing.com/th?id=OHR.ChengduLanterns_EN-IN6082984948_UHD.jpg)

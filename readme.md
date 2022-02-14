@@ -175,3 +175,7 @@ Bing_img
 ----------------
 ![2022-02-13-0](https://www.bing.com/th?id=OHR.FaceOff_ZH-CN9969100257_UHD.jpg)
 ![2022-02-13-1](https://www.bing.com/th?id=OHR.OtaruSnowFes_JA-JP0003426562_UHD.jpg)
+2022-02-14
+----------------
+![2022-02-14-0](https://www.bing.com/th?id=OHR.MaldivesHeart_ZH-CN0032539727_UHD.jpg)
+![2022-02-14-1](https://www.bing.com/th?id=OHR.SchlossBellevue_DE-DE1738179614_UHD.jpg)

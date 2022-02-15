@@ -183,3 +183,6 @@ Bing_img
 ----------------
 ![2022-02-15-0](https://www.bing.com/th?id=OHR.Latern2022_ZH-CN0112710917_UHD.jpg)
 ![2022-02-15-1](https://www.bing.com/th?id=OHR.ChengduLanterns_EN-IN6082984948_UHD.jpg)
+2022-02-16
+----------------
+![2022-02-16-0](https://www.bing.com/th?id=OHR.CranborneChase_ZH-CN0337426199_UHD.jpg)

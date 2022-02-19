@@ -194,3 +194,8 @@ Bing_img
 2022-02-18
 ----------------
 ![2022-02-18-0](https://www.bing.com/th?id=OHR.GreatTits_ZH-CN0546267922_UHD.jpg)
+2022-02-19
+----------------
+![2022-02-19-0](https://www.bing.com/th?id=OHR.BerchtesgadenerAlpen_ZH-CN0740088231_UHD.jpg)
+![2022-02-19-1](https://www.bing.com/th?id=OHR.AuvergneWinter_FR-FR3411752476_UHD.jpg)
+![2022-02-19-2](https://www.bing.com/th?id=OHR.ChhatrapatiShivajiTerminus_EN-IN2090326405_UHD.jpg)

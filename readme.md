@@ -199,3 +199,8 @@ Bing_img
 ![2022-02-19-0](https://www.bing.com/th?id=OHR.BerchtesgadenerAlpen_ZH-CN0740088231_UHD.jpg)
 ![2022-02-19-1](https://www.bing.com/th?id=OHR.AuvergneWinter_FR-FR3411752476_UHD.jpg)
 ![2022-02-19-2](https://www.bing.com/th?id=OHR.ChhatrapatiShivajiTerminus_EN-IN2090326405_UHD.jpg)
+2022-02-20
+----------------
+![2022-02-20-0](https://www.bing.com/th?id=OHR.FrozenLakeBanff_EN-CA7270579809_UHD.jpg)
+![2022-02-20-1](https://www.bing.com/th?id=OHR.WhalesDolphins_ZH-CN0636695997_UHD.jpg)
+![2022-02-20-2](https://www.bing.com/th?id=OHR.SycamoreStars_DE-DE3978989731_UHD.jpg)

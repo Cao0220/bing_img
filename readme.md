@@ -206,3 +206,9 @@ Bing_img
 ![2022-02-20-2](https://www.bing.com/th?id=OHR.SycamoreStars_DE-DE3978989731_UHD.jpg)
 2022-02-21
 ----------------
+2022-02-22
+----------------
+![2022-02-22-0](https://www.bing.com/th?id=OHR.WhitehorseAurora_EN-CA1581101260_UHD.jpg)
+![2022-02-22-1](https://www.bing.com/th?id=OHR.BactrianCamels_ZH-CN1072425996_UHD.jpg)
+![2022-02-22-2](https://www.bing.com/th?id=OHR.BerchtesgadenerAlpen_DE-DE4602508031_UHD.jpg)
+![2022-02-22-3](https://www.bing.com/th?id=OHR.HuggingDay_JA-JP9827885077_UHD.jpg)

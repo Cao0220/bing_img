@@ -212,3 +212,8 @@ Bing_img
 ![2022-02-22-1](https://www.bing.com/th?id=OHR.BactrianCamels_ZH-CN1072425996_UHD.jpg)
 ![2022-02-22-2](https://www.bing.com/th?id=OHR.BerchtesgadenerAlpen_DE-DE4602508031_UHD.jpg)
 ![2022-02-22-3](https://www.bing.com/th?id=OHR.HuggingDay_JA-JP9827885077_UHD.jpg)
+2022-02-23
+----------------
+![2022-02-23-0](https://www.bing.com/th?id=OHR.CypressTunnel_ZH-CN1174542149_UHD.jpg)
+![2022-02-23-1](https://www.bing.com/th?id=OHR.ChavarocheWinter_FR-FR4320503107_UHD.jpg)
+![2022-02-23-2](https://www.bing.com/th?id=OHR.Fuji2022_JA-JP9865294230_UHD.jpg)

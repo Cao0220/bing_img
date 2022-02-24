@@ -217,3 +217,6 @@ Bing_img
 ![2022-02-23-0](https://www.bing.com/th?id=OHR.CypressTunnel_ZH-CN1174542149_UHD.jpg)
 ![2022-02-23-1](https://www.bing.com/th?id=OHR.ChavarocheWinter_FR-FR4320503107_UHD.jpg)
 ![2022-02-23-2](https://www.bing.com/th?id=OHR.Fuji2022_JA-JP9865294230_UHD.jpg)
+2022-02-24
+----------------
+![2022-02-24-0](https://www.bing.com/th?id=OHR.CrystalCave_ZH-CN1284839856_UHD.jpg)

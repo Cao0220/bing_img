@@ -220,3 +220,6 @@ Bing_img
 2022-02-24
 ----------------
 ![2022-02-24-0](https://www.bing.com/th?id=OHR.CrystalCave_ZH-CN1284839856_UHD.jpg)
+2022-02-25
+----------------
+![2022-02-25-0](https://www.bing.com/th?id=OHR.WheatonYukon_ZH-CN5573629391_UHD.jpg)

@@ -223,3 +223,8 @@ Bing_img
 2022-02-25
 ----------------
 ![2022-02-25-0](https://www.bing.com/th?id=OHR.WheatonYukon_ZH-CN5573629391_UHD.jpg)
+2022-02-26
+----------------
+![2022-02-26-0](https://www.bing.com/th?id=OHR.LamplughGlacier_ZH-CN5709513673_UHD.jpg)
+![2022-02-26-1](https://www.bing.com/th?id=OHR.WinterCotswolds_DE-DE0366665875_UHD.jpg)
+![2022-02-26-2](https://www.bing.com/th?id=OHR.Mercantour_FR-FR2196703692_UHD.jpg)

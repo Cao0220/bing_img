@@ -228,3 +228,6 @@ Bing_img
 ![2022-02-26-0](https://www.bing.com/th?id=OHR.LamplughGlacier_ZH-CN5709513673_UHD.jpg)
 ![2022-02-26-1](https://www.bing.com/th?id=OHR.WinterCotswolds_DE-DE0366665875_UHD.jpg)
 ![2022-02-26-2](https://www.bing.com/th?id=OHR.Mercantour_FR-FR2196703692_UHD.jpg)
+2022-02-27
+----------------
+![2022-02-27-0](https://www.bing.com/th?id=OHR.IPBDMom_ZH-CN5918907676_UHD.jpg)

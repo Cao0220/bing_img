@@ -234,3 +234,8 @@ Bing_img
 2022-02-28
 ----------------
 ![2022-02-28-0](https://www.bing.com/th?id=OHR.WinterCotswolds_ZH-CN6017348883_UHD.jpg)
+2022-03-01
+----------------
+![2022-03-01-0](https://www.bing.com/th?id=OHR.ZugspitzeGipfelstation_ZH-CN6120971585_UHD.jpg)
+![2022-03-01-1](https://www.bing.com/th?id=OHR.WeinstadelNuernberg_DE-DE3451189138_UHD.jpg)
+![2022-03-01-2](https://www.bing.com/th?id=OHR.KedarnathTempleIndia_EN-IN4184429230_UHD.jpg)

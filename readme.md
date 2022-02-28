@@ -231,3 +231,6 @@ Bing_img
 2022-02-27
 ----------------
 ![2022-02-27-0](https://www.bing.com/th?id=OHR.IPBDMom_ZH-CN5918907676_UHD.jpg)
+2022-02-28
+----------------
+![2022-02-28-0](https://www.bing.com/th?id=OHR.WinterCotswolds_ZH-CN6017348883_UHD.jpg)

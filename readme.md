@@ -239,3 +239,9 @@ Bing_img
 ![2022-03-01-0](https://www.bing.com/th?id=OHR.ZugspitzeGipfelstation_ZH-CN6120971585_UHD.jpg)
 ![2022-03-01-1](https://www.bing.com/th?id=OHR.WeinstadelNuernberg_DE-DE3451189138_UHD.jpg)
 ![2022-03-01-2](https://www.bing.com/th?id=OHR.KedarnathTempleIndia_EN-IN4184429230_UHD.jpg)
+2022-03-02
+----------------
+![2022-03-02-0](https://www.bing.com/th?id=OHR.QuebecOwl_EN-CA5039517528_UHD.jpg)
+![2022-03-02-1](https://www.bing.com/th?id=OHR.MoonlightRainier_ZH-CN6263832605_UHD.jpg)
+![2022-03-02-2](https://www.bing.com/th?id=OHR.NZTekapo_DE-DE4003020487_UHD.jpg)
+![2022-03-02-3](https://www.bing.com/th?id=OHR.BeNice_FR-FR3515365909_UHD.jpg)

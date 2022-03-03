@@ -249,3 +249,7 @@ Bing_img
 ----------------
 ![2022-03-03-0](https://www.bing.com/th?id=OHR.RhinocerosUnicornis_ZH-CN6380546992_UHD.jpg)
 ![2022-03-03-1](https://www.bing.com/th?id=OHR.Hinamatsuri2022__JA-JP3664682561_UHD.jpg)
+2022-03-04
+----------------
+![2022-03-04-0](https://www.bing.com/th?id=OHR.WeinstadelNuernberg_ZH-CN6448054345_UHD.jpg)
+![2022-03-04-1](https://www.bing.com/th?id=OHR.ParalympicCurling_EN-IN7115124343_UHD.jpg)

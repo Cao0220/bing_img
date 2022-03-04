@@ -253,3 +253,6 @@ Bing_img
 ----------------
 ![2022-03-04-0](https://www.bing.com/th?id=OHR.WeinstadelNuernberg_ZH-CN6448054345_UHD.jpg)
 ![2022-03-04-1](https://www.bing.com/th?id=OHR.ParalympicCurling_EN-IN7115124343_UHD.jpg)
+2022-03-05
+----------------
+![2022-03-05-0](https://www.bing.com/th?id=OHR.NormandyMont_ZH-CN6657762215_UHD.jpg)

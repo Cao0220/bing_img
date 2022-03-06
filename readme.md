@@ -260,3 +260,6 @@ Bing_img
 ----------------
 ![2022-03-06-0](https://www.bing.com/th?id=OHR.GreatCormorants_ZH-CN6811149253_UHD.jpg)
 ![2022-03-06-1](https://www.bing.com/th?id=OHR.PeacockNagarahole_EN-IN2440688984_UHD.jpg)
+2022-03-07
+----------------
+![2022-03-07-0](https://www.bing.com/th?id=OHR.NZTekapo_ZH-CN6919300257_UHD.jpg)

@@ -263,3 +263,8 @@ Bing_img
 2022-03-07
 ----------------
 ![2022-03-07-0](https://www.bing.com/th?id=OHR.NZTekapo_ZH-CN6919300257_UHD.jpg)
+2022-03-08
+----------------
+![2022-03-08-0](https://www.bing.com/th?id=OHR.Mercantour_ZH-CN7208180454_UHD.jpg)
+![2022-03-08-1](https://www.bing.com/th?id=OHR.ZugspitzeGipfelstation_DE-DE4800399344_UHD.jpg)
+![2022-03-08-2](https://www.bing.com/th?id=OHR.BrokenGlass_EN-IN6827307335_UHD.jpg)

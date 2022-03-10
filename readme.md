@@ -272,3 +272,6 @@ Bing_img
 ----------------
 ![2022-03-09-0](https://www.bing.com/th?id=OHR.PeacockNagarahole_ZH-CN7404674152_UHD.jpg)
 ![2022-03-09-1](https://www.bing.com/th?id=OHR.FlowerofLife_EN-IN1431762445_UHD.jpg)
+2022-03-10
+----------------
+![2022-03-10-0](https://www.bing.com/th?id=OHR.BobbioItaly_ZH-CN7993515424_UHD.jpg)

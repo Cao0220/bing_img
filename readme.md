@@ -275,3 +275,8 @@ Bing_img
 2022-03-10
 ----------------
 ![2022-03-10-0](https://www.bing.com/th?id=OHR.BobbioItaly_ZH-CN7993515424_UHD.jpg)
+2022-03-11
+----------------
+![2022-03-11-0](https://www.bing.com/th?id=OHR.OcalaNF_ZH-CN1112502059_UHD.jpg)
+![2022-03-11-1](https://www.bing.com/th?id=OHR.UkraineSolidarity_EN-IN4746578422_UHD.jpg)
+![2022-03-11-2](https://www.bing.com/th?id=OHR.Tohoku2022_JA-JP5089369292_UHD.jpg)

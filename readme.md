@@ -284,3 +284,9 @@ Bing_img
 ----------------
 ![2022-03-12-0](https://www.bing.com/th?id=OHR.BrehatIsland_ZH-CN6015596530_UHD.jpg)
 ![2022-03-12-1](https://www.bing.com/th?id=OHR.HemakutaTemples_EN-IN0347838440_UHD.jpg)
+2022-03-13
+----------------
+![2022-03-13-0](https://www.bing.com/th?id=OHR.MapleIce_EN-CA9180986095_UHD.jpg)
+![2022-03-13-1](https://www.bing.com/th?id=OHR.SpringForward_ZH-CN6154174266_UHD.jpg)
+![2022-03-13-2](https://www.bing.com/th?id=OHR.Poets_FR-FR3811134884_UHD.jpg)
+![2022-03-13-3](https://www.bing.com/th?id=OHR.HokkaidoRabbit_JA-JP6946439513_UHD.jpg)

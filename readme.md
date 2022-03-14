@@ -290,3 +290,7 @@ Bing_img
 ![2022-03-13-1](https://www.bing.com/th?id=OHR.SpringForward_ZH-CN6154174266_UHD.jpg)
 ![2022-03-13-2](https://www.bing.com/th?id=OHR.Poets_FR-FR3811134884_UHD.jpg)
 ![2022-03-13-3](https://www.bing.com/th?id=OHR.HokkaidoRabbit_JA-JP6946439513_UHD.jpg)
+2022-03-14
+----------------
+![2022-03-14-0](https://www.bing.com/th?id=OHR.LanyonQuoit_ZH-CN6278576563_UHD.jpg)
+![2022-03-14-1](https://www.bing.com/th?id=OHR.EuleKasselburg_DE-DE7532933744_UHD.jpg)

@@ -294,3 +294,6 @@ Bing_img
 ----------------
 ![2022-03-14-0](https://www.bing.com/th?id=OHR.LanyonQuoit_ZH-CN6278576563_UHD.jpg)
 ![2022-03-14-1](https://www.bing.com/th?id=OHR.EuleKasselburg_DE-DE7532933744_UHD.jpg)
+2022-03-15
+----------------
+![2022-03-15-0](https://www.bing.com/th?id=OHR.RomanView_ZH-CN6469652448_UHD.jpg)

@@ -308,3 +308,8 @@ Bing_img
 2022-03-18
 ----------------
 ![2022-03-18-0](https://www.bing.com/th?id=OHR.Holi2022_ZH-CN2265496434_UHD.jpg)
+2022-03-19
+----------------
+![2022-03-19-0](https://www.bing.com/th?id=OHR.BamfordEdge_ROW3228561444_UHD.jpg)
+![2022-03-19-1](https://www.bing.com/th?id=OHR.Chicagohenge_ZH-CN7070361892_UHD.jpg)
+![2022-03-19-2](https://www.bing.com/th?id=OHR.SquirrelNesting_JA-JP6287154611_UHD.jpg)

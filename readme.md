@@ -313,3 +313,8 @@ Bing_img
 ![2022-03-19-0](https://www.bing.com/th?id=OHR.BamfordEdge_ROW3228561444_UHD.jpg)
 ![2022-03-19-1](https://www.bing.com/th?id=OHR.Chicagohenge_ZH-CN7070361892_UHD.jpg)
 ![2022-03-19-2](https://www.bing.com/th?id=OHR.SquirrelNesting_JA-JP6287154611_UHD.jpg)
+2022-03-20
+----------------
+![2022-03-20-0](https://www.bing.com/th?id=OHR.CrystalROM_EN-CA6501287001_UHD.jpg)
+![2022-03-20-1](https://www.bing.com/th?id=OHR.WorldFrogDay_ZH-CN7191299445_UHD.jpg)
+![2022-03-20-2](https://www.bing.com/th?id=OHR.TheBard_JA-JP6559993730_UHD.jpg)

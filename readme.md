@@ -320,3 +320,6 @@ Bing_img
 ![2022-03-20-2](https://www.bing.com/th?id=OHR.TheBard_JA-JP6559993730_UHD.jpg)
 2022-03-21
 ----------------
+2022-03-22
+----------------
+![2022-03-22-0](https://www.bing.com/th?id=OHR.ThousandSprings_ZH-CN7431323804_UHD.jpg)

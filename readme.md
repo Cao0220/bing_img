@@ -323,3 +323,6 @@ Bing_img
 2022-03-22
 ----------------
 ![2022-03-22-0](https://www.bing.com/th?id=OHR.ThousandSprings_ZH-CN7431323804_UHD.jpg)
+2022-03-23
+----------------
+![2022-03-23-0](https://www.bing.com/th?id=OHR.GCThunderstorm_ZH-CN7535350453_UHD.jpg)

@@ -326,3 +326,8 @@ Bing_img
 2022-03-23
 ----------------
 ![2022-03-23-0](https://www.bing.com/th?id=OHR.GCThunderstorm_ZH-CN7535350453_UHD.jpg)
+2022-03-24
+----------------
+![2022-03-24-0](https://www.bing.com/th?id=OHR.SquirrelNesting_ZH-CN7673817247_UHD.jpg)
+![2022-03-24-1](https://www.bing.com/th?id=OHR.VictoriaMemorialKolkata_EN-IN2695040858_UHD.jpg)
+![2022-03-24-2](https://www.bing.com/th?id=OHR.BrehatIsland_JA-JP6823010083_UHD.jpg)

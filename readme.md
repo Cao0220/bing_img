@@ -346,3 +346,6 @@ Bing_img
 ![2022-03-28-0](https://www.bing.com/th?id=OHR.Kawachi_ZH-CN6964965791_UHD.jpg)
 ![2022-03-28-1](https://www.bing.com/th?id=OHR.LudwigskircheSB_DE-DE0070440934_UHD.jpg)
 ![2022-03-28-2](https://www.bing.com/th?id=OHR.Godafoss_JA-JP4704532299_UHD.jpg)
+2022-03-29
+----------------
+![2022-03-29-0](https://www.bing.com/th?id=OHR.Buritaca_ZH-CN7178457066_UHD.jpg)

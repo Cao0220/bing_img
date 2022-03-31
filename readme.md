@@ -354,3 +354,7 @@ Bing_img
 ![2022-03-30-0](https://www.bing.com/th?id=OHR.TofinoOcean_EN-CA4519270013_UHD.jpg)
 ![2022-03-30-1](https://www.bing.com/th?id=OHR.BeltedGalloway_ZH-CN8570849064_UHD.jpg)
 ![2022-03-30-2](https://www.bing.com/th?id=OHR.HawaMahalJaipur_EN-IN2286606439_UHD.jpg)
+2022-03-31
+----------------
+![2022-03-31-0](https://www.bing.com/th?id=OHR.AnniEiffel_ZH-CN8273124420_UHD.jpg)
+![2022-03-31-1](https://www.bing.com/th?id=OHR.CubMedow_FR-FR3772854533_UHD.jpg)

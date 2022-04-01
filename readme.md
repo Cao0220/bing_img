@@ -358,3 +358,7 @@ Bing_img
 ----------------
 ![2022-03-31-0](https://www.bing.com/th?id=OHR.AnniEiffel_ZH-CN8273124420_UHD.jpg)
 ![2022-03-31-1](https://www.bing.com/th?id=OHR.CubMedow_FR-FR3772854533_UHD.jpg)
+2022-04-01
+----------------
+![2022-04-01-0](https://www.bing.com/th?id=OHR.HawaMahalJaipur_ZH-CN3863273823_UHD.jpg)
+![2022-04-01-1](https://www.bing.com/th?id=OHR.FloatingPyramid_EN-IN8086570197_UHD.jpg)

@@ -365,3 +365,7 @@ Bing_img
 2022-04-02
 ----------------
 ![2022-04-02-0](https://www.bing.com/th?id=OHR.WhangareiFalls_ZH-CN9150162556_UHD.jpg)
+2022-04-03
+----------------
+![2022-04-03-0](https://www.bing.com/th?id=OHR.VancouverCB_EN-CA9306543503_UHD.jpg)
+![2022-04-03-1](https://www.bing.com/th?id=OHR.TaihuCherry_ZH-CN9040685764_UHD.jpg)

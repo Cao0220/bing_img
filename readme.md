@@ -369,3 +369,6 @@ Bing_img
 ----------------
 ![2022-04-03-0](https://www.bing.com/th?id=OHR.VancouverCB_EN-CA9306543503_UHD.jpg)
 ![2022-04-03-1](https://www.bing.com/th?id=OHR.TaihuCherry_ZH-CN9040685764_UHD.jpg)
+2022-04-04
+----------------
+![2022-04-04-0](https://www.bing.com/th?id=OHR.NorwayBoulder_ZH-CN8749661500_UHD.jpg)

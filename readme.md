@@ -372,3 +372,7 @@ Bing_img
 2022-04-04
 ----------------
 ![2022-04-04-0](https://www.bing.com/th?id=OHR.NorwayBoulder_ZH-CN8749661500_UHD.jpg)
+2022-04-05
+----------------
+![2022-04-05-0](https://www.bing.com/th?id=OHR.Godafoss_ZH-CN9460037606_UHD.jpg)
+![2022-04-05-1](https://www.bing.com/th?id=OHR.NorthernCaracara_JA-JP2338357961_UHD.jpg)

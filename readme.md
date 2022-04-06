@@ -381,3 +381,7 @@ Bing_img
 ![2022-04-06-0](https://www.bing.com/th?id=OHR.Hunebourg_FR-FR5933200391_UHD.jpg)
 ![2022-04-06-1](https://www.bing.com/th?id=OHR.KolliHills_EN-IN3227523046_UHD.jpg)
 ![2022-04-06-2](https://www.bing.com/th?id=OHR.CastleDay22_JA-JP2399684407_UHD.jpg)
+2022-04-07
+----------------
+![2022-04-07-0](https://www.bing.com/th?id=OHR.Malaga_ZH-CN9644862917_UHD.jpg)
+![2022-04-07-1](https://www.bing.com/th?id=OHR.WiedehopfElbe_DE-DE2182520951_UHD.jpg)

@@ -385,3 +385,7 @@ Bing_img
 ----------------
 ![2022-04-07-0](https://www.bing.com/th?id=OHR.Malaga_ZH-CN9644862917_UHD.jpg)
 ![2022-04-07-1](https://www.bing.com/th?id=OHR.WiedehopfElbe_DE-DE2182520951_UHD.jpg)
+2022-04-08
+----------------
+![2022-04-08-0](https://www.bing.com/th?id=OHR.PontaDelgada_ZH-CN8596828822_UHD.jpg)
+![2022-04-08-1](https://www.bing.com/th?id=OHR.FlowerFes22_JA-JP5020069194_UHD.jpg)

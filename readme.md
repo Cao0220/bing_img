@@ -389,3 +389,6 @@ Bing_img
 ----------------
 ![2022-04-08-0](https://www.bing.com/th?id=OHR.PontaDelgada_ZH-CN8596828822_UHD.jpg)
 ![2022-04-08-1](https://www.bing.com/th?id=OHR.FlowerFes22_JA-JP5020069194_UHD.jpg)
+2022-04-09
+----------------
+![2022-04-09-0](https://www.bing.com/th?id=OHR.LightPainting_ZH-CN8824196181_UHD.jpg)

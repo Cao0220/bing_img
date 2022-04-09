@@ -392,3 +392,6 @@ Bing_img
 2022-04-09
 ----------------
 ![2022-04-09-0](https://www.bing.com/th?id=OHR.LightPainting_ZH-CN8824196181_UHD.jpg)
+2022-04-10
+----------------
+![2022-04-10-0](https://www.bing.com/th?id=OHR.Caracal_ZH-CN7086185498_UHD.jpg)

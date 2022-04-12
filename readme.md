@@ -405,3 +405,6 @@ Bing_img
 ![2022-04-12-0](https://www.bing.com/th?id=OHR.WaningGibbous_ZH-CN9648865417_UHD.jpg)
 ![2022-04-12-1](https://www.bing.com/th?id=OHR.HainichBaerlauch_DE-DE0175784347_UHD.jpg)
 ![2022-04-12-2](https://www.bing.com/th?id=OHR.AZBend_EN-IN3714419150_UHD.jpg)
+2022-04-13
+----------------
+![2022-04-13-0](https://www.bing.com/th?id=OHR.Mitsumata_ZH-CN9794271032_UHD.jpg)

@@ -400,3 +400,8 @@ Bing_img
 ![2022-04-11-0](https://www.bing.com/th?id=OHR.FernFronds_ZH-CN9338280267_UHD.jpg)
 ![2022-04-11-1](https://www.bing.com/th?id=OHR.FirstRound_FR-FR6588229701_UHD.jpg)
 ![2022-04-11-2](https://www.bing.com/th?id=OHR.PontaDelgada_JA-JP5435592375_UHD.jpg)
+2022-04-12
+----------------
+![2022-04-12-0](https://www.bing.com/th?id=OHR.WaningGibbous_ZH-CN9648865417_UHD.jpg)
+![2022-04-12-1](https://www.bing.com/th?id=OHR.HainichBaerlauch_DE-DE0175784347_UHD.jpg)
+![2022-04-12-2](https://www.bing.com/th?id=OHR.AZBend_EN-IN3714419150_UHD.jpg)

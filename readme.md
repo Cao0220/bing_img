@@ -413,3 +413,8 @@ Bing_img
 ![2022-04-14-0](https://www.bing.com/th?id=OHR.AZBend_ZH-CN9943469006_UHD.jpg)
 ![2022-04-14-1](https://www.bing.com/th?id=OHR.PlitviceBoardwalk_DE-DE0628942164_UHD.jpg)
 ![2022-04-14-2](https://www.bing.com/th?id=OHR.KailasaTemple_EN-IN3478627589_UHD.jpg)
+2022-04-15
+----------------
+![2022-04-15-0](https://www.bing.com/th?id=OHR.CrowsnestMt_EN-CA0615431519_UHD.jpg)
+![2022-04-15-1](https://www.bing.com/th?id=OHR.DartmoorMist_ZH-CN0317898466_UHD.jpg)
+![2022-04-15-2](https://www.bing.com/th?id=OHR.ChristoJeanneClaude_EN-IN0193235987_UHD.jpg)

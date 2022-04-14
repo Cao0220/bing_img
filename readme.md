@@ -408,3 +408,8 @@ Bing_img
 2022-04-13
 ----------------
 ![2022-04-13-0](https://www.bing.com/th?id=OHR.Mitsumata_ZH-CN9794271032_UHD.jpg)
+2022-04-14
+----------------
+![2022-04-14-0](https://www.bing.com/th?id=OHR.AZBend_ZH-CN9943469006_UHD.jpg)
+![2022-04-14-1](https://www.bing.com/th?id=OHR.PlitviceBoardwalk_DE-DE0628942164_UHD.jpg)
+![2022-04-14-2](https://www.bing.com/th?id=OHR.KailasaTemple_EN-IN3478627589_UHD.jpg)

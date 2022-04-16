@@ -418,3 +418,6 @@ Bing_img
 ![2022-04-15-0](https://www.bing.com/th?id=OHR.CrowsnestMt_EN-CA0615431519_UHD.jpg)
 ![2022-04-15-1](https://www.bing.com/th?id=OHR.DartmoorMist_ZH-CN0317898466_UHD.jpg)
 ![2022-04-15-2](https://www.bing.com/th?id=OHR.ChristoJeanneClaude_EN-IN0193235987_UHD.jpg)
+2022-04-16
+----------------
+![2022-04-16-0](https://www.bing.com/th?id=OHR.Yellowstone150_ZH-CN0551084440_UHD.jpg)

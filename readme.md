@@ -425,3 +425,6 @@ Bing_img
 ----------------
 ![2022-04-17-0](https://www.bing.com/th?id=OHR.CoastNL_EN-CA6741166444_UHD.jpg)
 ![2022-04-17-1](https://www.bing.com/th?id=OHR.RobinsEgg_ZH-CN0838507211_UHD.jpg)
+2022-04-18
+----------------
+![2022-04-18-0](https://www.bing.com/th?id=OHR.SquareTowerHouse_ZH-CN1203640326_UHD.jpg)

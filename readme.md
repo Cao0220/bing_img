@@ -428,3 +428,7 @@ Bing_img
 2022-04-18
 ----------------
 ![2022-04-18-0](https://www.bing.com/th?id=OHR.SquareTowerHouse_ZH-CN1203640326_UHD.jpg)
+2022-04-19
+----------------
+![2022-04-19-0](https://www.bing.com/th?id=OHR.PlitviceBoardwalk_ZH-CN1370384104_UHD.jpg)
+![2022-04-19-1](https://www.bing.com/th?id=OHR.FujiSakura22_JA-JP5283204095_UHD.jpg)

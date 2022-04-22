@@ -440,3 +440,7 @@ Bing_img
 2022-04-21
 ----------------
 ![2022-04-21-0](https://www.bing.com/th?id=OHR.IcelandicSummer_ZH-CN1779278033_UHD.jpg)
+2022-04-22
+----------------
+![2022-04-22-0](https://www.bing.com/th?id=OHR.EarthDay2022_ZH-CN5733809629_UHD.jpg)
+![2022-04-22-1](https://www.bing.com/th?id=OHR.Caracal_FR-FR9133799975_UHD.jpg)

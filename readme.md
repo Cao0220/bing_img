@@ -444,3 +444,8 @@ Bing_img
 ----------------
 ![2022-04-22-0](https://www.bing.com/th?id=OHR.EarthDay2022_ZH-CN5733809629_UHD.jpg)
 ![2022-04-22-1](https://www.bing.com/th?id=OHR.Caracal_FR-FR9133799975_UHD.jpg)
+2022-04-23
+----------------
+![2022-04-23-0](https://www.bing.com/th?id=OHR.VictoriaMemorialKolkata_ZH-CN5801450386_UHD.jpg)
+![2022-04-23-1](https://www.bing.com/th?id=OHR.BookFair_FR-FR7996144712_UHD.jpg)
+![2022-04-23-2](https://www.bing.com/th?id=OHR.TheEye_EN-IN8987702952_UHD.jpg)

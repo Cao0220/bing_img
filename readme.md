@@ -449,3 +449,7 @@ Bing_img
 ![2022-04-23-0](https://www.bing.com/th?id=OHR.VictoriaMemorialKolkata_ZH-CN5801450386_UHD.jpg)
 ![2022-04-23-1](https://www.bing.com/th?id=OHR.BookFair_FR-FR7996144712_UHD.jpg)
 ![2022-04-23-2](https://www.bing.com/th?id=OHR.TheEye_EN-IN8987702952_UHD.jpg)
+2022-04-24
+----------------
+![2022-04-24-0](https://www.bing.com/th?id=OHR.YosemiteNightSky_ZH-CN5864740024_UHD.jpg)
+![2022-04-24-1](https://www.bing.com/th?id=OHR.HirosakiSakura_JA-JP0949782013_UHD.jpg)

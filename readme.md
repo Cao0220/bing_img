@@ -453,3 +453,7 @@ Bing_img
 ----------------
 ![2022-04-24-0](https://www.bing.com/th?id=OHR.YosemiteNightSky_ZH-CN5864740024_UHD.jpg)
 ![2022-04-24-1](https://www.bing.com/th?id=OHR.HirosakiSakura_JA-JP0949782013_UHD.jpg)
+2022-04-25
+----------------
+![2022-04-25-0](https://www.bing.com/th?id=OHR.ThreeKings_ZH-CN5954425982_UHD.jpg)
+![2022-04-25-1](https://www.bing.com/th?id=OHR.Bourges_FR-FR8670221878_UHD.jpg)

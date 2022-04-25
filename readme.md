@@ -457,3 +457,8 @@ Bing_img
 ----------------
 ![2022-04-25-0](https://www.bing.com/th?id=OHR.ThreeKings_ZH-CN5954425982_UHD.jpg)
 ![2022-04-25-1](https://www.bing.com/th?id=OHR.Bourges_FR-FR8670221878_UHD.jpg)
+2022-04-26
+----------------
+![2022-04-26-0](https://www.bing.com/th?id=OHR.Hunebourg_ZH-CN6038786751_UHD.jpg)
+![2022-04-26-1](https://www.bing.com/th?id=OHR.RotbucheHalloh_DE-DE4955987264_UHD.jpg)
+![2022-04-26-2](https://www.bing.com/th?id=OHR.WalkingCentral_EN-IN2255499779_UHD.jpg)

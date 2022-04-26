@@ -462,3 +462,9 @@ Bing_img
 ![2022-04-26-0](https://www.bing.com/th?id=OHR.Hunebourg_ZH-CN6038786751_UHD.jpg)
 ![2022-04-26-1](https://www.bing.com/th?id=OHR.RotbucheHalloh_DE-DE4955987264_UHD.jpg)
 ![2022-04-26-2](https://www.bing.com/th?id=OHR.WalkingCentral_EN-IN2255499779_UHD.jpg)
+2022-04-27
+----------------
+![2022-04-27-0](https://www.bing.com/th?id=OHR.PerceRockGaspe_EN-CA9075114983_UHD.jpg)
+![2022-04-27-1](https://www.bing.com/th?id=OHR.SvalbardSun_ZH-CN6108396467_UHD.jpg)
+![2022-04-27-2](https://www.bing.com/th?id=OHR.Moulin_FR-FR9251124988_UHD.jpg)
+![2022-04-27-3](https://www.bing.com/th?id=OHR.KitesWAMon_JA-JP1218538528_UHD.jpg)

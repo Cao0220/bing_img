@@ -473,3 +473,7 @@ Bing_img
 ![2022-04-28-0](https://www.bing.com/th?id=OHR.GreatRidge_ZH-CN6165605288_UHD.jpg)
 ![2022-04-28-1](https://www.bing.com/th?id=OHR.ElephantJimCorbett_EN-IN4219048137_UHD.jpg)
 ![2022-04-28-2](https://www.bing.com/th?id=OHR.Kawachi_JA-JP1288148218_UHD.jpg)
+2022-04-29
+----------------
+![2022-04-29-0](https://www.bing.com/th?id=OHR.FoxSkills_EN-CA9100915774_UHD.jpg)
+![2022-04-29-1](https://www.bing.com/th?id=OHR.RedwoodSprout_ZH-CN6224667074_UHD.jpg)

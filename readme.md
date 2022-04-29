@@ -477,3 +477,7 @@ Bing_img
 ----------------
 ![2022-04-29-0](https://www.bing.com/th?id=OHR.FoxSkills_EN-CA9100915774_UHD.jpg)
 ![2022-04-29-1](https://www.bing.com/th?id=OHR.RedwoodSprout_ZH-CN6224667074_UHD.jpg)
+2022-04-30
+----------------
+![2022-04-30-0](https://www.bing.com/th?id=OHR.WiedehopfElbe_ZH-CN6286311611_UHD.jpg)
+![2022-04-30-1](https://www.bing.com/th?id=OHR.NorthBeachJazz_EN-IN8038272160_UHD.jpg)

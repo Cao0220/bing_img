@@ -486,3 +486,9 @@ Bing_img
 ![2022-05-01-0](https://www.bing.com/th?id=OHR.VanBlooms_ZH-CN6370306779_UHD.jpg)
 ![2022-05-01-1](https://www.bing.com/th?id=OHR.FoxSkills_EN-IN2855762577_UHD.jpg)
 ![2022-05-01-2](https://www.bing.com/th?id=OHR.OcalaNF_JA-JP1549262515_UHD.jpg)
+2022-05-02
+----------------
+![2022-05-02-0](https://www.bing.com/th?id=OHR.TravertineTurkey_ZH-CN6430409651_UHD.jpg)
+![2022-05-02-1](https://www.bing.com/th?id=OHR.KirschblueteHamburg_DE-DE6208501886_UHD.jpg)
+![2022-05-02-2](https://www.bing.com/th?id=OHR.TajMahalSky_EN-IN2591010322_UHD.jpg)
+![2022-05-02-3](https://www.bing.com/th?id=OHR.Hatchju22_JA-JP1631111050_UHD.jpg)

@@ -492,3 +492,6 @@ Bing_img
 ![2022-05-02-1](https://www.bing.com/th?id=OHR.KirschblueteHamburg_DE-DE6208501886_UHD.jpg)
 ![2022-05-02-2](https://www.bing.com/th?id=OHR.TajMahalSky_EN-IN2591010322_UHD.jpg)
 ![2022-05-02-3](https://www.bing.com/th?id=OHR.Hatchju22_JA-JP1631111050_UHD.jpg)
+2022-05-03
+----------------
+![2022-05-03-0](https://www.bing.com/th?id=OHR.DuckHen_ZH-CN6493617016_UHD.jpg)

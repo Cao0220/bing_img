@@ -495,3 +495,8 @@ Bing_img
 2022-05-03
 ----------------
 ![2022-05-03-0](https://www.bing.com/th?id=OHR.DuckHen_ZH-CN6493617016_UHD.jpg)
+2022-05-04
+----------------
+![2022-05-04-0](https://www.bing.com/th?id=OHR.TofinoOcean_ZH-CN6555392161_UHD.jpg)
+![2022-05-04-1](https://www.bing.com/th?id=OHR.WadiRum_EN-IN1433063472_UHD.jpg)
+![2022-05-04-2](https://www.bing.com/th?id=OHR.RedwoodSprout_JA-JP1755961248_UHD.jpg)

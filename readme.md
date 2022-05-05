@@ -500,3 +500,8 @@ Bing_img
 ![2022-05-04-0](https://www.bing.com/th?id=OHR.TofinoOcean_ZH-CN6555392161_UHD.jpg)
 ![2022-05-04-1](https://www.bing.com/th?id=OHR.WadiRum_EN-IN1433063472_UHD.jpg)
 ![2022-05-04-2](https://www.bing.com/th?id=OHR.RedwoodSprout_JA-JP1755961248_UHD.jpg)
+2022-05-05
+----------------
+![2022-05-05-0](https://www.bing.com/th?id=OHR.Moulin_ROW7704529983_UHD.jpg)
+![2022-05-05-1](https://www.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_UHD.jpg)
+![2022-05-05-2](https://www.bing.com/th?id=OHR.ChildrenDay2022_JA-JP1806280876_UHD.jpg)

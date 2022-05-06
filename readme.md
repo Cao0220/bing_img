@@ -505,3 +505,6 @@ Bing_img
 ![2022-05-05-0](https://www.bing.com/th?id=OHR.Moulin_ROW7704529983_UHD.jpg)
 ![2022-05-05-1](https://www.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_UHD.jpg)
 ![2022-05-05-2](https://www.bing.com/th?id=OHR.ChildrenDay2022_JA-JP1806280876_UHD.jpg)
+2022-05-06
+----------------
+![2022-05-06-0](https://www.bing.com/th?id=OHR.HertfordshireBluebells_ZH-CN1027832085_UHD.jpg)

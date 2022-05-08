@@ -511,3 +511,7 @@ Bing_img
 2022-05-07
 ----------------
 ![2022-05-07-0](https://www.bing.com/th?id=OHR.SwedishAntenna_ZH-CN9163420082_UHD.jpg)
+2022-05-08
+----------------
+![2022-05-08-0](https://www.bing.com/th?id=OHR.MomJoey_ZH-CN1642006600_UHD.jpg)
+![2022-05-08-1](https://www.bing.com/th?id=OHR.GlassBridge_DE-DE2318675548_UHD.jpg)

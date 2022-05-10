@@ -520,3 +520,6 @@ Bing_img
 ![2022-05-09-0](https://www.bing.com/th?id=OHR.GoremeNationalPark_ZH-CN1861727385_UHD.jpg)
 ![2022-05-09-1](https://www.bing.com/th?id=OHR.PawneeOwls_FR-FR1773476741_UHD.jpg)
 ![2022-05-09-2](https://www.bing.com/th?id=OHR.JaisalmerFort_EN-IN6142628819_UHD.jpg)
+2022-05-10
+----------------
+![2022-05-10-0](https://www.bing.com/th?id=OHR.GiffordPinchot_ZH-CN2050686223_UHD.jpg)

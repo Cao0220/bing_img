@@ -528,3 +528,8 @@ Bing_img
 ![2022-05-11-0](https://www.bing.com/th?id=OHR.GrosMorneNP_EN-CA8781197737_UHD.jpg)
 ![2022-05-11-1](https://www.bing.com/th?id=OHR.OiaVillage_ZH-CN2495652522_UHD.jpg)
 ![2022-05-11-2](https://www.bing.com/th?id=OHR.SchlossGluecksburg_DE-DE2789078986_UHD.jpg)
+2022-05-12
+----------------
+![2022-05-12-0](https://www.bing.com/th?id=OHR.RiverBrathay_ZH-CN2718424663_UHD.jpg)
+![2022-05-12-1](https://www.bing.com/th?id=OHR.RedCross_EN-IN2354180972_UHD.jpg)
+![2022-05-12-2](https://www.bing.com/th?id=OHR.SvalbardSun_JA-JP9755918000_UHD.jpg)

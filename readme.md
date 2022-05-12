@@ -533,3 +533,6 @@ Bing_img
 ![2022-05-12-0](https://www.bing.com/th?id=OHR.RiverBrathay_ZH-CN2718424663_UHD.jpg)
 ![2022-05-12-1](https://www.bing.com/th?id=OHR.RedCross_EN-IN2354180972_UHD.jpg)
 ![2022-05-12-2](https://www.bing.com/th?id=OHR.SvalbardSun_JA-JP9755918000_UHD.jpg)
+2022-05-13
+----------------
+![2022-05-13-0](https://www.bing.com/th?id=OHR.MaasaiGiraffe_ZH-CN2960157829_UHD.jpg)

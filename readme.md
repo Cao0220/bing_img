@@ -545,3 +545,7 @@ Bing_img
 ----------------
 ![2022-05-15-0](https://www.bing.com/th?id=OHR.BerninaBloodMoon_ZH-CN3349260043_UHD.jpg)
 ![2022-05-15-1](https://www.bing.com/th?id=OHR.OkinawaDay22_JA-JP9292207096_UHD.jpg)
+2022-05-16
+----------------
+![2022-05-16-0](https://www.bing.com/th?id=OHR.PawneeOwls_ZH-CN3586129981_UHD.jpg)
+![2022-05-16-1](https://www.bing.com/th?id=OHR.MahabodhiTempleIndia_EN-IN6354793486_UHD.jpg)

@@ -566,3 +566,6 @@ Bing_img
 ![2022-05-21-0](https://www.bing.com/th?id=OHR.AlbionFalls_ZH-CN8302577218_UHD.jpg)
 ![2022-05-21-1](https://www.bing.com/th?id=OHR.Martin_FR-FR7076602689_UHD.jpg)
 ![2022-05-21-2](https://www.bing.com/th?id=OHR.TigerKanhaNP_EN-IN2102449730_UHD.jpg)
+2022-05-22
+----------------
+![2022-05-22-0](https://www.bing.com/th?id=OHR.ZebraEgret_ZH-CN8497454146_UHD.jpg)

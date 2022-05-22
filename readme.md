@@ -569,3 +569,6 @@ Bing_img
 2022-05-22
 ----------------
 ![2022-05-22-0](https://www.bing.com/th?id=OHR.ZebraEgret_ZH-CN8497454146_UHD.jpg)
+2022-05-23
+----------------
+![2022-05-23-0](https://www.bing.com/th?id=OHR.RedBellied_ZH-CN8667089924_UHD.jpg)

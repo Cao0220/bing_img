@@ -572,3 +572,7 @@ Bing_img
 2022-05-23
 ----------------
 ![2022-05-23-0](https://www.bing.com/th?id=OHR.RedBellied_ZH-CN8667089924_UHD.jpg)
+2022-05-24
+----------------
+![2022-05-24-0](https://www.bing.com/th?id=OHR.KolliHills_ROW1593229581_UHD.jpg)
+![2022-05-24-1](https://www.bing.com/th?id=OHR.KornatiNP_ZH-CN8829346235_UHD.jpg)

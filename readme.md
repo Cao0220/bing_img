@@ -579,3 +579,6 @@ Bing_img
 2022-05-25
 ----------------
 ![2022-05-25-0](https://www.bing.com/th?id=OHR.Alhambra_ZH-CN9040625762_UHD.jpg)
+2022-05-26
+----------------
+![2022-05-26-0](https://www.bing.com/th?id=OHR.Monteverde_ZH-CN9598634812_UHD.jpg)

@@ -576,3 +576,6 @@ Bing_img
 ----------------
 ![2022-05-24-0](https://www.bing.com/th?id=OHR.KolliHills_ROW1593229581_UHD.jpg)
 ![2022-05-24-1](https://www.bing.com/th?id=OHR.KornatiNP_ZH-CN8829346235_UHD.jpg)
+2022-05-25
+----------------
+![2022-05-25-0](https://www.bing.com/th?id=OHR.Alhambra_ZH-CN9040625762_UHD.jpg)

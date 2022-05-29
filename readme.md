@@ -589,3 +589,6 @@ Bing_img
 2022-05-28
 ----------------
 ![2022-05-28-0](https://www.bing.com/th?id=OHR.PurnululuNP_ZH-CN0102753224_UHD.jpg)
+2022-05-29
+----------------
+![2022-05-29-0](https://www.bing.com/th?id=OHR.HyaliteCreek_ZH-CN0400013447_UHD.jpg)

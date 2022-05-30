@@ -592,3 +592,9 @@ Bing_img
 2022-05-29
 ----------------
 ![2022-05-29-0](https://www.bing.com/th?id=OHR.HyaliteCreek_ZH-CN0400013447_UHD.jpg)
+2022-05-30
+----------------
+![2022-05-30-0](https://www.bing.com/th?id=OHR.GrizzlyRainforest_EN-CA8604389312_UHD.jpg)
+![2022-05-30-1](https://www.bing.com/th?id=OHR.MountFryatt_ZH-CN0611142036_UHD.jpg)
+![2022-05-30-2](https://www.bing.com/th?id=OHR.MomJoey_FR-FR0275359119_UHD.jpg)
+![2022-05-30-3](https://www.bing.com/th?id=OHR.AlbionFalls_EN-IN4575091088_UHD.jpg)

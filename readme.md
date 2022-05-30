@@ -598,3 +598,9 @@ Bing_img
 ![2022-05-30-1](https://www.bing.com/th?id=OHR.MountFryatt_ZH-CN0611142036_UHD.jpg)
 ![2022-05-30-2](https://www.bing.com/th?id=OHR.MomJoey_FR-FR0275359119_UHD.jpg)
 ![2022-05-30-3](https://www.bing.com/th?id=OHR.AlbionFalls_EN-IN4575091088_UHD.jpg)
+2022-05-31
+----------------
+![2022-05-31-0](https://www.bing.com/th?id=OHR.ParrotDay_ZH-CN0775936218_UHD.jpg)
+![2022-05-31-1](https://www.bing.com/th?id=OHR.LechfallFuessen_DE-DE2958722430_UHD.jpg)
+![2022-05-31-2](https://www.bing.com/th?id=OHR.SunsetVillage_FR-FR6099215834_UHD.jpg)
+![2022-05-31-3](https://www.bing.com/th?id=OHR.TravertineTurkey_JA-JP3795774010_UHD.jpg)

@@ -604,3 +604,7 @@ Bing_img
 ![2022-05-31-1](https://www.bing.com/th?id=OHR.LechfallFuessen_DE-DE2958722430_UHD.jpg)
 ![2022-05-31-2](https://www.bing.com/th?id=OHR.SunsetVillage_FR-FR6099215834_UHD.jpg)
 ![2022-05-31-3](https://www.bing.com/th?id=OHR.TravertineTurkey_JA-JP3795774010_UHD.jpg)
+2022-06-01
+----------------
+![2022-06-01-0](https://www.bing.com/th?id=OHR.MarovoLagoon_ZH-CN1029152514_UHD.jpg)
+![2022-06-01-1](https://www.bing.com/th?id=OHR.PeritoMorenoArgentina_JA-JP3549571296_UHD.jpg)

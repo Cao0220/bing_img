@@ -608,3 +608,8 @@ Bing_img
 ----------------
 ![2022-06-01-0](https://www.bing.com/th?id=OHR.MarovoLagoon_ZH-CN1029152514_UHD.jpg)
 ![2022-06-01-1](https://www.bing.com/th?id=OHR.PeritoMorenoArgentina_JA-JP3549571296_UHD.jpg)
+2022-06-02
+----------------
+![2022-06-02-0](https://www.bing.com/th?id=OHR.LechfallFuessen_ZH-CN3887501600_UHD.jpg)
+![2022-06-02-1](https://www.bing.com/th?id=OHR.CharminarIndia_EN-IN8853169014_UHD.jpg)
+![2022-06-02-2](https://www.bing.com/th?id=OHR.Yokohama2022_JA-JP3104560047_UHD.jpg)

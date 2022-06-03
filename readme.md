@@ -613,3 +613,8 @@ Bing_img
 ![2022-06-02-0](https://www.bing.com/th?id=OHR.LechfallFuessen_ZH-CN3887501600_UHD.jpg)
 ![2022-06-02-1](https://www.bing.com/th?id=OHR.CharminarIndia_EN-IN8853169014_UHD.jpg)
 ![2022-06-02-2](https://www.bing.com/th?id=OHR.Yokohama2022_JA-JP3104560047_UHD.jpg)
+2022-06-03
+----------------
+![2022-06-03-0](https://www.bing.com/th?id=OHR.QueenJubilee_PT-BR1679304354_UHD.jpg)
+![2022-06-03-1](https://www.bing.com/th?id=OHR.DragonBoat2022_ZH-CN2392684688_UHD.jpg)
+![2022-06-03-2](https://www.bing.com/th?id=OHR.MoabCycling_EN-IN7733340010_UHD.jpg)

@@ -618,3 +618,7 @@ Bing_img
 ![2022-06-03-0](https://www.bing.com/th?id=OHR.QueenJubilee_PT-BR1679304354_UHD.jpg)
 ![2022-06-03-1](https://www.bing.com/th?id=OHR.DragonBoat2022_ZH-CN2392684688_UHD.jpg)
 ![2022-06-03-2](https://www.bing.com/th?id=OHR.MoabCycling_EN-IN7733340010_UHD.jpg)
+2022-06-04
+----------------
+![2022-06-04-0](https://www.bing.com/th?id=OHR.BannerPeak_ZH-CN2693006060_UHD.jpg)
+![2022-06-04-1](https://www.bing.com/th?id=OHR.SpottedDeers_EN-IN8476369088_UHD.jpg)

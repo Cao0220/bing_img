@@ -622,3 +622,10 @@ Bing_img
 ----------------
 ![2022-06-04-0](https://www.bing.com/th?id=OHR.BannerPeak_ZH-CN2693006060_UHD.jpg)
 ![2022-06-04-1](https://www.bing.com/th?id=OHR.SpottedDeers_EN-IN8476369088_UHD.jpg)
+2022-06-05
+----------------
+![2022-06-05-0](https://www.bing.com/th?id=OHR.AerialPacificRim_EN-CA4751718969_UHD.jpg)
+![2022-06-05-1](https://www.bing.com/th?id=OHR.RapadalenSNP_ZH-CN3018224759_UHD.jpg)
+![2022-06-05-2](https://www.bing.com/th?id=OHR.SpainOrangeGrove_ES-ES8383739371_UHD.jpg)
+![2022-06-05-3](https://www.bing.com/th?id=OHR.CoteSauvage_FR-FR1773516186_UHD.jpg)
+![2022-06-05-4](https://www.bing.com/th?id=OHR.CapriViaKrupp_IT-IT4698989617_UHD.jpg)

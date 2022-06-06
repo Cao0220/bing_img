@@ -629,3 +629,6 @@ Bing_img
 ![2022-06-05-2](https://www.bing.com/th?id=OHR.SpainOrangeGrove_ES-ES8383739371_UHD.jpg)
 ![2022-06-05-3](https://www.bing.com/th?id=OHR.CoteSauvage_FR-FR1773516186_UHD.jpg)
 ![2022-06-05-4](https://www.bing.com/th?id=OHR.CapriViaKrupp_IT-IT4698989617_UHD.jpg)
+2022-06-06
+----------------
+![2022-06-06-0](https://www.bing.com/th?id=OHR.IndigoBunting_ZH-CN3172415219_UHD.jpg)

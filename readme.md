@@ -636,3 +636,6 @@ Bing_img
 ----------------
 ![2022-06-07-0](https://www.bing.com/th?id=OHR.HaagaRhododendron_ZH-CN3375001658_UHD.jpg)
 ![2022-06-07-1](https://www.bing.com/th?id=OHR.MuehleWarnstedt_DE-DE9891281597_UHD.jpg)
+2022-06-08
+----------------
+![2022-06-08-0](https://www.bing.com/th?id=OHR.CommonDolphin_ZH-CN3524729916_UHD.jpg)

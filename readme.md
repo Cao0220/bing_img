@@ -642,3 +642,8 @@ Bing_img
 2022-06-09
 ----------------
 ![2022-06-09-0](https://www.bing.com/th?id=OHR.SweetheartAbbey_ZH-CN8325969067_UHD.jpg)
+2022-06-10
+----------------
+![2022-06-10-0](https://www.bing.com/th?id=OHR.SantuarioDomBosco_PT-BR3893760747_UHD.jpg)
+![2022-06-10-1](https://www.bing.com/th?id=OHR.SpottedDeers_ZH-CN8790816034_UHD.jpg)
+![2022-06-10-2](https://www.bing.com/th?id=OHR.CRPoppies_EN-IN5835481494_UHD.jpg)

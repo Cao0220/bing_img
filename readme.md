@@ -647,3 +647,8 @@ Bing_img
 ![2022-06-10-0](https://www.bing.com/th?id=OHR.SantuarioDomBosco_PT-BR3893760747_UHD.jpg)
 ![2022-06-10-1](https://www.bing.com/th?id=OHR.SpottedDeers_ZH-CN8790816034_UHD.jpg)
 ![2022-06-10-2](https://www.bing.com/th?id=OHR.CRPoppies_EN-IN5835481494_UHD.jpg)
+2022-06-11
+----------------
+![2022-06-11-0](https://www.bing.com/th?id=OHR.RedTrillium_EN-CA3763085365_UHD.jpg)
+![2022-06-11-1](https://www.bing.com/th?id=OHR.MisoolIsland_ZH-CN9038691748_UHD.jpg)
+![2022-06-11-2](https://www.bing.com/th?id=OHR.Tsuyu2022_JA-JP9976288133_UHD.jpg)

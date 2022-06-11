@@ -652,3 +652,7 @@ Bing_img
 ![2022-06-11-0](https://www.bing.com/th?id=OHR.RedTrillium_EN-CA3763085365_UHD.jpg)
 ![2022-06-11-1](https://www.bing.com/th?id=OHR.MisoolIsland_ZH-CN9038691748_UHD.jpg)
 ![2022-06-11-2](https://www.bing.com/th?id=OHR.Tsuyu2022_JA-JP9976288133_UHD.jpg)
+2022-06-12
+----------------
+![2022-06-12-0](https://www.bing.com/th?id=OHR.SierraPonce_ZH-CN9720358958_UHD.jpg)
+![2022-06-12-1](https://www.bing.com/th?id=OHR.LeMans_FR-FR2807860617_UHD.jpg)

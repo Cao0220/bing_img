@@ -656,3 +656,7 @@ Bing_img
 ----------------
 ![2022-06-12-0](https://www.bing.com/th?id=OHR.SierraPonce_ZH-CN9720358958_UHD.jpg)
 ![2022-06-12-1](https://www.bing.com/th?id=OHR.LeMans_FR-FR2807860617_UHD.jpg)
+2022-06-13
+----------------
+![2022-06-13-0](https://www.bing.com/th?id=OHR.OkavangoElephant_ZH-CN0058670579_UHD.jpg)
+![2022-06-13-1](https://www.bing.com/th?id=OHR.KampLintfortGarten_DE-DE0909224487_UHD.jpg)

@@ -660,3 +660,8 @@ Bing_img
 ----------------
 ![2022-06-13-0](https://www.bing.com/th?id=OHR.OkavangoElephant_ZH-CN0058670579_UHD.jpg)
 ![2022-06-13-1](https://www.bing.com/th?id=OHR.KampLintfortGarten_DE-DE0909224487_UHD.jpg)
+2022-06-14
+----------------
+![2022-06-14-0](https://www.bing.com/th?id=OHR.SpottedDeers_ROW5863455968_UHD.jpg)
+![2022-06-14-1](https://www.bing.com/th?id=OHR.MuseumMile_ZH-CN0641581371_UHD.jpg)
+![2022-06-14-2](https://www.bing.com/th?id=OHR.SahyadriMountain_EN-IN5423279196_UHD.jpg)

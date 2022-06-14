@@ -665,3 +665,7 @@ Bing_img
 ![2022-06-14-0](https://www.bing.com/th?id=OHR.SpottedDeers_ROW5863455968_UHD.jpg)
 ![2022-06-14-1](https://www.bing.com/th?id=OHR.MuseumMile_ZH-CN0641581371_UHD.jpg)
 ![2022-06-14-2](https://www.bing.com/th?id=OHR.SahyadriMountain_EN-IN5423279196_UHD.jpg)
+2022-06-15
+----------------
+![2022-06-15-0](https://www.bing.com/th?id=OHR.ClingmansDome_ZH-CN0900594339_UHD.jpg)
+![2022-06-15-1](https://www.bing.com/th?id=OHR.Chiba2022_JA-JP0131649713_UHD.jpg)

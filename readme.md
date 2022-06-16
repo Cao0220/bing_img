@@ -673,3 +673,6 @@ Bing_img
 ----------------
 ![2022-06-16-0](https://www.bing.com/th?id=OHR.SeonamTemple_ZH-CN3460236076_UHD.jpg)
 ![2022-06-16-1](https://www.bing.com/th?id=OHR.ParrotDay_JA-JP9376761173_UHD.jpg)
+2022-06-17
+----------------
+![2022-06-17-0](https://www.bing.com/th?id=OHR.Balsamroot_ZH-CN9456182640_UHD.jpg)

@@ -676,3 +676,6 @@ Bing_img
 2022-06-17
 ----------------
 ![2022-06-17-0](https://www.bing.com/th?id=OHR.Balsamroot_ZH-CN9456182640_UHD.jpg)
+2022-06-18
+----------------
+![2022-06-18-0](https://www.bing.com/th?id=OHR.CelebratingSurfing_ZH-CN9747833506_UHD.jpg)

@@ -679,3 +679,6 @@ Bing_img
 2022-06-18
 ----------------
 ![2022-06-18-0](https://www.bing.com/th?id=OHR.CelebratingSurfing_ZH-CN9747833506_UHD.jpg)
+2022-06-19
+----------------
+![2022-06-19-0](https://www.bing.com/th?id=OHR.Cassowary_ZH-CN9903525394_UHD.jpg)

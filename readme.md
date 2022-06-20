@@ -682,3 +682,11 @@ Bing_img
 2022-06-19
 ----------------
 ![2022-06-19-0](https://www.bing.com/th?id=OHR.Cassowary_ZH-CN9903525394_UHD.jpg)
+2022-06-20
+----------------
+![2022-06-20-0](https://www.bing.com/th?id=OHR.CataratasIguacu_PT-BR8488270198_UHD.jpg)
+![2022-06-20-1](https://www.bing.com/th?id=OHR.SwallowtailFlower_ZH-CN5950463168_UHD.jpg)
+![2022-06-20-2](https://www.bing.com/th?id=OHR.SchwanAischgrund_DE-DE7167881210_UHD.jpg)
+![2022-06-20-3](https://www.bing.com/th?id=OHR.AgueroVillage_ES-ES1304310163_UHD.jpg)
+![2022-06-20-4](https://www.bing.com/th?id=OHR.DianeRiders_FR-FR4408911188_UHD.jpg)
+![2022-06-20-5](https://www.bing.com/th?id=OHR.AmazonianEcuador_JA-JP7374463660_UHD.jpg)

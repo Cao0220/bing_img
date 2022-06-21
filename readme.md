@@ -690,3 +690,7 @@ Bing_img
 ![2022-06-20-3](https://www.bing.com/th?id=OHR.AgueroVillage_ES-ES1304310163_UHD.jpg)
 ![2022-06-20-4](https://www.bing.com/th?id=OHR.DianeRiders_FR-FR4408911188_UHD.jpg)
 ![2022-06-20-5](https://www.bing.com/th?id=OHR.AmazonianEcuador_JA-JP7374463660_UHD.jpg)
+2022-06-21
+----------------
+![2022-06-21-0](https://www.bing.com/th?id=OHR.GlastonburySolstice_ZH-CN9694169797_UHD.jpg)
+![2022-06-21-1](https://www.bing.com/th?id=OHR.GangaRiverRishikesh_EN-IN7092071702_UHD.jpg)

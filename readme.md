@@ -704,3 +704,6 @@ Bing_img
 ----------------
 ![2022-06-23-0](https://www.bing.com/th?id=OHR.MostarBridge_ZH-CN5920156936_UHD.jpg)
 ![2022-06-23-1](https://www.bing.com/th?id=OHR.FontanonGoriuda_IT-IT6720392674_UHD.jpg)
+2022-06-24
+----------------
+![2022-06-24-0](https://www.bing.com/th?id=OHR.CenoteDiver_ZH-CN7334440742_UHD.jpg)

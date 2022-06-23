@@ -700,3 +700,7 @@ Bing_img
 ![2022-06-22-1](https://www.bing.com/th?id=OHR.AmazonianEcuador_ZH-CN9873999948_UHD.jpg)
 ![2022-06-22-2](https://www.bing.com/th?id=OHR.Musique_FR-FR4597442264_UHD.jpg)
 ![2022-06-22-3](https://www.bing.com/th?id=OHR.BactrianCamels_JA-JP7529233941_UHD.jpg)
+2022-06-23
+----------------
+![2022-06-23-0](https://www.bing.com/th?id=OHR.MostarBridge_ZH-CN5920156936_UHD.jpg)
+![2022-06-23-1](https://www.bing.com/th?id=OHR.FontanonGoriuda_IT-IT6720392674_UHD.jpg)

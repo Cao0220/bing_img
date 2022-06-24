@@ -707,3 +707,6 @@ Bing_img
 2022-06-24
 ----------------
 ![2022-06-24-0](https://www.bing.com/th?id=OHR.CenoteDiver_ZH-CN7334440742_UHD.jpg)
+2022-06-25
+----------------
+![2022-06-25-0](https://www.bing.com/th?id=OHR.BBMomCub_ZH-CN7715738841_UHD.jpg)

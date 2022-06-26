@@ -710,3 +710,11 @@ Bing_img
 2022-06-25
 ----------------
 ![2022-06-25-0](https://www.bing.com/th?id=OHR.BBMomCub_ZH-CN7715738841_UHD.jpg)
+2022-06-26
+----------------
+![2022-06-26-0](https://www.bing.com/th?id=OHR.KellysBeach_EN-CA0238104001_UHD.jpg)
+![2022-06-26-1](https://www.bing.com/th?id=OHR.KoalaSleeping_ZH-CN8369657308_UHD.jpg)
+![2022-06-26-2](https://www.bing.com/th?id=OHR.MuenchenWelt_DE-DE9487283103_UHD.jpg)
+![2022-06-26-3](https://www.bing.com/th?id=OHR.Pride2022_FR-FR2967333702_UHD.jpg)
+![2022-06-26-4](https://www.bing.com/th?id=OHR.AmberFortJaipur_EN-IN5320407763_UHD.jpg)
+![2022-06-26-5](https://www.bing.com/th?id=OHR.ValensoleLavender_JA-JP9297827005_UHD.jpg)

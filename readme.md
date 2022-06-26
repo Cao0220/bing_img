@@ -718,3 +718,7 @@ Bing_img
 ![2022-06-26-3](https://www.bing.com/th?id=OHR.Pride2022_FR-FR2967333702_UHD.jpg)
 ![2022-06-26-4](https://www.bing.com/th?id=OHR.AmberFortJaipur_EN-IN5320407763_UHD.jpg)
 ![2022-06-26-5](https://www.bing.com/th?id=OHR.ValensoleLavender_JA-JP9297827005_UHD.jpg)
+2022-06-27
+----------------
+![2022-06-27-0](https://www.bing.com/th?id=OHR.CapriViaKrupp_ROW2552260036_UHD.jpg)
+![2022-06-27-1](https://www.bing.com/th?id=OHR.TafilaletOasis_JA-JP8768800369_UHD.jpg)

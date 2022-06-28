@@ -722,3 +722,5 @@ Bing_img
 ----------------
 ![2022-06-27-0](https://www.bing.com/th?id=OHR.CapriViaKrupp_ROW2552260036_UHD.jpg)
 ![2022-06-27-1](https://www.bing.com/th?id=OHR.TafilaletOasis_JA-JP8768800369_UHD.jpg)
+2022-06-28
+----------------

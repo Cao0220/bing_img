@@ -724,3 +724,6 @@ Bing_img
 ![2022-06-27-1](https://www.bing.com/th?id=OHR.TafilaletOasis_JA-JP8768800369_UHD.jpg)
 2022-06-28
 ----------------
+2022-06-29
+----------------
+![2022-06-29-0](https://www.bing.com/th?id=OHR.PhangNgaBay_ZH-CN9408705933_UHD.jpg)

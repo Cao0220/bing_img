@@ -727,3 +727,7 @@ Bing_img
 2022-06-29
 ----------------
 ![2022-06-29-0](https://www.bing.com/th?id=OHR.PhangNgaBay_ZH-CN9408705933_UHD.jpg)
+2022-06-30
+----------------
+![2022-06-30-0](https://www.bing.com/th?id=OHR.CoteSauvage_ZH-CN9967984163_UHD.jpg)
+![2022-06-30-1](https://www.bing.com/th?id=OHR.AcramanCrater_EN-IN8947165550_UHD.jpg)

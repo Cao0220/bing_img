@@ -731,3 +731,8 @@ Bing_img
 ----------------
 ![2022-06-30-0](https://www.bing.com/th?id=OHR.CoteSauvage_ZH-CN9967984163_UHD.jpg)
 ![2022-06-30-1](https://www.bing.com/th?id=OHR.AcramanCrater_EN-IN8947165550_UHD.jpg)
+2022-07-01
+----------------
+![2022-07-01-0](https://www.bing.com/th?id=OHR.AgueroVillage_ZH-CN1007741117_UHD.jpg)
+![2022-07-01-1](https://www.bing.com/th?id=OHR.VittalaTemple_EN-IN2910897147_UHD.jpg)
+![2022-07-01-2](https://www.bing.com/th?id=OHR.WeatherGirls_JA-JP8965707345_UHD.jpg)

@@ -741,3 +741,9 @@ Bing_img
 ![2022-07-02-0](https://www.bing.com/th?id=OHR.OttawaRiver_EN-CA6009390564_UHD.jpg)
 ![2022-07-02-1](https://www.bing.com/th?id=OHR.HalfwayDay_ZH-CN1333459630_UHD.jpg)
 ![2022-07-02-2](https://www.bing.com/th?id=OHR.FannetteIsland_JA-JP8998192939_UHD.jpg)
+2022-07-03
+----------------
+![2022-07-03-0](https://www.bing.com/th?id=OHR.CataratasIguacu_ROW2311413706_UHD.jpg)
+![2022-07-03-1](https://www.bing.com/th?id=OHR.SummerDogs_ZH-CN1604998367_UHD.jpg)
+![2022-07-03-2](https://www.bing.com/th?id=OHR.GironaGreenBridges_ES-ES7283349118_UHD.jpg)
+![2022-07-03-3](https://www.bing.com/th?id=OHR.Surfin2022_JA-JP9036784881_UHD.jpg)

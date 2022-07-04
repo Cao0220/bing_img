@@ -747,3 +747,7 @@ Bing_img
 ![2022-07-03-1](https://www.bing.com/th?id=OHR.SummerDogs_ZH-CN1604998367_UHD.jpg)
 ![2022-07-03-2](https://www.bing.com/th?id=OHR.GironaGreenBridges_ES-ES7283349118_UHD.jpg)
 ![2022-07-03-3](https://www.bing.com/th?id=OHR.Surfin2022_JA-JP9036784881_UHD.jpg)
+2022-07-04
+----------------
+![2022-07-04-0](https://www.bing.com/th?id=OHR.SharavatiBridge_ZH-CN2011371774_UHD.jpg)
+![2022-07-04-1](https://www.bing.com/th?id=OHR.SpiralHill_EN-IN0136137611_UHD.jpg)

@@ -751,3 +751,7 @@ Bing_img
 ----------------
 ![2022-07-04-0](https://www.bing.com/th?id=OHR.SharavatiBridge_ZH-CN2011371774_UHD.jpg)
 ![2022-07-04-1](https://www.bing.com/th?id=OHR.SpiralHill_EN-IN0136137611_UHD.jpg)
+2022-07-05
+----------------
+![2022-07-05-0](https://www.bing.com/th?id=OHR.FannetteIsland_ZH-CN2395055456_UHD.jpg)
+![2022-07-05-1](https://www.bing.com/th?id=OHR.MehlingerHeide_DE-DE6740976307_UHD.jpg)

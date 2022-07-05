@@ -755,3 +755,8 @@ Bing_img
 ----------------
 ![2022-07-05-0](https://www.bing.com/th?id=OHR.FannetteIsland_ZH-CN2395055456_UHD.jpg)
 ![2022-07-05-1](https://www.bing.com/th?id=OHR.MehlingerHeide_DE-DE6740976307_UHD.jpg)
+2022-07-06
+----------------
+![2022-07-06-0](https://www.bing.com/th?id=OHR.KissingPuffins_ZH-CN2578608262_UHD.jpg)
+![2022-07-06-1](https://www.bing.com/th?id=OHR.BacResults_FR-FR9657922695_UHD.jpg)
+![2022-07-06-2](https://www.bing.com/th?id=OHR.PontesantangeloRome_IT-IT1719155933_UHD.jpg)

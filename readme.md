@@ -765,3 +765,7 @@ Bing_img
 ![2022-07-07-0](https://www.bing.com/th?id=OHR.JacaretingaCaiman_PT-BR5016990215_UHD.jpg)
 ![2022-07-07-1](https://www.bing.com/th?id=OHR.HecetaHead_ZH-CN2813876594_UHD.jpg)
 ![2022-07-07-2](https://www.bing.com/th?id=OHR.Tanabata2022_JA-JP0266841642_UHD.jpg)
+2022-07-08
+----------------
+![2022-07-08-0](https://www.bing.com/th?id=OHR.PreveliGorge_ZH-CN3109665395_UHD.jpg)
+![2022-07-08-1](https://www.bing.com/th?id=OHR.DolomitesMW_JA-JP0311811779_UHD.jpg)

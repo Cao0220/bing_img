@@ -760,3 +760,8 @@ Bing_img
 ![2022-07-06-0](https://www.bing.com/th?id=OHR.KissingPuffins_ZH-CN2578608262_UHD.jpg)
 ![2022-07-06-1](https://www.bing.com/th?id=OHR.BacResults_FR-FR9657922695_UHD.jpg)
 ![2022-07-06-2](https://www.bing.com/th?id=OHR.PontesantangeloRome_IT-IT1719155933_UHD.jpg)
+2022-07-07
+----------------
+![2022-07-07-0](https://www.bing.com/th?id=OHR.JacaretingaCaiman_PT-BR5016990215_UHD.jpg)
+![2022-07-07-1](https://www.bing.com/th?id=OHR.HecetaHead_ZH-CN2813876594_UHD.jpg)
+![2022-07-07-2](https://www.bing.com/th?id=OHR.Tanabata2022_JA-JP0266841642_UHD.jpg)

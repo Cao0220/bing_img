@@ -769,3 +769,7 @@ Bing_img
 ----------------
 ![2022-07-08-0](https://www.bing.com/th?id=OHR.PreveliGorge_ZH-CN3109665395_UHD.jpg)
 ![2022-07-08-1](https://www.bing.com/th?id=OHR.DolomitesMW_JA-JP0311811779_UHD.jpg)
+2022-07-09
+----------------
+![2022-07-09-0](https://www.bing.com/th?id=OHR.StampedeBand_EN-CA3607523189_UHD.jpg)
+![2022-07-09-1](https://www.bing.com/th?id=OHR.PortAventura_JA-JP0720127309_UHD.jpg)

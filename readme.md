@@ -773,3 +773,6 @@ Bing_img
 ----------------
 ![2022-07-09-0](https://www.bing.com/th?id=OHR.StampedeBand_EN-CA3607523189_UHD.jpg)
 ![2022-07-09-1](https://www.bing.com/th?id=OHR.PortAventura_JA-JP0720127309_UHD.jpg)
+2022-07-10
+----------------
+![2022-07-10-0](https://www.bing.com/th?id=OHR.OludenizTurkey_ZH-CN3467496108_UHD.jpg)

@@ -776,3 +776,6 @@ Bing_img
 2022-07-10
 ----------------
 ![2022-07-10-0](https://www.bing.com/th?id=OHR.OludenizTurkey_ZH-CN3467496108_UHD.jpg)
+2022-07-11
+----------------
+![2022-07-11-0](https://www.bing.com/th?id=OHR.BarcelonaPop_ZH-CN3687855585_UHD.jpg)

@@ -779,3 +779,8 @@ Bing_img
 2022-07-11
 ----------------
 ![2022-07-11-0](https://www.bing.com/th?id=OHR.BarcelonaPop_ZH-CN3687855585_UHD.jpg)
+2022-07-12
+----------------
+![2022-07-12-0](https://www.bing.com/th?id=OHR.SpiralHill_ZH-CN3829252235_UHD.jpg)
+![2022-07-12-1](https://www.bing.com/th?id=OHR.SharavatiBridge_EN-IN9940079868_UHD.jpg)
+![2022-07-12-2](https://www.bing.com/th?id=OHR.HecetaHead_JA-JP2098745084_UHD.jpg)

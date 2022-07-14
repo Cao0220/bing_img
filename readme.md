@@ -787,3 +787,7 @@ Bing_img
 2022-07-13
 ----------------
 ![2022-07-13-0](https://www.bing.com/th?id=OHR.BasaltGiants_ZH-CN4038085235_UHD.jpg)
+2022-07-14
+----------------
+![2022-07-14-0](https://www.bing.com/th?id=OHR.BabyLemons_ZH-CN4212701834_UHD.jpg)
+![2022-07-14-1](https://www.bing.com/th?id=OHR.Himawari2022_JA-JP2030278950_UHD.jpg)

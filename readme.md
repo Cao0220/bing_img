@@ -791,3 +791,8 @@ Bing_img
 ----------------
 ![2022-07-14-0](https://www.bing.com/th?id=OHR.BabyLemons_ZH-CN4212701834_UHD.jpg)
 ![2022-07-14-1](https://www.bing.com/th?id=OHR.Himawari2022_JA-JP2030278950_UHD.jpg)
+2022-07-15
+----------------
+![2022-07-15-0](https://www.bing.com/th?id=OHR.Arrone_ZH-CN2794175618_UHD.jpg)
+![2022-07-15-1](https://www.bing.com/th?id=OHR.MarburgSommer_DE-DE9323191347_UHD.jpg)
+![2022-07-15-2](https://www.bing.com/th?id=OHR.ByeByeMonarchy_FR-FR9849572801_UHD.jpg)

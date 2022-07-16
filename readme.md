@@ -796,3 +796,6 @@ Bing_img
 ![2022-07-15-0](https://www.bing.com/th?id=OHR.Arrone_ZH-CN2794175618_UHD.jpg)
 ![2022-07-15-1](https://www.bing.com/th?id=OHR.MarburgSommer_DE-DE9323191347_UHD.jpg)
 ![2022-07-15-2](https://www.bing.com/th?id=OHR.ByeByeMonarchy_FR-FR9849572801_UHD.jpg)
+2022-07-16
+----------------
+![2022-07-16-0](https://www.bing.com/th?id=OHR.AmericanGoldfinch_ZH-CN2996912015_UHD.jpg)

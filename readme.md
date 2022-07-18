@@ -805,3 +805,7 @@ Bing_img
 2022-07-18
 ----------------
 ![2022-07-18-0](https://www.bing.com/th?id=OHR.OmijimaIsland_ZH-CN3328515301_UHD.jpg)
+2022-07-19
+----------------
+![2022-07-19-0](https://www.bing.com/th?id=OHR.FraueninselChiemsee_ZH-CN3541482552_UHD.jpg)
+![2022-07-19-1](https://www.bing.com/th?id=OHR.SilkClothVaranasi_EN-IN6450545799_UHD.jpg)

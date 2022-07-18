@@ -802,3 +802,6 @@ Bing_img
 2022-07-17
 ----------------
 ![2022-07-17-0](https://www.bing.com/th?id=OHR.CoyoteButtes_ZH-CN3166159419_UHD.jpg)
+2022-07-18
+----------------
+![2022-07-18-0](https://www.bing.com/th?id=OHR.OmijimaIsland_ZH-CN3328515301_UHD.jpg)

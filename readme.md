@@ -809,3 +809,9 @@ Bing_img
 ----------------
 ![2022-07-19-0](https://www.bing.com/th?id=OHR.FraueninselChiemsee_ZH-CN3541482552_UHD.jpg)
 ![2022-07-19-1](https://www.bing.com/th?id=OHR.SilkClothVaranasi_EN-IN6450545799_UHD.jpg)
+2022-07-20
+----------------
+![2022-07-20-0](https://www.bing.com/th?id=OHR.SantaBarbara_PT-BR2570891422_UHD.jpg)
+![2022-07-20-1](https://www.bing.com/th?id=OHR.TwoJackLake_EN-CA6372397264_UHD.jpg)
+![2022-07-20-2](https://www.bing.com/th?id=OHR.MoonPhases_ZH-CN3779272016_UHD.jpg)
+![2022-07-20-3](https://www.bing.com/th?id=OHR.StPaul_FR-FR2354587881_UHD.jpg)

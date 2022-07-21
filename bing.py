@@ -54,6 +54,6 @@ with open('/root/bing_img/'+time.strftime('%Y-%m-%d')+'/'+time.strftime('%Y-%m-%
 
 dl_img()
 
-# time.sleep(random.randint(0,21600))
+time.sleep(random.randint(0,21600))
 os.system('day=`date +%Y-%m-%d` && cd /root/bing_img/ && /usr/bin/git add . && /usr/bin/git commit -m $day &&/usr/bin/git push -u origin main')
 

@@ -819,3 +819,6 @@ Bing_img
 ----------------
 ![2022-07-21-0](https://www.bing.com/th?id=OHR.AbbeyGardens_ROW6926645236_UHD.jpg)
 ![2022-07-21-1](https://www.bing.com/th?id=OHR.LaGeriaVineyard_ES-ES8391160849_UHD.jpg)
+2022-07-22
+----------------
+![2022-07-22-0](https://www.bing.com/th?id=OHR.SGIMontenegro_PT-BR0562252595_UHD.jpg)

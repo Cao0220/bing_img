@@ -832,3 +832,8 @@ Bing_img
 ----------------
 ![2022-07-24-0](https://www.bing.com/th?id=OHR.TwoJackLake_ZH-CN4716355677_UHD.jpg)
 ![2022-07-24-1](https://www.bing.com/th?id=OHR.AmeliaEarhart_JA-JP6227711829_UHD.jpg)
+2022-07-25
+----------------
+![2022-07-25-0](https://www.bing.com/th?id=OHR.DolbadarnCastle_ZH-CN5397592090_UHD.jpg)
+![2022-07-25-1](https://www.bing.com/th?id=OHR.IndianEagleOwl_EN-IN1137947529_UHD.jpg)
+![2022-07-25-2](https://www.bing.com/th?id=OHR.MGRBrighton_JA-JP6057857320_UHD.jpg)

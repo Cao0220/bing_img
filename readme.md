@@ -837,3 +837,7 @@ Bing_img
 ![2022-07-25-0](https://www.bing.com/th?id=OHR.DolbadarnCastle_ZH-CN5397592090_UHD.jpg)
 ![2022-07-25-1](https://www.bing.com/th?id=OHR.IndianEagleOwl_EN-IN1137947529_UHD.jpg)
 ![2022-07-25-2](https://www.bing.com/th?id=OHR.MGRBrighton_JA-JP6057857320_UHD.jpg)
+2022-07-26
+----------------
+![2022-07-26-0](https://www.bing.com/th?id=OHR.MangroveDay_ZH-CN5590436101_UHD.jpg)
+![2022-07-26-1](https://www.bing.com/th?id=OHR.PiramidiTerra_IT-IT9212729918_UHD.jpg)

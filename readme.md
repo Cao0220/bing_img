@@ -841,3 +841,6 @@ Bing_img
 ----------------
 ![2022-07-26-0](https://www.bing.com/th?id=OHR.MangroveDay_ZH-CN5590436101_UHD.jpg)
 ![2022-07-26-1](https://www.bing.com/th?id=OHR.PiramidiTerra_IT-IT9212729918_UHD.jpg)
+2022-07-27
+----------------
+![2022-07-27-0](https://www.bing.com/th?id=OHR.NabateanTomb_ZH-CN5770360385_UHD.jpg)

@@ -844,3 +844,6 @@ Bing_img
 2022-07-27
 ----------------
 ![2022-07-27-0](https://www.bing.com/th?id=OHR.NabateanTomb_ZH-CN5770360385_UHD.jpg)
+2022-07-28
+----------------
+![2022-07-28-0](https://www.bing.com/th?id=OHR.LongsPeak_ZH-CN5927119555_UHD.jpg)

@@ -855,3 +855,6 @@ Bing_img
 2022-07-30
 ----------------
 ![2022-07-30-0](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_UHD.jpg)
+2022-07-31
+----------------
+![2022-07-31-0](https://www.bing.com/th?id=OHR.NoctilucentClouds_ZH-CN4816301354_UHD.jpg)

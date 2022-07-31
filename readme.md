@@ -858,3 +858,6 @@ Bing_img
 2022-07-31
 ----------------
 ![2022-07-31-0](https://www.bing.com/th?id=OHR.NoctilucentClouds_ZH-CN4816301354_UHD.jpg)
+2022-08-01
+----------------
+![2022-08-01-0](https://www.bing.com/th?id=OHR.LavaTube_ZH-CN5458469336_UHD.jpg)

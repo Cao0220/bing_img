@@ -861,3 +861,10 @@ Bing_img
 2022-08-01
 ----------------
 ![2022-08-01-0](https://www.bing.com/th?id=OHR.LavaTube_ZH-CN5458469336_UHD.jpg)
+2022-08-03
+----------------
+2022-08-04
+----------------
+![2022-08-04-0](https://www.bing.com/th?id=OHR.QiXiFestival2022_ZH-CN2628111266_UHD.jpg)
+![2022-08-04-1](https://www.bing.com/th?id=OHR.BoltenhagenBoote_DE-DE0219277516_UHD.jpg)
+![2022-08-04-2](https://www.bing.com/th?id=OHR.BangladeshWaterLilies_JA-JP7625454693_UHD.jpg)

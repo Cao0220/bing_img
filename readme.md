@@ -868,3 +868,8 @@ Bing_img
 ![2022-08-04-0](https://www.bing.com/th?id=OHR.QiXiFestival2022_ZH-CN2628111266_UHD.jpg)
 ![2022-08-04-1](https://www.bing.com/th?id=OHR.BoltenhagenBoote_DE-DE0219277516_UHD.jpg)
 ![2022-08-04-2](https://www.bing.com/th?id=OHR.BangladeshWaterLilies_JA-JP7625454693_UHD.jpg)
+2022-08-05
+----------------
+![2022-08-05-0](https://www.bing.com/th?id=OHR.MarinaDaGloria_ROW4419147276_UHD.jpg)
+![2022-08-05-1](https://www.bing.com/th?id=OHR.MilitaryTattoo_ZH-CN0302287210_UHD.jpg)
+![2022-08-05-2](https://www.bing.com/th?id=OHR.LagoBraies_IT-IT1892379532_UHD.jpg)

@@ -878,3 +878,8 @@ Bing_img
 ![2022-08-06-0](https://www.bing.com/th?id=OHR.OswaldoCruzFD_PT-BR3486073038_UHD.jpg)
 ![2022-08-06-1](https://www.bing.com/th?id=OHR.SFSaltFlats_ZH-CN7261637239_UHD.jpg)
 ![2022-08-06-2](https://www.bing.com/th?id=OHR.Hiroshima2022_JA-JP7721283107_UHD.jpg)
+2022-08-07
+----------------
+![2022-08-07-0](https://www.bing.com/th?id=OHR.theBeginningofAutumn2022_ZH-CN9413449297_UHD.jpg)
+![2022-08-07-1](https://www.bing.com/th?id=OHR.EsPantaleu_DE-DE0677357046_UHD.jpg)
+![2022-08-07-2](https://www.bing.com/th?id=OHR.Furin2022_JA-JP7793959704_UHD.jpg)

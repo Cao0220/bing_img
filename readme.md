@@ -883,3 +883,8 @@ Bing_img
 ![2022-08-07-0](https://www.bing.com/th?id=OHR.theBeginningofAutumn2022_ZH-CN9413449297_UHD.jpg)
 ![2022-08-07-1](https://www.bing.com/th?id=OHR.EsPantaleu_DE-DE0677357046_UHD.jpg)
 ![2022-08-07-2](https://www.bing.com/th?id=OHR.Furin2022_JA-JP7793959704_UHD.jpg)
+2022-08-08
+----------------
+![2022-08-08-0](https://www.bing.com/th?id=OHR.SpringPoint_ROW0169626084_UHD.jpg)
+![2022-08-08-1](https://www.bing.com/th?id=OHR.NuchatlitzDusk_EN-CA0151769112_UHD.jpg)
+![2022-08-08-2](https://www.bing.com/th?id=OHR.Spainaerial_ES-ES9708657548_UHD.jpg)

@@ -888,3 +888,7 @@ Bing_img
 ![2022-08-08-0](https://www.bing.com/th?id=OHR.SpringPoint_ROW0169626084_UHD.jpg)
 ![2022-08-08-1](https://www.bing.com/th?id=OHR.NuchatlitzDusk_EN-CA0151769112_UHD.jpg)
 ![2022-08-08-2](https://www.bing.com/th?id=OHR.Spainaerial_ES-ES9708657548_UHD.jpg)
+2022-08-09
+----------------
+![2022-08-09-0](https://www.bing.com/th?id=OHR.CuevaManos_ZH-CN8900667928_UHD.jpg)
+![2022-08-09-1](https://www.bing.com/th?id=OHR.RiesenlauchAllium_DE-DE1005580309_UHD.jpg)

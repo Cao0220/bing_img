@@ -892,3 +892,7 @@ Bing_img
 ----------------
 ![2022-08-09-0](https://www.bing.com/th?id=OHR.CuevaManos_ZH-CN8900667928_UHD.jpg)
 ![2022-08-09-1](https://www.bing.com/th?id=OHR.RiesenlauchAllium_DE-DE1005580309_UHD.jpg)
+2022-08-10
+----------------
+![2022-08-10-0](https://www.bing.com/th?id=OHR.AnniversaryJTNP_ZH-CN9974030692_UHD.jpg)
+![2022-08-10-1](https://www.bing.com/th?id=OHR.WWDLions_JA-JP7973883468_UHD.jpg)

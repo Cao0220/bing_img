@@ -896,3 +896,7 @@ Bing_img
 ----------------
 ![2022-08-10-0](https://www.bing.com/th?id=OHR.AnniversaryJTNP_ZH-CN9974030692_UHD.jpg)
 ![2022-08-10-1](https://www.bing.com/th?id=OHR.WWDLions_JA-JP7973883468_UHD.jpg)
+2022-08-11
+----------------
+![2022-08-11-0](https://www.bing.com/th?id=OHR.MtTsubakuro_ZH-CN0305525340_UHD.jpg)
+![2022-08-11-1](https://www.bing.com/th?id=OHR.MilkyWaySardinia_IT-IT2332518091_UHD.jpg)

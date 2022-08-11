@@ -900,3 +900,8 @@ Bing_img
 ----------------
 ![2022-08-11-0](https://www.bing.com/th?id=OHR.MtTsubakuro_ZH-CN0305525340_UHD.jpg)
 ![2022-08-11-1](https://www.bing.com/th?id=OHR.MilkyWaySardinia_IT-IT2332518091_UHD.jpg)
+2022-08-12
+----------------
+![2022-08-12-0](https://www.bing.com/th?id=OHR.AmboseliElephants_ZH-CN2078609290_UHD.jpg)
+![2022-08-12-1](https://www.bing.com/th?id=OHR.Dax_FR-FR1660029157_UHD.jpg)
+![2022-08-12-2](https://www.bing.com/th?id=OHR.RakhiIndia_EN-IN0836373255_UHD.jpg)

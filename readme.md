@@ -905,3 +905,7 @@ Bing_img
 ![2022-08-12-0](https://www.bing.com/th?id=OHR.AmboseliElephants_ZH-CN2078609290_UHD.jpg)
 ![2022-08-12-1](https://www.bing.com/th?id=OHR.Dax_FR-FR1660029157_UHD.jpg)
 ![2022-08-12-2](https://www.bing.com/th?id=OHR.RakhiIndia_EN-IN0836373255_UHD.jpg)
+2022-08-13
+----------------
+![2022-08-13-0](https://www.bing.com/th?id=OHR.LacMontagnon_ZH-CN8301464080_UHD.jpg)
+![2022-08-13-1](https://www.bing.com/th?id=OHR.BoundaryWaters_JA-JP6066366988_UHD.jpg)

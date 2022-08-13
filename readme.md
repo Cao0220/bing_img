@@ -909,3 +909,7 @@ Bing_img
 ----------------
 ![2022-08-13-0](https://www.bing.com/th?id=OHR.LacMontagnon_ZH-CN8301464080_UHD.jpg)
 ![2022-08-13-1](https://www.bing.com/th?id=OHR.BoundaryWaters_JA-JP6066366988_UHD.jpg)
+2022-08-14
+----------------
+![2022-08-14-0](https://www.bing.com/th?id=OHR.PantherChameleon_ZH-CN2554514270_UHD.jpg)
+![2022-08-14-1](https://www.bing.com/th?id=OHR.AquarioNatural_DE-DE2640178619_UHD.jpg)

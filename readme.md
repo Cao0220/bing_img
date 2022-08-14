@@ -913,3 +913,7 @@ Bing_img
 ----------------
 ![2022-08-14-0](https://www.bing.com/th?id=OHR.PantherChameleon_ZH-CN2554514270_UHD.jpg)
 ![2022-08-14-1](https://www.bing.com/th?id=OHR.AquarioNatural_DE-DE2640178619_UHD.jpg)
+2022-08-15
+----------------
+![2022-08-15-0](https://www.bing.com/th?id=OHR.Cassowary_PT-BR4044547706_UHD.jpg)
+![2022-08-15-1](https://www.bing.com/th?id=OHR.ChittorgarhFort_ZH-CN2955182965_UHD.jpg)

@@ -917,3 +917,10 @@ Bing_img
 ----------------
 ![2022-08-15-0](https://www.bing.com/th?id=OHR.Cassowary_PT-BR4044547706_UHD.jpg)
 ![2022-08-15-1](https://www.bing.com/th?id=OHR.ChittorgarhFort_ZH-CN2955182965_UHD.jpg)
+2022-08-16
+----------------
+![2022-08-16-0](https://www.bing.com/th?id=OHR.GreatWhiteRoller_ZH-CN1541809088_UHD.jpg)
+![2022-08-16-1](https://www.bing.com/th?id=OHR.VirginAssumption_ES-ES0960406800_UHD.jpg)
+![2022-08-16-2](https://www.bing.com/th?id=OHR.IndiaGateDelhi_EN-IN2119783978_UHD.jpg)
+![2022-08-16-3](https://www.bing.com/th?id=OHR.FerragostoNight_IT-IT2386194169_UHD.jpg)
+![2022-08-16-4](https://www.bing.com/th?id=OHR.Daimonji2022_JA-JP4377153357_UHD.jpg)

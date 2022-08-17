@@ -929,3 +929,7 @@ Bing_img
 ![2022-08-17-0](https://www.bing.com/th?id=OHR.SasquatchStream_EN-CA7411677535_UHD.jpg)
 ![2022-08-17-1](https://www.bing.com/th?id=OHR.AquarioNatural_ZH-CN3886634374_UHD.jpg)
 ![2022-08-17-2](https://www.bing.com/th?id=OHR.CascadesNP_FR-FR3957831397_UHD.jpg)
+2022-08-18
+----------------
+![2022-08-18-0](https://www.bing.com/th?id=OHR.SourHerring_ZH-CN4136738467_UHD.jpg)
+![2022-08-18-1](https://www.bing.com/th?id=OHR.SyltNordseeHoernum_DE-DE3843030788_UHD.jpg)

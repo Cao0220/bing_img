@@ -933,3 +933,7 @@ Bing_img
 ----------------
 ![2022-08-18-0](https://www.bing.com/th?id=OHR.SourHerring_ZH-CN4136738467_UHD.jpg)
 ![2022-08-18-1](https://www.bing.com/th?id=OHR.SyltNordseeHoernum_DE-DE3843030788_UHD.jpg)
+2022-08-19
+----------------
+![2022-08-19-0](https://www.bing.com/th?id=OHR.PenzancePool_ZH-CN4493022613_UHD.jpg)
+![2022-08-19-1](https://www.bing.com/th?id=OHR.PushkarniKarnataka_EN-IN4692700029_UHD.jpg)

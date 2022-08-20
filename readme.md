@@ -943,3 +943,6 @@ Bing_img
 ![2022-08-20-1](https://www.bing.com/th?id=OHR.BearProof_ZH-CN4950171791_UHD.jpg)
 ![2022-08-20-2](https://www.bing.com/th?id=OHR.LacMontagnon_FR-FR4978935566_UHD.jpg)
 ![2022-08-20-3](https://www.bing.com/th?id=OHR.SolarImpulse2_EN-US2864472613_UHD.jpg)
+2022-08-21
+----------------
+![2022-08-21-0](https://www.bing.com/th?id=OHR.CostadaMorte_ZH-CN5219249535_UHD.jpg)

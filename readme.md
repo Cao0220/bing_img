@@ -946,3 +946,6 @@ Bing_img
 2022-08-21
 ----------------
 ![2022-08-21-0](https://www.bing.com/th?id=OHR.CostadaMorte_ZH-CN5219249535_UHD.jpg)
+2022-08-22
+----------------
+![2022-08-22-0](https://www.bing.com/th?id=OHR.TenderMoment_ZH-CN5447705408_UHD.jpg)

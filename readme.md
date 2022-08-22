@@ -949,3 +949,6 @@ Bing_img
 2022-08-22
 ----------------
 ![2022-08-22-0](https://www.bing.com/th?id=OHR.TenderMoment_ZH-CN5447705408_UHD.jpg)
+2022-08-23
+----------------
+![2022-08-23-0](https://www.bing.com/th?id=OHR.MentonFrance_ZH-CN5849270429_UHD.jpg)

@@ -952,3 +952,9 @@ Bing_img
 2022-08-23
 ----------------
 ![2022-08-23-0](https://www.bing.com/th?id=OHR.MentonFrance_ZH-CN5849270429_UHD.jpg)
+2022-08-24
+----------------
+![2022-08-24-0](https://www.bing.com/th?id=OHR.MarinaDaGloria_ZH-CN6894795645_UHD.jpg)
+![2022-08-24-1](https://www.bing.com/th?id=OHR.ChittorgarhFort_EN-IN9413170835_UHD.jpg)
+![2022-08-24-2](https://www.bing.com/th?id=OHR.Manarola5terre_IT-IT8239803711_UHD.jpg)
+![2022-08-24-3](https://www.bing.com/th?id=OHR.WheatField_JA-JP5692230599_UHD.jpg)

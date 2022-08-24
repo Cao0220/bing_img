@@ -958,3 +958,7 @@ Bing_img
 ![2022-08-24-1](https://www.bing.com/th?id=OHR.ChittorgarhFort_EN-IN9413170835_UHD.jpg)
 ![2022-08-24-2](https://www.bing.com/th?id=OHR.Manarola5terre_IT-IT8239803711_UHD.jpg)
 ![2022-08-24-3](https://www.bing.com/th?id=OHR.WheatField_JA-JP5692230599_UHD.jpg)
+2022-08-25
+----------------
+![2022-08-25-0](https://www.bing.com/th?id=OHR.SantaBarbara_ROW1846191400_UHD.jpg)
+![2022-08-25-1](https://www.bing.com/th?id=OHR.CascadesNP_ZH-CN1830542356_UHD.jpg)

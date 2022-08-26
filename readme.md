@@ -968,3 +968,6 @@ Bing_img
 ![2022-08-26-1](https://www.bing.com/th?id=OHR.PeljesacWind_ZH-CN9299214248_UHD.jpg)
 ![2022-08-26-2](https://www.bing.com/th?id=OHR.KoelnRheinDom_DE-DE6331737573_UHD.jpg)
 ![2022-08-26-3](https://www.bing.com/th?id=OHR.RockenSeine_FR-FR6522638950_UHD.jpg)
+2022-08-27
+----------------
+![2022-08-27-0](https://www.bing.com/th?id=OHR.MSHV_ZH-CN9630204701_UHD.jpg)

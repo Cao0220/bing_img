@@ -971,3 +971,6 @@ Bing_img
 2022-08-27
 ----------------
 ![2022-08-27-0](https://www.bing.com/th?id=OHR.MSHV_ZH-CN9630204701_UHD.jpg)
+2022-08-28
+----------------
+![2022-08-28-0](https://www.bing.com/th?id=OHR.BeardedTit_ZH-CN0065279700_UHD.jpg)

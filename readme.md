@@ -977,3 +977,7 @@ Bing_img
 2022-08-29
 ----------------
 ![2022-08-29-0](https://www.bing.com/th?id=OHR.EstoniaBaltic_ZH-CN0314555299_UHD.jpg)
+2022-08-30
+----------------
+![2022-08-30-0](https://www.bing.com/th?id=OHR.Migliarino_ZH-CN0744250844_UHD.jpg)
+![2022-08-30-1](https://www.bing.com/th?id=OHR.HausbooteHamburg_DE-DE5767379352_UHD.jpg)

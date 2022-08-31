@@ -985,3 +985,8 @@ Bing_img
 ----------------
 ![2022-08-31-0](https://www.bing.com/th?id=OHR.BlueLinckia_ZH-CN1103817183_UHD.jpg)
 ![2022-08-31-1](https://www.bing.com/th?id=OHR.WildlifeCrossing_JA-JP2600308823_UHD.jpg)
+2022-09-01
+----------------
+![2022-09-01-0](https://www.bing.com/th?id=OHR.GaneshChaturthiIndia_EN-IN1885189470_UHD.jpg)
+![2022-09-01-1](https://www.bing.com/th?id=OHR.SammezzanoCastle_IT-IT8448002045_UHD.jpg)
+![2022-09-01-2](https://www.bing.com/th?id=OHR.SeitanLimania_JA-JP2816089639_UHD.jpg)

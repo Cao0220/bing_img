@@ -990,3 +990,8 @@ Bing_img
 ![2022-09-01-0](https://www.bing.com/th?id=OHR.GaneshChaturthiIndia_EN-IN1885189470_UHD.jpg)
 ![2022-09-01-1](https://www.bing.com/th?id=OHR.SammezzanoCastle_IT-IT8448002045_UHD.jpg)
 ![2022-09-01-2](https://www.bing.com/th?id=OHR.SeitanLimania_JA-JP2816089639_UHD.jpg)
+2022-09-02
+----------------
+![2022-09-02-0](https://www.bing.com/th?id=OHR.CostaBravaSunset_ES-ES4116994051_UHD.jpg)
+![2022-09-02-1](https://www.bing.com/th?id=OHR.LearningTime_FR-FR8827471524_UHD.jpg)
+![2022-09-02-2](https://www.bing.com/th?id=OHR.MalaysiaTwinTowers_JA-JP2648180088_UHD.jpg)

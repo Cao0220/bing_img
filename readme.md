@@ -995,3 +995,9 @@ Bing_img
 ![2022-09-02-0](https://www.bing.com/th?id=OHR.CostaBravaSunset_ES-ES4116994051_UHD.jpg)
 ![2022-09-02-1](https://www.bing.com/th?id=OHR.LearningTime_FR-FR8827471524_UHD.jpg)
 ![2022-09-02-2](https://www.bing.com/th?id=OHR.MalaysiaTwinTowers_JA-JP2648180088_UHD.jpg)
+2022-09-03
+----------------
+![2022-09-03-0](https://www.bing.com/th?id=OHR.LagoBraies_ROW2522700379_UHD.jpg)
+![2022-09-03-1](https://www.bing.com/th?id=OHR.FernsehturmNah_DE-DE6988853815_UHD.jpg)
+![2022-09-03-2](https://www.bing.com/th?id=OHR.USFilmFestival_FR-FR9093073298_UHD.jpg)
+![2022-09-03-3](https://www.bing.com/th?id=OHR.JonesBeachHarpSeal_JA-JP2777618502_UHD.jpg)

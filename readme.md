@@ -1001,3 +1001,6 @@ Bing_img
 ![2022-09-03-1](https://www.bing.com/th?id=OHR.FernsehturmNah_DE-DE6988853815_UHD.jpg)
 ![2022-09-03-2](https://www.bing.com/th?id=OHR.USFilmFestival_FR-FR9093073298_UHD.jpg)
 ![2022-09-03-3](https://www.bing.com/th?id=OHR.JonesBeachHarpSeal_JA-JP2777618502_UHD.jpg)
+2022-09-04
+----------------
+![2022-09-04-0](https://www.bing.com/th?id=OHR.ArambolBeach_ZH-CN2149857876_UHD.jpg)

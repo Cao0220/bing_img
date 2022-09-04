@@ -1004,3 +1004,6 @@ Bing_img
 2022-09-04
 ----------------
 ![2022-09-04-0](https://www.bing.com/th?id=OHR.ArambolBeach_ZH-CN2149857876_UHD.jpg)
+2022-09-05
+----------------
+![2022-09-05-0](https://www.bing.com/th?id=OHR.TaigaRoad_ZH-CN2567537158_UHD.jpg)

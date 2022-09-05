@@ -1007,3 +1007,10 @@ Bing_img
 2022-09-05
 ----------------
 ![2022-09-05-0](https://www.bing.com/th?id=OHR.TaigaRoad_ZH-CN2567537158_UHD.jpg)
+2022-09-06
+----------------
+![2022-09-06-0](https://www.bing.com/th?id=OHR.SquirrelMushroom_ZH-CN2854383605_UHD.jpg)
+![2022-09-06-1](https://www.bing.com/th?id=OHR.BrehatIsland_DE-DE7676656274_UHD.jpg)
+![2022-09-06-2](https://www.bing.com/th?id=OHR.SeitanLimania_FR-FR0583337434_UHD.jpg)
+![2022-09-06-3](https://www.bing.com/th?id=OHR.MMontessori_IT-IT7936361329_UHD.jpg)
+![2022-09-06-4](https://www.bing.com/th?id=OHR.GastoniaParade_EN-US8873564493_UHD.jpg)

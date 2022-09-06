@@ -1014,3 +1014,8 @@ Bing_img
 ![2022-09-06-2](https://www.bing.com/th?id=OHR.SeitanLimania_FR-FR0583337434_UHD.jpg)
 ![2022-09-06-3](https://www.bing.com/th?id=OHR.MMontessori_IT-IT7936361329_UHD.jpg)
 ![2022-09-06-4](https://www.bing.com/th?id=OHR.GastoniaParade_EN-US8873564493_UHD.jpg)
+2022-09-07
+----------------
+![2022-09-07-0](https://www.bing.com/th?id=OHR.EmeraldYoho_EN-CA7965872209_UHD.jpg)
+![2022-09-07-1](https://www.bing.com/th?id=OHR.TheNeedles_ZH-CN6578835963_UHD.jpg)
+![2022-09-07-2](https://www.bing.com/th?id=OHR.MuseudoAmanha_JA-JP3229221018_UHD.jpg)

@@ -1019,3 +1019,7 @@ Bing_img
 ![2022-09-07-0](https://www.bing.com/th?id=OHR.EmeraldYoho_EN-CA7965872209_UHD.jpg)
 ![2022-09-07-1](https://www.bing.com/th?id=OHR.TheNeedles_ZH-CN6578835963_UHD.jpg)
 ![2022-09-07-2](https://www.bing.com/th?id=OHR.MuseudoAmanha_JA-JP3229221018_UHD.jpg)
+2022-09-08
+----------------
+![2022-09-08-0](https://www.bing.com/th?id=OHR.EsquadrilhaFumaca_PT-BR7267136744_UHD.jpg)
+![2022-09-08-1](https://www.bing.com/th?id=OHR.CircumnavigationAnni_ZH-CN6835512993_UHD.jpg)

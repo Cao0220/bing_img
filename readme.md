@@ -1023,3 +1023,7 @@ Bing_img
 ----------------
 ![2022-09-08-0](https://www.bing.com/th?id=OHR.EsquadrilhaFumaca_PT-BR7267136744_UHD.jpg)
 ![2022-09-08-1](https://www.bing.com/th?id=OHR.CircumnavigationAnni_ZH-CN6835512993_UHD.jpg)
+2022-09-09
+----------------
+![2022-09-09-0](https://www.bing.com/th?id=OHR.BHNMBelize_ZH-CN9422261941_UHD.jpg)
+![2022-09-09-1](https://www.bing.com/th?id=OHR.KathakaliDance_EN-IN1727759079_UHD.jpg)

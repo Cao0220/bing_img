@@ -1027,3 +1027,8 @@ Bing_img
 ----------------
 ![2022-09-09-0](https://www.bing.com/th?id=OHR.BHNMBelize_ZH-CN9422261941_UHD.jpg)
 ![2022-09-09-1](https://www.bing.com/th?id=OHR.KathakaliDance_EN-IN1727759079_UHD.jpg)
+2022-09-10
+----------------
+![2022-09-10-0](https://www.bing.com/th?id=OHR.TorontoTIFF_EN-CA0219981942_UHD.jpg)
+![2022-09-10-1](https://www.bing.com/th?id=OHR.MidAutumn2022_ZH-CN9825550508_UHD.jpg)
+![2022-09-10-2](https://www.bing.com/th?id=OHR.SkyTreeMoon2022_JA-JP3772619121_UHD.jpg)

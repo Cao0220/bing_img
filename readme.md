@@ -1032,3 +1032,8 @@ Bing_img
 ![2022-09-10-0](https://www.bing.com/th?id=OHR.TorontoTIFF_EN-CA0219981942_UHD.jpg)
 ![2022-09-10-1](https://www.bing.com/th?id=OHR.MidAutumn2022_ZH-CN9825550508_UHD.jpg)
 ![2022-09-10-2](https://www.bing.com/th?id=OHR.SkyTreeMoon2022_JA-JP3772619121_UHD.jpg)
+2022-09-11
+----------------
+![2022-09-11-0](https://www.bing.com/th?id=OHR.EmeraldYoho_ROW0471618083_UHD.jpg)
+![2022-09-11-1](https://www.bing.com/th?id=OHR.KLMidAutumn_PT-BR9849851608_UHD.jpg)
+![2022-09-11-2](https://www.bing.com/th?id=OHR.KeralaIndia_ZH-CN0125201857_UHD.jpg)

@@ -1037,3 +1037,12 @@ Bing_img
 ![2022-09-11-0](https://www.bing.com/th?id=OHR.EmeraldYoho_ROW0471618083_UHD.jpg)
 ![2022-09-11-1](https://www.bing.com/th?id=OHR.KLMidAutumn_PT-BR9849851608_UHD.jpg)
 ![2022-09-11-2](https://www.bing.com/th?id=OHR.KeralaIndia_ZH-CN0125201857_UHD.jpg)
+2022-09-12
+----------------
+![2022-09-12-0](https://www.bing.com/th?id=OHR.DiaCerrado_PT-BR0527103836_UHD.jpg)
+![2022-09-12-1](https://www.bing.com/th?id=OHR.Aracari_ZH-CN0383753817_UHD.jpg)
+![2022-09-12-2](https://www.bing.com/th?id=OHR.AugustusburgBruehl_DE-DE6067708049_UHD.jpg)
+![2022-09-12-3](https://www.bing.com/th?id=OHR.SpainBurgos_ES-ES6536090866_UHD.jpg)
+![2022-09-12-4](https://www.bing.com/th?id=OHR.LacChesserys_FR-FR0870000876_UHD.jpg)
+![2022-09-12-5](https://www.bing.com/th?id=OHR.SpaceDay2022_JA-JP4985849073_UHD.jpg)
+![2022-09-12-6](https://www.bing.com/th?id=OHR.SOLHalfStaff_EN-US6710129226_UHD.jpg)

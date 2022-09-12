@@ -1046,3 +1046,6 @@ Bing_img
 ![2022-09-12-4](https://www.bing.com/th?id=OHR.LacChesserys_FR-FR0870000876_UHD.jpg)
 ![2022-09-12-5](https://www.bing.com/th?id=OHR.SpaceDay2022_JA-JP4985849073_UHD.jpg)
 ![2022-09-12-6](https://www.bing.com/th?id=OHR.SOLHalfStaff_EN-US6710129226_UHD.jpg)
+2022-09-13
+----------------
+![2022-09-13-0](https://www.bing.com/th?id=OHR.GSDNPest_ZH-CN0818304791_UHD.jpg)

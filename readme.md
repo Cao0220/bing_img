@@ -1054,3 +1054,7 @@ Bing_img
 ![2022-09-14-0](https://www.bing.com/th?id=OHR.BHNMBelize_EN-CA8425581577_UHD.jpg)
 ![2022-09-14-1](https://www.bing.com/th?id=OHR.MarbleCanyon_ZH-CN1066862981_UHD.jpg)
 ![2022-09-14-2](https://www.bing.com/th?id=OHR.SanMartinoVillage_IT-IT2964177078_UHD.jpg)
+2022-09-15
+----------------
+![2022-09-15-0](https://www.bing.com/th?id=OHR.PyreneesPark_ZH-CN1341030921_UHD.jpg)
+![2022-09-15-1](https://www.bing.com/th?id=OHR.NalandaUniversity_EN-IN0326821062_UHD.jpg)

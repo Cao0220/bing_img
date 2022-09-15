@@ -1058,3 +1058,8 @@ Bing_img
 ----------------
 ![2022-09-15-0](https://www.bing.com/th?id=OHR.PyreneesPark_ZH-CN1341030921_UHD.jpg)
 ![2022-09-15-1](https://www.bing.com/th?id=OHR.NalandaUniversity_EN-IN0326821062_UHD.jpg)
+2022-09-16
+----------------
+![2022-09-16-0](https://www.bing.com/th?id=OHR.JohnstonWater_EN-CA1470869974_UHD.jpg)
+![2022-09-16-1](https://www.bing.com/th?id=OHR.PianePuma_ZH-CN1482049046_UHD.jpg)
+![2022-09-16-2](https://www.bing.com/th?id=OHR.BuffaloMural_EN-US7123580117_UHD.jpg)

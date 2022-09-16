@@ -1063,3 +1063,7 @@ Bing_img
 ![2022-09-16-0](https://www.bing.com/th?id=OHR.JohnstonWater_EN-CA1470869974_UHD.jpg)
 ![2022-09-16-1](https://www.bing.com/th?id=OHR.PianePuma_ZH-CN1482049046_UHD.jpg)
 ![2022-09-16-2](https://www.bing.com/th?id=OHR.BuffaloMural_EN-US7123580117_UHD.jpg)
+2022-09-17
+----------------
+![2022-09-17-0](https://www.bing.com/th?id=OHR.BlackpoolBeach_ZH-CN2646268897_UHD.jpg)
+![2022-09-17-1](https://www.bing.com/th?id=OHR.Wellenflug_JA-JP2926731181_UHD.jpg)

@@ -1067,3 +1067,8 @@ Bing_img
 ----------------
 ![2022-09-17-0](https://www.bing.com/th?id=OHR.BlackpoolBeach_ZH-CN2646268897_UHD.jpg)
 ![2022-09-17-1](https://www.bing.com/th?id=OHR.Wellenflug_JA-JP2926731181_UHD.jpg)
+2022-09-18
+----------------
+![2022-09-18-0](https://www.bing.com/th?id=OHR.EmeraldYoho_ZH-CN4524610330_UHD.jpg)
+![2022-09-18-1](https://www.bing.com/th?id=OHR.LebkuchenOktoberfest_DE-DE7043952422_UHD.jpg)
+![2022-09-18-2](https://www.bing.com/th?id=OHR.ArashiyamaBamboo_JA-JP3173053038_UHD.jpg)

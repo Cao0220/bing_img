@@ -1072,3 +1072,7 @@ Bing_img
 ![2022-09-18-0](https://www.bing.com/th?id=OHR.EmeraldYoho_ZH-CN4524610330_UHD.jpg)
 ![2022-09-18-1](https://www.bing.com/th?id=OHR.LebkuchenOktoberfest_DE-DE7043952422_UHD.jpg)
 ![2022-09-18-2](https://www.bing.com/th?id=OHR.ArashiyamaBamboo_JA-JP3173053038_UHD.jpg)
+2022-09-19
+----------------
+![2022-09-19-0](https://www.bing.com/th?id=OHR.SanMartinoVillage_ZH-CN4623104087_UHD.jpg)
+![2022-09-19-1](https://www.bing.com/th?id=OHR.OldOwl2022_JA-JP6310024287_UHD.jpg)

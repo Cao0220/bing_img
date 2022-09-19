@@ -1076,3 +1076,7 @@ Bing_img
 ----------------
 ![2022-09-19-0](https://www.bing.com/th?id=OHR.SanMartinoVillage_ZH-CN4623104087_UHD.jpg)
 ![2022-09-19-1](https://www.bing.com/th?id=OHR.OldOwl2022_JA-JP6310024287_UHD.jpg)
+2022-09-20
+----------------
+![2022-09-20-0](https://www.bing.com/th?id=OHR.QueenFuneral_PT-BR2157801345_UHD.jpg)
+![2022-09-20-1](https://www.bing.com/th?id=OHR.SitkaOtters_ZH-CN4715326633_UHD.jpg)

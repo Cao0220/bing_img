@@ -1080,3 +1080,7 @@ Bing_img
 ----------------
 ![2022-09-20-0](https://www.bing.com/th?id=OHR.QueenFuneral_PT-BR2157801345_UHD.jpg)
 ![2022-09-20-1](https://www.bing.com/th?id=OHR.SitkaOtters_ZH-CN4715326633_UHD.jpg)
+2022-09-21
+----------------
+![2022-09-21-0](https://www.bing.com/th?id=OHR.SyltNordseeHoernum_ZH-CN6316415332_UHD.jpg)
+![2022-09-21-1](https://www.bing.com/th?id=OHR.PWPeaceDoves_JA-JP4761211856_UHD.jpg)

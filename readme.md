@@ -1084,3 +1084,7 @@ Bing_img
 ----------------
 ![2022-09-21-0](https://www.bing.com/th?id=OHR.SyltNordseeHoernum_ZH-CN6316415332_UHD.jpg)
 ![2022-09-21-1](https://www.bing.com/th?id=OHR.PWPeaceDoves_JA-JP4761211856_UHD.jpg)
+2022-09-22
+----------------
+![2022-09-22-0](https://www.bing.com/th?id=OHR.SpringPoint_ZH-CN6445792697_UHD.jpg)
+![2022-09-22-1](https://www.bing.com/th?id=OHR.RhinocerosUnicornis_JA-JP5127781121_UHD.jpg)

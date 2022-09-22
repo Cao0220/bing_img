@@ -1088,3 +1088,7 @@ Bing_img
 ----------------
 ![2022-09-22-0](https://www.bing.com/th?id=OHR.SpringPoint_ZH-CN6445792697_UHD.jpg)
 ![2022-09-22-1](https://www.bing.com/th?id=OHR.RhinocerosUnicornis_JA-JP5127781121_UHD.jpg)
+2022-09-23
+----------------
+![2022-09-23-0](https://www.bing.com/th?id=OHR.LastDollarRoad_ROW6947878566_UHD.jpg)
+![2022-09-23-1](https://www.bing.com/th?id=OHR.SicilyStromboli_IT-IT0428823690_UHD.jpg)

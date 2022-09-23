@@ -1092,3 +1092,9 @@ Bing_img
 ----------------
 ![2022-09-23-0](https://www.bing.com/th?id=OHR.LastDollarRoad_ROW6947878566_UHD.jpg)
 ![2022-09-23-1](https://www.bing.com/th?id=OHR.SicilyStromboli_IT-IT0428823690_UHD.jpg)
+2022-09-24
+----------------
+![2022-09-24-0](https://www.bing.com/th?id=OHR.GoldenJellyfish_ROW9044824375_UHD.jpg)
+![2022-09-24-1](https://www.bing.com/th?id=OHR.DarkSkyAcadia_ZH-CN1827511700_UHD.jpg)
+![2022-09-24-2](https://www.bing.com/th?id=OHR.WintersteinHerbst_DE-DE9727275236_UHD.jpg)
+![2022-09-24-3](https://www.bing.com/th?id=OHR.FirstDayFall_FR-FR6231172120_UHD.jpg)

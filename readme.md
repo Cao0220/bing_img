@@ -1098,3 +1098,7 @@ Bing_img
 ![2022-09-24-1](https://www.bing.com/th?id=OHR.DarkSkyAcadia_ZH-CN1827511700_UHD.jpg)
 ![2022-09-24-2](https://www.bing.com/th?id=OHR.WintersteinHerbst_DE-DE9727275236_UHD.jpg)
 ![2022-09-24-3](https://www.bing.com/th?id=OHR.FirstDayFall_FR-FR6231172120_UHD.jpg)
+2022-09-25
+----------------
+![2022-09-25-0](https://www.bing.com/th?id=OHR.AmazonMangroves_ZH-CN2154443859_UHD.jpg)
+![2022-09-25-1](https://www.bing.com/th?id=OHR.DuomoMilan_IT-IT3380381939_UHD.jpg)

@@ -1102,3 +1102,6 @@ Bing_img
 ----------------
 ![2022-09-25-0](https://www.bing.com/th?id=OHR.AmazonMangroves_ZH-CN2154443859_UHD.jpg)
 ![2022-09-25-1](https://www.bing.com/th?id=OHR.DuomoMilan_IT-IT3380381939_UHD.jpg)
+2022-09-26
+----------------
+![2022-09-26-0](https://www.bing.com/th?id=OHR.SusitnaRiver_ZH-CN2317772890_UHD.jpg)

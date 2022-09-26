@@ -1105,3 +1105,8 @@ Bing_img
 2022-09-26
 ----------------
 ![2022-09-26-0](https://www.bing.com/th?id=OHR.SusitnaRiver_ZH-CN2317772890_UHD.jpg)
+2022-09-27
+----------------
+![2022-09-27-0](https://www.bing.com/th?id=OHR.MarinaDaGloria1_PT-BR3402934684_UHD.jpg)
+![2022-09-27-1](https://www.bing.com/th?id=OHR.YellowstoneUGB_ZH-CN2518690319_UHD.jpg)
+![2022-09-27-2](https://www.bing.com/th?id=OHR.GoldenJellyfish_IT-IT8000646203_UHD.jpg)

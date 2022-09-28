@@ -1113,3 +1113,11 @@ Bing_img
 2022-09-28
 ----------------
 ![2022-09-28-0](https://www.bing.com/th?id=OHR.FosterCoveredBridge_ZH-CN2672988563_UHD.jpg)
+2022-09-29
+----------------
+![2022-09-29-0](https://www.bing.com/th?id=OHR.MapleDrops_EN-CA3949762324_UHD.jpg)
+![2022-09-29-1](https://www.bing.com/th?id=OHR.JohnstonWater_ZH-CN3121890365_UHD.jpg)
+![2022-09-29-2](https://www.bing.com/th?id=OHR.BridalVeilFalls_DE-DE0688317126_UHD.jpg)
+![2022-09-29-3](https://www.bing.com/th?id=OHR.Perdizroja_ES-ES2095467812_UHD.jpg)
+![2022-09-29-4](https://www.bing.com/th?id=OHR.ToyTrainShimla_EN-IN1920290957_UHD.jpg)
+![2022-09-29-5](https://www.bing.com/th?id=OHR.InfiniD_JA-JP3494811780_UHD.jpg)

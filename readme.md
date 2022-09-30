@@ -1124,3 +1124,7 @@ Bing_img
 2022-09-30
 ----------------
 ![2022-09-30-0](https://www.bing.com/th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_UHD.jpg)
+2022-10-01
+----------------
+![2022-10-01-0](https://www.bing.com/th?id=OHR.NationalDay2022_ZH-CN3861603311_UHD.jpg)
+![2022-10-01-1](https://www.bing.com/th?id=OHR.BridalVeilFalls_JA-JP4311611826_UHD.jpg)

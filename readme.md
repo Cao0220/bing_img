@@ -1128,3 +1128,10 @@ Bing_img
 ----------------
 ![2022-10-01-0](https://www.bing.com/th?id=OHR.NationalDay2022_ZH-CN3861603311_UHD.jpg)
 ![2022-10-01-1](https://www.bing.com/th?id=OHR.BridalVeilFalls_JA-JP4311611826_UHD.jpg)
+2022-10-02
+----------------
+![2022-10-02-0](https://www.bing.com/th?id=OHR.NuitArt_EN-CA0978478367_UHD.jpg)
+![2022-10-02-1](https://www.bing.com/th?id=OHR.LacChesserys_ZH-CN4136691056_UHD.jpg)
+![2022-10-02-2](https://www.bing.com/th?id=OHR.SwedishAntenna_DE-DE2391805008_UHD.jpg)
+![2022-10-02-3](https://www.bing.com/th?id=OHR.NBP_FR-FR2587277972_UHD.jpg)
+![2022-10-02-4](https://www.bing.com/th?id=OHR.LotsOBalloons_IT-IT7966841051_UHD.jpg)

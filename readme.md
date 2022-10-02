@@ -1135,3 +1135,9 @@ Bing_img
 ![2022-10-02-2](https://www.bing.com/th?id=OHR.SwedishAntenna_DE-DE2391805008_UHD.jpg)
 ![2022-10-02-3](https://www.bing.com/th?id=OHR.NBP_FR-FR2587277972_UHD.jpg)
 ![2022-10-02-4](https://www.bing.com/th?id=OHR.LotsOBalloons_IT-IT7966841051_UHD.jpg)
+2022-10-03
+----------------
+![2022-10-03-0](https://www.bing.com/th?id=OHR.FairyGlen_ZH-CN4521633106_UHD.jpg)
+![2022-10-03-1](https://www.bing.com/th?id=OHR.GandhiStatue_EN-IN2415285079_UHD.jpg)
+![2022-10-03-2](https://www.bing.com/th?id=OHR.TriesteSailingboats_IT-IT7054680724_UHD.jpg)
+![2022-10-03-3](https://www.bing.com/th?id=OHR.Porthuis_JA-JP4570785853_UHD.jpg)

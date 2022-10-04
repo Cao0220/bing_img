@@ -1146,3 +1146,6 @@ Bing_img
 ![2022-10-04-0](https://www.bing.com/th?id=OHR.ChongyangFestival_ZH-CN5260976551_UHD.jpg)
 ![2022-10-04-1](https://www.bing.com/th?id=OHR.GlienickerBruecke_DE-DE3030822909_UHD.jpg)
 ![2022-10-04-2](https://www.bing.com/th?id=OHR.CosmicCliffs_JA-JP4759523465_UHD.jpg)
+2022-10-05
+----------------
+![2022-10-05-0](https://www.bing.com/th?id=OHR.FlamingoTeacher_ZH-CN5688509752_UHD.jpg)

@@ -1149,3 +1149,7 @@ Bing_img
 2022-10-05
 ----------------
 ![2022-10-05-0](https://www.bing.com/th?id=OHR.FlamingoTeacher_ZH-CN5688509752_UHD.jpg)
+2022-10-06
+----------------
+![2022-10-06-0](https://www.bing.com/th?id=OHR.BayofBiscay_ZH-CN6002214693_UHD.jpg)
+![2022-10-06-1](https://www.bing.com/th?id=OHR.RavanaDussehra_EN-IN6325474614_UHD.jpg)

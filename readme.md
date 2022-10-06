@@ -1153,3 +1153,7 @@ Bing_img
 ----------------
 ![2022-10-06-0](https://www.bing.com/th?id=OHR.BayofBiscay_ZH-CN6002214693_UHD.jpg)
 ![2022-10-06-1](https://www.bing.com/th?id=OHR.RavanaDussehra_EN-IN6325474614_UHD.jpg)
+2022-10-07
+----------------
+![2022-10-07-0](https://www.bing.com/th?id=OHR.WindermereHills_ZH-CN6614218161_UHD.jpg)
+![2022-10-07-1](https://www.bing.com/th?id=OHR.OberbaumBridge_JA-JP2491613136_UHD.jpg)

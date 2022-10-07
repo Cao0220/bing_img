@@ -1157,3 +1157,7 @@ Bing_img
 ----------------
 ![2022-10-07-0](https://www.bing.com/th?id=OHR.WindermereHills_ZH-CN6614218161_UHD.jpg)
 ![2022-10-07-1](https://www.bing.com/th?id=OHR.OberbaumBridge_JA-JP2491613136_UHD.jpg)
+2022-10-08
+----------------
+![2022-10-08-0](https://www.bing.com/th?id=OHR.GlassOctopus_ZH-CN6853414529_UHD.jpg)
+![2022-10-08-1](https://www.bing.com/th?id=OHR.Kokia2022_JA-JP2344354198_UHD.jpg)

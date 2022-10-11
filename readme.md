@@ -1176,3 +1176,7 @@ Bing_img
 ![2022-10-11-3](https://www.bing.com/th?id=OHR.ParisFall_FR-FR9840276975_UHD.jpg)
 ![2022-10-11-4](https://www.bing.com/th?id=OHR.RioArazas_EN-IN1562638083_UHD.jpg)
 ![2022-10-11-5](https://www.bing.com/th?id=OHR.SacredSmoke_EN-US7047459944_UHD.jpg)
+2022-10-12
+----------------
+![2022-10-12-0](https://www.bing.com/th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_UHD.jpg)
+![2022-10-12-1](https://www.bing.com/th?id=OHR.ArbresOcres_FR-FR0003744985_UHD.jpg)

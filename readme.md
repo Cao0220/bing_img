@@ -1180,3 +1180,9 @@ Bing_img
 ----------------
 ![2022-10-12-0](https://www.bing.com/th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_UHD.jpg)
 ![2022-10-12-1](https://www.bing.com/th?id=OHR.ArbresOcres_FR-FR0003744985_UHD.jpg)
+2022-10-13
+----------------
+![2022-10-13-0](https://www.bing.com/th?id=OHR.DiaDasCriancas_PT-BR2145402821_UHD.jpg)
+![2022-10-13-1](https://www.bing.com/th?id=OHR.AlaskaMoose_ZH-CN9148253690_UHD.jpg)
+![2022-10-13-2](https://www.bing.com/th?id=OHR.SpainDay_ES-ES1841454370_UHD.jpg)
+![2022-10-13-3](https://www.bing.com/th?id=OHR.GenoaBoccadasse_IT-IT1060249163_UHD.jpg)

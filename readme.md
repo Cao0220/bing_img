@@ -1186,3 +1186,6 @@ Bing_img
 ![2022-10-13-1](https://www.bing.com/th?id=OHR.AlaskaMoose_ZH-CN9148253690_UHD.jpg)
 ![2022-10-13-2](https://www.bing.com/th?id=OHR.SpainDay_ES-ES1841454370_UHD.jpg)
 ![2022-10-13-3](https://www.bing.com/th?id=OHR.GenoaBoccadasse_IT-IT1060249163_UHD.jpg)
+2022-10-14
+----------------
+![2022-10-14-0](https://www.bing.com/th?id=OHR.RioArazas_ZH-CN9451571402_UHD.jpg)

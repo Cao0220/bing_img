@@ -1189,3 +1189,9 @@ Bing_img
 2022-10-14
 ----------------
 ![2022-10-14-0](https://www.bing.com/th?id=OHR.RioArazas_ZH-CN9451571402_UHD.jpg)
+2022-10-15
+----------------
+![2022-10-15-0](https://www.bing.com/th?id=OHR.JasperMilkyWay_EN-CA8275881910_UHD.jpg)
+![2022-10-15-1](https://www.bing.com/th?id=OHR.NaqsheRustam_ZH-CN9695151436_UHD.jpg)
+![2022-10-15-2](https://www.bing.com/th?id=OHR.HohenzollernHechingen_DE-DE6506429965_UHD.jpg)
+![2022-10-15-3](https://www.bing.com/th?id=OHR.BlueTigerButterflies_EN-IN0664966797_UHD.jpg)

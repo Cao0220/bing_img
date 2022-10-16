@@ -1198,3 +1198,7 @@ Bing_img
 2022-10-16
 ----------------
 ![2022-10-16-0](https://www.bing.com/th?id=OHR.PrinceChristianSound_ZH-CN0274463143_UHD.jpg)
+2022-10-17
+----------------
+![2022-10-17-0](https://www.bing.com/th?id=OHR.SwedenOwl_ZH-CN6960032096_UHD.jpg)
+![2022-10-17-1](https://www.bing.com/th?id=OHR.RioArazas_DE-DE6773505197_UHD.jpg)

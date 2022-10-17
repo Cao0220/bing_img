@@ -1202,3 +1202,7 @@ Bing_img
 ----------------
 ![2022-10-17-0](https://www.bing.com/th?id=OHR.SwedenOwl_ZH-CN6960032096_UHD.jpg)
 ![2022-10-17-1](https://www.bing.com/th?id=OHR.RioArazas_DE-DE6773505197_UHD.jpg)
+2022-10-18
+----------------
+![2022-10-18-0](https://www.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN3954641670_UHD.jpg)
+![2022-10-18-1](https://www.bing.com/th?id=OHR.GB25Anni_JA-JP0330783123_UHD.jpg)

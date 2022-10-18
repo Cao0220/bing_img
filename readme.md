@@ -1206,3 +1206,8 @@ Bing_img
 ----------------
 ![2022-10-18-0](https://www.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN3954641670_UHD.jpg)
 ![2022-10-18-1](https://www.bing.com/th?id=OHR.GB25Anni_JA-JP0330783123_UHD.jpg)
+2022-10-19
+----------------
+![2022-10-19-0](https://www.bing.com/th?id=OHR.BlueTigerButterflies_ROW1804607845_UHD.jpg)
+![2022-10-19-1](https://www.bing.com/th?id=OHR.RioArazas_EN-CA6008668656_UHD.jpg)
+![2022-10-19-2](https://www.bing.com/th?id=OHR.WartburgCastle_ZH-CN4201605751_UHD.jpg)

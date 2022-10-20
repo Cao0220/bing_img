@@ -1214,3 +1214,6 @@ Bing_img
 2022-10-20
 ----------------
 ![2022-10-20-0](https://www.bing.com/th?id=OHR.SlothDay_ZH-CN4945330735_UHD.jpg)
+2022-10-21
+----------------
+![2022-10-21-0](https://www.bing.com/th?id=OHR.GeorgiaCypress_ZH-CN3705257154_UHD.jpg)

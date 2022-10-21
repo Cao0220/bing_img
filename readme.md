@@ -1217,3 +1217,7 @@ Bing_img
 2022-10-21
 ----------------
 ![2022-10-21-0](https://www.bing.com/th?id=OHR.GeorgiaCypress_ZH-CN3705257154_UHD.jpg)
+2022-10-22
+----------------
+![2022-10-22-0](https://www.bing.com/th?id=OHR.KarstMountains_ZH-CN4719178982_UHD.jpg)
+![2022-10-22-1](https://www.bing.com/th?id=OHR.LacSinclair_FR-FR0616776159_UHD.jpg)

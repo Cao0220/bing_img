@@ -1221,3 +1221,8 @@ Bing_img
 ----------------
 ![2022-10-22-0](https://www.bing.com/th?id=OHR.KarstMountains_ZH-CN4719178982_UHD.jpg)
 ![2022-10-22-1](https://www.bing.com/th?id=OHR.LacSinclair_FR-FR0616776159_UHD.jpg)
+2022-10-23
+----------------
+![2022-10-23-0](https://www.bing.com/th?id=OHR.Knobbelzwaan_ZH-CN4850245302_UHD.jpg)
+![2022-10-23-1](https://www.bing.com/th?id=OHR.CanaleLeonardesco_IT-IT4107798098_UHD.jpg)
+![2022-10-23-2](https://www.bing.com/th?id=OHR.Soko2022_JA-JP7481161704_UHD.jpg)

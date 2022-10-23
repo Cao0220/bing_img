@@ -1226,3 +1226,7 @@ Bing_img
 ![2022-10-23-0](https://www.bing.com/th?id=OHR.Knobbelzwaan_ZH-CN4850245302_UHD.jpg)
 ![2022-10-23-1](https://www.bing.com/th?id=OHR.CanaleLeonardesco_IT-IT4107798098_UHD.jpg)
 ![2022-10-23-2](https://www.bing.com/th?id=OHR.Soko2022_JA-JP7481161704_UHD.jpg)
+2022-10-24
+----------------
+![2022-10-24-0](https://www.bing.com/th?id=OHR.MarienburgZell_ZH-CN4562312386_UHD.jpg)
+![2022-10-24-1](https://www.bing.com/th?id=OHR.GuwahatiDiwali_JA-JP0301518111_UHD.jpg)

@@ -1235,3 +1235,6 @@ Bing_img
 ![2022-10-25-0](https://www.bing.com/th?id=OHR.OrcusMouth_ZH-CN7303142999_UHD.jpg)
 ![2022-10-25-1](https://www.bing.com/th?id=OHR.OttobeurenBibliothek_DE-DE3414794447_UHD.jpg)
 ![2022-10-25-2](https://www.bing.com/th?id=OHR.DiwaliOilLamps_EN-IN0701838177_UHD.jpg)
+2022-10-26
+----------------
+![2022-10-26-0](https://www.bing.com/th?id=OHR.BrockenSpecter_ZH-CN5278743909_UHD.jpg)

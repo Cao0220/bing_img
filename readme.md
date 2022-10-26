@@ -1238,3 +1238,6 @@ Bing_img
 2022-10-26
 ----------------
 ![2022-10-26-0](https://www.bing.com/th?id=OHR.BrockenSpecter_ZH-CN5278743909_UHD.jpg)
+2022-10-27
+----------------
+![2022-10-27-0](https://www.bing.com/th?id=OHR.BridgeofSighs_ZH-CN5414607871_UHD.jpg)

@@ -1241,3 +1241,7 @@ Bing_img
 2022-10-27
 ----------------
 ![2022-10-27-0](https://www.bing.com/th?id=OHR.BridgeofSighs_ZH-CN5414607871_UHD.jpg)
+2022-10-28
+----------------
+![2022-10-28-0](https://www.bing.com/th?id=OHR.FrankensteinFriday_ZH-CN5814917673_UHD.jpg)
+![2022-10-28-1](https://www.bing.com/th?id=OHR.MarienburgZell_DE-DE3907884652_UHD.jpg)

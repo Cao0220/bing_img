@@ -1245,3 +1245,8 @@ Bing_img
 ----------------
 ![2022-10-28-0](https://www.bing.com/th?id=OHR.FrankensteinFriday_ZH-CN5814917673_UHD.jpg)
 ![2022-10-28-1](https://www.bing.com/th?id=OHR.MarienburgZell_DE-DE3907884652_UHD.jpg)
+2022-10-29
+----------------
+![2022-10-29-0](https://www.bing.com/th?id=OHR.SeaAngel_ZH-CN6176844066_UHD.jpg)
+![2022-10-29-1](https://www.bing.com/th?id=OHR.ChocolateFair_FR-FR1725780390_UHD.jpg)
+![2022-10-29-2](https://www.bing.com/th?id=OHR.Knobbelzwaan_JA-JP8189725543_UHD.jpg)

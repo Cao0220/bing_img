@@ -1250,3 +1250,8 @@ Bing_img
 ![2022-10-29-0](https://www.bing.com/th?id=OHR.SeaAngel_ZH-CN6176844066_UHD.jpg)
 ![2022-10-29-1](https://www.bing.com/th?id=OHR.ChocolateFair_FR-FR1725780390_UHD.jpg)
 ![2022-10-29-2](https://www.bing.com/th?id=OHR.Knobbelzwaan_JA-JP8189725543_UHD.jpg)
+2022-10-30
+----------------
+![2022-10-30-0](https://www.bing.com/th?id=OHR.TremblantFoliage_EN-CA7348328850_UHD.jpg)
+![2022-10-30-1](https://www.bing.com/th?id=OHR.SealRiver_ZH-CN6334858649_UHD.jpg)
+![2022-10-30-2](https://www.bing.com/th?id=OHR.Reddeersunrise_ES-ES8598978493_UHD.jpg)

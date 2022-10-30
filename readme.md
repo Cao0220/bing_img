@@ -1255,3 +1255,8 @@ Bing_img
 ![2022-10-30-0](https://www.bing.com/th?id=OHR.TremblantFoliage_EN-CA7348328850_UHD.jpg)
 ![2022-10-30-1](https://www.bing.com/th?id=OHR.SealRiver_ZH-CN6334858649_UHD.jpg)
 ![2022-10-30-2](https://www.bing.com/th?id=OHR.Reddeersunrise_ES-ES8598978493_UHD.jpg)
+2022-10-31
+----------------
+![2022-10-31-0](https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_UHD.jpg)
+![2022-10-31-1](https://www.bing.com/th?id=OHR.VeniceClock_IT-IT0264860156_UHD.jpg)
+![2022-10-31-2](https://www.bing.com/th?id=OHR.SmilingPunpkins2022_JA-JP8444611281_UHD.jpg)

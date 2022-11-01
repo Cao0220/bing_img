@@ -1265,3 +1265,8 @@ Bing_img
 ![2022-11-01-0](https://www.bing.com/th?id=OHR.HohenzollernHechingen_ROW5987672369_UHD.jpg)
 ![2022-11-01-1](https://www.bing.com/th?id=OHR.CarlosDrummond120_PT-BR1070507633_UHD.jpg)
 ![2022-11-01-2](https://www.bing.com/th?id=OHR.AmboseliBioshere_JA-JP8635683385_UHD.jpg)
+2022-11-02
+----------------
+![2022-11-02-0](https://www.bing.com/th?id=OHR.Malo_ROW7340411209_UHD.jpg)
+![2022-11-02-1](https://www.bing.com/th?id=OHR.Calacas_PT-BR6425689711_UHD.jpg)
+![2022-11-02-2](https://www.bing.com/th?id=OHR.TeaPlantationsMunnar_ZH-CN7007323849_UHD.jpg)

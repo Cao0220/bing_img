@@ -1270,3 +1270,10 @@ Bing_img
 ![2022-11-02-0](https://www.bing.com/th?id=OHR.Malo_ROW7340411209_UHD.jpg)
 ![2022-11-02-1](https://www.bing.com/th?id=OHR.Calacas_PT-BR6425689711_UHD.jpg)
 ![2022-11-02-2](https://www.bing.com/th?id=OHR.TeaPlantationsMunnar_ZH-CN7007323849_UHD.jpg)
+2022-11-03
+----------------
+![2022-11-03-0](https://www.bing.com/th?id=OHR.KluaneAutumn_EN-CA6716504725_UHD.jpg)
+![2022-11-03-1](https://www.bing.com/th?id=OHR.AmboseliBioshere_ZH-CN7220940943_UHD.jpg)
+![2022-11-03-2](https://www.bing.com/th?id=OHR.BridgeofSighs_DE-DE1060202609_UHD.jpg)
+![2022-11-03-3](https://www.bing.com/th?id=OHR.CultureDay2022_JA-JP9173084367_UHD.jpg)
+![2022-11-03-4](https://www.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg)

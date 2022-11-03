@@ -1277,3 +1277,7 @@ Bing_img
 ![2022-11-03-2](https://www.bing.com/th?id=OHR.BridgeofSighs_DE-DE1060202609_UHD.jpg)
 ![2022-11-03-3](https://www.bing.com/th?id=OHR.CultureDay2022_JA-JP9173084367_UHD.jpg)
 ![2022-11-03-4](https://www.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg)
+2022-11-04
+----------------
+![2022-11-04-0](https://www.bing.com/th?id=OHR.PeytoIce_ZH-CN7517633327_UHD.jpg)
+![2022-11-04-1](https://www.bing.com/th?id=OHR.Deities_JA-JP2237725290_UHD.jpg)

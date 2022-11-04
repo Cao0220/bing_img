@@ -1281,3 +1281,8 @@ Bing_img
 ----------------
 ![2022-11-04-0](https://www.bing.com/th?id=OHR.PeytoIce_ZH-CN7517633327_UHD.jpg)
 ![2022-11-04-1](https://www.bing.com/th?id=OHR.Deities_JA-JP2237725290_UHD.jpg)
+2022-11-05
+----------------
+![2022-11-05-0](https://www.bing.com/th?id=OHR.Trossachs_ZH-CN9299955040_UHD.jpg)
+![2022-11-05-1](https://www.bing.com/th?id=OHR.ItalyFreccetricolore_IT-IT3229207857_UHD.jpg)
+![2022-11-05-2](https://www.bing.com/th?id=OHR.flowers_KO-KR9296882952_UHD.jpg)

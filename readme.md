@@ -1286,3 +1286,6 @@ Bing_img
 ![2022-11-05-0](https://www.bing.com/th?id=OHR.Trossachs_ZH-CN9299955040_UHD.jpg)
 ![2022-11-05-1](https://www.bing.com/th?id=OHR.ItalyFreccetricolore_IT-IT3229207857_UHD.jpg)
 ![2022-11-05-2](https://www.bing.com/th?id=OHR.flowers_KO-KR9296882952_UHD.jpg)
+2022-11-06
+----------------
+![2022-11-06-0](https://www.bing.com/th?id=OHR.MarathonSunday_ZH-CN9833453732_UHD.jpg)

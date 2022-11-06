@@ -1289,3 +1289,7 @@ Bing_img
 2022-11-06
 ----------------
 ![2022-11-06-0](https://www.bing.com/th?id=OHR.MarathonSunday_ZH-CN9833453732_UHD.jpg)
+2022-11-07
+----------------
+![2022-11-07-0](https://www.bing.com/th?id=OHR.LiDong2022_ZH-CN9929478283_UHD.jpg)
+![2022-11-07-1](https://www.bing.com/th?id=OHR.Ritto2022_JA-JP3184739369_UHD.jpg)

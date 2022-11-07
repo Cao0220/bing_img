@@ -1293,3 +1293,8 @@ Bing_img
 ----------------
 ![2022-11-07-0](https://www.bing.com/th?id=OHR.LiDong2022_ZH-CN9929478283_UHD.jpg)
 ![2022-11-07-1](https://www.bing.com/th?id=OHR.Ritto2022_JA-JP3184739369_UHD.jpg)
+2022-11-08
+----------------
+![2022-11-08-0](https://www.bing.com/th?id=OHR.CrestedButteEclispe_ROW1272777224_UHD.jpg)
+![2022-11-08-1](https://www.bing.com/th?id=OHR.YiPeng_ZH-CN0652265903_UHD.jpg)
+![2022-11-08-2](https://www.bing.com/th?id=OHR.Deities_IT-IT7902341628_UHD.jpg)

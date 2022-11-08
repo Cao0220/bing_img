@@ -1298,3 +1298,7 @@ Bing_img
 ![2022-11-08-0](https://www.bing.com/th?id=OHR.CrestedButteEclispe_ROW1272777224_UHD.jpg)
 ![2022-11-08-1](https://www.bing.com/th?id=OHR.YiPeng_ZH-CN0652265903_UHD.jpg)
 ![2022-11-08-2](https://www.bing.com/th?id=OHR.Deities_IT-IT7902341628_UHD.jpg)
+2022-11-09
+----------------
+![2022-11-09-0](https://www.bing.com/th?id=OHR.HedgehogNest_ZH-CN0781850458_UHD.jpg)
+![2022-11-09-1](https://www.bing.com/th?id=OHR.GoldenTemplePunjab_EN-IN9163263543_UHD.jpg)

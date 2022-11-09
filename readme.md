@@ -1302,3 +1302,7 @@ Bing_img
 ----------------
 ![2022-11-09-0](https://www.bing.com/th?id=OHR.HedgehogNest_ZH-CN0781850458_UHD.jpg)
 ![2022-11-09-1](https://www.bing.com/th?id=OHR.GoldenTemplePunjab_EN-IN9163263543_UHD.jpg)
+2022-11-10
+----------------
+![2022-11-10-0](https://www.bing.com/th?id=OHR.BadLightning_ZH-CN1049646409_UHD.jpg)
+![2022-11-10-1](https://www.bing.com/th?id=OHR.RosenMauer_DE-DE5571562915_UHD.jpg)

@@ -1320,3 +1320,6 @@ Bing_img
 ![2022-11-14-2](https://www.bing.com/th?id=OHR.SevilleCourtyard_ES-ES5929392335_UHD.jpg)
 ![2022-11-14-3](https://www.bing.com/th?id=OHR.FosterCoveredBridge_EN-IN9279266132_UHD.jpg)
 ![2022-11-14-4](https://www.bing.com/th?id=OHR.PunchBowl_EN-US0351920520_UHD.jpg)
+2022-11-15
+----------------
+![2022-11-15-0](https://www.bing.com/th?id=OHR.LontraCanadensis_ZH-CN3359002168_UHD.jpg)

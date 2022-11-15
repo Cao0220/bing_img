@@ -1323,3 +1323,7 @@ Bing_img
 2022-11-15
 ----------------
 ![2022-11-15-0](https://www.bing.com/th?id=OHR.LontraCanadensis_ZH-CN3359002168_UHD.jpg)
+2022-11-16
+----------------
+![2022-11-16-0](https://www.bing.com/th?id=OHR.Unesco50_ZH-CN3652927413_UHD.jpg)
+![2022-11-16-1](https://www.bing.com/th?id=OHR.HedgehogNest_DE-DE7501309062_UHD.jpg)

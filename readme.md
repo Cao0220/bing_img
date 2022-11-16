@@ -1327,3 +1327,6 @@ Bing_img
 ----------------
 ![2022-11-16-0](https://www.bing.com/th?id=OHR.Unesco50_ZH-CN3652927413_UHD.jpg)
 ![2022-11-16-1](https://www.bing.com/th?id=OHR.HedgehogNest_DE-DE7501309062_UHD.jpg)
+2022-11-17
+----------------
+![2022-11-17-0](https://www.bing.com/th?id=OHR.McKenzieRiverTrail_ZH-CN3786429850_UHD.jpg)

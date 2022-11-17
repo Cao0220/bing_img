@@ -1330,3 +1330,7 @@ Bing_img
 2022-11-17
 ----------------
 ![2022-11-17-0](https://www.bing.com/th?id=OHR.McKenzieRiverTrail_ZH-CN3786429850_UHD.jpg)
+2022-11-18
+----------------
+![2022-11-18-0](https://www.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_UHD.jpg)
+![2022-11-18-1](https://www.bing.com/th?id=OHR.Beaune_FR-FR9149240322_UHD.jpg)

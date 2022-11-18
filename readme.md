@@ -1334,3 +1334,6 @@ Bing_img
 ----------------
 ![2022-11-18-0](https://www.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_UHD.jpg)
 ![2022-11-18-1](https://www.bing.com/th?id=OHR.Beaune_FR-FR9149240322_UHD.jpg)
+2022-11-19
+----------------
+![2022-11-19-0](https://www.bing.com/th?id=OHR.ZNPVR_ZH-CN0123954914_UHD.jpg)

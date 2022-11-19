@@ -1337,3 +1337,8 @@ Bing_img
 2022-11-19
 ----------------
 ![2022-11-19-0](https://www.bing.com/th?id=OHR.ZNPVR_ZH-CN0123954914_UHD.jpg)
+2022-11-20
+----------------
+![2022-11-20-0](https://www.bing.com/th?id=OHR.CosmicCliffs_ZH-CN9555199651_UHD.jpg)
+![2022-11-20-1](https://www.bing.com/th?id=OHR.LaughingOwl_ES-ES4713581569_UHD.jpg)
+![2022-11-20-2](https://www.bing.com/th?id=OHR.LandartPainting_JA-JP5127648150_UHD.jpg)

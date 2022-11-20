@@ -1342,3 +1342,9 @@ Bing_img
 ![2022-11-20-0](https://www.bing.com/th?id=OHR.CosmicCliffs_ZH-CN9555199651_UHD.jpg)
 ![2022-11-20-1](https://www.bing.com/th?id=OHR.LaughingOwl_ES-ES4713581569_UHD.jpg)
 ![2022-11-20-2](https://www.bing.com/th?id=OHR.LandartPainting_JA-JP5127648150_UHD.jpg)
+2022-11-21
+----------------
+![2022-11-21-0](https://www.bing.com/th?id=OHR.StorrRocks_ROW9197990293_UHD.jpg)
+![2022-11-21-1](https://www.bing.com/th?id=OHR.ConscienciaNegra_PT-BR7589906393_UHD.jpg)
+![2022-11-21-2](https://www.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_UHD.jpg)
+![2022-11-21-3](https://www.bing.com/th?id=OHR.FIFA2022_JA-JP5434338503_UHD.jpg)

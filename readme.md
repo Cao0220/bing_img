@@ -1348,3 +1348,7 @@ Bing_img
 ![2022-11-21-1](https://www.bing.com/th?id=OHR.ConscienciaNegra_PT-BR7589906393_UHD.jpg)
 ![2022-11-21-2](https://www.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_UHD.jpg)
 ![2022-11-21-3](https://www.bing.com/th?id=OHR.FIFA2022_JA-JP5434338503_UHD.jpg)
+2022-11-22
+----------------
+![2022-11-22-0](https://www.bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_UHD.jpg)
+![2022-11-22-1](https://www.bing.com/th?id=OHR.Shousetsu_kenrokuen_2022_JA-JP1329174286_UHD.jpg)

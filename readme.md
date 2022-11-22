@@ -1352,3 +1352,6 @@ Bing_img
 ----------------
 ![2022-11-22-0](https://www.bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_UHD.jpg)
 ![2022-11-22-1](https://www.bing.com/th?id=OHR.Shousetsu_kenrokuen_2022_JA-JP1329174286_UHD.jpg)
+2022-11-23
+----------------
+![2022-11-23-0](https://www.bing.com/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_UHD.jpg)

@@ -1355,3 +1355,6 @@ Bing_img
 2022-11-23
 ----------------
 ![2022-11-23-0](https://www.bing.com/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_UHD.jpg)
+2022-11-24
+----------------
+![2022-11-24-0](https://www.bing.com/th?id=OHR.AschauChiemgau_ZH-CN1929016406_UHD.jpg)

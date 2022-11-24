@@ -1358,3 +1358,12 @@ Bing_img
 2022-11-24
 ----------------
 ![2022-11-24-0](https://www.bing.com/th?id=OHR.AschauChiemgau_ZH-CN1929016406_UHD.jpg)
+2022-11-25
+----------------
+![2022-11-25-0](https://www.bing.com/th?id=OHR.PreveliGorge_EN-CA2580883474_UHD.jpg)
+![2022-11-25-1](https://www.bing.com/th?id=OHR.TurenneSunrise_ZH-CN2357226217_UHD.jpg)
+![2022-11-25-2](https://www.bing.com/th?id=OHR.WeihnachtsmarktFrauenkirche_DE-DE5434525461_UHD.jpg)
+![2022-11-25-3](https://www.bing.com/th?id=OHR.TignesLake_FR-FR8817232825_UHD.jpg)
+![2022-11-25-4](https://www.bing.com/th?id=OHR.RovinjCroatia_EN-IN5575438445_UHD.jpg)
+![2022-11-25-5](https://www.bing.com/th?id=OHR.BorromeanIslands_IT-IT6457370638_UHD.jpg)
+![2022-11-25-6](https://www.bing.com/th?id=OHR.CranberryBog_EN-US4145520322_UHD.jpg)

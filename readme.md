@@ -1367,3 +1367,8 @@ Bing_img
 ![2022-11-25-4](https://www.bing.com/th?id=OHR.RovinjCroatia_EN-IN5575438445_UHD.jpg)
 ![2022-11-25-5](https://www.bing.com/th?id=OHR.BorromeanIslands_IT-IT6457370638_UHD.jpg)
 ![2022-11-25-6](https://www.bing.com/th?id=OHR.CranberryBog_EN-US4145520322_UHD.jpg)
+2022-11-26
+----------------
+![2022-11-26-0](https://www.bing.com/th?id=OHR.OcalaNF_EN-CA3353114094_UHD.jpg)
+![2022-11-26-1](https://www.bing.com/th?id=OHR.OliveTreeDay_ZH-CN3960861965_UHD.jpg)
+![2022-11-26-2](https://www.bing.com/th?id=OHR.MonksMound_EN-US9323884241_UHD.jpg)

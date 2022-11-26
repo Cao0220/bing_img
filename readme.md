@@ -1372,3 +1372,8 @@ Bing_img
 ![2022-11-26-0](https://www.bing.com/th?id=OHR.OcalaNF_EN-CA3353114094_UHD.jpg)
 ![2022-11-26-1](https://www.bing.com/th?id=OHR.OliveTreeDay_ZH-CN3960861965_UHD.jpg)
 ![2022-11-26-2](https://www.bing.com/th?id=OHR.MonksMound_EN-US9323884241_UHD.jpg)
+2022-11-27
+----------------
+![2022-11-27-0](https://www.bing.com/th?id=OHR.CavalcadeNathans_EN-CA7552104655_UHD.jpg)
+![2022-11-27-1](https://www.bing.com/th?id=OHR.Cecropia_ZH-CN4236630074_UHD.jpg)
+![2022-11-27-2](https://www.bing.com/th?id=OHR.VidhanaSoudha_EN-IN5543965189_UHD.jpg)

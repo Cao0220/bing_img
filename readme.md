@@ -1377,3 +1377,6 @@ Bing_img
 ![2022-11-27-0](https://www.bing.com/th?id=OHR.CavalcadeNathans_EN-CA7552104655_UHD.jpg)
 ![2022-11-27-1](https://www.bing.com/th?id=OHR.Cecropia_ZH-CN4236630074_UHD.jpg)
 ![2022-11-27-2](https://www.bing.com/th?id=OHR.VidhanaSoudha_EN-IN5543965189_UHD.jpg)
+2022-11-28
+----------------
+![2022-11-28-0](https://www.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_UHD.jpg)

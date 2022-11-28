@@ -1380,3 +1380,6 @@ Bing_img
 2022-11-28
 ----------------
 ![2022-11-28-0](https://www.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_UHD.jpg)
+2022-11-29
+----------------
+![2022-11-29-0](https://www.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_UHD.jpg)

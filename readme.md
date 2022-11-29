@@ -1383,3 +1383,7 @@ Bing_img
 2022-11-29
 ----------------
 ![2022-11-29-0](https://www.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_UHD.jpg)
+2022-11-30
+----------------
+![2022-11-30-0](https://www.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_UHD.jpg)
+![2022-11-30-1](https://www.bing.com/th?id=OHR.AschauChiemgau_DE-DE6716018830_UHD.jpg)

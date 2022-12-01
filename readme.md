@@ -1391,3 +1391,6 @@ Bing_img
 ----------------
 ![2022-12-01-0](https://www.bing.com/th?id=OHR.AntarcticaDay_ZH-CN5719164468_UHD.jpg)
 ![2022-12-01-1](https://www.bing.com/th?id=OHR.KhaliyaTopTrek_EN-IN6085442535_UHD.jpg)
+2022-12-02
+----------------
+![2022-12-02-0](https://www.bing.com/th?id=OHR.BraidedRiverDelta_ZH-CN3352462511_UHD.jpg)

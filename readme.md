@@ -1394,3 +1394,6 @@ Bing_img
 2022-12-02
 ----------------
 ![2022-12-02-0](https://www.bing.com/th?id=OHR.BraidedRiverDelta_ZH-CN3352462511_UHD.jpg)
+2022-12-03
+----------------
+![2022-12-03-0](https://www.bing.com/th?id=OHR.MiamiDT_ZH-CN3528760113_UHD.jpg)

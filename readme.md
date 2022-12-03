@@ -1397,3 +1397,7 @@ Bing_img
 2022-12-03
 ----------------
 ![2022-12-03-0](https://www.bing.com/th?id=OHR.MiamiDT_ZH-CN3528760113_UHD.jpg)
+2022-12-04
+----------------
+![2022-12-04-0](https://www.bing.com/th?id=OHR.KilimanjaroElephants_ZH-CN3779609103_UHD.jpg)
+![2022-12-04-1](https://www.bing.com/th?id=OHR.GranParadiso100th_IT-IT3890893654_UHD.jpg)

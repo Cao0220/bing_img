@@ -1401,3 +1401,8 @@ Bing_img
 ----------------
 ![2022-12-04-0](https://www.bing.com/th?id=OHR.KilimanjaroElephants_ZH-CN3779609103_UHD.jpg)
 ![2022-12-04-1](https://www.bing.com/th?id=OHR.GranParadiso100th_IT-IT3890893654_UHD.jpg)
+2022-12-05
+----------------
+![2022-12-05-0](https://www.bing.com/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_UHD.jpg)
+![2022-12-05-1](https://www.bing.com/th?id=OHR.IndianNavyDay_EN-IN3784147092_UHD.jpg)
+![2022-12-05-2](https://www.bing.com/th?id=OHR.StNick_JA-JP1569378838_UHD.jpg)

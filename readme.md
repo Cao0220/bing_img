@@ -1410,3 +1410,8 @@ Bing_img
 ----------------
 ![2022-12-06-0](https://www.bing.com/th?id=OHR.GreatEgret_ZH-CN4088261519_UHD.jpg)
 ![2022-12-06-1](https://www.bing.com/th?id=OHR.BohlenwegWenningstedt_DE-DE1630283680_UHD.jpg)
+2022-12-07
+----------------
+![2022-12-07-0](https://www.bing.com/th?id=OHR.TangleCreekFalls_ZH-CN4281148652_UHD.jpg)
+![2022-12-07-1](https://www.bing.com/th?id=OHR.SpanishConstitution_ES-ES7127988983_UHD.jpg)
+![2022-12-07-2](https://www.bing.com/th?id=OHR.Taisetsu2022_JA-JP2044137917_UHD.jpg)

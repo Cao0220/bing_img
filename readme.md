@@ -1415,3 +1415,10 @@ Bing_img
 ![2022-12-07-0](https://www.bing.com/th?id=OHR.TangleCreekFalls_ZH-CN4281148652_UHD.jpg)
 ![2022-12-07-1](https://www.bing.com/th?id=OHR.SpanishConstitution_ES-ES7127988983_UHD.jpg)
 ![2022-12-07-2](https://www.bing.com/th?id=OHR.Taisetsu2022_JA-JP2044137917_UHD.jpg)
+2022-12-08
+----------------
+![2022-12-08-0](https://www.bing.com/th?id=OHR.WistmansWood_ZH-CN4453301808_UHD.jpg)
+![2022-12-08-1](https://www.bing.com/th?id=OHR.GranParadiso100th_DE-DE3950130953_UHD.jpg)
+![2022-12-08-2](https://www.bing.com/th?id=OHR.TeatroScalaMilan_IT-IT9016689098_UHD.jpg)
+![2022-12-08-3](https://www.bing.com/th?id=OHR.FlorenceAerial_JA-JP2336728870_UHD.jpg)
+![2022-12-08-4](https://www.bing.com/th?id=OHR.KaneoheHI_EN-US1621373073_UHD.jpg)

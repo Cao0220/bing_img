@@ -1422,3 +1422,7 @@ Bing_img
 ![2022-12-08-2](https://www.bing.com/th?id=OHR.TeatroScalaMilan_IT-IT9016689098_UHD.jpg)
 ![2022-12-08-3](https://www.bing.com/th?id=OHR.FlorenceAerial_JA-JP2336728870_UHD.jpg)
 ![2022-12-08-4](https://www.bing.com/th?id=OHR.KaneoheHI_EN-US1621373073_UHD.jpg)
+2022-12-09
+----------------
+![2022-12-09-0](https://www.bing.com/th?id=OHR.NorwayMuskox_ZH-CN6137934745_UHD.jpg)
+![2022-12-09-1](https://www.bing.com/th?id=OHR.LyonLights_FR-FR4756097857_UHD.jpg)

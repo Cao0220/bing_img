@@ -1426,3 +1426,6 @@ Bing_img
 ----------------
 ![2022-12-09-0](https://www.bing.com/th?id=OHR.NorwayMuskox_ZH-CN6137934745_UHD.jpg)
 ![2022-12-09-1](https://www.bing.com/th?id=OHR.LyonLights_FR-FR4756097857_UHD.jpg)
+2022-12-10
+----------------
+![2022-12-10-0](https://www.bing.com/th?id=OHR.SaltDesert_ZH-CN4728398785_UHD.jpg)

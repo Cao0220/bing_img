@@ -1429,3 +1429,6 @@ Bing_img
 2022-12-10
 ----------------
 ![2022-12-10-0](https://www.bing.com/th?id=OHR.SaltDesert_ZH-CN4728398785_UHD.jpg)
+2022-12-11
+----------------
+![2022-12-11-0](https://www.bing.com/th?id=OHR.BuchsteinRossstein_ZH-CN4924477552_UHD.jpg)

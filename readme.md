@@ -1432,3 +1432,10 @@ Bing_img
 2022-12-11
 ----------------
 ![2022-12-11-0](https://www.bing.com/th?id=OHR.BuchsteinRossstein_ZH-CN4924477552_UHD.jpg)
+2022-12-12
+----------------
+![2022-12-12-0](https://www.bing.com/th?id=OHR.WinterMail_EN-CA7698850194_UHD.jpg)
+![2022-12-12-1](https://www.bing.com/th?id=OHR.PoinsettiaDay_ZH-CN5115071992_UHD.jpg)
+![2022-12-12-2](https://www.bing.com/th?id=OHR.FlorenceAerial_FR-FR5252820196_UHD.jpg)
+![2022-12-12-3](https://www.bing.com/th?id=OHR.KilimanjaroElephants_EN-IN6906961190_UHD.jpg)
+![2022-12-12-4](https://www.bing.com/th?id=OHR.TangleCreekFalls_EN-US2231198096_UHD.jpg)

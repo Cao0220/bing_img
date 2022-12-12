@@ -1439,3 +1439,6 @@ Bing_img
 ![2022-12-12-2](https://www.bing.com/th?id=OHR.FlorenceAerial_FR-FR5252820196_UHD.jpg)
 ![2022-12-12-3](https://www.bing.com/th?id=OHR.KilimanjaroElephants_EN-IN6906961190_UHD.jpg)
 ![2022-12-12-4](https://www.bing.com/th?id=OHR.TangleCreekFalls_EN-US2231198096_UHD.jpg)
+2022-12-13
+----------------
+![2022-12-13-0](https://www.bing.com/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_UHD.jpg)

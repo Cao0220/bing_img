@@ -1442,3 +1442,7 @@ Bing_img
 2022-12-13
 ----------------
 ![2022-12-13-0](https://www.bing.com/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_UHD.jpg)
+2022-12-14
+----------------
+![2022-12-14-0](https://www.bing.com/th?id=OHR.GranParadiso100th_ZH-CN5744961532_UHD.jpg)
+![2022-12-14-1](https://www.bing.com/th?id=OHR.MorzineAvoriaz_FR-FR8186282635_UHD.jpg)

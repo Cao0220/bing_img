@@ -1446,3 +1446,10 @@ Bing_img
 ----------------
 ![2022-12-14-0](https://www.bing.com/th?id=OHR.GranParadiso100th_ZH-CN5744961532_UHD.jpg)
 ![2022-12-14-1](https://www.bing.com/th?id=OHR.MorzineAvoriaz_FR-FR8186282635_UHD.jpg)
+2022-12-15
+----------------
+![2022-12-15-0](https://www.bing.com/th?id=OHR.ButchartDisplay_EN-CA6004185985_UHD.jpg)
+![2022-12-15-1](https://www.bing.com/th?id=OHR.Borovets_ZH-CN5914681811_UHD.jpg)
+![2022-12-15-2](https://www.bing.com/th?id=OHR.TangleCreekFalls_DE-DE8307703084_UHD.jpg)
+![2022-12-15-3](https://www.bing.com/th?id=OHR.BambooTreesIndiaa_EN-IN7883672164_UHD.jpg)
+![2022-12-15-4](https://www.bing.com/th?id=OHR.GildedFlicker_EN-US2911251361_UHD.jpg)

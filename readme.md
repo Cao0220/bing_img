@@ -1453,3 +1453,8 @@ Bing_img
 ![2022-12-15-2](https://www.bing.com/th?id=OHR.TangleCreekFalls_DE-DE8307703084_UHD.jpg)
 ![2022-12-15-3](https://www.bing.com/th?id=OHR.BambooTreesIndiaa_EN-IN7883672164_UHD.jpg)
 ![2022-12-15-4](https://www.bing.com/th?id=OHR.GildedFlicker_EN-US2911251361_UHD.jpg)
+2022-12-16
+----------------
+![2022-12-16-0](https://www.bing.com/th?id=OHR.OscarNiemeyer_PT-BR5346400510_UHD.jpg)
+![2022-12-16-1](https://www.bing.com/th?id=OHR.DudhsagarFallsGoa_ZH-CN0466471017_UHD.jpg)
+![2022-12-16-2](https://www.bing.com/th?id=OHR.AtlantaLights_JA-JP7059875075_UHD.jpg)

@@ -1458,3 +1458,8 @@ Bing_img
 ![2022-12-16-0](https://www.bing.com/th?id=OHR.OscarNiemeyer_PT-BR5346400510_UHD.jpg)
 ![2022-12-16-1](https://www.bing.com/th?id=OHR.DudhsagarFallsGoa_ZH-CN0466471017_UHD.jpg)
 ![2022-12-16-2](https://www.bing.com/th?id=OHR.AtlantaLights_JA-JP7059875075_UHD.jpg)
+2022-12-17
+----------------
+![2022-12-17-0](https://www.bing.com/th?id=OHR.FernandoNoronha_PT-BR7523185583_UHD.jpg)
+![2022-12-17-1](https://www.bing.com/th?id=OHR.GlacierGoats_ZH-CN0764810245_UHD.jpg)
+![2022-12-17-2](https://www.bing.com/th?id=OHR.RoeTrentino_IT-IT7379688058_UHD.jpg)

@@ -1463,3 +1463,6 @@ Bing_img
 ![2022-12-17-0](https://www.bing.com/th?id=OHR.FernandoNoronha_PT-BR7523185583_UHD.jpg)
 ![2022-12-17-1](https://www.bing.com/th?id=OHR.GlacierGoats_ZH-CN0764810245_UHD.jpg)
 ![2022-12-17-2](https://www.bing.com/th?id=OHR.RoeTrentino_IT-IT7379688058_UHD.jpg)
+2022-12-18
+----------------
+![2022-12-18-0](https://www.bing.com/th?id=OHR.SouthBeach_ZH-CN0989287734_UHD.jpg)

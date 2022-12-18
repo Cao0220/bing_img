@@ -1466,3 +1466,8 @@ Bing_img
 2022-12-18
 ----------------
 ![2022-12-18-0](https://www.bing.com/th?id=OHR.SouthBeach_ZH-CN0989287734_UHD.jpg)
+2022-12-19
+----------------
+![2022-12-19-0](https://www.bing.com/th?id=OHR.WinterberryBush_ZH-CN1414026440_UHD.jpg)
+![2022-12-19-1](https://www.bing.com/th?id=OHR.BlueLagoon_DE-DE3379100071_UHD.jpg)
+![2022-12-19-2](https://www.bing.com/th?id=OHR.SnoeySavoie_FR-FR7385225608_UHD.jpg)

@@ -1471,3 +1471,8 @@ Bing_img
 ![2022-12-19-0](https://www.bing.com/th?id=OHR.WinterberryBush_ZH-CN1414026440_UHD.jpg)
 ![2022-12-19-1](https://www.bing.com/th?id=OHR.BlueLagoon_DE-DE3379100071_UHD.jpg)
 ![2022-12-19-2](https://www.bing.com/th?id=OHR.SnoeySavoie_FR-FR7385225608_UHD.jpg)
+2022-12-20
+----------------
+![2022-12-20-0](https://www.bing.com/th?id=OHR.PalaceBelvedere_ZH-CN1818163173_UHD.jpg)
+![2022-12-20-1](https://www.bing.com/th?id=OHR.AnnecyXmas_FR-FR7613538506_UHD.jpg)
+![2022-12-20-2](https://www.bing.com/th?id=OHR.DudhsagarFallsGoa_EN-IN2838572674_UHD.jpg)

@@ -1476,3 +1476,7 @@ Bing_img
 ![2022-12-20-0](https://www.bing.com/th?id=OHR.PalaceBelvedere_ZH-CN1818163173_UHD.jpg)
 ![2022-12-20-1](https://www.bing.com/th?id=OHR.AnnecyXmas_FR-FR7613538506_UHD.jpg)
 ![2022-12-20-2](https://www.bing.com/th?id=OHR.DudhsagarFallsGoa_EN-IN2838572674_UHD.jpg)
+2022-12-21
+----------------
+![2022-12-21-0](https://www.bing.com/th?id=OHR.SolarHalo_ZH-CN2320274967_UHD.jpg)
+![2022-12-21-1](https://www.bing.com/th?id=OHR.TreeGaleriesLafayette_JA-JP6784478970_UHD.jpg)

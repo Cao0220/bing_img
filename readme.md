@@ -1488,3 +1488,7 @@ Bing_img
 ![2022-12-23-0](https://www.bing.com/th?id=OHR.TreeGaleriesLafayette_PT-BR2224523829_UHD.jpg)
 ![2022-12-23-1](https://www.bing.com/th?id=OHR.GentooGrievances_ZH-CN2875292726_UHD.jpg)
 ![2022-12-23-2](https://www.bing.com/th?id=OHR.Enoshima_lighthouse2022_JA-JP3585685207_UHD.jpg)
+2022-12-24
+----------------
+![2022-12-24-0](https://www.bing.com/th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_UHD.jpg)
+![2022-12-24-1](https://www.bing.com/th?id=OHR.AmalgaTree_JA-JP3864422935_UHD.jpg)

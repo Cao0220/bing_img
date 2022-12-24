@@ -1492,3 +1492,8 @@ Bing_img
 ----------------
 ![2022-12-24-0](https://www.bing.com/th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_UHD.jpg)
 ![2022-12-24-1](https://www.bing.com/th?id=OHR.AmalgaTree_JA-JP3864422935_UHD.jpg)
+2022-12-25
+----------------
+![2022-12-25-0](https://www.bing.com/th?id=OHR.WhistlerVillage_ZH-CN3451305723_UHD.jpg)
+![2022-12-25-1](https://www.bing.com/th?id=OHR.WeihnachtenWatzmann_DE-DE6323542164_UHD.jpg)
+![2022-12-25-2](https://www.bing.com/th?id=OHR.ChristmasSouvenir_JA-JP8534643006_UHD.jpg)

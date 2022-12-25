@@ -1497,3 +1497,6 @@ Bing_img
 ![2022-12-25-0](https://www.bing.com/th?id=OHR.WhistlerVillage_ZH-CN3451305723_UHD.jpg)
 ![2022-12-25-1](https://www.bing.com/th?id=OHR.WeihnachtenWatzmann_DE-DE6323542164_UHD.jpg)
 ![2022-12-25-2](https://www.bing.com/th?id=OHR.ChristmasSouvenir_JA-JP8534643006_UHD.jpg)
+2022-12-26
+----------------
+![2022-12-26-0](https://www.bing.com/th?id=OHR.BeverleyWestwood_ZH-CN3729041588_UHD.jpg)

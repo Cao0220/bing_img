@@ -1500,3 +1500,6 @@ Bing_img
 2022-12-26
 ----------------
 ![2022-12-26-0](https://www.bing.com/th?id=OHR.BeverleyWestwood_ZH-CN3729041588_UHD.jpg)
+2022-12-27
+----------------
+![2022-12-27-0](https://www.bing.com/th?id=OHR.BlueLagoon_ZH-CN3874240119_UHD.jpg)

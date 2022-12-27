@@ -1503,3 +1503,7 @@ Bing_img
 2022-12-27
 ----------------
 ![2022-12-27-0](https://www.bing.com/th?id=OHR.BlueLagoon_ZH-CN3874240119_UHD.jpg)
+2022-12-28
+----------------
+![2022-12-28-0](https://www.bing.com/th?id=OHR.ChiesaBianca_ZH-CN4208333975_UHD.jpg)
+![2022-12-28-1](https://www.bing.com/th?id=OHR.NagarholeNationalPark_EN-IN4004440507_UHD.jpg)

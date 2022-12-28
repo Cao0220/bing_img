@@ -1507,3 +1507,8 @@ Bing_img
 ----------------
 ![2022-12-28-0](https://www.bing.com/th?id=OHR.ChiesaBianca_ZH-CN4208333975_UHD.jpg)
 ![2022-12-28-1](https://www.bing.com/th?id=OHR.NagarholeNationalPark_EN-IN4004440507_UHD.jpg)
+2022-12-29
+----------------
+![2022-12-29-0](https://www.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_UHD.jpg)
+![2022-12-29-1](https://www.bing.com/th?id=OHR.OberstdorfSkispringen_DE-DE7762481456_UHD.jpg)
+![2022-12-29-2](https://www.bing.com/th?id=OHR.ButterflyEffect_JA-JP5566136636_UHD.jpg)

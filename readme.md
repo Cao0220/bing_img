@@ -1512,3 +1512,6 @@ Bing_img
 ![2022-12-29-0](https://www.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_UHD.jpg)
 ![2022-12-29-1](https://www.bing.com/th?id=OHR.OberstdorfSkispringen_DE-DE7762481456_UHD.jpg)
 ![2022-12-29-2](https://www.bing.com/th?id=OHR.ButterflyEffect_JA-JP5566136636_UHD.jpg)
+2022-12-30
+----------------
+![2022-12-30-0](https://www.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_UHD.jpg)

@@ -1515,3 +1515,8 @@ Bing_img
 2022-12-30
 ----------------
 ![2022-12-30-0](https://www.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_UHD.jpg)
+2022-12-31
+----------------
+![2022-12-31-0](https://www.bing.com/th?id=OHR.SaoSilvestre_PT-BR8562839549_UHD.jpg)
+![2022-12-31-1](https://www.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg)
+![2022-12-31-2](https://www.bing.com/th?id=OHR.Nara_TodaijiBell2022_JA-JP0129080752_UHD.jpg)

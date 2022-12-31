@@ -1520,3 +1520,8 @@ Bing_img
 ![2022-12-31-0](https://www.bing.com/th?id=OHR.SaoSilvestre_PT-BR8562839549_UHD.jpg)
 ![2022-12-31-1](https://www.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg)
 ![2022-12-31-2](https://www.bing.com/th?id=OHR.Nara_TodaijiBell2022_JA-JP0129080752_UHD.jpg)
+2023-01-01
+----------------
+![2023-01-01-0](https://www.bing.com/th?id=OHR.SydneyNYE_PT-BR5711249068_UHD.jpg)
+![2023-01-01-1](https://www.bing.com/th?id=OHR.NorwayNYD_ZH-CN7856439066_UHD.jpg)
+![2023-01-01-2](https://www.bing.com/th?id=OHR.Gantan2023_JA-JP0780615179_UHD.jpg)

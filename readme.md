@@ -1525,3 +1525,7 @@ Bing_img
 ![2023-01-01-0](https://www.bing.com/th?id=OHR.SydneyNYE_PT-BR5711249068_UHD.jpg)
 ![2023-01-01-1](https://www.bing.com/th?id=OHR.NorwayNYD_ZH-CN7856439066_UHD.jpg)
 ![2023-01-01-2](https://www.bing.com/th?id=OHR.Gantan2023_JA-JP0780615179_UHD.jpg)
+2023-01-02
+----------------
+![2023-01-02-0](https://www.bing.com/th?id=OHR.HohenzollernBurg_ZH-CN8109082566_UHD.jpg)
+![2023-01-02-1](https://www.bing.com/th?id=OHR.NewDawn_FR-FR6604030929_UHD.jpg)

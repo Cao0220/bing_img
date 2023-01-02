@@ -1529,3 +1529,6 @@ Bing_img
 ----------------
 ![2023-01-02-0](https://www.bing.com/th?id=OHR.HohenzollernBurg_ZH-CN8109082566_UHD.jpg)
 ![2023-01-02-1](https://www.bing.com/th?id=OHR.NewDawn_FR-FR6604030929_UHD.jpg)
+2023-01-03
+----------------
+![2023-01-03-0](https://www.bing.com/th?id=OHR.SandhillSleeping_ZH-CN8483997851_UHD.jpg)

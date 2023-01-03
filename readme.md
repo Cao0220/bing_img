@@ -1532,3 +1532,6 @@ Bing_img
 2023-01-03
 ----------------
 ![2023-01-03-0](https://www.bing.com/th?id=OHR.SandhillSleeping_ZH-CN8483997851_UHD.jpg)
+2023-01-04
+----------------
+![2023-01-04-0](https://www.bing.com/th?id=OHR.Perihelion_ZH-CN8681537155_UHD.jpg)

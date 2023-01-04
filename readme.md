@@ -1535,3 +1535,7 @@ Bing_img
 2023-01-04
 ----------------
 ![2023-01-04-0](https://www.bing.com/th?id=OHR.Perihelion_ZH-CN8681537155_UHD.jpg)
+2023-01-05
+----------------
+![2023-01-05-0](https://www.bing.com/th?id=OHR.HermelinSchnee_ZH-CN8839783506_UHD.jpg)
+![2023-01-05-1](https://www.bing.com/th?id=OHR.HIISSF_JA-JP9146225324_UHD.jpg)

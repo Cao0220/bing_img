@@ -1542,3 +1542,8 @@ Bing_img
 2023-01-06
 ----------------
 ![2023-01-06-0](https://www.bing.com/th?id=OHR.BlackFell_ZH-CN9224189688_UHD.jpg)
+2023-01-07
+----------------
+![2023-01-07-0](https://www.bing.com/th?id=OHR.Borovets_PT-BR8295387224_UHD.jpg)
+![2023-01-07-1](https://www.bing.com/th?id=OHR.Mohair_ZH-CN9435762268_UHD.jpg)
+![2023-01-07-2](https://www.bing.com/th?id=OHR.RomePiazzaNavona_IT-IT7494581195_UHD.jpg)

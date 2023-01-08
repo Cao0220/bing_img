@@ -1550,3 +1550,6 @@ Bing_img
 2023-01-08
 ----------------
 ![2023-01-08-0](https://www.bing.com/th?id=OHR.Breckenridge_ZH-CN9598860382_UHD.jpg)
+2023-01-09
+----------------
+![2023-01-09-0](https://www.bing.com/th?id=OHR.BisonWindCave_ZH-CN9778045938_UHD.jpg)

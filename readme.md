@@ -1553,3 +1553,7 @@ Bing_img
 2023-01-09
 ----------------
 ![2023-01-09-0](https://www.bing.com/th?id=OHR.BisonWindCave_ZH-CN9778045938_UHD.jpg)
+2023-01-10
+----------------
+![2023-01-10-0](https://www.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_UHD.jpg)
+![2023-01-10-1](https://www.bing.com/th?id=OHR.TeufelsbrueckeWilhelmshoehe_DE-DE5843541762_UHD.jpg)

@@ -1557,3 +1557,9 @@ Bing_img
 ----------------
 ![2023-01-10-0](https://www.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_UHD.jpg)
 ![2023-01-10-1](https://www.bing.com/th?id=OHR.TeufelsbrueckeWilhelmshoehe_DE-DE5843541762_UHD.jpg)
+2023-01-11
+----------------
+![2023-01-11-0](https://www.bing.com/th?id=OHR.LandartPainting_PT-BR9036618473_UHD.jpg)
+![2023-01-11-1](https://www.bing.com/th?id=OHR.GodrevyRocks_ZH-CN0051118926_UHD.jpg)
+![2023-01-11-2](https://www.bing.com/th?id=OHR.TintinDay_FR-FR6791287422_UHD.jpg)
+![2023-01-11-3](https://www.bing.com/th?id=OHR.Umschreibung_JA-JP1758992823_UHD.jpg)

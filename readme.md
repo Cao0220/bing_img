@@ -1563,3 +1563,6 @@ Bing_img
 ![2023-01-11-1](https://www.bing.com/th?id=OHR.GodrevyRocks_ZH-CN0051118926_UHD.jpg)
 ![2023-01-11-2](https://www.bing.com/th?id=OHR.TintinDay_FR-FR6791287422_UHD.jpg)
 ![2023-01-11-3](https://www.bing.com/th?id=OHR.Umschreibung_JA-JP1758992823_UHD.jpg)
+2023-01-12
+----------------
+![2023-01-12-0](https://www.bing.com/th?id=OHR.RumeliHisari_ZH-CN0185820275_UHD.jpg)

@@ -1566,3 +1566,6 @@ Bing_img
 2023-01-12
 ----------------
 ![2023-01-12-0](https://www.bing.com/th?id=OHR.RumeliHisari_ZH-CN0185820275_UHD.jpg)
+2023-01-13
+----------------
+![2023-01-13-0](https://www.bing.com/th?id=OHR.Pneumatocysts_ZH-CN5721988566_UHD.jpg)

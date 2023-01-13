@@ -1569,3 +1569,6 @@ Bing_img
 2023-01-13
 ----------------
 ![2023-01-13-0](https://www.bing.com/th?id=OHR.Pneumatocysts_ZH-CN5721988566_UHD.jpg)
+2023-01-14
+----------------
+![2023-01-14-0](https://www.bing.com/th?id=OHR.DonkeyFeast_ZH-CN5880627132_UHD.jpg)

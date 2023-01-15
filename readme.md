@@ -1577,3 +1577,6 @@ Bing_img
 ![2023-01-15-0](https://www.bing.com/th?id=OHR.Turku_ZH-CN6008877545_UHD.jpg)
 ![2023-01-15-1](https://www.bing.com/th?id=OHR.CloudBlanket_FR-FR3515958936_UHD.jpg)
 ![2023-01-15-2](https://www.bing.com/th?id=OHR.KitesLohriIndia_EN-IN5360053667_UHD.jpg)
+2023-01-16
+----------------
+![2023-01-16-0](https://www.bing.com/th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_UHD.jpg)

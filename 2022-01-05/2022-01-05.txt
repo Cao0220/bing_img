@@ -1,4 +1,0 @@
-cn: https://www.bing.com/th?id=OHR.LakeKochelsee_ZH-CN0004970986_UHD.jpg
-jp: https://www.bing.com/th?id=OHR.LakeKochelsee_JA-JP8735676621_UHD.jpg
-us: https://www.bing.com/th?id=OHR.MountainToucan_EN-US7120632569_UHD.jpg
-de: https://www.bing.com/th?id=OHR.SchliemannHisarlik_DE-DE0864439236_UHD.jpg

@@ -1,3 +1,0 @@
-cn: https://www.bing.com/th?id=OHR.StDwynwensDay_ZH-CN3187096355_UHD.jpg
-jp: https://www.bing.com/th?id=OHR.StDwynwensDay_JA-JP2593443220_UHD.jpg
-us: https://www.bing.com/th?id=OHR.ManhattanView_EN-US1961282866_UHD.jpg

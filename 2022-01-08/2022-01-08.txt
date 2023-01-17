@@ -1,4 +1,0 @@
-cn: https://www.bing.com/th?id=OHR.RiceBangladesh_ZH-CN0196473460_UHD.jpg
-jp: https://www.bing.com/th?id=OHR.SnowyPrague_JA-JP8926397995_UHD.jpg
-us: https://www.bing.com/th?id=OHR.WinterBison_EN-US1438810655_UHD.jpg
-de: https://www.bing.com/th?id=OHR.RiceBangladesh_DE-DE3753300830_UHD.jpg

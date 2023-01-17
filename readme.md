@@ -1586,3 +1586,6 @@ Bing_img
 ![2023-01-17-1](https://www.bing.com/th?id=OHR.BergpalaisPillnitz_DE-DE0888287933_UHD.jpg)
 ![2023-01-17-2](https://www.bing.com/th?id=OHR.BlueMonday_FR-FR0707574638_UHD.jpg)
 ![2023-01-17-3](https://www.bing.com/th?id=OHR.InscriptionWall_EN-US1392173431_UHD.jpg)
+2023-01-18
+----------------
+![2023-01-18-0](https://www.bing.com/th?id=OHR.WhiteSands_ZH-CN6500188005_UHD.jpg)

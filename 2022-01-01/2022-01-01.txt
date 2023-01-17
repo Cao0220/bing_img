@@ -1,4 +1,0 @@
-cn: https://www.bing.com/th?id=OHR.SnowyPrague_ZH-CN9794475183_UHD.jpg
-jp: https://www.bing.com/th?id=OHR.Shishimai_JA-JP8258477804_UHD.jpg
-us: https://www.bing.com/th?id=OHR.JonesBeachHarpSeal_EN-US0716413455_UHD.jpg
-de: https://www.bing.com/th?id=OHR.SnowyPrague_DE-DE1686445153_UHD.jpg

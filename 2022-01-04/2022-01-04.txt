@@ -1,4 +1,0 @@
-cn: https://www.bing.com/th?id=OHR.MountainToucan_ZH-CN9939482570_UHD.jpg
-jp: https://www.bing.com/th?id=OHR.MountainToucan_JA-JP8682747524_UHD.jpg
-us: https://www.bing.com/th?id=OHR.BorregoBadlands_EN-US1149642347_UHD.jpg
-de: https://www.bing.com/th?id=OHR.MountainToucan_DE-DE2977479164_UHD.jpg

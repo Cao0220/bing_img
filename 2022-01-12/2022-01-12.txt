@@ -1,4 +1,0 @@
-cn: https://www.bing.com/th?id=OHR.TasiilaqAurora_ZH-CN0330057121_UHD.jpg
-jp: https://www.bing.com/th?id=OHR.TasiilaqAurora_JA-JP9170857685_UHD.jpg
-us: https://www.bing.com/th?id=OHR.FanjingStairs_EN-US7395504080_UHD.jpg
-de: https://www.bing.com/th?id=OHR.TasiilaqAurora_DE-DE1258735996_UHD.jpg

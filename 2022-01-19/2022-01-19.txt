@@ -1,4 +1,0 @@
-cn: https://www.bing.com/th?id=OHR.GrahamAdelie_ZH-CN2945763969_UHD.jpg
-jp: https://www.bing.com/th?id=OHR.MeotoIwa_JA-JP2183900706_UHD.jpg
-us: https://www.bing.com/th?id=OHR.SaintElias_EN-US1325738273_UHD.jpg
-de: https://www.bing.com/th?id=OHR.GrahamAdelie_DE-DE1895413071_UHD.jpg

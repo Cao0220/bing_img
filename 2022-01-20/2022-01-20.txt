@@ -1,4 +1,0 @@
-cn: https://www.bing.com/th?id=OHR.HuggingDay_ZH-CN2984681593_UHD.jpg
-jp: https://www.bing.com/th?id=OHR.LickObservatory_JA-JP2266420687_UHD.jpg
-us: https://www.bing.com/th?id=OHR.GrahamAdelie_EN-US1408856353_UHD.jpg
-de: https://www.bing.com/th?id=OHR.HuggingDay_DE-DE1949066968_UHD.jpg

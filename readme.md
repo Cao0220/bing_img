@@ -1596,3 +1596,7 @@ Bing_img
 ----------------
 ![2023-01-20-0](https://www.bing.com/th?id=OHR.FalklandKings_ZH-CN6891102487_UHD.jpg)
 ![2023-01-20-1](https://www.bing.com/th?id=OHR.Daikan2023_JA-JP6315927343_UHD.jpg)
+2023-01-21
+----------------
+![2023-01-21-0](https://www.bing.com/th?id=OHR.ChineseNewYearEve2023_ZH-CN7188893388_UHD.jpg)
+![2023-01-21-1](https://www.bing.com/th?id=OHR.HuggingKanga_JA-JP6402339579_UHD.jpg)

@@ -1605,3 +1605,6 @@ Bing_img
 ![2023-01-22-0](https://www.bing.com/th?id=OHR.ChineseSpringFestival2023_ZH-CN7281854882_UHD.jpg)
 ![2023-01-22-1](https://www.bing.com/th?id=OHR.WaschbaerBirke_DE-DE2456768412_UHD.jpg)
 ![2023-01-22-2](https://www.bing.com/th?id=OHR.YearRabbit_JA-JP6460790006_UHD.jpg)
+2023-01-23
+----------------
+![2023-01-23-0](https://www.bing.com/th?id=OHR.SunriseMoai_ZH-CN7413178404_UHD.jpg)

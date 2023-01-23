@@ -1608,3 +1608,6 @@ Bing_img
 2023-01-23
 ----------------
 ![2023-01-23-0](https://www.bing.com/th?id=OHR.SunriseMoai_ZH-CN7413178404_UHD.jpg)
+2023-01-24
+----------------
+![2023-01-24-0](https://www.bing.com/th?id=OHR.ColleSantaLucia_ZH-CN7638164714_UHD.jpg)

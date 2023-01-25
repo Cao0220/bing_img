@@ -1614,3 +1614,7 @@ Bing_img
 2023-01-25
 ----------------
 ![2023-01-25-0](https://www.bing.com/th?id=OHR.BirksofAberfeldy_ZH-CN7810226692_UHD.jpg)
+2023-01-26
+----------------
+![2023-01-26-0](https://www.bing.com/th?id=OHR.EstaiadaSaoPaulo_PT-BR4426760487_UHD.jpg)
+![2023-01-26-1](https://www.bing.com/th?id=OHR.HighArchChina_ZH-CN8170154553_UHD.jpg)

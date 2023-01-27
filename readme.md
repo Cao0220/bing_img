@@ -1623,3 +1623,6 @@ Bing_img
 ![2023-01-27-0](https://www.bing.com/th?id=OHR.CypressCreek_EN-CA0822395903_UHD.jpg)
 ![2023-01-27-1](https://www.bing.com/th?id=OHR.RedMangrove_ZH-CN4083989028_UHD.jpg)
 ![2023-01-27-2](https://www.bing.com/th?id=OHR.RepublicDayIndia_EN-IN3615309458_UHD.jpg)
+2023-01-28
+----------------
+![2023-01-28-0](https://www.bing.com/th?id=OHR.BlueBahamas_ZH-CN2083290847_UHD.jpg)

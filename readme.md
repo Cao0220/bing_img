@@ -1650,3 +1650,7 @@ Bing_img
 ----------------
 ![2023-02-03-0](https://www.bing.com/th?id=OHR.QuebecFrontenac_ZH-CN9519096458_UHD.jpg)
 ![2023-02-03-1](https://www.bing.com/th?id=OHR.Setsubun2023_JA-JP6615613834_UHD.jpg)
+2023-02-04
+----------------
+![2023-02-04-0](https://www.bing.com/th?id=OHR.Lichun2023_ZH-CN7842399047_UHD.jpg)
+![2023-02-04-1](https://www.bing.com/th?id=OHR.Risshun2023_JA-JP6678621305_UHD.jpg)

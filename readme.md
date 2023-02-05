@@ -1661,3 +1661,7 @@ Bing_img
 ![2023-02-05-2](https://www.bing.com/th?id=OHR.Alectorisrufa_ES-ES7873431973_UHD.jpg)
 ![2023-02-05-3](https://www.bing.com/th?id=OHR.MedievalLabro_FR-FR9513902671_UHD.jpg)
 ![2023-02-05-4](https://www.bing.com/th?id=OHR.RosaParksBus_EN-US3109740887_UHD.jpg)
+2023-02-06
+----------------
+![2023-02-06-0](https://www.bing.com/th?id=OHR.MonarchPismo_ROW2303383054_UHD.jpg)
+![2023-02-06-1](https://www.bing.com/th?id=OHR.WaitangiFjordlandNP_ZH-CN9436140228_UHD.jpg)

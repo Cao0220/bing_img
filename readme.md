@@ -1665,3 +1665,6 @@ Bing_img
 ----------------
 ![2023-02-06-0](https://www.bing.com/th?id=OHR.MonarchPismo_ROW2303383054_UHD.jpg)
 ![2023-02-06-1](https://www.bing.com/th?id=OHR.WaitangiFjordlandNP_ZH-CN9436140228_UHD.jpg)
+2023-02-07
+----------------
+![2023-02-07-0](https://www.bing.com/th?id=OHR.MedievalLabro_ZH-CN0015356188_UHD.jpg)

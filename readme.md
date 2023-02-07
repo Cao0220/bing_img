@@ -1668,3 +1668,8 @@ Bing_img
 2023-02-07
 ----------------
 ![2023-02-07-0](https://www.bing.com/th?id=OHR.MedievalLabro_ZH-CN0015356188_UHD.jpg)
+2023-02-08
+----------------
+![2023-02-08-0](https://www.bing.com/th?id=OHR.EileanDonanDawn_ZH-CN0383017858_UHD.jpg)
+![2023-02-08-1](https://www.bing.com/th?id=OHR.SkiCourch_FR-FR3785057882_UHD.jpg)
+![2023-02-08-2](https://www.bing.com/th?id=OHR.NorwayRestArea_JA-JP6935320347_UHD.jpg)

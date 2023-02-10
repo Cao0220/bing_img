@@ -1679,3 +1679,7 @@ Bing_img
 2023-02-10
 ----------------
 ![2023-02-10-0](https://www.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_UHD.jpg)
+2023-02-11
+----------------
+![2023-02-11-0](https://www.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_UHD.jpg)
+![2023-02-11-1](https://www.bing.com/th?id=OHR.CigognolaCastle_IT-IT7500748083_UHD.jpg)

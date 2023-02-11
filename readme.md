@@ -1683,3 +1683,7 @@ Bing_img
 ----------------
 ![2023-02-11-0](https://www.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_UHD.jpg)
 ![2023-02-11-1](https://www.bing.com/th?id=OHR.CigognolaCastle_IT-IT7500748083_UHD.jpg)
+2023-02-12
+----------------
+![2023-02-12-0](https://www.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_UHD.jpg)
+![2023-02-12-1](https://www.bing.com/th?id=OHR.MentonLemons_FR-FR4013525949_UHD.jpg)

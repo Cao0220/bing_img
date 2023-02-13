@@ -1690,3 +1690,6 @@ Bing_img
 2023-02-13
 ----------------
 ![2023-02-13-0](https://www.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_UHD.jpg)
+2023-02-14
+----------------
+![2023-02-14-0](https://www.bing.com/th?id=OHR.OtaruIgloo_ZH-CN2078929256_UHD.jpg)

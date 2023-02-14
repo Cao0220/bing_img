@@ -1693,3 +1693,6 @@ Bing_img
 2023-02-14
 ----------------
 ![2023-02-14-0](https://www.bing.com/th?id=OHR.OtaruIgloo_ZH-CN2078929256_UHD.jpg)
+2023-02-15
+----------------
+![2023-02-15-0](https://www.bing.com/th?id=OHR.HippoDayChobe_ZH-CN2883647954_UHD.jpg)

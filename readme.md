@@ -1696,3 +1696,6 @@ Bing_img
 2023-02-15
 ----------------
 ![2023-02-15-0](https://www.bing.com/th?id=OHR.HippoDayChobe_ZH-CN2883647954_UHD.jpg)
+2023-02-16
+----------------
+![2023-02-16-0](https://www.bing.com/th?id=OHR.FireFallYosemite_ZH-CN3351604820_UHD.jpg)

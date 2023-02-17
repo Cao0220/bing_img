@@ -1704,3 +1704,9 @@ Bing_img
 ![2023-02-17-0](https://www.bing.com/th?id=OHR.BirdcountAllen_ZH-CN4029022734_UHD.jpg)
 ![2023-02-17-1](https://www.bing.com/th?id=OHR.BerlinaleEroeffnung_DE-DE6394050974_UHD.jpg)
 ![2023-02-17-2](https://www.bing.com/th?id=OHR.OakTrees_ES-ES7954212270_UHD.jpg)
+2023-02-18
+----------------
+![2023-02-18-0](https://www.bing.com/th?id=OHR.EbenIceCave_ZH-CN6035107581_UHD.jpg)
+![2023-02-18-1](https://www.bing.com/th?id=OHR.CarnivalTenerife_ES-ES8827400798_UHD.jpg)
+![2023-02-18-2](https://www.bing.com/th?id=OHR.SnoweyParis_FR-FR2199605880_UHD.jpg)
+![2023-02-18-3](https://www.bing.com/th?id=OHR.AbruzzoNationalPark_IT-IT9956945803_UHD.jpg)

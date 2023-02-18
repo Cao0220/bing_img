@@ -1710,3 +1710,6 @@ Bing_img
 ![2023-02-18-1](https://www.bing.com/th?id=OHR.CarnivalTenerife_ES-ES8827400798_UHD.jpg)
 ![2023-02-18-2](https://www.bing.com/th?id=OHR.SnoweyParis_FR-FR2199605880_UHD.jpg)
 ![2023-02-18-3](https://www.bing.com/th?id=OHR.AbruzzoNationalPark_IT-IT9956945803_UHD.jpg)
+2023-02-19
+----------------
+![2023-02-19-0](https://www.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg)

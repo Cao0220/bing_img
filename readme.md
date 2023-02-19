@@ -1713,3 +1713,7 @@ Bing_img
 2023-02-19
 ----------------
 ![2023-02-19-0](https://www.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg)
+2023-02-20
+----------------
+![2023-02-20-0](https://www.bing.com/th?id=OHR.Itaimbezinho_ZH-CN5641449623_UHD.jpg)
+![2023-02-20-1](https://www.bing.com/th?id=OHR.SandhillSleeping_JA-JP3893178141_UHD.jpg)

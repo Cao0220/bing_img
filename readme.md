@@ -1724,3 +1724,7 @@ Bing_img
 ![2023-02-21-2](https://www.bing.com/th?id=OHR.DarkSkiesDV_FR-FR1107349717_UHD.jpg)
 ![2023-02-21-3](https://www.bing.com/th?id=OHR.WinterberryBush_EN-IN5907653699_UHD.jpg)
 ![2023-02-21-4](https://www.bing.com/th?id=OHR.PresDayDC_EN-US2054662773_UHD.jpg)
+2023-02-22
+----------------
+![2023-02-22-0](https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_UHD.jpg)
+![2023-02-22-1](https://www.bing.com/th?id=OHR.ParisWinter_JA-JP7691412226_UHD.jpg)

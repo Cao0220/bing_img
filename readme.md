@@ -1728,3 +1728,10 @@ Bing_img
 ----------------
 ![2023-02-22-0](https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_UHD.jpg)
 ![2023-02-22-1](https://www.bing.com/th?id=OHR.ParisWinter_JA-JP7691412226_UHD.jpg)
+2023-02-23
+----------------
+![2023-02-23-0](https://www.bing.com/th?id=OHR.FosterCoveredBridge_EN-CA4173074432_UHD.jpg)
+![2023-02-23-1](https://www.bing.com/th?id=OHR.BabblingBrook_ZH-CN9371346787_UHD.jpg)
+![2023-02-23-2](https://www.bing.com/th?id=OHR.GlassOctopus_EN-IN5956583508_UHD.jpg)
+![2023-02-23-3](https://www.bing.com/th?id=OHR.MtFuji2023_JA-JP4634811404_UHD.jpg)
+![2023-02-23-4](https://www.bing.com/th?id=OHR.FreedomRallyChi_EN-US2565810173_UHD.jpg)

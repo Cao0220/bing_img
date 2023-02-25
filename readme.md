@@ -1743,3 +1743,7 @@ Bing_img
 2023-02-25
 ----------------
 ![2023-02-25-0](https://www.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_UHD.jpg)
+2023-02-26
+----------------
+![2023-02-26-0](https://www.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_UHD.jpg)
+![2023-02-26-1](https://www.bing.com/th?id=OHR.TempleE_IT-IT9523677064_UHD.jpg)

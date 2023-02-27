@@ -1751,3 +1751,6 @@ Bing_img
 ----------------
 ![2023-02-27-0](https://www.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_UHD.jpg)
 ![2023-02-27-1](https://www.bing.com/th?id=OHR.ChauvetCave_FR-FR5872027312_UHD.jpg)
+2023-02-28
+----------------
+![2023-02-28-0](https://www.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_UHD.jpg)

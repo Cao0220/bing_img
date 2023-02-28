@@ -1754,3 +1754,8 @@ Bing_img
 2023-02-28
 ----------------
 ![2023-02-28-0](https://www.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_UHD.jpg)
+2023-03-01
+----------------
+![2023-03-01-0](https://www.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_UHD.jpg)
+![2023-03-01-1](https://www.bing.com/th?id=OHR.BronzeSculptureCordoba_ES-ES1480422781_UHD.jpg)
+![2023-03-01-2](https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_JA-JP7896748071_UHD.jpg)

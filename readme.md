@@ -1759,3 +1759,11 @@ Bing_img
 ![2023-03-01-0](https://www.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_UHD.jpg)
 ![2023-03-01-1](https://www.bing.com/th?id=OHR.BronzeSculptureCordoba_ES-ES1480422781_UHD.jpg)
 ![2023-03-01-2](https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_JA-JP7896748071_UHD.jpg)
+2023-03-02
+----------------
+![2023-03-02-0](https://www.bing.com/th?id=OHR.BridalVeilFalls_EN-CA6536590564_UHD.jpg)
+![2023-03-02-1](https://www.bing.com/th?id=OHR.NegratinSpain_ZH-CN5916944876_UHD.jpg)
+![2023-03-02-2](https://www.bing.com/th?id=OHR.BalearicIslands_ES-ES0270743799_UHD.jpg)
+![2023-03-02-3](https://www.bing.com/th?id=OHR.CanopyPeru_FR-FR6319298115_UHD.jpg)
+![2023-03-02-4](https://www.bing.com/th?id=OHR.SanMartinoVillage_EN-IN2402786658_UHD.jpg)
+![2023-03-02-5](https://www.bing.com/th?id=OHR.SuffrageMonumentDC_EN-US0188045009_UHD.jpg)

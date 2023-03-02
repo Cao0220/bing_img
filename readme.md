@@ -1767,3 +1767,7 @@ Bing_img
 ![2023-03-02-3](https://www.bing.com/th?id=OHR.CanopyPeru_FR-FR6319298115_UHD.jpg)
 ![2023-03-02-4](https://www.bing.com/th?id=OHR.SanMartinoVillage_EN-IN2402786658_UHD.jpg)
 ![2023-03-02-5](https://www.bing.com/th?id=OHR.SuffrageMonumentDC_EN-US0188045009_UHD.jpg)
+2023-03-03
+----------------
+![2023-03-03-0](https://www.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_UHD.jpg)
+![2023-03-03-1](https://www.bing.com/th?id=OHR.DollsFestival2023_JA-JP1535577982_UHD.jpg)

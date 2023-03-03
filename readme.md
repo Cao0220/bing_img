@@ -1771,3 +1771,6 @@ Bing_img
 ----------------
 ![2023-03-03-0](https://www.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_UHD.jpg)
 ![2023-03-03-1](https://www.bing.com/th?id=OHR.DollsFestival2023_JA-JP1535577982_UHD.jpg)
+2023-03-04
+----------------
+![2023-03-04-0](https://www.bing.com/th?id=OHR.PicoVolcano_ZH-CN6865997792_UHD.jpg)

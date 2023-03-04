@@ -1774,3 +1774,7 @@ Bing_img
 2023-03-04
 ----------------
 ![2023-03-04-0](https://www.bing.com/th?id=OHR.PicoVolcano_ZH-CN6865997792_UHD.jpg)
+2023-03-05
+----------------
+![2023-03-05-0](https://www.bing.com/th?id=OHR.HuggingKanga_ZH-CN1045131695_UHD.jpg)
+![2023-03-05-1](https://www.bing.com/th?id=OHR.Waterleidingduinen_JA-JP5712335210_UHD.jpg)

@@ -1778,3 +1778,12 @@ Bing_img
 ----------------
 ![2023-03-05-0](https://www.bing.com/th?id=OHR.HuggingKanga_ZH-CN1045131695_UHD.jpg)
 ![2023-03-05-1](https://www.bing.com/th?id=OHR.Waterleidingduinen_JA-JP5712335210_UHD.jpg)
+2023-03-06
+----------------
+![2023-03-06-0](https://www.bing.com/th?id=OHR.TokyoMoat_ROW1507751830_UHD.jpg)
+![2023-03-06-1](https://www.bing.com/th?id=OHR.MuseudoAmanha_PT-BR4558547733_UHD.jpg)
+![2023-03-06-2](https://www.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_UHD.jpg)
+![2023-03-06-3](https://www.bing.com/th?id=OHR.YuanyangChina_DE-DE9214113644_UHD.jpg)
+![2023-03-06-4](https://www.bing.com/th?id=OHR.BarnOwlWinter_ES-ES3920971236_UHD.jpg)
+![2023-03-06-5](https://www.bing.com/th?id=OHR.GranmotherDay_FR-FR3744921538_UHD.jpg)
+![2023-03-06-6](https://www.bing.com/th?id=OHR.EpidaurusGreece_IT-IT2036947217_UHD.jpg)

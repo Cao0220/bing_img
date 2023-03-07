@@ -1789,3 +1789,9 @@ Bing_img
 ![2023-03-06-6](https://www.bing.com/th?id=OHR.EpidaurusGreece_IT-IT2036947217_UHD.jpg)
 2023-03-07
 ----------------
+2023-03-08
+----------------
+![2023-03-08-0](https://www.bing.com/th?id=OHR.ValleyForge_EN-CA8209689981_UHD.jpg)
+![2023-03-08-1](https://www.bing.com/th?id=OHR.WhitehorseAurora_ZH-CN0978404088_UHD.jpg)
+![2023-03-08-2](https://www.bing.com/th?id=OHR.ParktheaterGoeggingen_DE-DE8359643455_UHD.jpg)
+![2023-03-08-3](https://www.bing.com/th?id=OHR.IntlWomensDayChange_JA-JP4020682883_UHD.jpg)

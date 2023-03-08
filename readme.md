@@ -1795,3 +1795,7 @@ Bing_img
 ![2023-03-08-1](https://www.bing.com/th?id=OHR.WhitehorseAurora_ZH-CN0978404088_UHD.jpg)
 ![2023-03-08-2](https://www.bing.com/th?id=OHR.ParktheaterGoeggingen_DE-DE8359643455_UHD.jpg)
 ![2023-03-08-3](https://www.bing.com/th?id=OHR.IntlWomensDayChange_JA-JP4020682883_UHD.jpg)
+2023-03-09
+----------------
+![2023-03-09-0](https://www.bing.com/th?id=OHR.WaimeaRainbow_ZH-CN1127225170_UHD.jpg)
+![2023-03-09-1](https://www.bing.com/th?id=OHR.IndiaNandGaonHoli_EN-IN8427126274_UHD.jpg)

@@ -1799,3 +1799,7 @@ Bing_img
 ----------------
 ![2023-03-09-0](https://www.bing.com/th?id=OHR.WaimeaRainbow_ZH-CN1127225170_UHD.jpg)
 ![2023-03-09-1](https://www.bing.com/th?id=OHR.IndiaNandGaonHoli_EN-IN8427126274_UHD.jpg)
+2023-03-10
+----------------
+![2023-03-10-0](https://www.bing.com/th?id=OHR.EdaleValley_ZH-CN8464524952_UHD.jpg)
+![2023-03-10-1](https://www.bing.com/th?id=OHR.BasilicataMatera_IT-IT9374730410_UHD.jpg)

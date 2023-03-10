@@ -1803,3 +1803,8 @@ Bing_img
 ----------------
 ![2023-03-10-0](https://www.bing.com/th?id=OHR.EdaleValley_ZH-CN8464524952_UHD.jpg)
 ![2023-03-10-1](https://www.bing.com/th?id=OHR.BasilicataMatera_IT-IT9374730410_UHD.jpg)
+2023-03-11
+----------------
+![2023-03-11-0](https://www.bing.com/th?id=OHR.LongWharf_ZH-CN8793669955_UHD.jpg)
+![2023-03-11-1](https://www.bing.com/th?id=OHR.shutterstock_1344992492_IT-IT1465751252_UHD.jpg)
+![2023-03-11-2](https://www.bing.com/th?id=OHR.Fukushima2023_JA-JP4630434917_UHD.jpg)

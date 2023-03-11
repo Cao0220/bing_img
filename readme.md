@@ -1808,3 +1808,7 @@ Bing_img
 ![2023-03-11-0](https://www.bing.com/th?id=OHR.LongWharf_ZH-CN8793669955_UHD.jpg)
 ![2023-03-11-1](https://www.bing.com/th?id=OHR.shutterstock_1344992492_IT-IT1465751252_UHD.jpg)
 ![2023-03-11-2](https://www.bing.com/th?id=OHR.Fukushima2023_JA-JP4630434917_UHD.jpg)
+2023-03-12
+----------------
+![2023-03-12-0](https://www.bing.com/th?id=OHR.SouthDownsSheep_ZH-CN8986424729_UHD.jpg)
+![2023-03-12-1](https://www.bing.com/th?id=OHR.TheaterRomania_JA-JP5242911484_UHD.jpg)

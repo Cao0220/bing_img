@@ -1816,3 +1816,9 @@ Bing_img
 ----------------
 ![2023-03-13-0](https://www.bing.com/th?id=OHR.LionessesNap_ZH-CN9240393299_UHD.jpg)
 ![2023-03-13-1](https://www.bing.com/th?id=OHR.Kornblume_DE-DE6250953229_UHD.jpg)
+2023-03-14
+----------------
+![2023-03-14-0](https://www.bing.com/th?id=OHR.CommonwealthDay_EN-CA7270298645_UHD.jpg)
+![2023-03-14-1](https://www.bing.com/th?id=OHR.CyprusMaze_ZH-CN9448060895_UHD.jpg)
+![2023-03-14-2](https://www.bing.com/th?id=OHR.Atoll_FR-FR4756818042_UHD.jpg)
+![2023-03-14-3](https://www.bing.com/th?id=OHR.Cihan_Bektas_B03_03_IT-IT7231382966_UHD.jpg)

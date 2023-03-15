@@ -1826,3 +1826,7 @@ Bing_img
 ----------------
 ![2023-03-15-0](https://www.bing.com/th?id=OHR.AgueroSpain_ZH-CN9622864502_UHD.jpg)
 ![2023-03-15-1](https://www.bing.com/th?id=OHR.Falleras_ES-ES7940663073_UHD.jpg)
+2023-03-16
+----------------
+![2023-03-16-0](https://www.bing.com/th?id=OHR.ChengduPanda_ZH-CN0043208941_UHD.jpg)
+![2023-03-16-1](https://www.bing.com/th?id=OHR.AquarioNatural_EN-IN6876909574_UHD.jpg)

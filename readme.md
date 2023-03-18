@@ -1836,3 +1836,8 @@ Bing_img
 2023-03-18
 ----------------
 ![2023-03-18-0](https://www.bing.com/th?id=OHR.MarsTars_ZH-CN0496313394_UHD.jpg)
+2023-03-19
+----------------
+![2023-03-19-0](https://www.bing.com/th?id=OHR.BarnOwlWinter_ZH-CN5484796826_UHD.jpg)
+![2023-03-19-1](https://www.bing.com/th?id=OHR.Francophonie_FR-FR5733667216_UHD.jpg)
+![2023-03-19-2](https://www.bing.com/th?id=OHR.GreatCormorants_EN-IN8310694771_UHD.jpg)

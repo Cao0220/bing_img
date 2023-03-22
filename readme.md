@@ -1853,3 +1853,7 @@ Bing_img
 2023-03-22
 ----------------
 ![2023-03-22-0](https://www.bing.com/th?id=OHR.LakePowellAerial_ZH-CN1427611965_UHD.jpg)
+2023-03-23
+----------------
+![2023-03-23-0](https://www.bing.com/th?id=OHR.ChavarocheWinter_ZH-CN1842519491_UHD.jpg)
+![2023-03-23-1](https://www.bing.com/th?id=OHR.LuebeckCityGate_JA-JP3505171725_UHD.jpg)

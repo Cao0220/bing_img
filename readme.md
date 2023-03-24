@@ -1862,3 +1862,7 @@ Bing_img
 ![2023-03-24-0](https://www.bing.com/th?id=OHR.CloudsPatagonia_PT-BR0938226680_UHD.jpg)
 ![2023-03-24-1](https://www.bing.com/th?id=OHR.WildGarlic_ZH-CN1869796625_UHD.jpg)
 ![2023-03-24-2](https://www.bing.com/th?id=OHR.MarsTars_FR-FR6154891416_UHD.jpg)
+2023-03-25
+----------------
+![2023-03-25-0](https://www.bing.com/th?id=OHR.CecilBrewerStaircase_ZH-CN2117182176_UHD.jpg)
+![2023-03-25-1](https://www.bing.com/th?id=OHR.TeatroFenice_IT-IT3199655399_UHD.jpg)

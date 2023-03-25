@@ -1866,3 +1866,9 @@ Bing_img
 ----------------
 ![2023-03-25-0](https://www.bing.com/th?id=OHR.CecilBrewerStaircase_ZH-CN2117182176_UHD.jpg)
 ![2023-03-25-1](https://www.bing.com/th?id=OHR.TeatroFenice_IT-IT3199655399_UHD.jpg)
+2023-03-26
+----------------
+![2023-03-26-0](https://www.bing.com/th?id=OHR.WildAnza_ZH-CN2384861750_UHD.jpg)
+![2023-03-26-1](https://www.bing.com/th?id=OHR.Mohnblumen_DE-DE3068444341_UHD.jpg)
+![2023-03-26-2](https://www.bing.com/th?id=OHR.JavaBromo_FR-FR1016370360_UHD.jpg)
+![2023-03-26-3](https://www.bing.com/th?id=OHR.BasilicaAssisi_IT-IT3784069099_UHD.jpg)

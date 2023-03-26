@@ -1872,3 +1872,6 @@ Bing_img
 ![2023-03-26-1](https://www.bing.com/th?id=OHR.Mohnblumen_DE-DE3068444341_UHD.jpg)
 ![2023-03-26-2](https://www.bing.com/th?id=OHR.JavaBromo_FR-FR1016370360_UHD.jpg)
 ![2023-03-26-3](https://www.bing.com/th?id=OHR.BasilicaAssisi_IT-IT3784069099_UHD.jpg)
+2023-03-27
+----------------
+![2023-03-27-0](https://www.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_UHD.jpg)

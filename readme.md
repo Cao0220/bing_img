@@ -1875,3 +1875,6 @@ Bing_img
 2023-03-27
 ----------------
 ![2023-03-27-0](https://www.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_UHD.jpg)
+2023-03-28
+----------------
+![2023-03-28-0](https://www.bing.com/th?id=OHR.MWDolomites_ZH-CN2886991396_UHD.jpg)

@@ -1878,3 +1878,6 @@ Bing_img
 2023-03-28
 ----------------
 ![2023-03-28-0](https://www.bing.com/th?id=OHR.MWDolomites_ZH-CN2886991396_UHD.jpg)
+2023-03-29
+----------------
+![2023-03-29-0](https://www.bing.com/th?id=OHR.NuzzleManatee_ZH-CN3263788190_UHD.jpg)

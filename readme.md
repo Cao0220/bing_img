@@ -1887,3 +1887,8 @@ Bing_img
 2023-03-31
 ----------------
 ![2023-03-31-0](https://www.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_UHD.jpg)
+2023-04-01
+----------------
+![2023-04-01-0](https://www.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_UHD.jpg)
+![2023-04-01-1](https://www.bing.com/th?id=OHR.FloweringCherryJerte_ES-ES5446108513_UHD.jpg)
+![2023-04-01-2](https://www.bing.com/th?id=OHR.JavaBromo_JA-JP8216089017_UHD.jpg)

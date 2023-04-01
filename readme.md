@@ -1892,3 +1892,7 @@ Bing_img
 ![2023-04-01-0](https://www.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_UHD.jpg)
 ![2023-04-01-1](https://www.bing.com/th?id=OHR.FloweringCherryJerte_ES-ES5446108513_UHD.jpg)
 ![2023-04-01-2](https://www.bing.com/th?id=OHR.JavaBromo_JA-JP8216089017_UHD.jpg)
+2023-04-02
+----------------
+![2023-04-02-0](https://www.bing.com/th?id=OHR.MinouLighthouse_FR-FR1992597632_UHD.jpg)
+![2023-04-02-1](https://www.bing.com/th?id=OHR.BlackGrouseLekking_JA-JP9243300706_UHD.jpg)

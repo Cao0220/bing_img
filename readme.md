@@ -1900,3 +1900,8 @@ Bing_img
 ----------------
 ![2023-04-03-0](https://www.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_UHD.jpg)
 ![2023-04-03-1](https://www.bing.com/th?id=OHR.ParisRunners_FR-FR1912252678_UHD.jpg)
+2023-04-04
+----------------
+![2023-04-04-0](https://www.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_UHD.jpg)
+![2023-04-04-1](https://www.bing.com/th?id=OHR.SchleswigHolsteinHelgoland_DE-DE2968840139_UHD.jpg)
+![2023-04-04-2](https://www.bing.com/th?id=OHR.AgraFort_EN-IN2182877120_UHD.jpg)

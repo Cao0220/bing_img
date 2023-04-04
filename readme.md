@@ -1905,3 +1905,8 @@ Bing_img
 ![2023-04-04-0](https://www.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_UHD.jpg)
 ![2023-04-04-1](https://www.bing.com/th?id=OHR.SchleswigHolsteinHelgoland_DE-DE2968840139_UHD.jpg)
 ![2023-04-04-2](https://www.bing.com/th?id=OHR.AgraFort_EN-IN2182877120_UHD.jpg)
+2023-04-05
+----------------
+![2023-04-05-0](https://www.bing.com/th?id=OHR.CanadianMuseumforHumanRights_EN-CA1657047279_UHD.jpg)
+![2023-04-05-1](https://www.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_UHD.jpg)
+![2023-04-05-2](https://www.bing.com/th?id=OHR.ArizonaPinkMoon_JA-JP0162698266_UHD.jpg)

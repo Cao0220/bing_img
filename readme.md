@@ -1910,3 +1910,8 @@ Bing_img
 ![2023-04-05-0](https://www.bing.com/th?id=OHR.CanadianMuseumforHumanRights_EN-CA1657047279_UHD.jpg)
 ![2023-04-05-1](https://www.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_UHD.jpg)
 ![2023-04-05-2](https://www.bing.com/th?id=OHR.ArizonaPinkMoon_JA-JP0162698266_UHD.jpg)
+2023-04-06
+----------------
+![2023-04-06-0](https://www.bing.com/th?id=OHR.BlackGrouseLekking_ROW7639439076_UHD.jpg)
+![2023-04-06-1](https://www.bing.com/th?id=OHR.ShellsDonana_ES-ES3094370696_UHD.jpg)
+![2023-04-06-2](https://www.bing.com/th?id=OHR.CastleDay2023_JA-JP9603602149_UHD.jpg)

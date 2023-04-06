@@ -1915,3 +1915,6 @@ Bing_img
 ![2023-04-06-0](https://www.bing.com/th?id=OHR.BlackGrouseLekking_ROW7639439076_UHD.jpg)
 ![2023-04-06-1](https://www.bing.com/th?id=OHR.ShellsDonana_ES-ES3094370696_UHD.jpg)
 ![2023-04-06-2](https://www.bing.com/th?id=OHR.CastleDay2023_JA-JP9603602149_UHD.jpg)
+2023-04-07
+----------------
+![2023-04-07-0](https://www.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_UHD.jpg)

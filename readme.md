@@ -1918,3 +1918,7 @@ Bing_img
 2023-04-07
 ----------------
 ![2023-04-07-0](https://www.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_UHD.jpg)
+2023-04-08
+----------------
+![2023-04-08-0](https://www.bing.com/th?id=OHR.NIrelandGiants_ZH-CN6110576507_UHD.jpg)
+![2023-04-08-1](https://www.bing.com/th?id=OHR.BuddhasBirthday2023_JA-JP8498198391_UHD.jpg)

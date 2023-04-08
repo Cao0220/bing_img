@@ -1922,3 +1922,7 @@ Bing_img
 ----------------
 ![2023-04-08-0](https://www.bing.com/th?id=OHR.NIrelandGiants_ZH-CN6110576507_UHD.jpg)
 ![2023-04-08-1](https://www.bing.com/th?id=OHR.BuddhasBirthday2023_JA-JP8498198391_UHD.jpg)
+2023-04-09
+----------------
+![2023-04-09-0](https://www.bing.com/th?id=OHR.LithuanianEggs_ZH-CN6609820454_UHD.jpg)
+![2023-04-09-1](https://www.bing.com/th?id=OHR.Pantheon_IT-IT9500878730_UHD.jpg)

@@ -1926,3 +1926,8 @@ Bing_img
 ----------------
 ![2023-04-09-0](https://www.bing.com/th?id=OHR.LithuanianEggs_ZH-CN6609820454_UHD.jpg)
 ![2023-04-09-1](https://www.bing.com/th?id=OHR.Pantheon_IT-IT9500878730_UHD.jpg)
+2023-04-10
+----------------
+![2023-04-10-0](https://www.bing.com/th?id=OHR.MilkyWayTwoJackLake_ROW0791032627_UHD.jpg)
+![2023-04-10-1](https://www.bing.com/th?id=OHR.ElephantTwins_ZH-CN6743766062_UHD.jpg)
+![2023-04-10-2](https://www.bing.com/th?id=OHR.Honnavaralavenderfields_EN-IN5301295864_UHD.jpg)

@@ -1936,3 +1936,8 @@ Bing_img
 ![2023-04-11-0](https://www.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_UHD.jpg)
 ![2023-04-11-1](https://www.bing.com/th?id=OHR.ObservatorySantaCruzDeLaPalma_ES-ES6892983884_UHD.jpg)
 ![2023-04-11-2](https://www.bing.com/th?id=OHR.BirdcountAllen_FR-FR2812339598_UHD.jpg)
+2023-04-12
+----------------
+![2023-04-12-0](https://www.bing.com/th?id=OHR.TheCanadaContinentalDivide_EN-CA2081857891_UHD.jpg)
+![2023-04-12-1](https://www.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_UHD.jpg)
+![2023-04-12-2](https://www.bing.com/th?id=OHR.Tatzlwurmbruecke_DE-DE0668402761_UHD.jpg)

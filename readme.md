@@ -1941,3 +1941,8 @@ Bing_img
 ![2023-04-12-0](https://www.bing.com/th?id=OHR.TheCanadaContinentalDivide_EN-CA2081857891_UHD.jpg)
 ![2023-04-12-1](https://www.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_UHD.jpg)
 ![2023-04-12-2](https://www.bing.com/th?id=OHR.Tatzlwurmbruecke_DE-DE0668402761_UHD.jpg)
+2023-04-13
+----------------
+![2023-04-13-0](https://www.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_UHD.jpg)
+![2023-04-13-1](https://www.bing.com/th?id=OHR.TaiwanYuhina_FR-FR2118371198_UHD.jpg)
+![2023-04-13-2](https://www.bing.com/th?id=OHR.PhloxSubulata_JA-JP1465330739_UHD.jpg)

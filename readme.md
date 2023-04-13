@@ -1946,3 +1946,7 @@ Bing_img
 ![2023-04-13-0](https://www.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_UHD.jpg)
 ![2023-04-13-1](https://www.bing.com/th?id=OHR.TaiwanYuhina_FR-FR2118371198_UHD.jpg)
 ![2023-04-13-2](https://www.bing.com/th?id=OHR.PhloxSubulata_JA-JP1465330739_UHD.jpg)
+2023-04-14
+----------------
+![2023-04-14-0](https://www.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_UHD.jpg)
+![2023-04-14-1](https://www.bing.com/th?id=OHR.NIrelandGiants_JA-JP8922584864_UHD.jpg)

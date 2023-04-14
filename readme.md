@@ -1950,3 +1950,8 @@ Bing_img
 ----------------
 ![2023-04-14-0](https://www.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_UHD.jpg)
 ![2023-04-14-1](https://www.bing.com/th?id=OHR.NIrelandGiants_JA-JP8922584864_UHD.jpg)
+2023-04-15
+----------------
+![2023-04-15-0](https://www.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_UHD.jpg)
+![2023-04-15-1](https://www.bing.com/th?id=OHR.Mannheim_DE-DE1609561804_UHD.jpg)
+![2023-04-15-2](https://www.bing.com/th?id=OHR.LorenzoQuinn_JA-JP9163973755_UHD.jpg)

@@ -1955,3 +1955,9 @@ Bing_img
 ![2023-04-15-0](https://www.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_UHD.jpg)
 ![2023-04-15-1](https://www.bing.com/th?id=OHR.Mannheim_DE-DE1609561804_UHD.jpg)
 ![2023-04-15-2](https://www.bing.com/th?id=OHR.LorenzoQuinn_JA-JP9163973755_UHD.jpg)
+2023-04-16
+----------------
+![2023-04-16-0](https://www.bing.com/th?id=OHR.Thecherryblossomtrees_EN-CA3305623267_UHD.jpg)
+![2023-04-16-1](https://www.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_UHD.jpg)
+![2023-04-16-2](https://www.bing.com/th?id=OHR.SardineBurial_ES-ES6575156344_UHD.jpg)
+![2023-04-16-3](https://www.bing.com/th?id=OHR.TheRedFort_EN-IN6931818397_UHD.jpg)

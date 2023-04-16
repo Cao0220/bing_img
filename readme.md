@@ -1961,3 +1961,7 @@ Bing_img
 ![2023-04-16-1](https://www.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_UHD.jpg)
 ![2023-04-16-2](https://www.bing.com/th?id=OHR.SardineBurial_ES-ES6575156344_UHD.jpg)
 ![2023-04-16-3](https://www.bing.com/th?id=OHR.TheRedFort_EN-IN6931818397_UHD.jpg)
+2023-04-17
+----------------
+![2023-04-17-0](https://www.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_UHD.jpg)
+![2023-04-17-1](https://www.bing.com/th?id=OHR.OneThousandSprings_JA-JP1763626883_UHD.jpg)

@@ -1965,3 +1965,6 @@ Bing_img
 ----------------
 ![2023-04-17-0](https://www.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_UHD.jpg)
 ![2023-04-17-1](https://www.bing.com/th?id=OHR.OneThousandSprings_JA-JP1763626883_UHD.jpg)
+2023-04-18
+----------------
+![2023-04-18-0](https://www.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_UHD.jpg)

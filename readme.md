@@ -1968,3 +1968,6 @@ Bing_img
 2023-04-18
 ----------------
 ![2023-04-18-0](https://www.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_UHD.jpg)
+2023-04-19
+----------------
+![2023-04-19-0](https://www.bing.com/th?id=OHR.TaiwanYuhina_ZH-CN6541884178_UHD.jpg)

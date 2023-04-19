@@ -1971,3 +1971,9 @@ Bing_img
 2023-04-19
 ----------------
 ![2023-04-19-0](https://www.bing.com/th?id=OHR.TaiwanYuhina_ZH-CN6541884178_UHD.jpg)
+2023-04-20
+----------------
+![2023-04-20-0](https://www.bing.com/th?id=OHR.CrestedButteEclispe_ZH-CN5715446670_UHD.jpg)
+![2023-04-20-1](https://www.bing.com/th?id=OHR.BourgesFestival_FR-FR2048973185_UHD.jpg)
+![2023-04-20-2](https://www.bing.com/th?id=OHR.SanGimignano1_IT-IT9409869098_UHD.jpg)
+![2023-04-20-3](https://www.bing.com/th?id=OHR.JapanKokuu2023_JA-JP8883775456_UHD.jpg)

@@ -1977,3 +1977,14 @@ Bing_img
 ![2023-04-20-1](https://www.bing.com/th?id=OHR.BourgesFestival_FR-FR2048973185_UHD.jpg)
 ![2023-04-20-2](https://www.bing.com/th?id=OHR.SanGimignano1_IT-IT9409869098_UHD.jpg)
 ![2023-04-20-3](https://www.bing.com/th?id=OHR.JapanKokuu2023_JA-JP8883775456_UHD.jpg)
+2023-04-21
+----------------
+![2023-04-21-0](https://www.bing.com/th?id=OHR.AnjunaBeachGoa_ROW7649308994_UHD.jpg)
+![2023-04-21-1](https://www.bing.com/th?id=OHR.PantherChameleon_PT-BR7376716625_UHD.jpg)
+![2023-04-21-2](https://www.bing.com/th?id=OHR.YuanyangChina_EN-CA2675419063_UHD.jpg)
+![2023-04-21-3](https://www.bing.com/th?id=OHR.ProcidaItaly_ZH-CN7712975930_UHD.jpg)
+![2023-04-21-4](https://www.bing.com/th?id=OHR.MossyGrottoFalls_DE-DE9162170819_UHD.jpg)
+![2023-04-21-5](https://www.bing.com/th?id=OHR.SteyrRiver_ES-ES9819768798_UHD.jpg)
+![2023-04-21-6](https://www.bing.com/th?id=OHR.EuropeFromISS_FR-FR7164814523_UHD.jpg)
+![2023-04-21-7](https://www.bing.com/th?id=OHR.BeltedGalloway_EN-IN4523698216_UHD.jpg)
+![2023-04-21-8](https://www.bing.com/th?id=OHR.NIrelandGiants_IT-IT5231557937_UHD.jpg)

@@ -1988,3 +1988,7 @@ Bing_img
 ![2023-04-21-6](https://www.bing.com/th?id=OHR.EuropeFromISS_FR-FR7164814523_UHD.jpg)
 ![2023-04-21-7](https://www.bing.com/th?id=OHR.BeltedGalloway_EN-IN4523698216_UHD.jpg)
 ![2023-04-21-8](https://www.bing.com/th?id=OHR.NIrelandGiants_IT-IT5231557937_UHD.jpg)
+2023-04-22
+----------------
+![2023-04-22-0](https://www.bing.com/th?id=OHR.EarthDayFox_ZH-CN7926350207_UHD.jpg)
+![2023-04-22-1](https://www.bing.com/th?id=OHR.Gevaudan_FR-FR8210514398_UHD.jpg)

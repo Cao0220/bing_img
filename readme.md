@@ -1992,3 +1992,7 @@ Bing_img
 ----------------
 ![2023-04-22-0](https://www.bing.com/th?id=OHR.EarthDayFox_ZH-CN7926350207_UHD.jpg)
 ![2023-04-22-1](https://www.bing.com/th?id=OHR.Gevaudan_FR-FR8210514398_UHD.jpg)
+2023-04-23
+----------------
+![2023-04-23-0](https://www.bing.com/th?id=OHR.Honnavaralavenderfields_ZH-CN8054655091_UHD.jpg)
+![2023-04-23-1](https://www.bing.com/th?id=OHR.StuttgartPublicLibrary_JA-JP1364154542_UHD.jpg)

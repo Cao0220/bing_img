@@ -1996,3 +1996,9 @@ Bing_img
 ----------------
 ![2023-04-23-0](https://www.bing.com/th?id=OHR.Honnavaralavenderfields_ZH-CN8054655091_UHD.jpg)
 ![2023-04-23-1](https://www.bing.com/th?id=OHR.StuttgartPublicLibrary_JA-JP1364154542_UHD.jpg)
+2023-04-24
+----------------
+![2023-04-24-0](https://www.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_UHD.jpg)
+![2023-04-24-1](https://www.bing.com/th?id=OHR.CasaBatllo_ES-ES2986636559_UHD.jpg)
+![2023-04-24-2](https://www.bing.com/th?id=OHR.BandhavgarhNationalPark_EN-IN1237060270_UHD.jpg)
+![2023-04-24-3](https://www.bing.com/th?id=OHR.ThreeWildebeest_JA-JP2908704390_UHD.jpg)

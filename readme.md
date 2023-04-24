@@ -2002,3 +2002,6 @@ Bing_img
 ![2023-04-24-1](https://www.bing.com/th?id=OHR.CasaBatllo_ES-ES2986636559_UHD.jpg)
 ![2023-04-24-2](https://www.bing.com/th?id=OHR.BandhavgarhNationalPark_EN-IN1237060270_UHD.jpg)
 ![2023-04-24-3](https://www.bing.com/th?id=OHR.ThreeWildebeest_JA-JP2908704390_UHD.jpg)
+2023-04-25
+----------------
+![2023-04-25-0](https://www.bing.com/th?id=OHR.AdelieWPD_ZH-CN8434233391_UHD.jpg)

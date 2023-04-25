@@ -2005,3 +2005,8 @@ Bing_img
 2023-04-25
 ----------------
 ![2023-04-25-0](https://www.bing.com/th?id=OHR.AdelieWPD_ZH-CN8434233391_UHD.jpg)
+2023-04-26
+----------------
+![2023-04-26-0](https://www.bing.com/th?id=OHR.GHOAudubonDay_ZH-CN8605905801_UHD.jpg)
+![2023-04-26-1](https://www.bing.com/th?id=OHR.NaturalHeritageCenter_DE-DE0230268232_UHD.jpg)
+![2023-04-26-2](https://www.bing.com/th?id=OHR.FrecceTricolori_IT-IT2306161494_UHD.jpg)

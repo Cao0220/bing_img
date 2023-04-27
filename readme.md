@@ -2015,3 +2015,7 @@ Bing_img
 ![2023-04-27-0](https://www.bing.com/th?id=OHR.SulphurMountain_EN-CA6114398245_UHD.jpg)
 ![2023-04-27-1](https://www.bing.com/th?id=OHR.SouthPadre_ZH-CN8788572569_UHD.jpg)
 ![2023-04-27-2](https://www.bing.com/th?id=OHR.SevillaFair_ES-ES2601557373_UHD.jpg)
+2023-04-28
+----------------
+![2023-04-28-0](https://www.bing.com/th?id=OHR.MariposaGrove_ZH-CN8957145435_UHD.jpg)
+![2023-04-28-1](https://www.bing.com/th?id=OHR.ItalyDolomitesSeiserAlm_IT-IT4289580227_UHD.jpg)

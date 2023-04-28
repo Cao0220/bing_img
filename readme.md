@@ -2019,3 +2019,6 @@ Bing_img
 ----------------
 ![2023-04-28-0](https://www.bing.com/th?id=OHR.MariposaGrove_ZH-CN8957145435_UHD.jpg)
 ![2023-04-28-1](https://www.bing.com/th?id=OHR.ItalyDolomitesSeiserAlm_IT-IT4289580227_UHD.jpg)
+2023-04-29
+----------------
+![2023-04-29-0](https://www.bing.com/th?id=OHR.JTNPMilkyWay_ZH-CN9128830420_UHD.jpg)

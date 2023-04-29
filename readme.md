@@ -2022,3 +2022,7 @@ Bing_img
 2023-04-29
 ----------------
 ![2023-04-29-0](https://www.bing.com/th?id=OHR.JTNPMilkyWay_ZH-CN9128830420_UHD.jpg)
+2023-04-30
+----------------
+![2023-04-30-0](https://www.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_UHD.jpg)
+![2023-04-30-1](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_JA-JP1094294616_UHD.jpg)

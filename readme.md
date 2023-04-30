@@ -2026,3 +2026,8 @@ Bing_img
 ----------------
 ![2023-04-30-0](https://www.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_UHD.jpg)
 ![2023-04-30-1](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_JA-JP1094294616_UHD.jpg)
+2023-05-01
+----------------
+![2023-05-01-0](https://www.bing.com/th?id=OHR.QuebecCityBridge_ZH-CN9618387961_UHD.jpg)
+![2023-05-01-1](https://www.bing.com/th?id=OHR.TheHawaMahal_EN-IN8397343140_UHD.jpg)
+![2023-05-01-2](https://www.bing.com/th?id=OHR.KlostersSerneus_JA-JP1346156954_UHD.jpg)

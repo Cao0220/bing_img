@@ -2031,3 +2031,8 @@ Bing_img
 ![2023-05-01-0](https://www.bing.com/th?id=OHR.QuebecCityBridge_ZH-CN9618387961_UHD.jpg)
 ![2023-05-01-1](https://www.bing.com/th?id=OHR.TheHawaMahal_EN-IN8397343140_UHD.jpg)
 ![2023-05-01-2](https://www.bing.com/th?id=OHR.KlostersSerneus_JA-JP1346156954_UHD.jpg)
+2023-05-02
+----------------
+![2023-05-02-0](https://www.bing.com/th?id=OHR.SunflowerBee_DE-DE9415817741_UHD.jpg)
+![2023-05-02-1](https://www.bing.com/th?id=OHR.LilyLaborDay_FR-FR3324597226_UHD.jpg)
+![2023-05-02-2](https://www.bing.com/th?id=OHR.Hachijyuhachi2023_JA-JP1581523255_UHD.jpg)

@@ -2040,3 +2040,6 @@ Bing_img
 ----------------
 ![2023-05-03-0](https://www.bing.com/th?id=OHR.ThreeWildebeest_ZH-CN0175563521_UHD.jpg)
 ![2023-05-03-1](https://www.bing.com/th?id=OHR.Constitution2023_JA-JP2079590135_UHD.jpg)
+2023-05-04
+----------------
+![2023-05-04-0](https://www.bing.com/th?id=OHR.RebelBase_ZH-CN0484516261_UHD.jpg)

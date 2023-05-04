@@ -2043,3 +2043,7 @@ Bing_img
 2023-05-04
 ----------------
 ![2023-05-04-0](https://www.bing.com/th?id=OHR.RebelBase_ZH-CN0484516261_UHD.jpg)
+2023-05-05
+----------------
+![2023-05-05-0](https://www.bing.com/th?id=OHR.Popocatepetl_ZH-CN5483138337_UHD.jpg)
+![2023-05-05-1](https://www.bing.com/th?id=OHR.ChildDay2023_JA-JP5088360063_UHD.jpg)

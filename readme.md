@@ -2047,3 +2047,8 @@ Bing_img
 ----------------
 ![2023-05-05-0](https://www.bing.com/th?id=OHR.Popocatepetl_ZH-CN5483138337_UHD.jpg)
 ![2023-05-05-1](https://www.bing.com/th?id=OHR.ChildDay2023_JA-JP5088360063_UHD.jpg)
+2023-05-06
+----------------
+![2023-05-06-0](https://www.bing.com/th?id=OHR.BasilicataMatera_ROW8821905616_UHD.jpg)
+![2023-05-06-1](https://www.bing.com/th?id=OHR.Kornblume_ZH-CN0344238832_UHD.jpg)
+![2023-05-06-2](https://www.bing.com/th?id=OHR.HwangmaesanAzaleas_JA-JP5660353966_UHD.jpg)

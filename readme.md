@@ -2056,3 +2056,7 @@ Bing_img
 ----------------
 ![2023-05-07-0](https://www.bing.com/th?id=OHR.SealLaughing_ZH-CN5809094643_UHD.jpg)
 ![2023-05-07-1](https://www.bing.com/th?id=OHR.RheininFlammen_DE-DE8169751630_UHD.jpg)
+2023-05-08
+----------------
+![2023-05-08-0](https://www.bing.com/th?id=OHR.TheChaps_ZH-CN5966508162_UHD.jpg)
+![2023-05-08-1](https://www.bing.com/th?id=OHR.OdocoileusVirginianus_ES-ES7304576288_UHD.jpg)

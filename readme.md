@@ -2074,3 +2074,7 @@ Bing_img
 2023-05-11
 ----------------
 ![2023-05-11-0](https://www.bing.com/th?id=OHR.FootballField_ZH-CN6439594719_UHD.jpg)
+2023-05-12
+----------------
+![2023-05-12-0](https://www.bing.com/th?id=OHR.WildLupine_ZH-CN6623952879_UHD.jpg)
+![2023-05-12-1](https://www.bing.com/th?id=OHR.Bevagna_IT-IT7498659443_UHD.jpg)

@@ -2083,3 +2083,6 @@ Bing_img
 ![2023-05-13-0](https://www.bing.com/th?id=OHR.OttawaTulipFestival_EN-CA7243380203_UHD.jpg)
 ![2023-05-13-1](https://www.bing.com/th?id=OHR.Mannheim_ZH-CN6793377814_UHD.jpg)
 ![2023-05-13-2](https://www.bing.com/th?id=OHR.SonnyBonoPelicans_JA-JP8385085647_UHD.jpg)
+2023-05-14
+----------------
+![2023-05-14-0](https://www.bing.com/th?id=OHR.OdocoileusVirginianus_ZH-CN6941501455_UHD.jpg)

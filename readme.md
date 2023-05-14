@@ -2086,3 +2086,10 @@ Bing_img
 2023-05-14
 ----------------
 ![2023-05-14-0](https://www.bing.com/th?id=OHR.OdocoileusVirginianus_ZH-CN6941501455_UHD.jpg)
+2023-05-15
+----------------
+![2023-05-15-0](https://www.bing.com/th?id=OHR.MorroJable_ZH-CN7382027688_UHD.jpg)
+![2023-05-15-1](https://www.bing.com/th?id=OHR.CordobaCourtyardFlowers_ES-ES5272569194_UHD.jpg)
+![2023-05-15-2](https://www.bing.com/th?id=OHR.ProcidaItaly_FR-FR4386022745_UHD.jpg)
+![2023-05-15-3](https://www.bing.com/th?id=OHR.TheMeghalayaWaterfall_EN-IN6320146549_UHD.jpg)
+![2023-05-15-4](https://www.bing.com/th?id=OHR.AoiMatsuri2023_JA-JP8770594775_UHD.jpg)

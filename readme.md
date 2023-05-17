@@ -2101,3 +2101,7 @@ Bing_img
 ----------------
 ![2023-05-17-0](https://www.bing.com/th?id=OHR.CormorantBridge_ZH-CN7673299694_UHD.jpg)
 ![2023-05-17-1](https://www.bing.com/th?id=OHR.FestivalCannes_FR-FR5682247225_UHD.jpg)
+2023-05-18
+----------------
+![2023-05-18-0](https://www.bing.com/th?id=OHR.SardineBurial_ZH-CN9563091726_UHD.jpg)
+![2023-05-18-1](https://www.bing.com/th?id=OHR.MuseoSoumaya_JA-JP0165923558_UHD.jpg)

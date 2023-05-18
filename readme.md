@@ -2105,3 +2105,7 @@ Bing_img
 ----------------
 ![2023-05-18-0](https://www.bing.com/th?id=OHR.SardineBurial_ZH-CN9563091726_UHD.jpg)
 ![2023-05-18-1](https://www.bing.com/th?id=OHR.MuseoSoumaya_JA-JP0165923558_UHD.jpg)
+2023-05-19
+----------------
+![2023-05-19-0](https://www.bing.com/th?id=OHR.SumatranRhino_ZH-CN4529744910_UHD.jpg)
+![2023-05-19-1](https://www.bing.com/th?id=OHR.HoopoeFathersday_DE-DE8234010695_UHD.jpg)

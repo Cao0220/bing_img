@@ -2109,3 +2109,6 @@ Bing_img
 ----------------
 ![2023-05-19-0](https://www.bing.com/th?id=OHR.SumatranRhino_ZH-CN4529744910_UHD.jpg)
 ![2023-05-19-1](https://www.bing.com/th?id=OHR.HoopoeFathersday_DE-DE8234010695_UHD.jpg)
+2023-05-20
+----------------
+![2023-05-20-0](https://www.bing.com/th?id=OHR.EuropeanHoneybee_ZH-CN5191293837_UHD.jpg)

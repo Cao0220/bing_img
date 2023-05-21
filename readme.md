@@ -2116,3 +2116,8 @@ Bing_img
 ----------------
 ![2023-05-21-0](https://www.bing.com/th?id=OHR.PontdArcole_ZH-CN5348049357_UHD.jpg)
 ![2023-05-21-1](https://www.bing.com/th?id=OHR.wheat2023_JA-JP0808192742_UHD.jpg)
+2023-05-22
+----------------
+![2023-05-22-0](https://www.bing.com/th?id=OHR.BiodiverseCostaRica_ZH-CN5524154131_UHD.jpg)
+![2023-05-22-1](https://www.bing.com/th?id=OHR.BremenScienceMuseum_DE-DE0993762476_UHD.jpg)
+![2023-05-22-2](https://www.bing.com/th?id=OHR.TempsFlors_ES-ES0333200681_UHD.jpg)

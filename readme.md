@@ -2121,3 +2121,7 @@ Bing_img
 ![2023-05-22-0](https://www.bing.com/th?id=OHR.BiodiverseCostaRica_ZH-CN5524154131_UHD.jpg)
 ![2023-05-22-1](https://www.bing.com/th?id=OHR.BremenScienceMuseum_DE-DE0993762476_UHD.jpg)
 ![2023-05-22-2](https://www.bing.com/th?id=OHR.TempsFlors_ES-ES0333200681_UHD.jpg)
+2023-05-23
+----------------
+![2023-05-23-0](https://www.bing.com/th?id=OHR.OttawaParliamentBuildings_EN-CA4289959705_UHD.jpg)
+![2023-05-23-1](https://www.bing.com/th?id=OHR.WesternBoxTurtle_ZH-CN6203163704_UHD.jpg)

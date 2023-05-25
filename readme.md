@@ -2133,3 +2133,7 @@ Bing_img
 2023-05-25
 ----------------
 ![2023-05-25-0](https://www.bing.com/th?id=OHR.SaksunFaroe_ZH-CN7150180006_UHD.jpg)
+2023-05-26
+----------------
+![2023-05-26-0](https://www.bing.com/th?id=OHR.WatSriSawai_ZH-CN7688908090_UHD.jpg)
+![2023-05-26-1](https://www.bing.com/th?id=OHR.OrvietoWell_IT-IT7164285597_UHD.jpg)

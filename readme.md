@@ -2137,3 +2137,7 @@ Bing_img
 ----------------
 ![2023-05-26-0](https://www.bing.com/th?id=OHR.WatSriSawai_ZH-CN7688908090_UHD.jpg)
 ![2023-05-26-1](https://www.bing.com/th?id=OHR.OrvietoWell_IT-IT7164285597_UHD.jpg)
+2023-05-27
+----------------
+![2023-05-27-0](https://www.bing.com/th?id=OHR.AloeDichotomum_ZH-CN7940121733_UHD.jpg)
+![2023-05-27-1](https://www.bing.com/th?id=OHR.ItalyCinqueTerre_IT-IT2256387382_UHD.jpg)

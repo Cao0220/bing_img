@@ -2141,3 +2141,6 @@ Bing_img
 ----------------
 ![2023-05-27-0](https://www.bing.com/th?id=OHR.AloeDichotomum_ZH-CN7940121733_UHD.jpg)
 ![2023-05-27-1](https://www.bing.com/th?id=OHR.ItalyCinqueTerre_IT-IT2256387382_UHD.jpg)
+2023-05-28
+----------------
+![2023-05-28-0](https://www.bing.com/th?id=OHR.TegallalangTerrace_ZH-CN8126456968_UHD.jpg)

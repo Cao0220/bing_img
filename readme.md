@@ -2156,3 +2156,6 @@ Bing_img
 ![2023-05-30-1](https://www.bing.com/th?id=OHR.HiddenBeach_ZH-CN8410568637_UHD.jpg)
 ![2023-05-30-2](https://www.bing.com/th?id=OHR.HistoricWindmill_DE-DE6549232529_UHD.jpg)
 ![2023-05-30-3](https://www.bing.com/th?id=OHR.Silhouetteofmangoes_EN-IN2114366270_UHD.jpg)
+2023-05-31
+----------------
+![2023-05-31-0](https://www.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_UHD.jpg)

@@ -2159,3 +2159,6 @@ Bing_img
 2023-05-31
 ----------------
 ![2023-05-31-0](https://www.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_UHD.jpg)
+2023-06-01
+----------------
+![2023-06-01-0](https://www.bing.com/th?id=OHR.ReefAwareness_ZH-CN8840949729_UHD.jpg)

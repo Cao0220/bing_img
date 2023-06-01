@@ -2162,3 +2162,6 @@ Bing_img
 2023-06-01
 ----------------
 ![2023-06-01-0](https://www.bing.com/th?id=OHR.ReefAwareness_ZH-CN8840949729_UHD.jpg)
+2023-06-02
+----------------
+![2023-06-02-0](https://www.bing.com/th?id=OHR.GemsbokNamibia_ZH-CN0963988839_UHD.jpg)

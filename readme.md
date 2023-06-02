@@ -2165,3 +2165,8 @@ Bing_img
 2023-06-02
 ----------------
 ![2023-06-02-0](https://www.bing.com/th?id=OHR.GemsbokNamibia_ZH-CN0963988839_UHD.jpg)
+2023-06-03
+----------------
+![2023-06-03-0](https://www.bing.com/th?id=OHR.SouthKaibabTrail_ZH-CN1186135534_UHD.jpg)
+![2023-06-03-1](https://www.bing.com/th?id=OHR.TelenganaDay_EN-IN9741280835_UHD.jpg)
+![2023-06-03-2](https://www.bing.com/th?id=OHR.FestadellaRepubblica_IT-IT4688847105_UHD.jpg)

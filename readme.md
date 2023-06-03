@@ -2170,3 +2170,6 @@ Bing_img
 ![2023-06-03-0](https://www.bing.com/th?id=OHR.SouthKaibabTrail_ZH-CN1186135534_UHD.jpg)
 ![2023-06-03-1](https://www.bing.com/th?id=OHR.TelenganaDay_EN-IN9741280835_UHD.jpg)
 ![2023-06-03-2](https://www.bing.com/th?id=OHR.FestadellaRepubblica_IT-IT4688847105_UHD.jpg)
+2023-06-04
+----------------
+![2023-06-04-0](https://www.bing.com/th?id=OHR.MauiBeach_ZH-CN1435658101_UHD.jpg)

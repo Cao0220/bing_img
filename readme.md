@@ -2173,3 +2173,8 @@ Bing_img
 2023-06-04
 ----------------
 ![2023-06-04-0](https://www.bing.com/th?id=OHR.MauiBeach_ZH-CN1435658101_UHD.jpg)
+2023-06-05
+----------------
+![2023-06-05-0](https://www.bing.com/th?id=OHR.WaterfallsSunwaptaValley_ZH-CN1804229850_UHD.jpg)
+![2023-06-05-1](https://www.bing.com/th?id=OHR.OdocoileusVirginianus_FR-FR2394755934_UHD.jpg)
+![2023-06-05-2](https://www.bing.com/th?id=OHR.PlasticParrotfish_JA-JP8663724178_UHD.jpg)

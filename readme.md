@@ -2178,3 +2178,7 @@ Bing_img
 ![2023-06-05-0](https://www.bing.com/th?id=OHR.WaterfallsSunwaptaValley_ZH-CN1804229850_UHD.jpg)
 ![2023-06-05-1](https://www.bing.com/th?id=OHR.OdocoileusVirginianus_FR-FR2394755934_UHD.jpg)
 ![2023-06-05-2](https://www.bing.com/th?id=OHR.PlasticParrotfish_JA-JP8663724178_UHD.jpg)
+2023-06-06
+----------------
+![2023-06-06-0](https://www.bing.com/th?id=OHR.CliffsEtretat_ZH-CN1961838068_UHD.jpg)
+![2023-06-06-1](https://www.bing.com/th?id=OHR.Mangzhong2023_JA-JP8970616377_UHD.jpg)

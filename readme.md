@@ -2182,3 +2182,6 @@ Bing_img
 ----------------
 ![2023-06-06-0](https://www.bing.com/th?id=OHR.CliffsEtretat_ZH-CN1961838068_UHD.jpg)
 ![2023-06-06-1](https://www.bing.com/th?id=OHR.Mangzhong2023_JA-JP8970616377_UHD.jpg)
+2023-06-07
+----------------
+![2023-06-07-0](https://www.bing.com/th?id=OHR.ChacoCulture_ZH-CN2098865361_UHD.jpg)

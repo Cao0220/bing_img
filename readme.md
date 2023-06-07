@@ -2185,3 +2185,6 @@ Bing_img
 2023-06-07
 ----------------
 ![2023-06-07-0](https://www.bing.com/th?id=OHR.ChacoCulture_ZH-CN2098865361_UHD.jpg)
+2023-06-08
+----------------
+![2023-06-08-0](https://www.bing.com/th?id=OHR.PlayfulHumpback_ZH-CN2241016258_UHD.jpg)

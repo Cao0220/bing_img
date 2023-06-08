@@ -2188,3 +2188,6 @@ Bing_img
 2023-06-08
 ----------------
 ![2023-06-08-0](https://www.bing.com/th?id=OHR.PlayfulHumpback_ZH-CN2241016258_UHD.jpg)
+2023-06-09
+----------------
+![2023-06-09-0](https://www.bing.com/th?id=OHR.BalloonsTurkey_ZH-CN2791109350_UHD.jpg)

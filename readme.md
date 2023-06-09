@@ -2191,3 +2191,7 @@ Bing_img
 2023-06-09
 ----------------
 ![2023-06-09-0](https://www.bing.com/th?id=OHR.BalloonsTurkey_ZH-CN2791109350_UHD.jpg)
+2023-06-10
+----------------
+![2023-06-10-0](https://www.bing.com/th?id=OHR.PortugalDay_ZH-CN2939429166_UHD.jpg)
+![2023-06-10-1](https://www.bing.com/th?id=OHR.AlfombrasElche_ES-ES1920873570_UHD.jpg)

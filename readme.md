@@ -2200,3 +2200,7 @@ Bing_img
 ![2023-06-11-0](https://www.bing.com/th?id=OHR.GoliathHeron_ZH-CN2413747227_UHD.jpg)
 ![2023-06-11-1](https://www.bing.com/th?id=OHR.LeMansCentenary_FR-FR2969423081_UHD.jpg)
 ![2023-06-11-2](https://www.bing.com/th?id=OHR.Ajisai2023_JA-JP0262225341_UHD.jpg)
+2023-06-12
+----------------
+![2023-06-12-0](https://www.bing.com/th?id=OHR.BigBendAnniv_ZH-CN3445097868_UHD.jpg)
+![2023-06-12-1](https://www.bing.com/th?id=OHR.GartenTagTulpen_DE-DE7717762871_UHD.jpg)

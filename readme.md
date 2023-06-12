@@ -2204,3 +2204,6 @@ Bing_img
 ----------------
 ![2023-06-12-0](https://www.bing.com/th?id=OHR.BigBendAnniv_ZH-CN3445097868_UHD.jpg)
 ![2023-06-12-1](https://www.bing.com/th?id=OHR.GartenTagTulpen_DE-DE7717762871_UHD.jpg)
+2023-06-13
+----------------
+![2023-06-13-0](https://www.bing.com/th?id=OHR.OkefenokeeSwamp_ZH-CN3640203783_UHD.jpg)

@@ -2207,3 +2207,8 @@ Bing_img
 2023-06-13
 ----------------
 ![2023-06-13-0](https://www.bing.com/th?id=OHR.OkefenokeeSwamp_ZH-CN3640203783_UHD.jpg)
+2023-06-14
+----------------
+![2023-06-14-0](https://www.bing.com/th?id=OHR.PassauSunsetJune_ZH-CN7563956674_UHD.jpg)
+![2023-06-14-1](https://www.bing.com/th?id=OHR.CastelluccioUmbria_IT-IT4944270639_UHD.jpg)
+![2023-06-14-2](https://www.bing.com/th?id=OHR.GoliathHeron_JA-JP7916095808_UHD.jpg)

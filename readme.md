@@ -2212,3 +2212,10 @@ Bing_img
 ![2023-06-14-0](https://www.bing.com/th?id=OHR.PassauSunsetJune_ZH-CN7563956674_UHD.jpg)
 ![2023-06-14-1](https://www.bing.com/th?id=OHR.CastelluccioUmbria_IT-IT4944270639_UHD.jpg)
 ![2023-06-14-2](https://www.bing.com/th?id=OHR.GoliathHeron_JA-JP7916095808_UHD.jpg)
+2023-06-15
+----------------
+![2023-06-15-0](https://www.bing.com/th?id=OHR.WaterfallsSunwaptaValley_EN-CA1919679113_UHD.jpg)
+![2023-06-15-1](https://www.bing.com/th?id=OHR.SmokyFireflies_ZH-CN3840923626_UHD.jpg)
+![2023-06-15-2](https://www.bing.com/th?id=OHR.TablasDeDaimiel_ES-ES1986401744_UHD.jpg)
+![2023-06-15-3](https://www.bing.com/th?id=OHR.PortugalDay_FR-FR4102767310_UHD.jpg)
+![2023-06-15-4](https://www.bing.com/th?id=OHR.RuralPunjab_EN-IN7128242068_UHD.jpg)

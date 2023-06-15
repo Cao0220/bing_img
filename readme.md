@@ -2219,3 +2219,6 @@ Bing_img
 ![2023-06-15-2](https://www.bing.com/th?id=OHR.TablasDeDaimiel_ES-ES1986401744_UHD.jpg)
 ![2023-06-15-3](https://www.bing.com/th?id=OHR.PortugalDay_FR-FR4102767310_UHD.jpg)
 ![2023-06-15-4](https://www.bing.com/th?id=OHR.RuralPunjab_EN-IN7128242068_UHD.jpg)
+2023-06-16
+----------------
+![2023-06-16-0](https://www.bing.com/th?id=OHR.HawksbillTurtle_ZH-CN0562063994_UHD.jpg)

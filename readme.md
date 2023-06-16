@@ -2222,3 +2222,6 @@ Bing_img
 2023-06-16
 ----------------
 ![2023-06-16-0](https://www.bing.com/th?id=OHR.HawksbillTurtle_ZH-CN0562063994_UHD.jpg)
+2023-06-17
+----------------
+![2023-06-17-0](https://www.bing.com/th?id=OHR.SurfSanDiego_ZH-CN1485510748_UHD.jpg)

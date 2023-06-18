@@ -2230,3 +2230,8 @@ Bing_img
 ![2023-06-18-0](https://www.bing.com/th?id=OHR.CastelluccioUmbria_ROW7425305356_UHD.jpg)
 ![2023-06-18-1](https://www.bing.com/th?id=OHR.TernFather_ZH-CN1860589914_UHD.jpg)
 ![2023-06-18-2](https://www.bing.com/th?id=OHR.HampiTemple_EN-IN8875081235_UHD.jpg)
+2023-06-19
+----------------
+![2023-06-19-0](https://www.bing.com/th?id=OHR.Fawn_ZH-CN2172152960_UHD.jpg)
+![2023-06-19-1](https://www.bing.com/th?id=OHR.RomeView_IT-IT9288537462_UHD.jpg)
+![2023-06-19-2](https://www.bing.com/th?id=OHR.QuebecCityBridge_JA-JP1534549481_UHD.jpg)

@@ -2235,3 +2235,7 @@ Bing_img
 ![2023-06-19-0](https://www.bing.com/th?id=OHR.Fawn_ZH-CN2172152960_UHD.jpg)
 ![2023-06-19-1](https://www.bing.com/th?id=OHR.RomeView_IT-IT9288537462_UHD.jpg)
 ![2023-06-19-2](https://www.bing.com/th?id=OHR.QuebecCityBridge_JA-JP1534549481_UHD.jpg)
+2023-06-20
+----------------
+![2023-06-20-0](https://www.bing.com/th?id=OHR.StonehengeSalisbury_EN-CA5914565935_UHD.jpg)
+![2023-06-20-1](https://www.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_UHD.jpg)

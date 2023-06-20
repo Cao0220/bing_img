@@ -2239,3 +2239,7 @@ Bing_img
 ----------------
 ![2023-06-20-0](https://www.bing.com/th?id=OHR.StonehengeSalisbury_EN-CA5914565935_UHD.jpg)
 ![2023-06-20-1](https://www.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_UHD.jpg)
+2023-06-21
+----------------
+![2023-06-21-0](https://www.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_UHD.jpg)
+![2023-06-21-1](https://www.bing.com/th?id=OHR.Summersolstice2023_JA-JP3731281630_UHD.jpg)

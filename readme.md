@@ -2243,3 +2243,9 @@ Bing_img
 ----------------
 ![2023-06-21-0](https://www.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_UHD.jpg)
 ![2023-06-21-1](https://www.bing.com/th?id=OHR.Summersolstice2023_JA-JP3731281630_UHD.jpg)
+2023-06-22
+----------------
+![2023-06-22-0](https://www.bing.com/th?id=OHR.StonehengeSalisbury_ROW8670821497_UHD.jpg)
+![2023-06-22-1](https://www.bing.com/th?id=OHR.NationalIndigenousPeoplesDay_EN-CA7883814929_UHD.jpg)
+![2023-06-22-2](https://www.bing.com/th?id=OHR.DragonBoatFestival2023_ZH-CN5255671687_UHD.jpg)
+![2023-06-22-3](https://www.bing.com/th?id=OHR.PeruAmazon_JA-JP3970237476_UHD.jpg)

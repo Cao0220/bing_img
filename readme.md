@@ -2249,3 +2249,6 @@ Bing_img
 ![2023-06-22-1](https://www.bing.com/th?id=OHR.NationalIndigenousPeoplesDay_EN-CA7883814929_UHD.jpg)
 ![2023-06-22-2](https://www.bing.com/th?id=OHR.DragonBoatFestival2023_ZH-CN5255671687_UHD.jpg)
 ![2023-06-22-3](https://www.bing.com/th?id=OHR.PeruAmazon_JA-JP3970237476_UHD.jpg)
+2023-06-23
+----------------
+![2023-06-23-0](https://www.bing.com/th?id=OHR.PollinatorMonarch_ZH-CN5556988827_UHD.jpg)

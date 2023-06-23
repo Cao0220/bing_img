@@ -2252,3 +2252,7 @@ Bing_img
 2023-06-23
 ----------------
 ![2023-06-23-0](https://www.bing.com/th?id=OHR.PollinatorMonarch_ZH-CN5556988827_UHD.jpg)
+2023-06-24
+----------------
+![2023-06-24-0](https://www.bing.com/th?id=OHR.NhaTrang_ZH-CN5834700560_UHD.jpg)
+![2023-06-24-1](https://www.bing.com/th?id=OHR.SaintMichel_FR-FR7818696393_UHD.jpg)

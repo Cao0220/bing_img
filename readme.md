@@ -2261,3 +2261,6 @@ Bing_img
 ![2023-06-25-0](https://www.bing.com/th?id=OHR.PetraTreasury_ZH-CN6007151900_UHD.jpg)
 ![2023-06-25-1](https://www.bing.com/th?id=OHR.SonyCenterDome_DE-DE4567605388_UHD.jpg)
 ![2023-06-25-2](https://www.bing.com/th?id=OHR.SanJuanMalaga_ES-ES1708662022_UHD.jpg)
+2023-06-26
+----------------
+![2023-06-26-0](https://www.bing.com/th?id=OHR.VillandryGarden_ZH-CN6140359139_UHD.jpg)

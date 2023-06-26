@@ -2264,3 +2264,6 @@ Bing_img
 2023-06-26
 ----------------
 ![2023-06-26-0](https://www.bing.com/th?id=OHR.VillandryGarden_ZH-CN6140359139_UHD.jpg)
+2023-06-27
+----------------
+![2023-06-27-0](https://www.bing.com/th?id=OHR.SedonaSunset_ZH-CN6289462383_UHD.jpg)

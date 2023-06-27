@@ -2267,3 +2267,7 @@ Bing_img
 2023-06-27
 ----------------
 ![2023-06-27-0](https://www.bing.com/th?id=OHR.SedonaSunset_ZH-CN6289462383_UHD.jpg)
+2023-06-28
+----------------
+![2023-06-28-0](https://www.bing.com/th?id=OHR.ItalyCinqueTerre_ZH-CN6495965228_UHD.jpg)
+![2023-06-28-1](https://www.bing.com/th?id=OHR.PrideIceland_JA-JP5294310322_UHD.jpg)

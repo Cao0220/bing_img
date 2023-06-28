@@ -2271,3 +2271,7 @@ Bing_img
 ----------------
 ![2023-06-28-0](https://www.bing.com/th?id=OHR.ItalyCinqueTerre_ZH-CN6495965228_UHD.jpg)
 ![2023-06-28-1](https://www.bing.com/th?id=OHR.PrideIceland_JA-JP5294310322_UHD.jpg)
+2023-06-29
+----------------
+![2023-06-29-0](https://www.bing.com/th?id=OHR.BanyakIslands_ZH-CN6620304821_UHD.jpg)
+![2023-06-29-1](https://www.bing.com/th?id=OHR.PrideMunich_DE-DE6752546135_UHD.jpg)

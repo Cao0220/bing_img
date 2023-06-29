@@ -2275,3 +2275,8 @@ Bing_img
 ----------------
 ![2023-06-29-0](https://www.bing.com/th?id=OHR.BanyakIslands_ZH-CN6620304821_UHD.jpg)
 ![2023-06-29-1](https://www.bing.com/th?id=OHR.PrideMunich_DE-DE6752546135_UHD.jpg)
+2023-06-30
+----------------
+![2023-06-30-0](https://www.bing.com/th?id=OHR.ClamBears_ZH-CN5686721500_UHD.jpg)
+![2023-06-30-1](https://www.bing.com/th?id=OHR.WineBattle_ES-ES2245527937_UHD.jpg)
+![2023-06-30-2](https://www.bing.com/th?id=OHR.AlgheroCapoCaccia_IT-IT6529245223_UHD.jpg)

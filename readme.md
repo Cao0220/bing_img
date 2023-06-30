@@ -2280,3 +2280,9 @@ Bing_img
 ![2023-06-30-0](https://www.bing.com/th?id=OHR.ClamBears_ZH-CN5686721500_UHD.jpg)
 ![2023-06-30-1](https://www.bing.com/th?id=OHR.WineBattle_ES-ES2245527937_UHD.jpg)
 ![2023-06-30-2](https://www.bing.com/th?id=OHR.AlgheroCapoCaccia_IT-IT6529245223_UHD.jpg)
+2023-07-01
+----------------
+![2023-07-01-0](https://www.bing.com/th?id=OHR.RomeView_ZH-CN5882212305_UHD.jpg)
+![2023-07-01-1](https://www.bing.com/th?id=OHR.Footbridge_DE-DE3295548042_UHD.jpg)
+![2023-07-01-2](https://www.bing.com/th?id=OHR.LakeBraies_IT-IT3865715087_UHD.jpg)
+![2023-07-01-3](https://www.bing.com/th?id=OHR.PelotonPont_JA-JP8854375139_UHD.jpg)

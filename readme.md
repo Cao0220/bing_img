@@ -2286,3 +2286,7 @@ Bing_img
 ![2023-07-01-1](https://www.bing.com/th?id=OHR.Footbridge_DE-DE3295548042_UHD.jpg)
 ![2023-07-01-2](https://www.bing.com/th?id=OHR.LakeBraies_IT-IT3865715087_UHD.jpg)
 ![2023-07-01-3](https://www.bing.com/th?id=OHR.PelotonPont_JA-JP8854375139_UHD.jpg)
+2023-07-02
+----------------
+![2023-07-02-0](https://www.bing.com/th?id=OHR.CanadaDay_EN-CA1530076015_UHD.jpg)
+![2023-07-02-1](https://www.bing.com/th?id=OHR.HalfwayBoats_ZH-CN3563044251_UHD.jpg)

@@ -2290,3 +2290,7 @@ Bing_img
 ----------------
 ![2023-07-02-0](https://www.bing.com/th?id=OHR.CanadaDay_EN-CA1530076015_UHD.jpg)
 ![2023-07-02-1](https://www.bing.com/th?id=OHR.HalfwayBoats_ZH-CN3563044251_UHD.jpg)
+2023-07-03
+----------------
+![2023-07-03-0](https://www.bing.com/th?id=OHR.CoyoteBanff_ZH-CN4183627255_UHD.jpg)
+![2023-07-03-1](https://www.bing.com/th?id=OHR.Atoll_JA-JP8732763114_UHD.jpg)

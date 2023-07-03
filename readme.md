@@ -2294,3 +2294,7 @@ Bing_img
 ----------------
 ![2023-07-03-0](https://www.bing.com/th?id=OHR.CoyoteBanff_ZH-CN4183627255_UHD.jpg)
 ![2023-07-03-1](https://www.bing.com/th?id=OHR.Atoll_JA-JP8732763114_UHD.jpg)
+2023-07-04
+----------------
+![2023-07-04-0](https://www.bing.com/th?id=OHR.GrasslandsNationalParkSaskachewan_ZH-CN6530285883_UHD.jpg)
+![2023-07-04-1](https://www.bing.com/th?id=OHR.SomersetLavender_JA-JP1412605129_UHD.jpg)

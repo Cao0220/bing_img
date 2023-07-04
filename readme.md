@@ -2298,3 +2298,7 @@ Bing_img
 ----------------
 ![2023-07-04-0](https://www.bing.com/th?id=OHR.GrasslandsNationalParkSaskachewan_ZH-CN6530285883_UHD.jpg)
 ![2023-07-04-1](https://www.bing.com/th?id=OHR.SomersetLavender_JA-JP1412605129_UHD.jpg)
+2023-07-05
+----------------
+![2023-07-05-0](https://www.bing.com/th?id=OHR.CorfuBeach_ZH-CN8660068587_UHD.jpg)
+![2023-07-05-1](https://www.bing.com/th?id=OHR.CooperChapel_FR-FR0470140705_UHD.jpg)

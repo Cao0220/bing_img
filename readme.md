@@ -2302,3 +2302,7 @@ Bing_img
 ----------------
 ![2023-07-05-0](https://www.bing.com/th?id=OHR.CorfuBeach_ZH-CN8660068587_UHD.jpg)
 ![2023-07-05-1](https://www.bing.com/th?id=OHR.CooperChapel_FR-FR0470140705_UHD.jpg)
+2023-07-06
+----------------
+![2023-07-06-0](https://www.bing.com/th?id=OHR.HinterseeBavaria_ROW3087159426_UHD.jpg)
+![2023-07-06-1](https://www.bing.com/th?id=OHR.KissingPenguins_ZH-CN5449471262_UHD.jpg)

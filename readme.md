@@ -2314,3 +2314,9 @@ Bing_img
 2023-07-08
 ----------------
 ![2023-07-08-0](https://www.bing.com/th?id=OHR.CooperChapel_ZH-CN1150924688_UHD.jpg)
+2023-07-09
+----------------
+![2023-07-09-0](https://www.bing.com/th?id=OHR.BrightonPalacePier_ROW3449174024_UHD.jpg)
+![2023-07-09-1](https://www.bing.com/th?id=OHR.MoselleRiver_ZH-CN1283415242_UHD.jpg)
+![2023-07-09-2](https://www.bing.com/th?id=OHR.Holidays_FR-FR3009549793_UHD.jpg)
+![2023-07-09-3](https://www.bing.com/th?id=OHR.GardaLake_IT-IT6879693178_UHD.jpg)

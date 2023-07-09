@@ -2320,3 +2320,7 @@ Bing_img
 ![2023-07-09-1](https://www.bing.com/th?id=OHR.MoselleRiver_ZH-CN1283415242_UHD.jpg)
 ![2023-07-09-2](https://www.bing.com/th?id=OHR.Holidays_FR-FR3009549793_UHD.jpg)
 ![2023-07-09-3](https://www.bing.com/th?id=OHR.GardaLake_IT-IT6879693178_UHD.jpg)
+2023-07-10
+----------------
+![2023-07-10-0](https://www.bing.com/th?id=OHR.SomersetLavender_ZH-CN5823464763_UHD.jpg)
+![2023-07-10-1](https://www.bing.com/th?id=OHR.HozukiIchi2023_JA-JP7923753370_UHD.jpg)

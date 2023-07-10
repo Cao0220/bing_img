@@ -2324,3 +2324,6 @@ Bing_img
 ----------------
 ![2023-07-10-0](https://www.bing.com/th?id=OHR.SomersetLavender_ZH-CN5823464763_UHD.jpg)
 ![2023-07-10-1](https://www.bing.com/th?id=OHR.HozukiIchi2023_JA-JP7923753370_UHD.jpg)
+2023-07-11
+----------------
+![2023-07-11-0](https://www.bing.com/th?id=OHR.WorldPopDay_ZH-CN7074706912_UHD.jpg)

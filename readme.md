@@ -2327,3 +2327,6 @@ Bing_img
 2023-07-11
 ----------------
 ![2023-07-11-0](https://www.bing.com/th?id=OHR.WorldPopDay_ZH-CN7074706912_UHD.jpg)
+2023-07-12
+----------------
+![2023-07-12-0](https://www.bing.com/th?id=OHR.NakupendaBeach_ZH-CN7913805608_UHD.jpg)

@@ -2336,3 +2336,6 @@ Bing_img
 ![2023-07-13-1](https://www.bing.com/th?id=OHR.ZhangyeGeopark_ZH-CN1045536243_UHD.jpg)
 ![2023-07-13-2](https://www.bing.com/th?id=OHR.HinterseeBavaria_DE-DE6864169933_UHD.jpg)
 ![2023-07-13-3](https://www.bing.com/th?id=OHR.AsturiasCovadonga_ES-ES5405317829_UHD.jpg)
+2023-07-14
+----------------
+![2023-07-14-0](https://www.bing.com/th?id=OHR.BlacktipSharks_ZH-CN6532659465_UHD.jpg)

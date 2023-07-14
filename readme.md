@@ -2339,3 +2339,9 @@ Bing_img
 2023-07-14
 ----------------
 ![2023-07-14-0](https://www.bing.com/th?id=OHR.BlacktipSharks_ZH-CN6532659465_UHD.jpg)
+2023-07-15
+----------------
+![2023-07-15-0](https://www.bing.com/th?id=OHR.CastelmazzanoSunrise_ZH-CN6733875019_UHD.jpg)
+![2023-07-15-1](https://www.bing.com/th?id=OHR.BerlinBotanicGarden_DE-DE9639531635_UHD.jpg)
+![2023-07-15-2](https://www.bing.com/th?id=OHR.BastilleDay_FR-FR9015357595_UHD.jpg)
+![2023-07-15-3](https://www.bing.com/th?id=OHR.PassauSunsetJune_EN-IN9912207369_UHD.jpg)

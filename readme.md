@@ -2345,3 +2345,7 @@ Bing_img
 ![2023-07-15-1](https://www.bing.com/th?id=OHR.BerlinBotanicGarden_DE-DE9639531635_UHD.jpg)
 ![2023-07-15-2](https://www.bing.com/th?id=OHR.BastilleDay_FR-FR9015357595_UHD.jpg)
 ![2023-07-15-3](https://www.bing.com/th?id=OHR.PassauSunsetJune_EN-IN9912207369_UHD.jpg)
+2023-07-16
+----------------
+![2023-07-16-0](https://www.bing.com/th?id=OHR.BearHoleBrook_ZH-CN6855885557_UHD.jpg)
+![2023-07-16-1](https://www.bing.com/th?id=OHR.AvignonPope_FR-FR9286778521_UHD.jpg)

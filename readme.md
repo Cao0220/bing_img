@@ -2349,3 +2349,7 @@ Bing_img
 ----------------
 ![2023-07-16-0](https://www.bing.com/th?id=OHR.BearHoleBrook_ZH-CN6855885557_UHD.jpg)
 ![2023-07-16-1](https://www.bing.com/th?id=OHR.AvignonPope_FR-FR9286778521_UHD.jpg)
+2023-07-17
+----------------
+![2023-07-17-0](https://www.bing.com/th?id=OHR.CavanCastle_ZH-CN7109317900_UHD.jpg)
+![2023-07-17-1](https://www.bing.com/th?id=OHR.MarineDay2023_JA-JP7484364460_UHD.jpg)

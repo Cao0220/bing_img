@@ -2353,3 +2353,6 @@ Bing_img
 ----------------
 ![2023-07-17-0](https://www.bing.com/th?id=OHR.CavanCastle_ZH-CN7109317900_UHD.jpg)
 ![2023-07-17-1](https://www.bing.com/th?id=OHR.MarineDay2023_JA-JP7484364460_UHD.jpg)
+2023-07-18
+----------------
+![2023-07-18-0](https://www.bing.com/th?id=OHR.BucerosBicornis_ZH-CN7795050230_UHD.jpg)

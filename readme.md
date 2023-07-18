@@ -2356,3 +2356,7 @@ Bing_img
 2023-07-18
 ----------------
 ![2023-07-18-0](https://www.bing.com/th?id=OHR.BucerosBicornis_ZH-CN7795050230_UHD.jpg)
+2023-07-19
+----------------
+![2023-07-19-0](https://www.bing.com/th?id=OHR.CrescentLake_ZH-CN8294493832_UHD.jpg)
+![2023-07-19-1](https://www.bing.com/th?id=OHR.HinterseeLake_DE-DE7814491503_UHD.jpg)

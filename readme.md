@@ -2360,3 +2360,7 @@ Bing_img
 ----------------
 ![2023-07-19-0](https://www.bing.com/th?id=OHR.CrescentLake_ZH-CN8294493832_UHD.jpg)
 ![2023-07-19-1](https://www.bing.com/th?id=OHR.HinterseeLake_DE-DE7814491503_UHD.jpg)
+2023-07-20
+----------------
+![2023-07-20-0](https://www.bing.com/th?id=OHR.MoonDayArtemis_ZH-CN8743374853_UHD.jpg)
+![2023-07-20-1](https://www.bing.com/th?id=OHR.DuomoModica_IT-IT4321167712_UHD.jpg)

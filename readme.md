@@ -2367,3 +2367,8 @@ Bing_img
 2023-07-21
 ----------------
 ![2023-07-21-0](https://www.bing.com/th?id=OHR.BridgeNorway_ZH-CN9063814637_UHD.jpg)
+2023-07-22
+----------------
+![2023-07-22-0](https://www.bing.com/th?id=OHR.HammockDay_ZH-CN9368760971_UHD.jpg)
+![2023-07-22-1](https://www.bing.com/th?id=OHR.PlayaDeLaConcha_ES-ES4240005438_UHD.jpg)
+![2023-07-22-2](https://www.bing.com/th?id=OHR.CavanCastle_JA-JP9264302240_UHD.jpg)

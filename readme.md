@@ -2376,3 +2376,7 @@ Bing_img
 ----------------
 ![2023-07-23-0](https://www.bing.com/th?id=OHR.TeaEstate_ZH-CN9645412630_UHD.jpg)
 ![2023-07-23-1](https://www.bing.com/th?id=OHR.PolignanoBari_IT-IT5469069953_UHD.jpg)
+2023-07-24
+----------------
+![2023-07-24-0](https://www.bing.com/th?id=OHR.CalgaryCentralLibrary_EN-CA0835286541_UHD.jpg)
+![2023-07-24-1](https://www.bing.com/th?id=OHR.ZebraCousins_ZH-CN8159888859_UHD.jpg)

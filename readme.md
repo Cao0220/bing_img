@@ -2380,3 +2380,6 @@ Bing_img
 ----------------
 ![2023-07-24-0](https://www.bing.com/th?id=OHR.CalgaryCentralLibrary_EN-CA0835286541_UHD.jpg)
 ![2023-07-24-1](https://www.bing.com/th?id=OHR.ZebraCousins_ZH-CN8159888859_UHD.jpg)
+2023-07-25
+----------------
+![2023-07-25-0](https://www.bing.com/th?id=OHR.LasLagunas_ZH-CN9917702340_UHD.jpg)

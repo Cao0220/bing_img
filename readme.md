@@ -2383,3 +2383,7 @@ Bing_img
 2023-07-25
 ----------------
 ![2023-07-25-0](https://www.bing.com/th?id=OHR.LasLagunas_ZH-CN9917702340_UHD.jpg)
+2023-07-26
+----------------
+![2023-07-26-0](https://www.bing.com/th?id=OHR.MangrovePark_ZH-CN0208518370_UHD.jpg)
+![2023-07-26-1](https://www.bing.com/th?id=OHR.TenerifePool_ES-ES5200653811_UHD.jpg)

@@ -2387,3 +2387,6 @@ Bing_img
 ----------------
 ![2023-07-26-0](https://www.bing.com/th?id=OHR.MangrovePark_ZH-CN0208518370_UHD.jpg)
 ![2023-07-26-1](https://www.bing.com/th?id=OHR.TenerifePool_ES-ES5200653811_UHD.jpg)
+2023-07-27
+----------------
+![2023-07-27-0](https://www.bing.com/th?id=OHR.ParisLouvre_ZH-CN0341884841_UHD.jpg)

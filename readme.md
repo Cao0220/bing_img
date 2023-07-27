@@ -2390,3 +2390,6 @@ Bing_img
 2023-07-27
 ----------------
 ![2023-07-27-0](https://www.bing.com/th?id=OHR.ParisLouvre_ZH-CN0341884841_UHD.jpg)
+2023-07-28
+----------------
+![2023-07-28-0](https://www.bing.com/th?id=OHR.SanBlasIslands_ZH-CN6320572106_UHD.jpg)

@@ -2413,3 +2413,8 @@ Bing_img
 2023-08-03
 ----------------
 ![2023-08-03-0](https://www.bing.com/th?id=OHR.ZelenciSprings_ZH-CN8022746409_UHD.jpg)
+2023-08-04
+----------------
+![2023-08-04-0](https://www.bing.com/th?id=OHR.HelmckenWaterfall_EN-CA1606911652_UHD.jpg)
+![2023-08-04-1](https://www.bing.com/th?id=OHR.GothicRuins_ZH-CN8317467997_UHD.jpg)
+![2023-08-04-2](https://www.bing.com/th?id=OHR.NaganoPond_JA-JP0131888809_UHD.jpg)

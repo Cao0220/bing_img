@@ -2421,3 +2421,8 @@ Bing_img
 2023-08-05
 ----------------
 ![2023-08-05-0](https://www.bing.com/th?id=OHR.AtlanticPuffin_ZH-CN8523220989_UHD.jpg)
+2023-08-06
+----------------
+![2023-08-06-0](https://www.bing.com/th?id=OHR.NaganoPond_ZH-CN8794832798_UHD.jpg)
+![2023-08-06-1](https://www.bing.com/th?id=OHR.Bogenbruecke_DE-DE4748287145_UHD.jpg)
+![2023-08-06-2](https://www.bing.com/th?id=OHR.HiroshimaPeace2023_JA-JP0775364620_UHD.jpg)

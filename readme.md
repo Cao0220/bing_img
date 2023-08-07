@@ -2429,3 +2429,7 @@ Bing_img
 2023-08-07
 ----------------
 ![2023-08-07-0](https://www.bing.com/th?id=OHR.BodieNC_ZH-CN9027999004_UHD.jpg)
+2023-08-08
+----------------
+![2023-08-08-0](https://www.bing.com/th?id=OHR.LiQiu2023_ZH-CN9197909278_UHD.jpg)
+![2023-08-08-1](https://www.bing.com/th?id=OHR.InfinityTaipei_JA-JP1456482125_UHD.jpg)

@@ -2433,3 +2433,9 @@ Bing_img
 ----------------
 ![2023-08-08-0](https://www.bing.com/th?id=OHR.LiQiu2023_ZH-CN9197909278_UHD.jpg)
 ![2023-08-08-1](https://www.bing.com/th?id=OHR.InfinityTaipei_JA-JP1456482125_UHD.jpg)
+2023-08-09
+----------------
+![2023-08-09-0](https://www.bing.com/th?id=OHR.PandiZucchero_ZH-CN9833521922_UHD.jpg)
+![2023-08-09-1](https://www.bing.com/th?id=OHR.LavenderFrance_FR-FR1870932466_UHD.jpg)
+![2023-08-09-2](https://www.bing.com/th?id=OHR.BlacktipSharks_EN-IN7510591621_UHD.jpg)
+![2023-08-09-3](https://www.bing.com/th?id=OHR.BathurstArt_JA-JP1737755187_UHD.jpg)

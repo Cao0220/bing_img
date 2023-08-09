@@ -2439,3 +2439,6 @@ Bing_img
 ![2023-08-09-1](https://www.bing.com/th?id=OHR.LavenderFrance_FR-FR1870932466_UHD.jpg)
 ![2023-08-09-2](https://www.bing.com/th?id=OHR.BlacktipSharks_EN-IN7510591621_UHD.jpg)
 ![2023-08-09-3](https://www.bing.com/th?id=OHR.BathurstArt_JA-JP1737755187_UHD.jpg)
+2023-08-10
+----------------
+![2023-08-10-0](https://www.bing.com/th?id=OHR.WorldLionDay_ZH-CN0525835107_UHD.jpg)

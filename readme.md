@@ -2442,3 +2442,8 @@ Bing_img
 2023-08-10
 ----------------
 ![2023-08-10-0](https://www.bing.com/th?id=OHR.WorldLionDay_ZH-CN0525835107_UHD.jpg)
+2023-08-11
+----------------
+![2023-08-11-0](https://www.bing.com/th?id=OHR.JupiterArtland_ZH-CN7955790073_UHD.jpg)
+![2023-08-11-1](https://www.bing.com/th?id=OHR.SanLorenzo_IT-IT6813005251_UHD.jpg)
+![2023-08-11-2](https://www.bing.com/th?id=OHR.MountainDay2023_JA-JP1098960867_UHD.jpg)

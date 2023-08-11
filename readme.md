@@ -2447,3 +2447,9 @@ Bing_img
 ![2023-08-11-0](https://www.bing.com/th?id=OHR.JupiterArtland_ZH-CN7955790073_UHD.jpg)
 ![2023-08-11-1](https://www.bing.com/th?id=OHR.SanLorenzo_IT-IT6813005251_UHD.jpg)
 ![2023-08-11-2](https://www.bing.com/th?id=OHR.MountainDay2023_JA-JP1098960867_UHD.jpg)
+2023-08-12
+----------------
+![2023-08-12-0](https://www.bing.com/th?id=OHR.HelmckenWaterfall_ROW6809694666_UHD.jpg)
+![2023-08-12-1](https://www.bing.com/th?id=OHR.GwaiiHaanasNP_EN-CA1703637950_UHD.jpg)
+![2023-08-12-2](https://www.bing.com/th?id=OHR.ThreeElephants_ZH-CN8708711085_UHD.jpg)
+![2023-08-12-3](https://www.bing.com/th?id=OHR.MarsalaSalt_IT-IT4114634251_UHD.jpg)

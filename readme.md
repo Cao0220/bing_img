@@ -2453,3 +2453,6 @@ Bing_img
 ![2023-08-12-1](https://www.bing.com/th?id=OHR.GwaiiHaanasNP_EN-CA1703637950_UHD.jpg)
 ![2023-08-12-2](https://www.bing.com/th?id=OHR.ThreeElephants_ZH-CN8708711085_UHD.jpg)
 ![2023-08-12-3](https://www.bing.com/th?id=OHR.MarsalaSalt_IT-IT4114634251_UHD.jpg)
+2023-08-13
+----------------
+![2023-08-13-0](https://www.bing.com/th?id=OHR.PerseidsOregon_ZH-CN9427980491_UHD.jpg)

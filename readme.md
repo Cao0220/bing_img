@@ -2456,3 +2456,8 @@ Bing_img
 2023-08-13
 ----------------
 ![2023-08-13-0](https://www.bing.com/th?id=OHR.PerseidsOregon_ZH-CN9427980491_UHD.jpg)
+2023-08-14
+----------------
+![2023-08-14-0](https://www.bing.com/th?id=OHR.GeckoLeaf_ZH-CN9908456174_UHD.jpg)
+![2023-08-14-1](https://www.bing.com/th?id=OHR.Perseidas_ES-ES6990766154_UHD.jpg)
+![2023-08-14-2](https://www.bing.com/th?id=OHR.KeyWestBridge_JA-JP1406003340_UHD.jpg)

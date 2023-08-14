@@ -2461,3 +2461,7 @@ Bing_img
 ![2023-08-14-0](https://www.bing.com/th?id=OHR.GeckoLeaf_ZH-CN9908456174_UHD.jpg)
 ![2023-08-14-1](https://www.bing.com/th?id=OHR.Perseidas_ES-ES6990766154_UHD.jpg)
 ![2023-08-14-2](https://www.bing.com/th?id=OHR.KeyWestBridge_JA-JP1406003340_UHD.jpg)
+2023-08-15
+----------------
+![2023-08-15-0](https://www.bing.com/th?id=OHR.TaorminaSquare_ZH-CN0273325652_UHD.jpg)
+![2023-08-15-1](https://www.bing.com/th?id=OHR.VerdonCanyon_FR-FR4159848707_UHD.jpg)

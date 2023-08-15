@@ -2465,3 +2465,10 @@ Bing_img
 ----------------
 ![2023-08-15-0](https://www.bing.com/th?id=OHR.TaorminaSquare_ZH-CN0273325652_UHD.jpg)
 ![2023-08-15-1](https://www.bing.com/th?id=OHR.VerdonCanyon_FR-FR4159848707_UHD.jpg)
+2023-08-16
+----------------
+![2023-08-16-0](https://www.bing.com/th?id=OHR.KeyWestBridge_ZH-CN2540450067_UHD.jpg)
+![2023-08-16-1](https://www.bing.com/th?id=OHR.FeriaDeMalaga_ES-ES7110024776_UHD.jpg)
+![2023-08-16-2](https://www.bing.com/th?id=OHR.IndependenceDay_EN-IN6025298765_UHD.jpg)
+![2023-08-16-3](https://www.bing.com/th?id=OHR.LaMaddalena_IT-IT0405976334_UHD.jpg)
+![2023-08-16-4](https://www.bing.com/th?id=OHR.GozanOkuribi2023_JA-JP6571429669_UHD.jpg)

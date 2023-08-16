@@ -2472,3 +2472,7 @@ Bing_img
 ![2023-08-16-2](https://www.bing.com/th?id=OHR.IndependenceDay_EN-IN6025298765_UHD.jpg)
 ![2023-08-16-3](https://www.bing.com/th?id=OHR.LaMaddalena_IT-IT0405976334_UHD.jpg)
 ![2023-08-16-4](https://www.bing.com/th?id=OHR.GozanOkuribi2023_JA-JP6571429669_UHD.jpg)
+2023-08-17
+----------------
+![2023-08-17-0](https://www.bing.com/th?id=OHR.HelmckenWaterfall_ZH-CN9694510761_UHD.jpg)
+![2023-08-17-1](https://www.bing.com/th?id=OHR.GrasslandsNationalParkSaskachewan_JA-JP3274643778_UHD.jpg)

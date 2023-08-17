@@ -2476,3 +2476,12 @@ Bing_img
 ----------------
 ![2023-08-17-0](https://www.bing.com/th?id=OHR.HelmckenWaterfall_ZH-CN9694510761_UHD.jpg)
 ![2023-08-17-1](https://www.bing.com/th?id=OHR.GrasslandsNationalParkSaskachewan_JA-JP3274643778_UHD.jpg)
+2023-08-18
+----------------
+![2023-08-18-0](https://www.bing.com/th?id=OHR.Rothenburg_ROW1531649708_UHD.jpg)
+![2023-08-18-1](https://www.bing.com/th?id=OHR.CamelsAbove_PT-BR2394632603_UHD.jpg)
+![2023-08-18-2](https://www.bing.com/th?id=OHR.AvatarMountain_EN-CA1615371871_UHD.jpg)
+![2023-08-18-3](https://www.bing.com/th?id=OHR.BucerosBicornis_DE-DE7282207548_UHD.jpg)
+![2023-08-18-4](https://www.bing.com/th?id=OHR.TaorminaSquare_ES-ES8103075674_UHD.jpg)
+![2023-08-18-5](https://www.bing.com/th?id=OHR.GeckoLeaf_FR-FR6760407712_UHD.jpg)
+![2023-08-18-6](https://www.bing.com/th?id=OHR.ManhattanAerial_IT-IT8257270083_UHD.jpg)

@@ -2485,3 +2485,8 @@ Bing_img
 ![2023-08-18-4](https://www.bing.com/th?id=OHR.TaorminaSquare_ES-ES8103075674_UHD.jpg)
 ![2023-08-18-5](https://www.bing.com/th?id=OHR.GeckoLeaf_FR-FR6760407712_UHD.jpg)
 ![2023-08-18-6](https://www.bing.com/th?id=OHR.ManhattanAerial_IT-IT8257270083_UHD.jpg)
+2023-08-19
+----------------
+![2023-08-19-0](https://www.bing.com/th?id=OHR.CanadianNationalExhibition_EN-CA5064154941_UHD.jpg)
+![2023-08-19-1](https://www.bing.com/th?id=OHR.CameraSquirrel_ZH-CN3580119980_UHD.jpg)
+![2023-08-19-2](https://www.bing.com/th?id=OHR.LuebeckRiverTrave_DE-DE9748336863_UHD.jpg)

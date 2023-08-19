@@ -2490,3 +2490,7 @@ Bing_img
 ![2023-08-19-0](https://www.bing.com/th?id=OHR.CanadianNationalExhibition_EN-CA5064154941_UHD.jpg)
 ![2023-08-19-1](https://www.bing.com/th?id=OHR.CameraSquirrel_ZH-CN3580119980_UHD.jpg)
 ![2023-08-19-2](https://www.bing.com/th?id=OHR.LuebeckRiverTrave_DE-DE9748336863_UHD.jpg)
+2023-08-20
+----------------
+![2023-08-20-0](https://www.bing.com/th?id=OHR.StartPointLight_ZH-CN4021540566_UHD.jpg)
+![2023-08-20-1](https://www.bing.com/th?id=OHR.Morbihan_FR-FR5973672727_UHD.jpg)

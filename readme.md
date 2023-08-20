@@ -2494,3 +2494,6 @@ Bing_img
 ----------------
 ![2023-08-20-0](https://www.bing.com/th?id=OHR.StartPointLight_ZH-CN4021540566_UHD.jpg)
 ![2023-08-20-1](https://www.bing.com/th?id=OHR.Morbihan_FR-FR5973672727_UHD.jpg)
+2023-08-21
+----------------
+![2023-08-21-0](https://www.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_UHD.jpg)

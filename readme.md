@@ -2497,3 +2497,7 @@ Bing_img
 2023-08-21
 ----------------
 ![2023-08-21-0](https://www.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_UHD.jpg)
+2023-08-22
+----------------
+![2023-08-22-0](https://www.bing.com/th?id=OHR.TunisiaAmphitheatre_ZH-CN4431856872_UHD.jpg)
+![2023-08-22-1](https://www.bing.com/th?id=OHR.SkogafossWaterfall_EN-IN4197421757_UHD.jpg)

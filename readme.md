@@ -2503,3 +2503,7 @@ Bing_img
 ![2023-08-22-1](https://www.bing.com/th?id=OHR.SkogafossWaterfall_EN-IN4197421757_UHD.jpg)
 2023-08-23
 ----------------
+2023-08-24
+----------------
+![2023-08-24-0](https://www.bing.com/th?id=OHR.SharkFinCove_ZH-CN4952934195_UHD.jpg)
+![2023-08-24-1](https://www.bing.com/th?id=OHR.IndiaMoon_EN-IN4180677379_UHD.jpg)

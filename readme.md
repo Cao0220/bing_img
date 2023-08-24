@@ -2507,3 +2507,7 @@ Bing_img
 ----------------
 ![2023-08-24-0](https://www.bing.com/th?id=OHR.SharkFinCove_ZH-CN4952934195_UHD.jpg)
 ![2023-08-24-1](https://www.bing.com/th?id=OHR.IndiaMoon_EN-IN4180677379_UHD.jpg)
+2023-08-25
+----------------
+![2023-08-25-0](https://www.bing.com/th?id=OHR.YellowstoneFalls_ZH-CN8050562150_UHD.jpg)
+![2023-08-25-1](https://www.bing.com/th?id=OHR.Rothenburg_DE-DE4473988818_UHD.jpg)

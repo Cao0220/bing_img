@@ -2511,3 +2511,8 @@ Bing_img
 ----------------
 ![2023-08-25-0](https://www.bing.com/th?id=OHR.YellowstoneFalls_ZH-CN8050562150_UHD.jpg)
 ![2023-08-25-1](https://www.bing.com/th?id=OHR.Rothenburg_DE-DE4473988818_UHD.jpg)
+2023-08-26
+----------------
+![2023-08-26-0](https://www.bing.com/th?id=OHR.MuseumIsland_ZH-CN8277258964_UHD.jpg)
+![2023-08-26-1](https://www.bing.com/th?id=OHR.Battleofflowers_ES-ES3497092168_UHD.jpg)
+![2023-08-26-2](https://www.bing.com/th?id=OHR.Fireworks2023_JA-JP6750105945_UHD.jpg)

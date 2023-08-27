@@ -2519,3 +2519,7 @@ Bing_img
 2023-08-27
 ----------------
 ![2023-08-27-0](https://www.bing.com/th?id=OHR.JejuIsland_ZH-CN8434910851_UHD.jpg)
+2023-08-28
+----------------
+![2023-08-28-0](https://www.bing.com/th?id=OHR.DubrovnikHarbor_ZH-CN8590217905_UHD.jpg)
+![2023-08-28-1](https://www.bing.com/th?id=OHR.RagusaIbla_IT-IT6191963185_UHD.jpg)

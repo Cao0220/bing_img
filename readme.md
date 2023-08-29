@@ -2527,3 +2527,12 @@ Bing_img
 ----------------
 ![2023-08-29-0](https://www.bing.com/th?id=OHR.TetonBison_ZH-CN9384306649_UHD.jpg)
 ![2023-08-29-1](https://www.bing.com/th?id=OHR.MarathonMedoc_JA-JP0395843835_UHD.jpg)
+2023-08-30
+----------------
+![2023-08-30-0](https://www.bing.com/th?id=OHR.ZelenciSprings_EN-CA7318324404_UHD.jpg)
+![2023-08-30-1](https://www.bing.com/th?id=OHR.NingalooShark_ZH-CN9014712175_UHD.jpg)
+![2023-08-30-2](https://www.bing.com/th?id=OHR.AvatarMountain_DE-DE4930608814_UHD.jpg)
+![2023-08-30-3](https://www.bing.com/th?id=OHR.NakupendaBeach_ES-ES5976546973_UHD.jpg)
+![2023-08-30-4](https://www.bing.com/th?id=OHR.BathCircus_FR-FR6934984274_UHD.jpg)
+![2023-08-30-5](https://www.bing.com/th?id=OHR.TurkeyTailMush_EN-IN7925034915_UHD.jpg)
+![2023-08-30-6](https://www.bing.com/th?id=OHR.CrescentLake_IT-IT9118936365_UHD.jpg)

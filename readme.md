@@ -2540,3 +2540,8 @@ Bing_img
 ----------------
 ![2023-08-31-0](https://www.bing.com/th?id=OHR.IronwoodCactus_ZH-CN9290037977_UHD.jpg)
 ![2023-08-31-1](https://www.bing.com/th?id=OHR.FestivalofThreads_EN-IN8502750769_UHD.jpg)
+2023-09-01
+----------------
+![2023-09-01-0](https://www.bing.com/th?id=OHR.TurkeyTailMush_ZH-CN9683744281_UHD.jpg)
+![2023-09-01-1](https://www.bing.com/th?id=OHR.CassiusFlorentius_DE-DE8060490789_UHD.jpg)
+![2023-09-01-2](https://www.bing.com/th?id=OHR.Fawn_JA-JP8985470231_UHD.jpg)

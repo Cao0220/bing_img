@@ -2545,3 +2545,7 @@ Bing_img
 ![2023-09-01-0](https://www.bing.com/th?id=OHR.TurkeyTailMush_ZH-CN9683744281_UHD.jpg)
 ![2023-09-01-1](https://www.bing.com/th?id=OHR.CassiusFlorentius_DE-DE8060490789_UHD.jpg)
 ![2023-09-01-2](https://www.bing.com/th?id=OHR.Fawn_JA-JP8985470231_UHD.jpg)
+2023-09-02
+----------------
+![2023-09-02-0](https://www.bing.com/th?id=OHR.TinyHummer_ZH-CN9853929957_UHD.jpg)
+![2023-09-02-1](https://www.bing.com/th?id=OHR.KeralaBackwaters_EN-IN5839367689_UHD.jpg)

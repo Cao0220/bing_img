@@ -2549,3 +2549,6 @@ Bing_img
 ----------------
 ![2023-09-02-0](https://www.bing.com/th?id=OHR.TinyHummer_ZH-CN9853929957_UHD.jpg)
 ![2023-09-02-1](https://www.bing.com/th?id=OHR.KeralaBackwaters_EN-IN5839367689_UHD.jpg)
+2023-09-03
+----------------
+![2023-09-03-0](https://www.bing.com/th?id=OHR.ManhattanAerial_ZH-CN0036686873_UHD.jpg)

@@ -2557,3 +2557,8 @@ Bing_img
 ![2023-09-04-0](https://www.bing.com/th?id=OHR.BourgesMarsh_ZH-CN0505354655_UHD.jpg)
 ![2023-09-04-1](https://www.bing.com/th?id=OHR.HistoricalRegatta_IT-IT6174180890_UHD.jpg)
 ![2023-09-04-2](https://www.bing.com/th?id=OHR.PassauSunsetJune_JA-JP0027528373_UHD.jpg)
+2023-09-05
+----------------
+![2023-09-05-0](https://www.bing.com/th?id=OHR.CamelsAbove_EN-CA7725955202_UHD.jpg)
+![2023-09-05-1](https://www.bing.com/th?id=OHR.MountSegla_ZH-CN0758615745_UHD.jpg)
+![2023-09-05-2](https://www.bing.com/th?id=OHR.NingalooShark_EN-IN3911660804_UHD.jpg)

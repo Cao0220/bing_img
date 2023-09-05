@@ -2562,3 +2562,6 @@ Bing_img
 ![2023-09-05-0](https://www.bing.com/th?id=OHR.CamelsAbove_EN-CA7725955202_UHD.jpg)
 ![2023-09-05-1](https://www.bing.com/th?id=OHR.MountSegla_ZH-CN0758615745_UHD.jpg)
 ![2023-09-05-2](https://www.bing.com/th?id=OHR.NingalooShark_EN-IN3911660804_UHD.jpg)
+2023-09-06
+----------------
+![2023-09-06-0](https://www.bing.com/th?id=OHR.CreteHarbor_ZH-CN0937533372_UHD.jpg)

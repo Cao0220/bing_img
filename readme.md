@@ -2565,3 +2565,6 @@ Bing_img
 2023-09-06
 ----------------
 ![2023-09-06-0](https://www.bing.com/th?id=OHR.CreteHarbor_ZH-CN0937533372_UHD.jpg)
+2023-09-07
+----------------
+![2023-09-07-0](https://www.bing.com/th?id=OHR.CamelsAbove_ZH-CN1389810021_UHD.jpg)

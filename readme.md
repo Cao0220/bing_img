@@ -2568,3 +2568,10 @@ Bing_img
 2023-09-07
 ----------------
 ![2023-09-07-0](https://www.bing.com/th?id=OHR.CamelsAbove_ZH-CN1389810021_UHD.jpg)
+2023-09-08
+----------------
+![2023-09-08-0](https://www.bing.com/th?id=OHR.MonumentoIpiranga_PT-BR3590337434_UHD.jpg)
+![2023-09-08-1](https://www.bing.com/th?id=OHR.TIFFCanada_EN-CA9189506488_UHD.jpg)
+![2023-09-08-2](https://www.bing.com/th?id=OHR.BathCircus_ZH-CN5796600786_UHD.jpg)
+![2023-09-08-3](https://www.bing.com/th?id=OHR.ReichstagBeiNacht_DE-DE6072577609_UHD.jpg)
+![2023-09-08-4](https://www.bing.com/th?id=OHR.ExtremaduraDay_ES-ES4000555199_UHD.jpg)

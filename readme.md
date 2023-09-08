@@ -2575,3 +2575,8 @@ Bing_img
 ![2023-09-08-2](https://www.bing.com/th?id=OHR.BathCircus_ZH-CN5796600786_UHD.jpg)
 ![2023-09-08-3](https://www.bing.com/th?id=OHR.ReichstagBeiNacht_DE-DE6072577609_UHD.jpg)
 ![2023-09-08-4](https://www.bing.com/th?id=OHR.ExtremaduraDay_ES-ES4000555199_UHD.jpg)
+2023-09-09
+----------------
+![2023-09-09-0](https://www.bing.com/th?id=OHR.AyutthayaTemple_ZH-CN5996587937_UHD.jpg)
+![2023-09-09-1](https://www.bing.com/th?id=OHR.RugbyWorldCup_FR-FR6347432536_UHD.jpg)
+![2023-09-09-2](https://www.bing.com/th?id=OHR.DoubleNinth2023_JA-JP8635175549_UHD.jpg)

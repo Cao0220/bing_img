@@ -2580,3 +2580,6 @@ Bing_img
 ![2023-09-09-0](https://www.bing.com/th?id=OHR.AyutthayaTemple_ZH-CN5996587937_UHD.jpg)
 ![2023-09-09-1](https://www.bing.com/th?id=OHR.RugbyWorldCup_FR-FR6347432536_UHD.jpg)
 ![2023-09-09-2](https://www.bing.com/th?id=OHR.DoubleNinth2023_JA-JP8635175549_UHD.jpg)
+2023-09-10
+----------------
+![2023-09-10-0](https://www.bing.com/th?id=OHR.WalrusSvalbard_ZH-CN6343458320_UHD.jpg)

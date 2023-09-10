@@ -2583,3 +2583,7 @@ Bing_img
 2023-09-10
 ----------------
 ![2023-09-10-0](https://www.bing.com/th?id=OHR.WalrusSvalbard_ZH-CN6343458320_UHD.jpg)
+2023-09-11
+----------------
+![2023-09-11-0](https://www.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_UHD.jpg)
+![2023-09-11-1](https://www.bing.com/th?id=OHR.CastelmazzanoSunrise_FR-FR5171690976_UHD.jpg)

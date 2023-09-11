@@ -2587,3 +2587,8 @@ Bing_img
 ----------------
 ![2023-09-11-0](https://www.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_UHD.jpg)
 ![2023-09-11-1](https://www.bing.com/th?id=OHR.CastelmazzanoSunrise_FR-FR5171690976_UHD.jpg)
+2023-09-12
+----------------
+![2023-09-12-0](https://www.bing.com/th?id=OHR.FrenchRiver_EN-CA1479049417_UHD.jpg)
+![2023-09-12-1](https://www.bing.com/th?id=OHR.NorthSeaStairs_ZH-CN7044471948_UHD.jpg)
+![2023-09-12-2](https://www.bing.com/th?id=OHR.FeriaDeMurcia_ES-ES7651108908_UHD.jpg)

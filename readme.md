@@ -2595,3 +2595,6 @@ Bing_img
 2023-09-13
 ----------------
 ![2023-09-13-0](https://www.bing.com/th?id=OHR.HemakutaHill_ZH-CN7438439036_UHD.jpg)
+2023-09-14
+----------------
+![2023-09-14-0](https://www.bing.com/th?id=OHR.MongoliaHorses_ZH-CN7660582867_UHD.jpg)

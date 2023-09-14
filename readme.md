@@ -2598,3 +2598,7 @@ Bing_img
 2023-09-14
 ----------------
 ![2023-09-14-0](https://www.bing.com/th?id=OHR.MongoliaHorses_ZH-CN7660582867_UHD.jpg)
+2023-09-15
+----------------
+![2023-09-15-0](https://www.bing.com/th?id=OHR.GlenariffForest_ZH-CN7874768337_UHD.jpg)
+![2023-09-15-1](https://www.bing.com/th?id=OHR.Antilles_JA-JP0033254185_UHD.jpg)

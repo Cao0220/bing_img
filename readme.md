@@ -2602,3 +2602,8 @@ Bing_img
 ----------------
 ![2023-09-15-0](https://www.bing.com/th?id=OHR.GlenariffForest_ZH-CN7874768337_UHD.jpg)
 ![2023-09-15-1](https://www.bing.com/th?id=OHR.Antilles_JA-JP0033254185_UHD.jpg)
+2023-09-16
+----------------
+![2023-09-16-0](https://www.bing.com/th?id=OHR.SplugenPass_ZH-CN8347591461_UHD.jpg)
+![2023-09-16-1](https://www.bing.com/th?id=OHR.AerialCologne_DE-DE6638991328_UHD.jpg)
+![2023-09-16-2](https://www.bing.com/th?id=OHR.UdaipurTemple_EN-IN8426025832_UHD.jpg)

@@ -2607,3 +2607,8 @@ Bing_img
 ![2023-09-16-0](https://www.bing.com/th?id=OHR.SplugenPass_ZH-CN8347591461_UHD.jpg)
 ![2023-09-16-1](https://www.bing.com/th?id=OHR.AerialCologne_DE-DE6638991328_UHD.jpg)
 ![2023-09-16-2](https://www.bing.com/th?id=OHR.UdaipurTemple_EN-IN8426025832_UHD.jpg)
+2023-09-17
+----------------
+![2023-09-17-0](https://www.bing.com/th?id=OHR.OktoberfestWorkers_EN-CA9741791807_UHD.jpg)
+![2023-09-17-1](https://www.bing.com/th?id=OHR.CubanTody_ZH-CN8656368705_UHD.jpg)
+![2023-09-17-2](https://www.bing.com/th?id=OHR.OktoberfestBrassBand_DE-DE6535043925_UHD.jpg)

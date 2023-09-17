@@ -2612,3 +2612,9 @@ Bing_img
 ![2023-09-17-0](https://www.bing.com/th?id=OHR.OktoberfestWorkers_EN-CA9741791807_UHD.jpg)
 ![2023-09-17-1](https://www.bing.com/th?id=OHR.CubanTody_ZH-CN8656368705_UHD.jpg)
 ![2023-09-17-2](https://www.bing.com/th?id=OHR.OktoberfestBrassBand_DE-DE6535043925_UHD.jpg)
+2023-09-18
+----------------
+![2023-09-18-0](https://www.bing.com/th?id=OHR.PiuvaRosa_PT-BR7653122974_UHD.jpg)
+![2023-09-18-1](https://www.bing.com/th?id=OHR.MilkyWayPortugal_ZH-CN8878883229_UHD.jpg)
+![2023-09-18-2](https://www.bing.com/th?id=OHR.DolomitesParaglider_IT-IT3096263531_UHD.jpg)
+![2023-09-18-3](https://www.bing.com/th?id=OHR.AgedDay2023_JA-JP1020086931_UHD.jpg)

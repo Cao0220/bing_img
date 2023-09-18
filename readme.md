@@ -2618,3 +2618,7 @@ Bing_img
 ![2023-09-18-1](https://www.bing.com/th?id=OHR.MilkyWayPortugal_ZH-CN8878883229_UHD.jpg)
 ![2023-09-18-2](https://www.bing.com/th?id=OHR.DolomitesParaglider_IT-IT3096263531_UHD.jpg)
 ![2023-09-18-3](https://www.bing.com/th?id=OHR.AgedDay2023_JA-JP1020086931_UHD.jpg)
+2023-09-19
+----------------
+![2023-09-19-0](https://www.bing.com/th?id=OHR.HadriansWallUK_ZH-CN9203571422_UHD.jpg)
+![2023-09-19-1](https://www.bing.com/th?id=OHR.OktoberfestWorkers_JA-JP1759437579_UHD.jpg)

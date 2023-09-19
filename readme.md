@@ -2622,3 +2622,9 @@ Bing_img
 ----------------
 ![2023-09-19-0](https://www.bing.com/th?id=OHR.HadriansWallUK_ZH-CN9203571422_UHD.jpg)
 ![2023-09-19-1](https://www.bing.com/th?id=OHR.OktoberfestWorkers_JA-JP1759437579_UHD.jpg)
+2023-09-20
+----------------
+![2023-09-20-0](https://www.bing.com/th?id=OHR.SplugenPass_EN-CA0023641893_UHD.jpg)
+![2023-09-20-1](https://www.bing.com/th?id=OHR.ArkadiaPark_ZH-CN9501056317_UHD.jpg)
+![2023-09-20-2](https://www.bing.com/th?id=OHR.GaneshSculpture_EN-IN1533675520_UHD.jpg)
+![2023-09-20-3](https://www.bing.com/th?id=OHR.SanGennaroMulberry_IT-IT4580164437_UHD.jpg)

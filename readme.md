@@ -2628,3 +2628,7 @@ Bing_img
 ![2023-09-20-1](https://www.bing.com/th?id=OHR.ArkadiaPark_ZH-CN9501056317_UHD.jpg)
 ![2023-09-20-2](https://www.bing.com/th?id=OHR.GaneshSculpture_EN-IN1533675520_UHD.jpg)
 ![2023-09-20-3](https://www.bing.com/th?id=OHR.SanGennaroMulberry_IT-IT4580164437_UHD.jpg)
+2023-09-21
+----------------
+![2023-09-21-0](https://www.bing.com/th?id=OHR.NobelNorway_ZH-CN9824054026_UHD.jpg)
+![2023-09-21-1](https://www.bing.com/th?id=OHR.ColomaresCastle_ES-ES7485421006_UHD.jpg)

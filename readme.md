@@ -2632,3 +2632,8 @@ Bing_img
 ----------------
 ![2023-09-21-0](https://www.bing.com/th?id=OHR.NobelNorway_ZH-CN9824054026_UHD.jpg)
 ![2023-09-21-1](https://www.bing.com/th?id=OHR.ColomaresCastle_ES-ES7485421006_UHD.jpg)
+2023-09-22
+----------------
+![2023-09-22-0](https://www.bing.com/th?id=OHR.BrazilCopaiba_PT-BR7420293329_UHD.jpg)
+![2023-09-22-1](https://www.bing.com/th?id=OHR.MarsalaSalt_ZH-CN4943158328_UHD.jpg)
+![2023-09-22-2](https://www.bing.com/th?id=OHR.ShamwariRhino_JA-JP0625327477_UHD.jpg)

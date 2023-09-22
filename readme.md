@@ -2637,3 +2637,7 @@ Bing_img
 ![2023-09-22-0](https://www.bing.com/th?id=OHR.BrazilCopaiba_PT-BR7420293329_UHD.jpg)
 ![2023-09-22-1](https://www.bing.com/th?id=OHR.MarsalaSalt_ZH-CN4943158328_UHD.jpg)
 ![2023-09-22-2](https://www.bing.com/th?id=OHR.ShamwariRhino_JA-JP0625327477_UHD.jpg)
+2023-09-23
+----------------
+![2023-09-23-0](https://www.bing.com/th?id=OHR.CottonwoodCanyon_ZH-CN5293620973_UHD.jpg)
+![2023-09-23-1](https://www.bing.com/th?id=OHR.Qiufen2023_JA-JP6160561062_UHD.jpg)

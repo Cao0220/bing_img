@@ -2641,3 +2641,9 @@ Bing_img
 ----------------
 ![2023-09-23-0](https://www.bing.com/th?id=OHR.CottonwoodCanyon_ZH-CN5293620973_UHD.jpg)
 ![2023-09-23-1](https://www.bing.com/th?id=OHR.Qiufen2023_JA-JP6160561062_UHD.jpg)
+2023-09-24
+----------------
+![2023-09-24-0](https://www.bing.com/th?id=OHR.NuitBlanche_EN-CA7519752130_UHD.jpg)
+![2023-09-24-1](https://www.bing.com/th?id=OHR.FraserRiverBC_ZH-CN5743867197_UHD.jpg)
+![2023-09-24-2](https://www.bing.com/th?id=OHR.EquinocioOtono_ES-ES3613916413_UHD.jpg)
+![2023-09-24-3](https://www.bing.com/th?id=OHR.GastronomyDay_FR-FR7756533791_UHD.jpg)

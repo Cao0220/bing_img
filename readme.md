@@ -2647,3 +2647,9 @@ Bing_img
 ![2023-09-24-1](https://www.bing.com/th?id=OHR.FraserRiverBC_ZH-CN5743867197_UHD.jpg)
 ![2023-09-24-2](https://www.bing.com/th?id=OHR.EquinocioOtono_ES-ES3613916413_UHD.jpg)
 ![2023-09-24-3](https://www.bing.com/th?id=OHR.GastronomyDay_FR-FR7756533791_UHD.jpg)
+2023-09-25
+----------------
+![2023-09-25-0](https://www.bing.com/th?id=OHR.GlacierBayOtter_ZH-CN6065209551_UHD.jpg)
+![2023-09-25-1](https://www.bing.com/th?id=OHR.BerlinMarathon_DE-DE4277844553_UHD.jpg)
+![2023-09-25-2](https://www.bing.com/th?id=OHR.MerceBarcelona_ES-ES3690620266_UHD.jpg)
+![2023-09-25-3](https://www.bing.com/th?id=OHR.GenoeseTower_FR-FR7845957372_UHD.jpg)

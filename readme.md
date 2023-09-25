@@ -2653,3 +2653,6 @@ Bing_img
 ![2023-09-25-1](https://www.bing.com/th?id=OHR.BerlinMarathon_DE-DE4277844553_UHD.jpg)
 ![2023-09-25-2](https://www.bing.com/th?id=OHR.MerceBarcelona_ES-ES3690620266_UHD.jpg)
 ![2023-09-25-3](https://www.bing.com/th?id=OHR.GenoeseTower_FR-FR7845957372_UHD.jpg)
+2023-09-26
+----------------
+![2023-09-26-0](https://www.bing.com/th?id=OHR.VeniceSkatePark_ZH-CN6295228801_UHD.jpg)

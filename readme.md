@@ -2656,3 +2656,7 @@ Bing_img
 2023-09-26
 ----------------
 ![2023-09-26-0](https://www.bing.com/th?id=OHR.VeniceSkatePark_ZH-CN6295228801_UHD.jpg)
+2023-09-27
+----------------
+![2023-09-27-0](https://www.bing.com/th?id=OHR.LightStationSP_PT-BR9699969670_UHD.jpg)
+![2023-09-27-1](https://www.bing.com/th?id=OHR.CapriKrupp_ZH-CN6893334288_UHD.jpg)

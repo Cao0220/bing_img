@@ -2660,3 +2660,8 @@ Bing_img
 ----------------
 ![2023-09-27-0](https://www.bing.com/th?id=OHR.LightStationSP_PT-BR9699969670_UHD.jpg)
 ![2023-09-27-1](https://www.bing.com/th?id=OHR.CapriKrupp_ZH-CN6893334288_UHD.jpg)
+2023-09-28
+----------------
+![2023-09-28-0](https://www.bing.com/th?id=OHR.FrenchRiver_ROW8051878611_UHD.jpg)
+![2023-09-28-1](https://www.bing.com/th?id=OHR.MaritimeDay_ZH-CN7073219075_UHD.jpg)
+![2023-09-28-2](https://www.bing.com/th?id=OHR.ProseccoHills_IT-IT5807916558_UHD.jpg)

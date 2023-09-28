@@ -2665,3 +2665,7 @@ Bing_img
 ![2023-09-28-0](https://www.bing.com/th?id=OHR.FrenchRiver_ROW8051878611_UHD.jpg)
 ![2023-09-28-1](https://www.bing.com/th?id=OHR.MaritimeDay_ZH-CN7073219075_UHD.jpg)
 ![2023-09-28-2](https://www.bing.com/th?id=OHR.ProseccoHills_IT-IT5807916558_UHD.jpg)
+2023-09-29
+----------------
+![2023-09-29-0](https://www.bing.com/th?id=OHR.GuiyangMoon_ZH-CN7497119092_UHD.jpg)
+![2023-09-29-1](https://www.bing.com/th?id=OHR.HarvestMoon2023_JA-JP6232701669_UHD.jpg)

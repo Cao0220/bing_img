@@ -2669,3 +2669,7 @@ Bing_img
 ----------------
 ![2023-09-29-0](https://www.bing.com/th?id=OHR.GuiyangMoon_ZH-CN7497119092_UHD.jpg)
 ![2023-09-29-1](https://www.bing.com/th?id=OHR.HarvestMoon2023_JA-JP6232701669_UHD.jpg)
+2023-09-30
+----------------
+![2023-09-30-0](https://www.bing.com/th?id=OHR.ShenandoahFoliage_ZH-CN9885452713_UHD.jpg)
+![2023-09-30-1](https://www.bing.com/th?id=OHR.SangameswaraTemple_EN-IN2298301203_UHD.jpg)

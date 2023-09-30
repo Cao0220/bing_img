@@ -2673,3 +2673,8 @@ Bing_img
 ----------------
 ![2023-09-30-0](https://www.bing.com/th?id=OHR.ShenandoahFoliage_ZH-CN9885452713_UHD.jpg)
 ![2023-09-30-1](https://www.bing.com/th?id=OHR.SangameswaraTemple_EN-IN2298301203_UHD.jpg)
+2023-10-01
+----------------
+![2023-10-01-0](https://www.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_UHD.jpg)
+![2023-10-01-1](https://www.bing.com/th?id=OHR.DardagnaWaterfalls_IT-IT7337701837_UHD.jpg)
+![2023-10-01-2](https://www.bing.com/th?id=OHR.LakeBledSunrise_JA-JP6531539874_UHD.jpg)

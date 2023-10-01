@@ -2678,3 +2678,8 @@ Bing_img
 ![2023-10-01-0](https://www.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_UHD.jpg)
 ![2023-10-01-1](https://www.bing.com/th?id=OHR.DardagnaWaterfalls_IT-IT7337701837_UHD.jpg)
 ![2023-10-01-2](https://www.bing.com/th?id=OHR.LakeBledSunrise_JA-JP6531539874_UHD.jpg)
+2023-10-02
+----------------
+![2023-10-02-0](https://www.bing.com/th?id=OHR.AssiniboineProvincialPark_EN-CA8602465476_UHD.jpg)
+![2023-10-02-1](https://www.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_UHD.jpg)
+![2023-10-02-2](https://www.bing.com/th?id=OHR.VuittonFoundation_JA-JP7245155728_UHD.jpg)

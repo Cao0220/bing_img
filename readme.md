@@ -2683,3 +2683,7 @@ Bing_img
 ![2023-10-02-0](https://www.bing.com/th?id=OHR.AssiniboineProvincialPark_EN-CA8602465476_UHD.jpg)
 ![2023-10-02-1](https://www.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_UHD.jpg)
 ![2023-10-02-2](https://www.bing.com/th?id=OHR.VuittonFoundation_JA-JP7245155728_UHD.jpg)
+2023-10-03
+----------------
+![2023-10-03-0](https://www.bing.com/th?id=OHR.WhitsundaySwirl_ZH-CN9085371328_UHD.jpg)
+![2023-10-03-1](https://www.bing.com/th?id=OHR.MahatmaGandhi_EN-IN0914326367_UHD.jpg)

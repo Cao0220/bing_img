@@ -2687,3 +2687,7 @@ Bing_img
 ----------------
 ![2023-10-03-0](https://www.bing.com/th?id=OHR.WhitsundaySwirl_ZH-CN9085371328_UHD.jpg)
 ![2023-10-03-1](https://www.bing.com/th?id=OHR.MahatmaGandhi_EN-IN0914326367_UHD.jpg)
+2023-10-04
+----------------
+![2023-10-04-0](https://www.bing.com/th?id=OHR.TarantulaNebula_ZH-CN9340300473_UHD.jpg)
+![2023-10-04-1](https://www.bing.com/th?id=OHR.GermanFlagWall_DE-DE4359380085_UHD.jpg)

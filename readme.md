@@ -2691,3 +2691,6 @@ Bing_img
 ----------------
 ![2023-10-04-0](https://www.bing.com/th?id=OHR.TarantulaNebula_ZH-CN9340300473_UHD.jpg)
 ![2023-10-04-1](https://www.bing.com/th?id=OHR.GermanFlagWall_DE-DE4359380085_UHD.jpg)
+2023-10-05
+----------------
+![2023-10-05-0](https://www.bing.com/th?id=OHR.GentooJump_ZH-CN9625511393_UHD.jpg)

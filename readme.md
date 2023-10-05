@@ -2694,3 +2694,7 @@ Bing_img
 2023-10-05
 ----------------
 ![2023-10-05-0](https://www.bing.com/th?id=OHR.GentooJump_ZH-CN9625511393_UHD.jpg)
+2023-10-06
+----------------
+![2023-10-06-0](https://www.bing.com/th?id=OHR.BrazilCanyon_PT-BR9855419270_UHD.jpg)
+![2023-10-06-1](https://www.bing.com/th?id=OHR.TaughannockFalls_ZH-CN4580750386_UHD.jpg)

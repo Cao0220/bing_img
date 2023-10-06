@@ -2698,3 +2698,7 @@ Bing_img
 ----------------
 ![2023-10-06-0](https://www.bing.com/th?id=OHR.BrazilCanyon_PT-BR9855419270_UHD.jpg)
 ![2023-10-06-1](https://www.bing.com/th?id=OHR.TaughannockFalls_ZH-CN4580750386_UHD.jpg)
+2023-10-07
+----------------
+![2023-10-07-0](https://www.bing.com/th?id=OHR.GrizzlyFalls_ZH-CN5152476563_UHD.jpg)
+![2023-10-07-1](https://www.bing.com/th?id=OHR.CathedralHeartLight_DE-DE1265486200_UHD.jpg)

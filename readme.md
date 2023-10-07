@@ -2702,3 +2702,8 @@ Bing_img
 ----------------
 ![2023-10-07-0](https://www.bing.com/th?id=OHR.GrizzlyFalls_ZH-CN5152476563_UHD.jpg)
 ![2023-10-07-1](https://www.bing.com/th?id=OHR.CathedralHeartLight_DE-DE1265486200_UHD.jpg)
+2023-10-08
+----------------
+![2023-10-08-0](https://www.bing.com/th?id=OHR.OctoClam_ZH-CN5427646548_UHD.jpg)
+![2023-10-08-1](https://www.bing.com/th?id=OHR.PilarFestivities_ES-ES6761605818_UHD.jpg)
+![2023-10-08-2](https://www.bing.com/th?id=OHR.Hanlu2023_JA-JP9061398422_UHD.jpg)

@@ -2707,3 +2707,7 @@ Bing_img
 ![2023-10-08-0](https://www.bing.com/th?id=OHR.OctoClam_ZH-CN5427646548_UHD.jpg)
 ![2023-10-08-1](https://www.bing.com/th?id=OHR.PilarFestivities_ES-ES6761605818_UHD.jpg)
 ![2023-10-08-2](https://www.bing.com/th?id=OHR.Hanlu2023_JA-JP9061398422_UHD.jpg)
+2023-10-09
+----------------
+![2023-10-09-0](https://www.bing.com/th?id=OHR.FremontPetroglyph_ZH-CN5736573545_UHD.jpg)
+![2023-10-09-1](https://www.bing.com/th?id=OHR.ItalyTriesteBarcolana_IT-IT2686315925_UHD.jpg)

@@ -2711,3 +2711,9 @@ Bing_img
 ----------------
 ![2023-10-09-0](https://www.bing.com/th?id=OHR.FremontPetroglyph_ZH-CN5736573545_UHD.jpg)
 ![2023-10-09-1](https://www.bing.com/th?id=OHR.ItalyTriesteBarcolana_IT-IT2686315925_UHD.jpg)
+2023-10-10
+----------------
+![2023-10-10-0](https://www.bing.com/th?id=OHR.VeniceSkatePark_PT-BR5979346434_UHD.jpg)
+![2023-10-10-1](https://www.bing.com/th?id=OHR.ThanksgivingDay_EN-CA6565882880_UHD.jpg)
+![2023-10-10-2](https://www.bing.com/th?id=OHR.SoprisSunrise_ZH-CN5935701155_UHD.jpg)
+![2023-10-10-3](https://www.bing.com/th?id=OHR.GwaliorFortMP_EN-IN4137933501_UHD.jpg)

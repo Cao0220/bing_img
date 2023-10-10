@@ -2717,3 +2717,7 @@ Bing_img
 ![2023-10-10-1](https://www.bing.com/th?id=OHR.ThanksgivingDay_EN-CA6565882880_UHD.jpg)
 ![2023-10-10-2](https://www.bing.com/th?id=OHR.SoprisSunrise_ZH-CN5935701155_UHD.jpg)
 ![2023-10-10-3](https://www.bing.com/th?id=OHR.GwaliorFortMP_EN-IN4137933501_UHD.jpg)
+2023-10-11
+----------------
+![2023-10-11-0](https://www.bing.com/th?id=OHR.JohnDayFossil_ZH-CN6265838332_UHD.jpg)
+![2023-10-11-1](https://www.bing.com/th?id=OHR.MontmartreHarvest_FR-FR1431017113_UHD.jpg)

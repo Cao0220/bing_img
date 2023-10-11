@@ -2721,3 +2721,7 @@ Bing_img
 ----------------
 ![2023-10-11-0](https://www.bing.com/th?id=OHR.JohnDayFossil_ZH-CN6265838332_UHD.jpg)
 ![2023-10-11-1](https://www.bing.com/th?id=OHR.MontmartreHarvest_FR-FR1431017113_UHD.jpg)
+2023-10-12
+----------------
+![2023-10-12-0](https://www.bing.com/th?id=OHR.IdahoBarn_ZH-CN6472682534_UHD.jpg)
+![2023-10-12-1](https://www.bing.com/th?id=OHR.AutumnHedgehog_JA-JP5112338279_UHD.jpg)

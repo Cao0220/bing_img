@@ -2725,3 +2725,9 @@ Bing_img
 ----------------
 ![2023-10-12-0](https://www.bing.com/th?id=OHR.IdahoBarn_ZH-CN6472682534_UHD.jpg)
 ![2023-10-12-1](https://www.bing.com/th?id=OHR.AutumnHedgehog_JA-JP5112338279_UHD.jpg)
+2023-10-13
+----------------
+![2023-10-13-0](https://www.bing.com/th?id=OHR.BasilicaOfOurLadyAparecida_PT-BR7685662774_UHD.jpg)
+![2023-10-13-1](https://www.bing.com/th?id=OHR.ViesteItaly_ZH-CN6693499674_UHD.jpg)
+![2023-10-13-2](https://www.bing.com/th?id=OHR.NeuschwansteinCastle_DE-DE2113732906_UHD.jpg)
+![2023-10-13-3](https://www.bing.com/th?id=OHR.SpanishNationalHoliday_ES-ES4664414360_UHD.jpg)

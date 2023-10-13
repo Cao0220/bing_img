@@ -2731,3 +2731,10 @@ Bing_img
 ![2023-10-13-1](https://www.bing.com/th?id=OHR.ViesteItaly_ZH-CN6693499674_UHD.jpg)
 ![2023-10-13-2](https://www.bing.com/th?id=OHR.NeuschwansteinCastle_DE-DE2113732906_UHD.jpg)
 ![2023-10-13-3](https://www.bing.com/th?id=OHR.SpanishNationalHoliday_ES-ES4664414360_UHD.jpg)
+2023-10-14
+----------------
+![2023-10-14-0](https://www.bing.com/th?id=OHR.JasperDarkSky_EN-CA2696799126_UHD.jpg)
+![2023-10-14-1](https://www.bing.com/th?id=OHR.RingEclipse_ZH-CN7063841581_UHD.jpg)
+![2023-10-14-2](https://www.bing.com/th?id=OHR.KoenigsbourgCastle_FR-FR2607573808_UHD.jpg)
+![2023-10-14-3](https://www.bing.com/th?id=OHR.PerugiaFountainEurochocolate_IT-IT7296572620_UHD.jpg)
+![2023-10-14-4](https://www.bing.com/th?id=OHR.RailwayDay2023_JA-JP6915793143_UHD.jpg)

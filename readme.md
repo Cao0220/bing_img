@@ -2738,3 +2738,6 @@ Bing_img
 ![2023-10-14-2](https://www.bing.com/th?id=OHR.KoenigsbourgCastle_FR-FR2607573808_UHD.jpg)
 ![2023-10-14-3](https://www.bing.com/th?id=OHR.PerugiaFountainEurochocolate_IT-IT7296572620_UHD.jpg)
 ![2023-10-14-4](https://www.bing.com/th?id=OHR.RailwayDay2023_JA-JP6915793143_UHD.jpg)
+2023-10-15
+----------------
+![2023-10-15-0](https://www.bing.com/th?id=OHR.AutumnHedgehog_ZH-CN7309314630_UHD.jpg)

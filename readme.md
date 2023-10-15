@@ -2741,3 +2741,7 @@ Bing_img
 2023-10-15
 ----------------
 ![2023-10-15-0](https://www.bing.com/th?id=OHR.AutumnHedgehog_ZH-CN7309314630_UHD.jpg)
+2023-10-16
+----------------
+![2023-10-16-0](https://www.bing.com/th?id=OHR.GentooJump_PT-BR8915637831_UHD.jpg)
+![2023-10-16-1](https://www.bing.com/th?id=OHR.GoldenEnchantments_ZH-CN9686531344_UHD.jpg)

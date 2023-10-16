@@ -2745,3 +2745,7 @@ Bing_img
 ----------------
 ![2023-10-16-0](https://www.bing.com/th?id=OHR.GentooJump_PT-BR8915637831_UHD.jpg)
 ![2023-10-16-1](https://www.bing.com/th?id=OHR.GoldenEnchantments_ZH-CN9686531344_UHD.jpg)
+2023-10-17
+----------------
+![2023-10-17-0](https://www.bing.com/th?id=OHR.GenoeseTower_ZH-CN0086623003_UHD.jpg)
+![2023-10-17-1](https://www.bing.com/th?id=OHR.SpreadsheetDay_JA-JP8161682030_UHD.jpg)

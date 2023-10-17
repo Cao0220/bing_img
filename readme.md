@@ -2749,3 +2749,7 @@ Bing_img
 ----------------
 ![2023-10-17-0](https://www.bing.com/th?id=OHR.GenoeseTower_ZH-CN0086623003_UHD.jpg)
 ![2023-10-17-1](https://www.bing.com/th?id=OHR.SpreadsheetDay_JA-JP8161682030_UHD.jpg)
+2023-10-18
+----------------
+![2023-10-18-0](https://www.bing.com/th?id=OHR.ViesteItaly_EN-CA4053574764_UHD.jpg)
+![2023-10-18-1](https://www.bing.com/th?id=OHR.KodiakAlaska_ZH-CN0627619150_UHD.jpg)

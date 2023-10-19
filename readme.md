@@ -2757,3 +2757,7 @@ Bing_img
 ----------------
 ![2023-10-19-0](https://www.bing.com/th?id=OHR.CastellyGwyntUK_ZH-CN1219668479_UHD.jpg)
 ![2023-10-19-1](https://www.bing.com/th?id=OHR.WaterLilyVietnam_JA-JP8591177657_UHD.jpg)
+2023-10-20
+----------------
+![2023-10-20-0](https://www.bing.com/th?id=OHR.PygmySloth_ZH-CN4739853522_UHD.jpg)
+![2023-10-20-1](https://www.bing.com/th?id=OHR.GoddessDurga_EN-IN0729980140_UHD.jpg)

@@ -2761,3 +2761,6 @@ Bing_img
 ----------------
 ![2023-10-20-0](https://www.bing.com/th?id=OHR.PygmySloth_ZH-CN4739853522_UHD.jpg)
 ![2023-10-20-1](https://www.bing.com/th?id=OHR.GoddessDurga_EN-IN0729980140_UHD.jpg)
+2023-10-21
+----------------
+![2023-10-21-0](https://www.bing.com/th?id=OHR.PersepolisRelief_ZH-CN4910990690_UHD.jpg)

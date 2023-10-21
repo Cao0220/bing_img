@@ -2764,3 +2764,8 @@ Bing_img
 2023-10-21
 ----------------
 ![2023-10-21-0](https://www.bing.com/th?id=OHR.PersepolisRelief_ZH-CN4910990690_UHD.jpg)
+2023-10-22
+----------------
+![2023-10-22-0](https://www.bing.com/th?id=OHR.AstoriaBridge_ZH-CN5052905610_UHD.jpg)
+![2023-10-22-1](https://www.bing.com/th?id=OHR.MehrangarhJodhpur_EN-IN9646660866_UHD.jpg)
+![2023-10-22-2](https://www.bing.com/th?id=OHR.JidaiMatsuri2023_JA-JP2436746215_UHD.jpg)

@@ -2773,3 +2773,8 @@ Bing_img
 ----------------
 ![2023-10-23-0](https://www.bing.com/th?id=OHR.PoconosMaze_ZH-CN4696904367_UHD.jpg)
 ![2023-10-23-1](https://www.bing.com/th?id=OHR.JaenFair_ES-ES5495471226_UHD.jpg)
+2023-10-24
+----------------
+![2023-10-24-0](https://www.bing.com/th?id=OHR.CapybaraAnimals_PT-BR8447005042_UHD.jpg)
+![2023-10-24-1](https://www.bing.com/th?id=OHR.FuzerCastle_ZH-CN5485191349_UHD.jpg)
+![2023-10-24-2](https://www.bing.com/th?id=OHR.SanGiorgioMaggiore_IT-IT9222946405_UHD.jpg)

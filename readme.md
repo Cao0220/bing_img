@@ -2778,3 +2778,8 @@ Bing_img
 ![2023-10-24-0](https://www.bing.com/th?id=OHR.CapybaraAnimals_PT-BR8447005042_UHD.jpg)
 ![2023-10-24-1](https://www.bing.com/th?id=OHR.FuzerCastle_ZH-CN5485191349_UHD.jpg)
 ![2023-10-24-2](https://www.bing.com/th?id=OHR.SanGiorgioMaggiore_IT-IT9222946405_UHD.jpg)
+2023-10-25
+----------------
+![2023-10-25-0](https://www.bing.com/th?id=OHR.GrandStaircase_ZH-CN5928937512_UHD.jpg)
+![2023-10-25-1](https://www.bing.com/th?id=OHR.GermanLibrary_DE-DE3389025953_UHD.jpg)
+![2023-10-25-2](https://www.bing.com/th?id=OHR.VijayadashamiFestival_EN-IN5330705675_UHD.jpg)

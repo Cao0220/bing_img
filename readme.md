@@ -2783,3 +2783,6 @@ Bing_img
 ![2023-10-25-0](https://www.bing.com/th?id=OHR.GrandStaircase_ZH-CN5928937512_UHD.jpg)
 ![2023-10-25-1](https://www.bing.com/th?id=OHR.GermanLibrary_DE-DE3389025953_UHD.jpg)
 ![2023-10-25-2](https://www.bing.com/th?id=OHR.VijayadashamiFestival_EN-IN5330705675_UHD.jpg)
+2023-10-26
+----------------
+![2023-10-26-0](https://www.bing.com/th?id=OHR.ViennaAutumn_ZH-CN7011999199_UHD.jpg)

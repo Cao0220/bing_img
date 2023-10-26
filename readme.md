@@ -2786,3 +2786,6 @@ Bing_img
 2023-10-26
 ----------------
 ![2023-10-26-0](https://www.bing.com/th?id=OHR.ViennaAutumn_ZH-CN7011999199_UHD.jpg)
+2023-10-27
+----------------
+![2023-10-27-0](https://www.bing.com/th?id=OHR.OldBridgeSkye_ZH-CN7228411986_UHD.jpg)

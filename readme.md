@@ -2789,3 +2789,6 @@ Bing_img
 2023-10-27
 ----------------
 ![2023-10-27-0](https://www.bing.com/th?id=OHR.OldBridgeSkye_ZH-CN7228411986_UHD.jpg)
+2023-10-28
+----------------
+![2023-10-28-0](https://www.bing.com/th?id=OHR.FiveWinds_ZH-CN7503464049_UHD.jpg)

@@ -2792,3 +2792,8 @@ Bing_img
 2023-10-28
 ----------------
 ![2023-10-28-0](https://www.bing.com/th?id=OHR.FiveWinds_ZH-CN7503464049_UHD.jpg)
+2023-10-29
+----------------
+![2023-10-29-0](https://www.bing.com/th?id=OHR.SavannahSculpture_ZH-CN7663694208_UHD.jpg)
+![2023-10-29-1](https://www.bing.com/th?id=OHR.EclipseLunar_ES-ES8609710633_UHD.jpg)
+![2023-10-29-2](https://www.bing.com/th?id=OHR.BourgesMarsh_JA-JP4265679422_UHD.jpg)

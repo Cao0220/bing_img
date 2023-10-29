@@ -2797,3 +2797,11 @@ Bing_img
 ![2023-10-29-0](https://www.bing.com/th?id=OHR.SavannahSculpture_ZH-CN7663694208_UHD.jpg)
 ![2023-10-29-1](https://www.bing.com/th?id=OHR.EclipseLunar_ES-ES8609710633_UHD.jpg)
 ![2023-10-29-2](https://www.bing.com/th?id=OHR.BourgesMarsh_JA-JP4265679422_UHD.jpg)
+2023-10-30
+----------------
+![2023-10-30-0](https://www.bing.com/th?id=OHR.RoyalCabinet_PT-BR0309884502_UHD.jpg)
+![2023-10-30-1](https://www.bing.com/th?id=OHR.AutumnRaven_ZH-CN7897841947_UHD.jpg)
+![2023-10-30-2](https://www.bing.com/th?id=OHR.FuzerCastle_DE-DE7545775063_UHD.jpg)
+![2023-10-30-3](https://www.bing.com/th?id=OHR.TransatJacquesVabre_FR-FR7973577360_UHD.jpg)
+![2023-10-30-4](https://www.bing.com/th?id=OHR.LangheItaly_IT-IT0113842370_UHD.jpg)
+![2023-10-30-5](https://www.bing.com/th?id=OHR.GlenariffForest_JA-JP1774079251_UHD.jpg)

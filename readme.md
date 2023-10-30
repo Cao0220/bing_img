@@ -2805,3 +2805,7 @@ Bing_img
 ![2023-10-30-3](https://www.bing.com/th?id=OHR.TransatJacquesVabre_FR-FR7973577360_UHD.jpg)
 ![2023-10-30-4](https://www.bing.com/th?id=OHR.LangheItaly_IT-IT0113842370_UHD.jpg)
 ![2023-10-30-5](https://www.bing.com/th?id=OHR.GlenariffForest_JA-JP1774079251_UHD.jpg)
+2023-10-31
+----------------
+![2023-10-31-0](https://www.bing.com/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_UHD.jpg)
+![2023-10-31-1](https://www.bing.com/th?id=OHR.MallarDucks_DE-DE7798366188_UHD.jpg)

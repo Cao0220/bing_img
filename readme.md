@@ -2809,3 +2809,10 @@ Bing_img
 ----------------
 ![2023-10-31-0](https://www.bing.com/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_UHD.jpg)
 ![2023-10-31-1](https://www.bing.com/th?id=OHR.MallarDucks_DE-DE7798366188_UHD.jpg)
+2023-11-01
+----------------
+![2023-11-01-0](https://www.bing.com/th?id=OHR.PumpkinsSquash_ROW7452014291_UHD.jpg)
+![2023-11-01-1](https://www.bing.com/th?id=OHR.HalloweenPorchAI_PT-BR0951998014_UHD.jpg)
+![2023-11-01-2](https://www.bing.com/th?id=OHR.HautBarr_ZH-CN8274813404_UHD.jpg)
+![2023-11-01-3](https://www.bing.com/th?id=OHR.FuzerCastle_EN-IN7089088416_UHD.jpg)
+![2023-11-01-4](https://www.bing.com/th?id=OHR.AstoriaBridge_JA-JP5052562579_UHD.jpg)

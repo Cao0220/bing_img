@@ -2816,3 +2816,7 @@ Bing_img
 ![2023-11-01-2](https://www.bing.com/th?id=OHR.HautBarr_ZH-CN8274813404_UHD.jpg)
 ![2023-11-01-3](https://www.bing.com/th?id=OHR.FuzerCastle_EN-IN7089088416_UHD.jpg)
 ![2023-11-01-4](https://www.bing.com/th?id=OHR.AstoriaBridge_JA-JP5052562579_UHD.jpg)
+2023-11-02
+----------------
+![2023-11-02-0](https://www.bing.com/th?id=OHR.KennyLake_EN-CA8728888429_UHD.jpg)
+![2023-11-02-1](https://www.bing.com/th?id=OHR.DeathValleySalt_ZH-CN8438207719_UHD.jpg)

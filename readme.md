@@ -2820,3 +2820,7 @@ Bing_img
 ----------------
 ![2023-11-02-0](https://www.bing.com/th?id=OHR.KennyLake_EN-CA8728888429_UHD.jpg)
 ![2023-11-02-1](https://www.bing.com/th?id=OHR.DeathValleySalt_ZH-CN8438207719_UHD.jpg)
+2023-11-03
+----------------
+![2023-11-03-0](https://www.bing.com/th?id=OHR.SeaNettles_ZH-CN1735729435_UHD.jpg)
+![2023-11-03-1](https://www.bing.com/th?id=OHR.ManateeMama_JA-JP0142051639_UHD.jpg)

@@ -2824,3 +2824,8 @@ Bing_img
 ----------------
 ![2023-11-03-0](https://www.bing.com/th?id=OHR.SeaNettles_ZH-CN1735729435_UHD.jpg)
 ![2023-11-03-1](https://www.bing.com/th?id=OHR.ManateeMama_JA-JP0142051639_UHD.jpg)
+2023-11-04
+----------------
+![2023-11-04-0](https://www.bing.com/th?id=OHR.BisonSnow_ZH-CN2483472629_UHD.jpg)
+![2023-11-04-1](https://www.bing.com/th?id=OHR.HunsrueckHochwald_DE-DE8281087937_UHD.jpg)
+![2023-11-04-2](https://www.bing.com/th?id=OHR.ChiantiTuscany_IT-IT9257296555_UHD.jpg)

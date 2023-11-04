@@ -2829,3 +2829,6 @@ Bing_img
 ![2023-11-04-0](https://www.bing.com/th?id=OHR.BisonSnow_ZH-CN2483472629_UHD.jpg)
 ![2023-11-04-1](https://www.bing.com/th?id=OHR.HunsrueckHochwald_DE-DE8281087937_UHD.jpg)
 ![2023-11-04-2](https://www.bing.com/th?id=OHR.ChiantiTuscany_IT-IT9257296555_UHD.jpg)
+2023-11-05
+----------------
+![2023-11-05-0](https://www.bing.com/th?id=OHR.SilencioSpain_ZH-CN2955614478_UHD.jpg)

@@ -2832,3 +2832,7 @@ Bing_img
 2023-11-05
 ----------------
 ![2023-11-05-0](https://www.bing.com/th?id=OHR.SilencioSpain_ZH-CN2955614478_UHD.jpg)
+2023-11-06
+----------------
+![2023-11-06-0](https://www.bing.com/th?id=OHR.GrandPrix_PT-BR6808557599_UHD.jpg)
+![2023-11-06-1](https://www.bing.com/th?id=OHR.LagoPehoe_ZH-CN3367356273_UHD.jpg)

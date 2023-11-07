@@ -2839,3 +2839,7 @@ Bing_img
 2023-11-07
 ----------------
 ![2023-11-07-0](https://www.bing.com/th?id=OHR.KirkilaiTower_ZH-CN4058404632_UHD.jpg)
+2023-11-08
+----------------
+![2023-11-08-0](https://www.bing.com/th?id=OHR.LiDong2023_ZH-CN5089092069_UHD.jpg)
+![2023-11-08-1](https://www.bing.com/th?id=OHR.Lidong2023_JA-JP3829424254_UHD.jpg)

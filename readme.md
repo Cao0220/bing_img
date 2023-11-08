@@ -2843,3 +2843,7 @@ Bing_img
 ----------------
 ![2023-11-08-0](https://www.bing.com/th?id=OHR.LiDong2023_ZH-CN5089092069_UHD.jpg)
 ![2023-11-08-1](https://www.bing.com/th?id=OHR.Lidong2023_JA-JP3829424254_UHD.jpg)
+2023-11-09
+----------------
+![2023-11-09-0](https://www.bing.com/th?id=OHR.ManateeMama_ROW8760132348_UHD.jpg)
+![2023-11-09-1](https://www.bing.com/th?id=OHR.NorwayBirch_ZH-CN5482311438_UHD.jpg)

@@ -2847,3 +2847,6 @@ Bing_img
 ----------------
 ![2023-11-09-0](https://www.bing.com/th?id=OHR.ManateeMama_ROW8760132348_UHD.jpg)
 ![2023-11-09-1](https://www.bing.com/th?id=OHR.NorwayBirch_ZH-CN5482311438_UHD.jpg)
+2023-11-10
+----------------
+![2023-11-10-0](https://www.bing.com/th?id=OHR.BadlandsSunrise_ZH-CN5906162228_UHD.jpg)

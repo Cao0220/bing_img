@@ -2850,3 +2850,9 @@ Bing_img
 2023-11-10
 ----------------
 ![2023-11-10-0](https://www.bing.com/th?id=OHR.BadlandsSunrise_ZH-CN5906162228_UHD.jpg)
+2023-11-11
+----------------
+![2023-11-11-0](https://www.bing.com/th?id=OHR.RiodeJaneiro_PT-BR8681945760_UHD.jpg)
+![2023-11-11-1](https://www.bing.com/th?id=OHR.ValDiFunes_ZH-CN2080915930_UHD.jpg)
+![2023-11-11-2](https://www.bing.com/th?id=OHR.SchwerinerSchloss_DE-DE9196106476_UHD.jpg)
+![2023-11-11-3](https://www.bing.com/th?id=OHR.SarekSweden_JA-JP0736730927_UHD.jpg)

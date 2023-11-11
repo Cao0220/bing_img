@@ -2856,3 +2856,11 @@ Bing_img
 ![2023-11-11-1](https://www.bing.com/th?id=OHR.ValDiFunes_ZH-CN2080915930_UHD.jpg)
 ![2023-11-11-2](https://www.bing.com/th?id=OHR.SchwerinerSchloss_DE-DE9196106476_UHD.jpg)
 ![2023-11-11-3](https://www.bing.com/th?id=OHR.SarekSweden_JA-JP0736730927_UHD.jpg)
+2023-11-12
+----------------
+![2023-11-12-0](https://www.bing.com/th?id=OHR.YoungPeaks_EN-CA5929270890_UHD.jpg)
+![2023-11-12-1](https://www.bing.com/th?id=OHR.MallarDucks_ZH-CN7422818269_UHD.jpg)
+![2023-11-12-2](https://www.bing.com/th?id=OHR.SanMartinDay_ES-ES6061572748_UHD.jpg)
+![2023-11-12-3](https://www.bing.com/th?id=OHR.RemembranceDay_FR-FR5207828538_UHD.jpg)
+![2023-11-12-4](https://www.bing.com/th?id=OHR.FishingNetsKochi_EN-IN7237495596_UHD.jpg)
+![2023-11-12-5](https://www.bing.com/th?id=OHR.DiwaliAyodhya_JA-JP0829173693_UHD.jpg)

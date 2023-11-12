@@ -2864,3 +2864,6 @@ Bing_img
 ![2023-11-12-3](https://www.bing.com/th?id=OHR.RemembranceDay_FR-FR5207828538_UHD.jpg)
 ![2023-11-12-4](https://www.bing.com/th?id=OHR.FishingNetsKochi_EN-IN7237495596_UHD.jpg)
 ![2023-11-12-5](https://www.bing.com/th?id=OHR.DiwaliAyodhya_JA-JP0829173693_UHD.jpg)
+2023-11-13
+----------------
+![2023-11-13-0](https://www.bing.com/th?id=OHR.OliveOrchard_ZH-CN8198989130_UHD.jpg)

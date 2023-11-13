@@ -2867,3 +2867,6 @@ Bing_img
 2023-11-13
 ----------------
 ![2023-11-13-0](https://www.bing.com/th?id=OHR.OliveOrchard_ZH-CN8198989130_UHD.jpg)
+2023-11-14
+----------------
+![2023-11-14-0](https://www.bing.com/th?id=OHR.RussellLupines_ZH-CN8552113285_UHD.jpg)

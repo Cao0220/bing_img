@@ -2870,3 +2870,8 @@ Bing_img
 2023-11-14
 ----------------
 ![2023-11-14-0](https://www.bing.com/th?id=OHR.RussellLupines_ZH-CN8552113285_UHD.jpg)
+2023-11-15
+----------------
+![2023-11-15-0](https://www.bing.com/th?id=OHR.SarekSweden_ZH-CN9728518595_UHD.jpg)
+![2023-11-15-1](https://www.bing.com/th?id=OHR.RusellLupines_DE-DE0157339723_UHD.jpg)
+![2023-11-15-2](https://www.bing.com/th?id=OHR.ShichiGoSan2023_JA-JP6423389600_UHD.jpg)

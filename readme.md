@@ -2878,3 +2878,10 @@ Bing_img
 2023-11-16
 ----------------
 ![2023-11-16-0](https://www.bing.com/th?id=OHR.AthensAcropolis_ZH-CN9942357439_UHD.jpg)
+2023-11-17
+----------------
+![2023-11-17-0](https://www.bing.com/th?id=OHR.VanDusenGarden_EN-CA9959447598_UHD.jpg)
+![2023-11-17-1](https://www.bing.com/th?id=OHR.BadRiver_ZH-CN0416550169_UHD.jpg)
+![2023-11-17-2](https://www.bing.com/th?id=OHR.FiestaInca_ES-ES6946729543_UHD.jpg)
+![2023-11-17-3](https://www.bing.com/th?id=OHR.BeaujolaisVineyard_FR-FR7011057276_UHD.jpg)
+![2023-11-17-4](https://www.bing.com/th?id=OHR.SnakeRiverTeton_JA-JP1792583691_UHD.jpg)

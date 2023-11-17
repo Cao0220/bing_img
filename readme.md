@@ -2885,3 +2885,7 @@ Bing_img
 ![2023-11-17-2](https://www.bing.com/th?id=OHR.FiestaInca_ES-ES6946729543_UHD.jpg)
 ![2023-11-17-3](https://www.bing.com/th?id=OHR.BeaujolaisVineyard_FR-FR7011057276_UHD.jpg)
 ![2023-11-17-4](https://www.bing.com/th?id=OHR.SnakeRiverTeton_JA-JP1792583691_UHD.jpg)
+2023-11-18
+----------------
+![2023-11-18-0](https://www.bing.com/th?id=OHR.MilsePolarBear_ZH-CN0567475122_UHD.jpg)
+![2023-11-18-1](https://www.bing.com/th?id=OHR.KoenigseeLake_DE-DE5469211104_UHD.jpg)

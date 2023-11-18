@@ -2889,3 +2889,6 @@ Bing_img
 ----------------
 ![2023-11-18-0](https://www.bing.com/th?id=OHR.MilsePolarBear_ZH-CN0567475122_UHD.jpg)
 ![2023-11-18-1](https://www.bing.com/th?id=OHR.KoenigseeLake_DE-DE5469211104_UHD.jpg)
+2023-11-19
+----------------
+![2023-11-19-0](https://www.bing.com/th?id=OHR.FrozenBog_ZH-CN0712859386_UHD.jpg)

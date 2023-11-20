@@ -2897,3 +2897,6 @@ Bing_img
 ![2023-11-20-0](https://www.bing.com/th?id=OHR.DiadaBandeira_PT-BR3508927163_UHD.jpg)
 ![2023-11-20-1](https://www.bing.com/th?id=OHR.CastleCoch_ZH-CN0917284602_UHD.jpg)
 ![2023-11-20-2](https://www.bing.com/th?id=OHR.ChapmanAdventure_JA-JP3299214561_UHD.jpg)
+2023-11-21
+----------------
+![2023-11-21-0](https://www.bing.com/th?id=OHR.HelloSeal_ZH-CN1064568368_UHD.jpg)

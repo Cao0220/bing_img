@@ -2900,3 +2900,9 @@ Bing_img
 2023-11-21
 ----------------
 ![2023-11-21-0](https://www.bing.com/th?id=OHR.HelloSeal_ZH-CN1064568368_UHD.jpg)
+2023-11-22
+----------------
+![2023-11-22-0](https://www.bing.com/th?id=OHR.SnakeRiverTeton_ZH-CN1213535303_UHD.jpg)
+![2023-11-22-1](https://www.bing.com/th?id=OHR.RioNegro_DE-DE7737986794_UHD.jpg)
+![2023-11-22-2](https://www.bing.com/th?id=OHR.GiornataAlbero_IT-IT4061721168_UHD.jpg)
+![2023-11-22-3](https://www.bing.com/th?id=OHR.Xiaoxue2023_JA-JP4270732262_UHD.jpg)

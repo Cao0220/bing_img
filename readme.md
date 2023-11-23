@@ -2912,3 +2912,8 @@ Bing_img
 ![2023-11-23-1](https://www.bing.com/th?id=OHR.TeideNational_ZH-CN1367200520_UHD.jpg)
 ![2023-11-23-2](https://www.bing.com/th?id=OHR.ValdiNon_IT-IT6962165513_UHD.jpg)
 ![2023-11-23-3](https://www.bing.com/th?id=OHR.BradgateFallow_JA-JP4632580137_UHD.jpg)
+2023-11-24
+----------------
+![2023-11-24-0](https://www.bing.com/th?id=OHR.HallofMosses_ZH-CN1565129809_UHD.jpg)
+![2023-11-24-1](https://www.bing.com/th?id=OHR.FlamingosSaintesMaries_FR-FR7852991785_UHD.jpg)
+![2023-11-24-2](https://www.bing.com/th?id=OHR.VictoriaMemorialIndia_EN-IN2578716156_UHD.jpg)

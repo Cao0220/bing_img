@@ -2921,3 +2921,8 @@ Bing_img
 ----------------
 ![2023-11-25-0](https://www.bing.com/th?id=OHR.TajoRiver_ZH-CN1752559204_UHD.jpg)
 ![2023-11-25-1](https://www.bing.com/th?id=OHR.SemanaReduccionResiduos_ES-ES5790884875_UHD.jpg)
+2023-11-26
+----------------
+![2023-11-26-0](https://www.bing.com/th?id=OHR.KluaneNationalPark_EN-CA2444890279_UHD.jpg)
+![2023-11-26-1](https://www.bing.com/th?id=OHR.BradgateFallow_ZH-CN1852334581_UHD.jpg)
+![2023-11-26-2](https://www.bing.com/th?id=OHR.BathingDay2023_JA-JP8643192749_UHD.jpg)

@@ -2929,3 +2929,8 @@ Bing_img
 2023-11-27
 ----------------
 ![2023-11-27-0](https://www.bing.com/th?id=OHR.RioNegro_ZH-CN2121977810_UHD.jpg)
+2023-11-28
+----------------
+![2023-11-28-0](https://www.bing.com/th?id=OHR.AssiniboineProvincialPark_ZH-CN2270275151_UHD.jpg)
+![2023-11-28-1](https://www.bing.com/th?id=OHR.FrankfurtChristmasMarket_DE-DE3743491951_UHD.jpg)
+![2023-11-28-2](https://www.bing.com/th?id=OHR.HumanKindness_JA-JP6290539891_UHD.jpg)

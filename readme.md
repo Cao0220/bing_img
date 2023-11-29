@@ -2939,3 +2939,6 @@ Bing_img
 ![2023-11-29-0](https://www.bing.com/th?id=OHR.SchwerinerSchloss_ZH-CN2390476345_UHD.jpg)
 ![2023-11-29-1](https://www.bing.com/th?id=OHR.VarandhaGhatBhor_EN-IN3063436345_UHD.jpg)
 ![2023-11-29-2](https://www.bing.com/th?id=OHR.TreeLighting_JA-JP6880977842_UHD.jpg)
+2023-11-30
+----------------
+![2023-11-30-0](https://www.bing.com/th?id=OHR.TrotternishStorr_ZH-CN2508882441_UHD.jpg)

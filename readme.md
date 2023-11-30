@@ -2942,3 +2942,7 @@ Bing_img
 2023-11-30
 ----------------
 ![2023-11-30-0](https://www.bing.com/th?id=OHR.TrotternishStorr_ZH-CN2508882441_UHD.jpg)
+2023-12-01
+----------------
+![2023-12-01-0](https://www.bing.com/th?id=OHR.IcebergAntarctica_ZH-CN2053356825_UHD.jpg)
+![2023-12-01-1](https://www.bing.com/th?id=OHR.BaldCypress_FR-FR6892436965_UHD.jpg)

@@ -2946,3 +2946,10 @@ Bing_img
 ----------------
 ![2023-12-01-0](https://www.bing.com/th?id=OHR.IcebergAntarctica_ZH-CN2053356825_UHD.jpg)
 ![2023-12-01-1](https://www.bing.com/th?id=OHR.BaldCypress_FR-FR6892436965_UHD.jpg)
+2023-12-02
+----------------
+![2023-12-02-0](https://www.bing.com/th?id=OHR.JasperDarkSky_ROW7527441566_UHD.jpg)
+![2023-12-02-1](https://www.bing.com/th?id=OHR.MinnewankaLake_EN-CA2495233289_UHD.jpg)
+![2023-12-02-2](https://www.bing.com/th?id=OHR.GwaliorFortMP_ZH-CN3300432281_UHD.jpg)
+![2023-12-02-3](https://www.bing.com/th?id=OHR.SierraNevadaGranada_ES-ES5604012292_UHD.jpg)
+![2023-12-02-4](https://www.bing.com/th?id=OHR.AngkorPark_JA-JP7719711425_UHD.jpg)

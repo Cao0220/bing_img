@@ -2953,3 +2953,7 @@ Bing_img
 ![2023-12-02-2](https://www.bing.com/th?id=OHR.GwaliorFortMP_ZH-CN3300432281_UHD.jpg)
 ![2023-12-02-3](https://www.bing.com/th?id=OHR.SierraNevadaGranada_ES-ES5604012292_UHD.jpg)
 ![2023-12-02-4](https://www.bing.com/th?id=OHR.AngkorPark_JA-JP7719711425_UHD.jpg)
+2023-12-03
+----------------
+![2023-12-03-0](https://www.bing.com/th?id=OHR.VermilionCliffs_ZH-CN3945784250_UHD.jpg)
+![2023-12-03-1](https://www.bing.com/th?id=OHR.ChichibuNightFestival2023_JA-JP7273209766_UHD.jpg)

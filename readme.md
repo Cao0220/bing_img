@@ -2957,3 +2957,7 @@ Bing_img
 ----------------
 ![2023-12-03-0](https://www.bing.com/th?id=OHR.VermilionCliffs_ZH-CN3945784250_UHD.jpg)
 ![2023-12-03-1](https://www.bing.com/th?id=OHR.ChichibuNightFestival2023_JA-JP7273209766_UHD.jpg)
+2023-12-04
+----------------
+![2023-12-04-0](https://www.bing.com/th?id=OHR.CheetahDay_ZH-CN5114530695_UHD.jpg)
+![2023-12-04-1](https://www.bing.com/th?id=OHR.AdventCandles_DE-DE5745252681_UHD.jpg)

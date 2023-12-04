@@ -2961,3 +2961,6 @@ Bing_img
 ----------------
 ![2023-12-04-0](https://www.bing.com/th?id=OHR.CheetahDay_ZH-CN5114530695_UHD.jpg)
 ![2023-12-04-1](https://www.bing.com/th?id=OHR.AdventCandles_DE-DE5745252681_UHD.jpg)
+2023-12-05
+----------------
+![2023-12-05-0](https://www.bing.com/th?id=OHR.AlpsCastles_ZH-CN5078013932_UHD.jpg)

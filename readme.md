@@ -2964,3 +2964,9 @@ Bing_img
 2023-12-05
 ----------------
 ![2023-12-05-0](https://www.bing.com/th?id=OHR.AlpsCastles_ZH-CN5078013932_UHD.jpg)
+2023-12-06
+----------------
+![2023-12-06-0](https://www.bing.com/th?id=OHR.MuseumofTomorrow_PT-BR0071578162_UHD.jpg)
+![2023-12-06-1](https://www.bing.com/th?id=OHR.DardagnaWaterfalls_ZH-CN5613123621_UHD.jpg)
+![2023-12-06-2](https://www.bing.com/th?id=OHR.ValdiFassa_IT-IT6575730533_UHD.jpg)
+![2023-12-06-3](https://www.bing.com/th?id=OHR.CERNCenter_JA-JP8644590306_UHD.jpg)

@@ -2970,3 +2970,9 @@ Bing_img
 ![2023-12-06-1](https://www.bing.com/th?id=OHR.DardagnaWaterfalls_ZH-CN5613123621_UHD.jpg)
 ![2023-12-06-2](https://www.bing.com/th?id=OHR.ValdiFassa_IT-IT6575730533_UHD.jpg)
 ![2023-12-06-3](https://www.bing.com/th?id=OHR.CERNCenter_JA-JP8644590306_UHD.jpg)
+2023-12-07
+----------------
+![2023-12-07-0](https://www.bing.com/th?id=OHR.GrandCanyonVerdon_ZH-CN6025902720_UHD.jpg)
+![2023-12-07-1](https://www.bing.com/th?id=OHR.DiaConstitucion_ES-ES6067761704_UHD.jpg)
+![2023-12-07-2](https://www.bing.com/th?id=OHR.PalolemGoa_EN-IN1818092671_UHD.jpg)
+![2023-12-07-3](https://www.bing.com/th?id=OHR.Taisetsu2023_JA-JP8835846835_UHD.jpg)

@@ -2976,3 +2976,6 @@ Bing_img
 ![2023-12-07-1](https://www.bing.com/th?id=OHR.DiaConstitucion_ES-ES6067761704_UHD.jpg)
 ![2023-12-07-2](https://www.bing.com/th?id=OHR.PalolemGoa_EN-IN1818092671_UHD.jpg)
 ![2023-12-07-3](https://www.bing.com/th?id=OHR.Taisetsu2023_JA-JP8835846835_UHD.jpg)
+2023-12-08
+----------------
+![2023-12-08-0](https://www.bing.com/th?id=OHR.JerseyIsland_ZH-CN6224973235_UHD.jpg)

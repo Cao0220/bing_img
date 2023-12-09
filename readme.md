@@ -2984,3 +2984,9 @@ Bing_img
 ![2023-12-09-0](https://www.bing.com/th?id=OHR.PatagoniaGuanaco_ZH-CN6438038982_UHD.jpg)
 ![2023-12-09-1](https://www.bing.com/th?id=OHR.NurnbergSouvenir_DE-DE5480513127_UHD.jpg)
 ![2023-12-09-2](https://www.bing.com/th?id=OHR.LightFestivalLyon_FR-FR6128178223_UHD.jpg)
+2023-12-10
+----------------
+![2023-12-10-0](https://www.bing.com/th?id=OHR.LlanberisSnowdoniaSunset_ZH-CN6682238671_UHD.jpg)
+![2023-12-10-1](https://www.bing.com/th?id=OHR.IndiaGate_EN-IN7190380885_UHD.jpg)
+![2023-12-10-2](https://www.bing.com/th?id=OHR.TorboleTrento_IT-IT9651438497_UHD.jpg)
+![2023-12-10-3](https://www.bing.com/th?id=OHR.SaharaDunes_JA-JP9880519356_UHD.jpg)

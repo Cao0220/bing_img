@@ -2990,3 +2990,6 @@ Bing_img
 ![2023-12-10-1](https://www.bing.com/th?id=OHR.IndiaGate_EN-IN7190380885_UHD.jpg)
 ![2023-12-10-2](https://www.bing.com/th?id=OHR.TorboleTrento_IT-IT9651438497_UHD.jpg)
 ![2023-12-10-3](https://www.bing.com/th?id=OHR.SaharaDunes_JA-JP9880519356_UHD.jpg)
+2023-12-11
+----------------
+![2023-12-11-0](https://www.bing.com/th?id=OHR.MountainDayChina_ZH-CN6894169616_UHD.jpg)

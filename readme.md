@@ -2993,3 +2993,6 @@ Bing_img
 2023-12-11
 ----------------
 ![2023-12-11-0](https://www.bing.com/th?id=OHR.MountainDayChina_ZH-CN6894169616_UHD.jpg)
+2023-12-12
+----------------
+![2023-12-12-0](https://www.bing.com/th?id=OHR.Poinsettia_ZH-CN7255902344_UHD.jpg)

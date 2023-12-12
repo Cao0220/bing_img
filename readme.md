@@ -2996,3 +2996,6 @@ Bing_img
 2023-12-12
 ----------------
 ![2023-12-12-0](https://www.bing.com/th?id=OHR.Poinsettia_ZH-CN7255902344_UHD.jpg)
+2023-12-13
+----------------
+![2023-12-13-0](https://www.bing.com/th?id=OHR.LofotenRorbu_ZH-CN7790383976_UHD.jpg)

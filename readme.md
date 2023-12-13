@@ -2999,3 +2999,7 @@ Bing_img
 2023-12-13
 ----------------
 ![2023-12-13-0](https://www.bing.com/th?id=OHR.LofotenRorbu_ZH-CN7790383976_UHD.jpg)
+2023-12-14
+----------------
+![2023-12-14-0](https://www.bing.com/th?id=OHR.ChapadaDiamantina_PT-BR0912635874_UHD.jpg)
+![2023-12-14-1](https://www.bing.com/th?id=OHR.BorealOwl_ZH-CN7957240111_UHD.jpg)

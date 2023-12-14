@@ -3003,3 +3003,6 @@ Bing_img
 ----------------
 ![2023-12-14-0](https://www.bing.com/th?id=OHR.ChapadaDiamantina_PT-BR0912635874_UHD.jpg)
 ![2023-12-14-1](https://www.bing.com/th?id=OHR.BorealOwl_ZH-CN7957240111_UHD.jpg)
+2023-12-15
+----------------
+![2023-12-15-0](https://www.bing.com/th?id=OHR.SantaPark_ZH-CN7444715899_UHD.jpg)

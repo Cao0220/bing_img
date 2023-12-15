@@ -3006,3 +3006,6 @@ Bing_img
 2023-12-15
 ----------------
 ![2023-12-15-0](https://www.bing.com/th?id=OHR.SantaPark_ZH-CN7444715899_UHD.jpg)
+2023-12-16
+----------------
+![2023-12-16-0](https://www.bing.com/th?id=OHR.GrandPlaceXmas_ZH-CN8299342316_UHD.jpg)

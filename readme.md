@@ -3009,3 +3009,7 @@ Bing_img
 2023-12-16
 ----------------
 ![2023-12-16-0](https://www.bing.com/th?id=OHR.GrandPlaceXmas_ZH-CN8299342316_UHD.jpg)
+2023-12-17
+----------------
+![2023-12-17-0](https://www.bing.com/th?id=OHR.WinterWaxwings_ZH-CN9274297835_UHD.jpg)
+![2023-12-17-1](https://www.bing.com/th?id=OHR.FestivelyIlluminated_DE-DE8371347371_UHD.jpg)

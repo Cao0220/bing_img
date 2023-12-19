@@ -3021,3 +3021,7 @@ Bing_img
 ![2023-12-19-0](https://www.bing.com/th?id=OHR.WarsawChristmas_ZH-CN0949732911_UHD.jpg)
 ![2023-12-19-1](https://www.bing.com/th?id=OHR.Beaufortain_FR-FR7561012950_UHD.jpg)
 ![2023-12-19-2](https://www.bing.com/th?id=OHR.KingAlps_IT-IT9812724645_UHD.jpg)
+2023-12-20
+----------------
+![2023-12-20-0](https://www.bing.com/th?id=OHR.ChapadaDiamantina_ROW5555780879_UHD.jpg)
+![2023-12-20-1](https://www.bing.com/th?id=OHR.ValGardenaItaly_ZH-CN2405437494_UHD.jpg)

@@ -3029,3 +3029,8 @@ Bing_img
 ----------------
 ![2023-12-21-0](https://www.bing.com/th?id=OHR.LjubljanaLights_ZH-CN3179297953_UHD.jpg)
 ![2023-12-21-1](https://www.bing.com/th?id=OHR.XmasDesserts_FR-FR3582409300_UHD.jpg)
+2023-12-22
+----------------
+![2023-12-22-0](https://www.bing.com/th?id=OHR.CastleriggStoneCircleUK_EN-CA9940011631_UHD.jpg)
+![2023-12-22-1](https://www.bing.com/th?id=OHR.WinterSolstice2023_ZH-CN4450201916_UHD.jpg)
+![2023-12-22-2](https://www.bing.com/th?id=OHR.Wintersolstice2023_JA-JP9488437005_UHD.jpg)

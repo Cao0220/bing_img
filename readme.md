@@ -3034,3 +3034,10 @@ Bing_img
 ![2023-12-22-0](https://www.bing.com/th?id=OHR.CastleriggStoneCircleUK_EN-CA9940011631_UHD.jpg)
 ![2023-12-22-1](https://www.bing.com/th?id=OHR.WinterSolstice2023_ZH-CN4450201916_UHD.jpg)
 ![2023-12-22-2](https://www.bing.com/th?id=OHR.Wintersolstice2023_JA-JP9488437005_UHD.jpg)
+2023-12-23
+----------------
+![2023-12-23-0](https://www.bing.com/th?id=OHR.SolsticiodeVerao_PT-BR8599569944_UHD.jpg)
+![2023-12-23-1](https://www.bing.com/th?id=OHR.FestivusPenguins_ZH-CN5191348531_UHD.jpg)
+![2023-12-23-2](https://www.bing.com/th?id=OHR.WinterSolstice_ES-ES7825369117_UHD.jpg)
+![2023-12-23-3](https://www.bing.com/th?id=OHR.RedFortDelhi_EN-IN3982983147_UHD.jpg)
+![2023-12-23-4](https://www.bing.com/th?id=OHR.TokyoTower2023_JA-JP0066858338_UHD.jpg)

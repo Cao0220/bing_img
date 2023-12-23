@@ -3041,3 +3041,7 @@ Bing_img
 ![2023-12-23-2](https://www.bing.com/th?id=OHR.WinterSolstice_ES-ES7825369117_UHD.jpg)
 ![2023-12-23-3](https://www.bing.com/th?id=OHR.RedFortDelhi_EN-IN3982983147_UHD.jpg)
 ![2023-12-23-4](https://www.bing.com/th?id=OHR.TokyoTower2023_JA-JP0066858338_UHD.jpg)
+2023-12-24
+----------------
+![2023-12-24-0](https://www.bing.com/th?id=OHR.EstoniaXmasEve_ZH-CN5870799404_UHD.jpg)
+![2023-12-24-1](https://www.bing.com/th?id=OHR.AlpsReflecting_DE-DE8445668418_UHD.jpg)

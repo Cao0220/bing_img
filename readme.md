@@ -3045,3 +3045,8 @@ Bing_img
 ----------------
 ![2023-12-24-0](https://www.bing.com/th?id=OHR.EstoniaXmasEve_ZH-CN5870799404_UHD.jpg)
 ![2023-12-24-1](https://www.bing.com/th?id=OHR.AlpsReflecting_DE-DE8445668418_UHD.jpg)
+2023-12-25
+----------------
+![2023-12-25-0](https://www.bing.com/th?id=OHR.CaribouChristmas_ZH-CN6264028572_UHD.jpg)
+![2023-12-25-1](https://www.bing.com/th?id=OHR.SantaClausRace_ES-ES7942033287_UHD.jpg)
+![2023-12-25-2](https://www.bing.com/th?id=OHR.MilanXmasTree_IT-IT2035512778_UHD.jpg)

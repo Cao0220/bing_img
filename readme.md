@@ -3054,3 +3054,9 @@ Bing_img
 ----------------
 ![2023-12-26-0](https://www.bing.com/th?id=OHR.ChristmasCA_EN-CA0839691287_UHD.jpg)
 ![2023-12-26-1](https://www.bing.com/th?id=OHR.BoxingDaySunrise_ZH-CN7431512686_UHD.jpg)
+2023-12-27
+----------------
+![2023-12-27-0](https://www.bing.com/th?id=OHR.ToucanetEmpoleirado_PT-BR9974845394_UHD.jpg)
+![2023-12-27-1](https://www.bing.com/th?id=OHR.BoxingDayCA_EN-CA7491018775_UHD.jpg)
+![2023-12-27-2](https://www.bing.com/th?id=OHR.KirkjufellAurora_ZH-CN7878752057_UHD.jpg)
+![2023-12-27-3](https://www.bing.com/th?id=OHR.SanchiStupaMP_EN-IN0719147985_UHD.jpg)

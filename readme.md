@@ -3060,3 +3060,6 @@ Bing_img
 ![2023-12-27-1](https://www.bing.com/th?id=OHR.BoxingDayCA_EN-CA7491018775_UHD.jpg)
 ![2023-12-27-2](https://www.bing.com/th?id=OHR.KirkjufellAurora_ZH-CN7878752057_UHD.jpg)
 ![2023-12-27-3](https://www.bing.com/th?id=OHR.SanchiStupaMP_EN-IN0719147985_UHD.jpg)
+2023-12-28
+----------------
+![2023-12-28-0](https://www.bing.com/th?id=OHR.GreenlandHumpback_ZH-CN8145852053_UHD.jpg)

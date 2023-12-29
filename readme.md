@@ -3066,3 +3066,7 @@ Bing_img
 2023-12-29
 ----------------
 ![2023-12-29-0](https://www.bing.com/th?id=OHR.BlueAmsterdam_ZH-CN0483591394_UHD.jpg)
+2023-12-30
+----------------
+![2023-12-30-0](https://www.bing.com/th?id=OHR.CastleriggStoneCircleUK_ZH-CN1174541384_UHD.jpg)
+![2023-12-30-1](https://www.bing.com/th?id=OHR.TadamiWinter_JA-JP3859322331_UHD.jpg)

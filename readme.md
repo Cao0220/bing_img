@@ -3074,3 +3074,10 @@ Bing_img
 ----------------
 ![2023-12-31-0](https://www.bing.com/th?id=OHR.ThailandNewYears_ZH-CN2058192262_UHD.jpg)
 ![2023-12-31-1](https://www.bing.com/th?id=OHR.Omisoka2023_JA-JP4038808718_UHD.jpg)
+2024-01-01
+----------------
+![2024-01-01-0](https://www.bing.com/th?id=OHR.ReveillonBrazil_PT-BR9820187694_UHD.jpg)
+![2024-01-01-1](https://www.bing.com/th?id=OHR.SleepingFox_ZH-CN2622967726_UHD.jpg)
+![2024-01-01-2](https://www.bing.com/th?id=OHR.SpainNewYear_ES-ES8250941524_UHD.jpg)
+![2024-01-01-3](https://www.bing.com/th?id=OHR.SantaMariaVenice_1185725818_IT-IT0984119913_UHD.jpg)
+![2024-01-01-4](https://www.bing.com/th?id=OHR.Sunrise2024_JA-JP1927003758_UHD.jpg)

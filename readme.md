@@ -3081,3 +3081,7 @@ Bing_img
 ![2024-01-01-2](https://www.bing.com/th?id=OHR.SpainNewYear_ES-ES8250941524_UHD.jpg)
 ![2024-01-01-3](https://www.bing.com/th?id=OHR.SantaMariaVenice_1185725818_IT-IT0984119913_UHD.jpg)
 ![2024-01-01-4](https://www.bing.com/th?id=OHR.Sunrise2024_JA-JP1927003758_UHD.jpg)
+2024-01-02
+----------------
+![2024-01-02-0](https://www.bing.com/th?id=OHR.MehrangarhJodhpur_ZH-CN2855490711_UHD.jpg)
+![2024-01-02-1](https://www.bing.com/th?id=OHR.BhutanSolstice_JA-JP1805849873_UHD.jpg)

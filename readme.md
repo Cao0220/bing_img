@@ -3085,3 +3085,7 @@ Bing_img
 ----------------
 ![2024-01-02-0](https://www.bing.com/th?id=OHR.MehrangarhJodhpur_ZH-CN2855490711_UHD.jpg)
 ![2024-01-02-1](https://www.bing.com/th?id=OHR.BhutanSolstice_JA-JP1805849873_UHD.jpg)
+2024-01-03
+----------------
+![2024-01-03-0](https://www.bing.com/th?id=OHR.MinnewankaLake_ZH-CN3020982568_UHD.jpg)
+![2024-01-03-1](https://www.bing.com/th?id=OHR.BodleianCeiling_JA-JP1889636385_UHD.jpg)

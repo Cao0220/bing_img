@@ -3099,3 +3099,8 @@ Bing_img
 ![2024-01-05-0](https://www.bing.com/th?id=OHR.AlpsReflecting_ZH-CN4036320440_UHD.jpg)
 ![2024-01-05-1](https://www.bing.com/th?id=OHR.StPeterMonastery_DE-DE0883907232_UHD.jpg)
 ![2024-01-05-2](https://www.bing.com/th?id=OHR.HarbinFestival_JA-JP2258801493_UHD.jpg)
+2024-01-06
+----------------
+![2024-01-06-0](https://www.bing.com/th?id=OHR.SunsetPantanal_PT-BR1044442706_UHD.jpg)
+![2024-01-06-1](https://www.bing.com/th?id=OHR.CrabappleChaffinch_ZH-CN4458529756_UHD.jpg)
+![2024-01-06-2](https://www.bing.com/th?id=OHR.KingsDay_ES-ES9269541177_UHD.jpg)

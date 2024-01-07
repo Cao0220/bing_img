@@ -3111,3 +3111,6 @@ Bing_img
 ![2024-01-07-2](https://www.bing.com/th?id=OHR.GoldenGateLight_DE-DE1352725160_UHD.jpg)
 ![2024-01-07-3](https://www.bing.com/th?id=OHR.GuadeloupeCarnival_FR-FR1231104335_UHD.jpg)
 ![2024-01-07-4](https://www.bing.com/th?id=OHR.BefanaPiazzaNavona_459973167_IT-IT4250570937_UHD.jpg)
+2024-01-08
+----------------
+![2024-01-08-0](https://www.bing.com/th?id=OHR.BerninaPass_ZH-CN5776010452_UHD.jpg)

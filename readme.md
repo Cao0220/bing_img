@@ -3114,3 +3114,6 @@ Bing_img
 2024-01-08
 ----------------
 ![2024-01-08-0](https://www.bing.com/th?id=OHR.BerninaPass_ZH-CN5776010452_UHD.jpg)
+2024-01-09
+----------------
+![2024-01-09-0](https://www.bing.com/th?id=OHR.BalloonDay_ZH-CN7571792218_UHD.jpg)

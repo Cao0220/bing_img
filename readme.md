@@ -3117,3 +3117,7 @@ Bing_img
 2024-01-09
 ----------------
 ![2024-01-09-0](https://www.bing.com/th?id=OHR.BalloonDay_ZH-CN7571792218_UHD.jpg)
+2024-01-10
+----------------
+![2024-01-10-0](https://www.bing.com/th?id=OHR.MilopotamosStairs_ZH-CN8013521384_UHD.jpg)
+![2024-01-10-1](https://www.bing.com/th?id=OHR.GayathriReservoir_EN-IN7178721819_UHD.jpg)

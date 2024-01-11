@@ -3124,3 +3124,7 @@ Bing_img
 2024-01-11
 ----------------
 ![2024-01-11-0](https://www.bing.com/th?id=OHR.LynxSnow_ZH-CN8908082275_UHD.jpg)
+2024-01-12
+----------------
+![2024-01-12-0](https://www.bing.com/th?id=OHR.BukhansanSeoul_ZH-CN8002920750_UHD.jpg)
+![2024-01-12-1](https://www.bing.com/th?id=OHR.OrnamentalAppleTree_DE-DE2719116255_UHD.jpg)

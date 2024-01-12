@@ -3128,3 +3128,8 @@ Bing_img
 ----------------
 ![2024-01-12-0](https://www.bing.com/th?id=OHR.BukhansanSeoul_ZH-CN8002920750_UHD.jpg)
 ![2024-01-12-1](https://www.bing.com/th?id=OHR.OrnamentalAppleTree_DE-DE2719116255_UHD.jpg)
+2024-01-13
+----------------
+![2024-01-13-0](https://www.bing.com/th?id=OHR.HanaHighway_ZH-CN8601588011_UHD.jpg)
+![2024-01-13-1](https://www.bing.com/th?id=OHR.FestaMajorBarcelona_ES-ES2068839332_UHD.jpg)
+![2024-01-13-2](https://www.bing.com/th?id=OHR.Daruma2024_JA-JP9897104150_UHD.jpg)

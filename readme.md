@@ -3133,3 +3133,7 @@ Bing_img
 ![2024-01-13-0](https://www.bing.com/th?id=OHR.HanaHighway_ZH-CN8601588011_UHD.jpg)
 ![2024-01-13-1](https://www.bing.com/th?id=OHR.FestaMajorBarcelona_ES-ES2068839332_UHD.jpg)
 ![2024-01-13-2](https://www.bing.com/th?id=OHR.Daruma2024_JA-JP9897104150_UHD.jpg)
+2024-01-14
+----------------
+![2024-01-14-0](https://www.bing.com/th?id=OHR.HokkaidoSwans_ZH-CN8733312972_UHD.jpg)
+![2024-01-14-1](https://www.bing.com/th?id=OHR.SanLucanoValley_IT-IT3035454153_UHD.jpg)

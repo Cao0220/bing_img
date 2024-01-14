@@ -3137,3 +3137,6 @@ Bing_img
 ----------------
 ![2024-01-14-0](https://www.bing.com/th?id=OHR.HokkaidoSwans_ZH-CN8733312972_UHD.jpg)
 ![2024-01-14-1](https://www.bing.com/th?id=OHR.SanLucanoValley_IT-IT3035454153_UHD.jpg)
+2024-01-15
+----------------
+![2024-01-15-0](https://www.bing.com/th?id=OHR.IceChapel_ZH-CN9189733666_UHD.jpg)

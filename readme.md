@@ -3140,3 +3140,9 @@ Bing_img
 2024-01-15
 ----------------
 ![2024-01-15-0](https://www.bing.com/th?id=OHR.IceChapel_ZH-CN9189733666_UHD.jpg)
+2024-01-16
+----------------
+![2024-01-16-0](https://www.bing.com/th?id=OHR.AuroraBritishColumbia_EN-CA6392674959_UHD.jpg)
+![2024-01-16-1](https://www.bing.com/th?id=OHR.LakeLouise_ZH-CN9592539152_UHD.jpg)
+![2024-01-16-2](https://www.bing.com/th?id=OHR.SnowHorses_FR-FR2904040226_UHD.jpg)
+![2024-01-16-3](https://www.bing.com/th?id=OHR.MakarSankrantiKites_EN-IN1385639662_UHD.jpg)

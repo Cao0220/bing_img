@@ -3149,3 +3149,7 @@ Bing_img
 2024-01-17
 ----------------
 ![2024-01-17-0](https://www.bing.com/th?id=OHR.SleepyWolf_ZH-CN9870873990_UHD.jpg)
+2024-01-18
+----------------
+![2024-01-18-0](https://www.bing.com/th?id=OHR.GiantAnteaterBR_PT-BR0815796970_UHD.jpg)
+![2024-01-18-1](https://www.bing.com/th?id=OHR.ParisBridge_ZH-CN0173421630_UHD.jpg)

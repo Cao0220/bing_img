@@ -3161,3 +3161,7 @@ Bing_img
 ----------------
 ![2024-01-20-0](https://www.bing.com/th?id=OHR.MacaroniPenguins_ZH-CN0600867997_UHD.jpg)
 ![2024-01-20-1](https://www.bing.com/th?id=OHR.Daikan2024_JA-JP9341510234_UHD.jpg)
+2024-01-21
+----------------
+![2024-01-21-0](https://www.bing.com/th?id=OHR.SquirrelNetherlands_ZH-CN0757138587_UHD.jpg)
+![2024-01-21-1](https://www.bing.com/th?id=OHR.Castlenaud_FR-FR4922909582_UHD.jpg)

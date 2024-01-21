@@ -3165,3 +3165,6 @@ Bing_img
 ----------------
 ![2024-01-21-0](https://www.bing.com/th?id=OHR.SquirrelNetherlands_ZH-CN0757138587_UHD.jpg)
 ![2024-01-21-1](https://www.bing.com/th?id=OHR.Castlenaud_FR-FR4922909582_UHD.jpg)
+2024-01-22
+----------------
+![2024-01-22-0](https://www.bing.com/th?id=OHR.SantaCruzSunrise_ZH-CN3074203377_UHD.jpg)

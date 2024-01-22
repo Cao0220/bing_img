@@ -3168,3 +3168,7 @@ Bing_img
 2024-01-22
 ----------------
 ![2024-01-22-0](https://www.bing.com/th?id=OHR.SantaCruzSunrise_ZH-CN3074203377_UHD.jpg)
+2024-01-23
+----------------
+![2024-01-23-0](https://www.bing.com/th?id=OHR.MaldivesAtolls_ZH-CN1365670653_UHD.jpg)
+![2024-01-23-1](https://www.bing.com/th?id=OHR.RenanusBridge_DE-DE1445260424_UHD.jpg)

@@ -3175,3 +3175,7 @@ Bing_img
 2024-01-24
 ----------------
 ![2024-01-24-0](https://www.bing.com/th?id=OHR.IcelandBeach_ZH-CN1632329693_UHD.jpg)
+2024-01-25
+----------------
+![2024-01-25-0](https://www.bing.com/th?id=OHR.DwynwensDay_ZH-CN1768649253_UHD.jpg)
+![2024-01-25-1](https://www.bing.com/th?id=OHR.AbruzzoGranSasso_IT-IT5897224471_UHD.jpg)

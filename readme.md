@@ -3185,3 +3185,8 @@ Bing_img
 ![2024-01-26-1](https://www.bing.com/th?id=OHR.SnowyOwlQuebec_EN-CA1326772856_UHD.jpg)
 ![2024-01-26-2](https://www.bing.com/th?id=OHR.HawkOwl_ZH-CN3401920167_UHD.jpg)
 ![2024-01-26-3](https://www.bing.com/th?id=OHR.AgraFortUP_EN-IN3840610789_UHD.jpg)
+2024-01-27
+----------------
+![2024-01-27-0](https://www.bing.com/th?id=OHR.ToucanetEmpoleirado_ZH-CN8520861326_UHD.jpg)
+![2024-01-27-1](https://www.bing.com/th?id=OHR.RepublicDayIN_EN-IN0100062780_UHD.jpg)
+![2024-01-27-2](https://www.bing.com/th?id=OHR.WinterCarnival_JA-JP8320595671_UHD.jpg)

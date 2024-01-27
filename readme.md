@@ -3190,3 +3190,7 @@ Bing_img
 ![2024-01-27-0](https://www.bing.com/th?id=OHR.ToucanetEmpoleirado_ZH-CN8520861326_UHD.jpg)
 ![2024-01-27-1](https://www.bing.com/th?id=OHR.RepublicDayIN_EN-IN0100062780_UHD.jpg)
 ![2024-01-27-2](https://www.bing.com/th?id=OHR.WinterCarnival_JA-JP8320595671_UHD.jpg)
+2024-01-28
+----------------
+![2024-01-28-0](https://www.bing.com/th?id=OHR.ChannelOutback_ZH-CN0579687777_UHD.jpg)
+![2024-01-28-1](https://www.bing.com/th?id=OHR.VeniceMask_IT-IT8837676102_UHD.jpg)

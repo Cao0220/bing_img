@@ -3194,3 +3194,8 @@ Bing_img
 ----------------
 ![2024-01-28-0](https://www.bing.com/th?id=OHR.ChannelOutback_ZH-CN0579687777_UHD.jpg)
 ![2024-01-28-1](https://www.bing.com/th?id=OHR.VeniceMask_IT-IT8837676102_UHD.jpg)
+2024-01-29
+----------------
+![2024-01-29-0](https://www.bing.com/th?id=OHR.GollingerFalls_ZH-CN1137680822_UHD.jpg)
+![2024-01-29-1](https://www.bing.com/th?id=OHR.SanLesmesBurgos_ES-ES5995468445_UHD.jpg)
+![2024-01-29-2](https://www.bing.com/th?id=OHR.SnowFox_FR-FR3113896350_UHD.jpg)

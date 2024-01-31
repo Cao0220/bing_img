@@ -3206,3 +3206,8 @@ Bing_img
 ----------------
 ![2024-01-31-0](https://www.bing.com/th?id=OHR.ZebraMother_ZH-CN1947314869_UHD.jpg)
 ![2024-01-31-1](https://www.bing.com/th?id=OHR.MartyrsDayIndia_EN-IN0212578144_UHD.jpg)
+2024-02-01
+----------------
+![2024-02-01-0](https://www.bing.com/th?id=OHR.MacawParrot_PT-BR2174373090_UHD.jpg)
+![2024-02-01-1](https://www.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_UHD.jpg)
+![2024-02-01-2](https://www.bing.com/th?id=OHR.DevetashkaCave_JA-JP9707792334_UHD.jpg)

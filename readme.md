@@ -3211,3 +3211,8 @@ Bing_img
 ![2024-02-01-0](https://www.bing.com/th?id=OHR.MacawParrot_PT-BR2174373090_UHD.jpg)
 ![2024-02-01-1](https://www.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_UHD.jpg)
 ![2024-02-01-2](https://www.bing.com/th?id=OHR.DevetashkaCave_JA-JP9707792334_UHD.jpg)
+2024-02-02
+----------------
+![2024-02-02-0](https://www.bing.com/th?id=OHR.PolarBearResting_EN-CA5363891860_UHD.jpg)
+![2024-02-02-1](https://www.bing.com/th?id=OHR.AlpineMarmot_ZH-CN3818584615_UHD.jpg)
+![2024-02-02-2](https://www.bing.com/th?id=OHR.AlbaceteSpain_EN-IN7833370046_UHD.jpg)

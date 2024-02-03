@@ -3221,3 +3221,8 @@ Bing_img
 ![2024-02-03-0](https://www.bing.com/th?id=OHR.VeniceCarnival_ZH-CN4965898587_UHD.jpg)
 ![2024-02-03-1](https://www.bing.com/th?id=OHR.Chandeleur_FR-FR6465418601_UHD.jpg)
 ![2024-02-03-2](https://www.bing.com/th?id=OHR.Hakodate2024_JA-JP0227242180_UHD.jpg)
+2024-02-04
+----------------
+![2024-02-04-0](https://www.bing.com/th?id=OHR.DevetashkaCave_ZH-CN5186222166_UHD.jpg)
+![2024-02-04-1](https://www.bing.com/th?id=OHR.LakeTahoeRock_IT-IT1070329112_UHD.jpg)
+![2024-02-04-2](https://www.bing.com/th?id=OHR.Risshun2024_JA-JP0473025978_UHD.jpg)

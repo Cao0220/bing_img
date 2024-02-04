@@ -3226,3 +3226,7 @@ Bing_img
 ![2024-02-04-0](https://www.bing.com/th?id=OHR.DevetashkaCave_ZH-CN5186222166_UHD.jpg)
 ![2024-02-04-1](https://www.bing.com/th?id=OHR.LakeTahoeRock_IT-IT1070329112_UHD.jpg)
 ![2024-02-04-2](https://www.bing.com/th?id=OHR.Risshun2024_JA-JP0473025978_UHD.jpg)
+2024-02-05
+----------------
+![2024-02-05-0](https://www.bing.com/th?id=OHR.LakeBledSunrise_ZH-CN5580697031_UHD.jpg)
+![2024-02-05-1](https://www.bing.com/th?id=OHR.TeideNational_JA-JP0929359307_UHD.jpg)

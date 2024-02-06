@@ -3235,3 +3235,8 @@ Bing_img
 ![2024-02-06-0](https://www.bing.com/th?id=OHR.WesternMonarchs_ROW4483453788_UHD.jpg)
 ![2024-02-06-1](https://www.bing.com/th?id=OHR.LakeTahoeRock_ZH-CN5770740919_UHD.jpg)
 ![2024-02-06-2](https://www.bing.com/th?id=OHR.MunichOperaHouse_DE-DE1491407214_UHD.jpg)
+2024-02-07
+----------------
+![2024-02-07-0](https://www.bing.com/th?id=OHR.StJamesPool_ZH-CN5930624359_UHD.jpg)
+![2024-02-07-1](https://www.bing.com/th?id=OHR.SanremoFestival_IT-IT4644793189_UHD.jpg)
+![2024-02-07-2](https://www.bing.com/th?id=OHR.GrandCanyonVerdon_JA-JP1674672705_UHD.jpg)

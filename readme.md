@@ -3240,3 +3240,7 @@ Bing_img
 ![2024-02-07-0](https://www.bing.com/th?id=OHR.StJamesPool_ZH-CN5930624359_UHD.jpg)
 ![2024-02-07-1](https://www.bing.com/th?id=OHR.SanremoFestival_IT-IT4644793189_UHD.jpg)
 ![2024-02-07-2](https://www.bing.com/th?id=OHR.GrandCanyonVerdon_JA-JP1674672705_UHD.jpg)
+2024-02-08
+----------------
+![2024-02-08-0](https://www.bing.com/th?id=OHR.PovosIndigenas_PT-BR6197320294_UHD.jpg)
+![2024-02-08-1](https://www.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_UHD.jpg)

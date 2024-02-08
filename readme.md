@@ -3244,3 +3244,7 @@ Bing_img
 ----------------
 ![2024-02-08-0](https://www.bing.com/th?id=OHR.PovosIndigenas_PT-BR6197320294_UHD.jpg)
 ![2024-02-08-1](https://www.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_UHD.jpg)
+2024-02-09
+----------------
+![2024-02-09-0](https://www.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_UHD.jpg)
+![2024-02-09-1](https://www.bing.com/th?id=OHR.SapporoSnowFest2024_JA-JP5845958327_UHD.jpg)

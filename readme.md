@@ -3248,3 +3248,10 @@ Bing_img
 ----------------
 ![2024-02-09-0](https://www.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_UHD.jpg)
 ![2024-02-09-1](https://www.bing.com/th?id=OHR.SapporoSnowFest2024_JA-JP5845958327_UHD.jpg)
+2024-02-10
+----------------
+![2024-02-10-0](https://www.bing.com/th?id=OHR.PegadungRocks_ROW3539053744_UHD.jpg)
+![2024-02-10-1](https://www.bing.com/th?id=OHR.PraiadeCopacabana_PT-BR1256625219_UHD.jpg)
+![2024-02-10-2](https://www.bing.com/th?id=OHR.SpringFestival2024_ZH-CN7514007541_UHD.jpg)
+![2024-02-10-3](https://www.bing.com/th?id=OHR.Ribadeo_ES-ES6070191561_UHD.jpg)
+![2024-02-10-4](https://www.bing.com/th?id=OHR.ChinaDragon_JA-JP6088029412_UHD.jpg)

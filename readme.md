@@ -3255,3 +3255,8 @@ Bing_img
 ![2024-02-10-2](https://www.bing.com/th?id=OHR.SpringFestival2024_ZH-CN7514007541_UHD.jpg)
 ![2024-02-10-3](https://www.bing.com/th?id=OHR.Ribadeo_ES-ES6070191561_UHD.jpg)
 ![2024-02-10-4](https://www.bing.com/th?id=OHR.ChinaDragon_JA-JP6088029412_UHD.jpg)
+2024-02-11
+----------------
+![2024-02-11-0](https://www.bing.com/th?id=OHR.GiantAnteaterBR_ROW3873647226_UHD.jpg)
+![2024-02-11-1](https://www.bing.com/th?id=OHR.ChineseNYParade_EN-CA8193422091_UHD.jpg)
+![2024-02-11-2](https://www.bing.com/th?id=OHR.FolegandrosGreece_ZH-CN7803666477_UHD.jpg)

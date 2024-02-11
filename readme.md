@@ -3260,3 +3260,6 @@ Bing_img
 ![2024-02-11-0](https://www.bing.com/th?id=OHR.GiantAnteaterBR_ROW3873647226_UHD.jpg)
 ![2024-02-11-1](https://www.bing.com/th?id=OHR.ChineseNYParade_EN-CA8193422091_UHD.jpg)
 ![2024-02-11-2](https://www.bing.com/th?id=OHR.FolegandrosGreece_ZH-CN7803666477_UHD.jpg)
+2024-02-12
+----------------
+![2024-02-12-0](https://www.bing.com/th?id=OHR.GiantTortoise_ZH-CN9220903689_UHD.jpg)

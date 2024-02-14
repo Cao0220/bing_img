@@ -3272,3 +3272,7 @@ Bing_img
 ![2024-02-14-1](https://www.bing.com/th?id=OHR.PegadungRocks_PT-BR4077101673_UHD.jpg)
 ![2024-02-14-2](https://www.bing.com/th?id=OHR.BowingCrane_ZH-CN0143761293_UHD.jpg)
 ![2024-02-14-3](https://www.bing.com/th?id=OHR.CarnevaleViareggio_IT-IT8940909658_UHD.jpg)
+2024-02-15
+----------------
+![2024-02-15-0](https://www.bing.com/th?id=OHR.HippopotamusDay_ZH-CN0518367336_UHD.jpg)
+![2024-02-15-1](https://www.bing.com/th?id=OHR.VasantPanchamiIN_EN-IN0210941348_UHD.jpg)

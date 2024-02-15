@@ -3276,3 +3276,7 @@ Bing_img
 ----------------
 ![2024-02-15-0](https://www.bing.com/th?id=OHR.HippopotamusDay_ZH-CN0518367336_UHD.jpg)
 ![2024-02-15-1](https://www.bing.com/th?id=OHR.VasantPanchamiIN_EN-IN0210941348_UHD.jpg)
+2024-02-16
+----------------
+![2024-02-16-0](https://www.bing.com/th?id=OHR.BackyardBird_ZH-CN0522695977_UHD.jpg)
+![2024-02-16-1](https://www.bing.com/th?id=OHR.BerlinalePalast_DE-DE2536739383_UHD.jpg)

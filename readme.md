@@ -3285,3 +3285,10 @@ Bing_img
 ![2024-02-17-0](https://www.bing.com/th?id=OHR.LakeDolomites_ZH-CN2317113886_UHD.jpg)
 ![2024-02-17-1](https://www.bing.com/th?id=OHR.SkiResort_FR-FR5956789786_UHD.jpg)
 ![2024-02-17-2](https://www.bing.com/th?id=OHR.PegadungRocks_JA-JP7689168051_UHD.jpg)
+2024-02-18
+----------------
+![2024-02-18-0](https://www.bing.com/th?id=OHR.HalbinselJasmund_EN-CA5327600383_UHD.jpg)
+![2024-02-18-1](https://www.bing.com/th?id=OHR.DominicaWhales_ZH-CN1293650397_UHD.jpg)
+![2024-02-18-2](https://www.bing.com/th?id=OHR.CarnavalTenerife_ES-ES6332745599_UHD.jpg)
+![2024-02-18-3](https://www.bing.com/th?id=OHR.BrightonBoxes_FR-FR1148207790_UHD.jpg)
+![2024-02-18-4](https://www.bing.com/th?id=OHR.KailasTempleEllora_EN-IN9221534487_UHD.jpg)

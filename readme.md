@@ -3295,3 +3295,8 @@ Bing_img
 2024-02-19
 ----------------
 ![2024-02-19-0](https://www.bing.com/th?id=OHR.Ume2024_JA-JP3356449258_UHD.jpg)
+2024-02-20
+----------------
+![2024-02-20-0](https://www.bing.com/th?id=OHR.TajoRiver_EN-CA7817370984_UHD.jpg)
+![2024-02-20-1](https://www.bing.com/th?id=OHR.PeakDistrictNP_ZH-CN1987784653_UHD.jpg)
+![2024-02-20-2](https://www.bing.com/th?id=OHR.LakeDolomites_ES-ES6192174568_UHD.jpg)

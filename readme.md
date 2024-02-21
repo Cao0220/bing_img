@@ -3303,3 +3303,6 @@ Bing_img
 2024-02-21
 ----------------
 ![2024-02-21-0](https://www.bing.com/th?id=OHR.YosemiteFirefall_ZH-CN2236242565_UHD.jpg)
+2024-02-22
+----------------
+![2024-02-22-0](https://www.bing.com/th?id=OHR.BrightonBoxes_ZH-CN0947219018_UHD.jpg)

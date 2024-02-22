@@ -3306,3 +3306,10 @@ Bing_img
 2024-02-22
 ----------------
 ![2024-02-22-0](https://www.bing.com/th?id=OHR.BrightonBoxes_ZH-CN0947219018_UHD.jpg)
+2024-02-23
+----------------
+![2024-02-23-0](https://www.bing.com/th?id=OHR.IguazuFalls_PT-BR6454188192_UHD.jpg)
+![2024-02-23-1](https://www.bing.com/th?id=OHR.HaghartsinMonastery_ZH-CN1705226096_UHD.jpg)
+![2024-02-23-2](https://www.bing.com/th?id=OHR.FrozenSoapBubble_DE-DE1646022530_UHD.jpg)
+![2024-02-23-3](https://www.bing.com/th?id=OHR.MontBlancChamonix_FR-FR7471811923_UHD.jpg)
+![2024-02-23-4](https://www.bing.com/th?id=OHR.Fuji2024_JA-JP9270000739_UHD.jpg)

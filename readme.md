@@ -3313,3 +3313,7 @@ Bing_img
 ![2024-02-23-2](https://www.bing.com/th?id=OHR.FrozenSoapBubble_DE-DE1646022530_UHD.jpg)
 ![2024-02-23-3](https://www.bing.com/th?id=OHR.MontBlancChamonix_FR-FR7471811923_UHD.jpg)
 ![2024-02-23-4](https://www.bing.com/th?id=OHR.Fuji2024_JA-JP9270000739_UHD.jpg)
+2024-02-24
+----------------
+![2024-02-24-0](https://www.bing.com/th?id=OHR.LaternFestival2024_ZH-CN8050981828_UHD.jpg)
+![2024-02-24-1](https://www.bing.com/th?id=OHR.AlmondBloom_JA-JP9467341348_UHD.jpg)

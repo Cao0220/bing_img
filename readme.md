@@ -3317,3 +3317,9 @@ Bing_img
 ----------------
 ![2024-02-24-0](https://www.bing.com/th?id=OHR.LaternFestival2024_ZH-CN8050981828_UHD.jpg)
 ![2024-02-24-1](https://www.bing.com/th?id=OHR.AlmondBloom_JA-JP9467341348_UHD.jpg)
+2024-02-25
+----------------
+![2024-02-25-0](https://www.bing.com/th?id=OHR.MtPrevostDuncan_ZH-CN2333619635_UHD.jpg)
+![2024-02-25-1](https://www.bing.com/th?id=OHR.HanselGretelHouse_DE-DE6769523400_UHD.jpg)
+![2024-02-25-2](https://www.bing.com/th?id=OHR.AgriculturalShow_FR-FR2506485920_UHD.jpg)
+![2024-02-25-3](https://www.bing.com/th?id=OHR.GreenfinchesBattle_IT-IT1304906662_UHD.jpg)

@@ -3323,3 +3323,6 @@ Bing_img
 ![2024-02-25-1](https://www.bing.com/th?id=OHR.HanselGretelHouse_DE-DE6769523400_UHD.jpg)
 ![2024-02-25-2](https://www.bing.com/th?id=OHR.AgriculturalShow_FR-FR2506485920_UHD.jpg)
 ![2024-02-25-3](https://www.bing.com/th?id=OHR.GreenfinchesBattle_IT-IT1304906662_UHD.jpg)
+2024-02-26
+----------------
+![2024-02-26-0](https://www.bing.com/th?id=OHR.GrandCanyonWinter_ZH-CN2640803517_UHD.jpg)

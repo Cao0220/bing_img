@@ -3326,3 +3326,7 @@ Bing_img
 2024-02-26
 ----------------
 ![2024-02-26-0](https://www.bing.com/th?id=OHR.GrandCanyonWinter_ZH-CN2640803517_UHD.jpg)
+2024-02-27
+----------------
+![2024-02-27-0](https://www.bing.com/th?id=OHR.PolarBearCubs_ZH-CN2913942257_UHD.jpg)
+![2024-02-27-1](https://www.bing.com/th?id=OHR.TigerMom_EN-IN2824299934_UHD.jpg)

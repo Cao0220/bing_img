@@ -3330,3 +3330,6 @@ Bing_img
 ----------------
 ![2024-02-27-0](https://www.bing.com/th?id=OHR.PolarBearCubs_ZH-CN2913942257_UHD.jpg)
 ![2024-02-27-1](https://www.bing.com/th?id=OHR.TigerMom_EN-IN2824299934_UHD.jpg)
+2024-02-28
+----------------
+![2024-02-28-0](https://www.bing.com/th?id=OHR.BamburghCastleUK_ZH-CN3201531782_UHD.jpg)

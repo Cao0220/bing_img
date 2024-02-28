@@ -3333,3 +3333,8 @@ Bing_img
 2024-02-28
 ----------------
 ![2024-02-28-0](https://www.bing.com/th?id=OHR.BamburghCastleUK_ZH-CN3201531782_UHD.jpg)
+2024-02-29
+----------------
+![2024-02-29-0](https://www.bing.com/th?id=OHR.LeapingSquirrel_ZH-CN9112090462_UHD.jpg)
+![2024-02-29-1](https://www.bing.com/th?id=OHR.SevilleAndalusiaDay_ES-ES5223382941_UHD.jpg)
+![2024-02-29-2](https://www.bing.com/th?id=OHR.VermilionCliffs_JA-JP0444568228_UHD.jpg)

@@ -3338,3 +3338,8 @@ Bing_img
 ![2024-02-29-0](https://www.bing.com/th?id=OHR.LeapingSquirrel_ZH-CN9112090462_UHD.jpg)
 ![2024-02-29-1](https://www.bing.com/th?id=OHR.SevilleAndalusiaDay_ES-ES5223382941_UHD.jpg)
 ![2024-02-29-2](https://www.bing.com/th?id=OHR.VermilionCliffs_JA-JP0444568228_UHD.jpg)
+2024-03-01
+----------------
+![2024-03-01-0](https://www.bing.com/th?id=OHR.Owlchicks_PT-BR1285033341_UHD.jpg)
+![2024-03-01-1](https://www.bing.com/th?id=OHR.Schmetterlingswiese_ZH-CN3740804088_UHD.jpg)
+![2024-03-01-2](https://www.bing.com/th?id=OHR.ModicaItaly_JA-JP0616823869_UHD.jpg)

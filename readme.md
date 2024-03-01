@@ -3343,3 +3343,11 @@ Bing_img
 ![2024-03-01-0](https://www.bing.com/th?id=OHR.Owlchicks_PT-BR1285033341_UHD.jpg)
 ![2024-03-01-1](https://www.bing.com/th?id=OHR.Schmetterlingswiese_ZH-CN3740804088_UHD.jpg)
 ![2024-03-01-2](https://www.bing.com/th?id=OHR.ModicaItaly_JA-JP0616823869_UHD.jpg)
+2024-03-02
+----------------
+![2024-03-02-0](https://www.bing.com/th?id=OHR.WheatonRiverYukon_EN-CA9040567643_UHD.jpg)
+![2024-03-02-1](https://www.bing.com/th?id=OHR.FilmFestivalMalaga_ES-ES1114429111_UHD.jpg)
+![2024-03-02-2](https://www.bing.com/th?id=OHR.Badger_FR-FR5236947017_UHD.jpg)
+![2024-03-02-3](https://www.bing.com/th?id=OHR.HolyVaranasi_EN-IN2569299872_UHD.jpg)
+![2024-03-02-4](https://www.bing.com/th?id=OHR.CinqueTorriCortina_IT-IT1456925506_UHD.jpg)
+![2024-03-02-5](https://www.bing.com/th?id=OHR.KrugerLeopard_JA-JP0770741894_UHD.jpg)

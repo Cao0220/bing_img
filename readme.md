@@ -3351,3 +3351,6 @@ Bing_img
 ![2024-03-02-3](https://www.bing.com/th?id=OHR.HolyVaranasi_EN-IN2569299872_UHD.jpg)
 ![2024-03-02-4](https://www.bing.com/th?id=OHR.CinqueTorriCortina_IT-IT1456925506_UHD.jpg)
 ![2024-03-02-5](https://www.bing.com/th?id=OHR.KrugerLeopard_JA-JP0770741894_UHD.jpg)
+2024-03-03
+----------------
+![2024-03-03-0](https://www.bing.com/th?id=OHR.Hinamatsuri2024_JA-JP0939071176_UHD.jpg)

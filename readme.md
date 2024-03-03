@@ -3354,3 +3354,6 @@ Bing_img
 2024-03-03
 ----------------
 ![2024-03-03-0](https://www.bing.com/th?id=OHR.Hinamatsuri2024_JA-JP0939071176_UHD.jpg)
+2024-03-04
+----------------
+![2024-03-04-0](https://www.bing.com/th?id=OHR.ArenalCostaRica_ZH-CN4466297855_UHD.jpg)

@@ -3357,3 +3357,6 @@ Bing_img
 2024-03-04
 ----------------
 ![2024-03-04-0](https://www.bing.com/th?id=OHR.ArenalCostaRica_ZH-CN4466297855_UHD.jpg)
+2024-03-05
+----------------
+![2024-03-05-0](https://www.bing.com/th?id=OHR.BangkokCircle_ZH-CN4702412806_UHD.jpg)

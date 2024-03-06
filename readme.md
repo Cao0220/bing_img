@@ -3364,3 +3364,6 @@ Bing_img
 ----------------
 ![2024-03-06-0](https://www.bing.com/th?id=OHR.NandayParakeet_PT-BR2771660938_UHD.jpg)
 ![2024-03-06-1](https://www.bing.com/th?id=OHR.WahclellaFalls_ZH-CN4932852217_UHD.jpg)
+2024-03-07
+----------------
+![2024-03-07-0](https://www.bing.com/th?id=OHR.TarragonaSpain_ZH-CN5488361711_UHD.jpg)

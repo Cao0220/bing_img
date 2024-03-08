@@ -3371,3 +3371,6 @@ Bing_img
 ----------------
 ![2024-03-08-0](https://www.bing.com/th?id=OHR.IguazuFalls_ZH-CN4749837052_UHD.jpg)
 ![2024-03-08-1](https://www.bing.com/th?id=OHR.TateLightUp_JA-JP2160540676_UHD.jpg)
+2024-03-09
+----------------
+![2024-03-09-0](https://www.bing.com/th?id=OHR.BistiBlue_ZH-CN4991705833_UHD.jpg)

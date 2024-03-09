@@ -3374,3 +3374,7 @@ Bing_img
 2024-03-09
 ----------------
 ![2024-03-09-0](https://www.bing.com/th?id=OHR.BistiBlue_ZH-CN4991705833_UHD.jpg)
+2024-03-10
+----------------
+![2024-03-10-0](https://www.bing.com/th?id=OHR.ArdeAlba_PT-BR8363660380_UHD.jpg)
+![2024-03-10-1](https://www.bing.com/th?id=OHR.BeaumontClock_ZH-CN5288086713_UHD.jpg)

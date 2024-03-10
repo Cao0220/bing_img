@@ -3378,3 +3378,11 @@ Bing_img
 ----------------
 ![2024-03-10-0](https://www.bing.com/th?id=OHR.ArdeAlba_PT-BR8363660380_UHD.jpg)
 ![2024-03-10-1](https://www.bing.com/th?id=OHR.BeaumontClock_ZH-CN5288086713_UHD.jpg)
+2024-03-11
+----------------
+![2024-03-11-0](https://www.bing.com/th?id=OHR.ProseccoItaly_ROW4291828679_UHD.jpg)
+![2024-03-11-1](https://www.bing.com/th?id=OHR.AstrologicalClock_DE-DE9747364573_UHD.jpg)
+![2024-03-11-2](https://www.bing.com/th?id=OHR.BamburghCastleUK_ES-ES6621606251_UHD.jpg)
+![2024-03-11-3](https://www.bing.com/th?id=OHR.MontBlancGlacier_FR-FR3426443690_UHD.jpg)
+![2024-03-11-4](https://www.bing.com/th?id=OHR.MorningElephants_EN-IN1473865657_UHD.jpg)
+![2024-03-11-5](https://www.bing.com/th?id=OHR.Earthquake2024_JA-JP2825640638_UHD.jpg)

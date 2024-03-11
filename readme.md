@@ -3386,3 +3386,8 @@ Bing_img
 ![2024-03-11-3](https://www.bing.com/th?id=OHR.MontBlancGlacier_FR-FR3426443690_UHD.jpg)
 ![2024-03-11-4](https://www.bing.com/th?id=OHR.MorningElephants_EN-IN1473865657_UHD.jpg)
 ![2024-03-11-5](https://www.bing.com/th?id=OHR.Earthquake2024_JA-JP2825640638_UHD.jpg)
+2024-03-12
+----------------
+![2024-03-12-0](https://www.bing.com/th?id=OHR.SleepyKoala_ROW4497881755_UHD.jpg)
+![2024-03-12-1](https://www.bing.com/th?id=OHR.BryceSnow_ZH-CN7489999663_UHD.jpg)
+![2024-03-12-2](https://www.bing.com/th?id=OHR.OmizutoriNew_JA-JP3433655435_UHD.jpg)

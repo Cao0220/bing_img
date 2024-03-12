@@ -3391,3 +3391,6 @@ Bing_img
 ![2024-03-12-0](https://www.bing.com/th?id=OHR.SleepyKoala_ROW4497881755_UHD.jpg)
 ![2024-03-12-1](https://www.bing.com/th?id=OHR.BryceSnow_ZH-CN7489999663_UHD.jpg)
 ![2024-03-12-2](https://www.bing.com/th?id=OHR.OmizutoriNew_JA-JP3433655435_UHD.jpg)
+2024-03-13
+----------------
+![2024-03-13-0](https://www.bing.com/th?id=OHR.MagadiFlamingos_ZH-CN7888437841_UHD.jpg)

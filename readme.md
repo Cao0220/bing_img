@@ -3394,3 +3394,6 @@ Bing_img
 2024-03-13
 ----------------
 ![2024-03-13-0](https://www.bing.com/th?id=OHR.MagadiFlamingos_ZH-CN7888437841_UHD.jpg)
+2024-03-14
+----------------
+![2024-03-14-0](https://www.bing.com/th?id=OHR.AyutthayaTree_ZH-CN8075870220_UHD.jpg)

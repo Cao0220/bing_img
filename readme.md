@@ -3397,3 +3397,7 @@ Bing_img
 2024-03-14
 ----------------
 ![2024-03-14-0](https://www.bing.com/th?id=OHR.AyutthayaTree_ZH-CN8075870220_UHD.jpg)
+2024-03-15
+----------------
+![2024-03-15-0](https://www.bing.com/th?id=OHR.CancaoDoExilio_PT-BR1504985587_UHD.jpg)
+![2024-03-15-1](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_ZH-CN8284458835_UHD.jpg)

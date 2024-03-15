@@ -3401,3 +3401,9 @@ Bing_img
 ----------------
 ![2024-03-15-0](https://www.bing.com/th?id=OHR.CancaoDoExilio_PT-BR1504985587_UHD.jpg)
 ![2024-03-15-1](https://www.bing.com/th?id=OHR.AnzaBorregoBloom_ZH-CN8284458835_UHD.jpg)
+2024-03-16
+----------------
+![2024-03-16-0](https://www.bing.com/th?id=OHR.TulipAbbotsford_EN-CA8463194179_UHD.jpg)
+![2024-03-16-1](https://www.bing.com/th?id=OHR.BambooPanda_ZH-CN8455481760_UHD.jpg)
+![2024-03-16-2](https://www.bing.com/th?id=OHR.AvenueLimeTrees_DE-DE2066853614_UHD.jpg)
+![2024-03-16-3](https://www.bing.com/th?id=OHR.FallerasWomenValencia_ES-ES8776101382_UHD.jpg)

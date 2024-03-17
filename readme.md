@@ -3411,3 +3411,8 @@ Bing_img
 ----------------
 ![2024-03-17-0](https://www.bing.com/th?id=OHR.EurasianBlueTitUK_ROW5686330565_UHD.jpg)
 ![2024-03-17-1](https://www.bing.com/th?id=OHR.StFiniansBay_ZH-CN8655586052_UHD.jpg)
+2024-03-18
+----------------
+![2024-03-18-0](https://www.bing.com/th?id=OHR.ElephantRock_ZH-CN9293300383_UHD.jpg)
+![2024-03-18-1](https://www.bing.com/th?id=OHR.PambanBridge_EN-IN4607247244_UHD.jpg)
+![2024-03-18-2](https://www.bing.com/th?id=OHR.AltaredellaPatria_IT-IT8301062240_UHD.jpg)

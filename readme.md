@@ -3420,3 +3420,10 @@ Bing_img
 ----------------
 ![2024-03-19-0](https://www.bing.com/th?id=OHR.AlmondBloom_ZH-CN9441550492_UHD.jpg)
 ![2024-03-19-1](https://www.bing.com/th?id=OHR.BryceSnow_JA-JP4938121574_UHD.jpg)
+2024-03-20
+----------------
+![2024-03-20-0](https://www.bing.com/th?id=OHR.SpringFrog_ROW6691479828_UHD.jpg)
+![2024-03-20-1](https://www.bing.com/th?id=OHR.Springequinox2024_ZH-CN5647214924_UHD.jpg)
+![2024-03-20-2](https://www.bing.com/th?id=OHR.SpringCaveDale_DE-DE4412731356_UHD.jpg)
+![2024-03-20-3](https://www.bing.com/th?id=OHR.RedFox_ES-ES2820174785_UHD.jpg)
+![2024-03-20-4](https://www.bing.com/th?id=OHR.MtPrevostDuncan_JA-JP5482628998_UHD.jpg)

@@ -3427,3 +3427,7 @@ Bing_img
 ![2024-03-20-2](https://www.bing.com/th?id=OHR.SpringCaveDale_DE-DE4412731356_UHD.jpg)
 ![2024-03-20-3](https://www.bing.com/th?id=OHR.RedFox_ES-ES2820174785_UHD.jpg)
 ![2024-03-20-4](https://www.bing.com/th?id=OHR.MtPrevostDuncan_JA-JP5482628998_UHD.jpg)
+2024-03-21
+----------------
+![2024-03-21-0](https://www.bing.com/th?id=OHR.BwindiNationalForest_ZH-CN0436137473_UHD.jpg)
+![2024-03-21-1](https://www.bing.com/th?id=OHR.ChateauIf_FR-FR4699337887_UHD.jpg)

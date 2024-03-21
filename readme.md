@@ -3431,3 +3431,6 @@ Bing_img
 ----------------
 ![2024-03-21-0](https://www.bing.com/th?id=OHR.BwindiNationalForest_ZH-CN0436137473_UHD.jpg)
 ![2024-03-21-1](https://www.bing.com/th?id=OHR.ChateauIf_FR-FR4699337887_UHD.jpg)
+2024-03-22
+----------------
+![2024-03-22-0](https://www.bing.com/th?id=OHR.WaikatoWater_ZH-CN0417438809_UHD.jpg)

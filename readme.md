@@ -3434,3 +3434,7 @@ Bing_img
 2024-03-22
 ----------------
 ![2024-03-22-0](https://www.bing.com/th?id=OHR.WaikatoWater_ZH-CN0417438809_UHD.jpg)
+2024-03-23
+----------------
+![2024-03-23-0](https://www.bing.com/th?id=OHR.AmazonClouds_ZH-CN0578911147_UHD.jpg)
+![2024-03-23-1](https://www.bing.com/th?id=OHR.FloweingBerrys_ES-ES1933465626_UHD.jpg)

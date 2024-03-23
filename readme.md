@@ -3438,3 +3438,9 @@ Bing_img
 ----------------
 ![2024-03-23-0](https://www.bing.com/th?id=OHR.AmazonClouds_ZH-CN0578911147_UHD.jpg)
 ![2024-03-23-1](https://www.bing.com/th?id=OHR.FloweingBerrys_ES-ES1933465626_UHD.jpg)
+2024-03-24
+----------------
+![2024-03-24-0](https://www.bing.com/th?id=OHR.ChapadaDiamantinaBahia_PT-BR8776626015_UHD.jpg)
+![2024-03-24-1](https://www.bing.com/th?id=OHR.WhiteEyes_ZH-CN1130380430_UHD.jpg)
+![2024-03-24-2](https://www.bing.com/th?id=OHR.ReconquistaVigo_ES-ES1686192678_UHD.jpg)
+![2024-03-24-3](https://www.bing.com/th?id=OHR.AntelopeBotswana_JA-JP4419409957_UHD.jpg)

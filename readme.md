@@ -3444,3 +3444,8 @@ Bing_img
 ![2024-03-24-1](https://www.bing.com/th?id=OHR.WhiteEyes_ZH-CN1130380430_UHD.jpg)
 ![2024-03-24-2](https://www.bing.com/th?id=OHR.ReconquistaVigo_ES-ES1686192678_UHD.jpg)
 ![2024-03-24-3](https://www.bing.com/th?id=OHR.AntelopeBotswana_JA-JP4419409957_UHD.jpg)
+2024-03-25
+----------------
+![2024-03-25-0](https://www.bing.com/th?id=OHR.TulipAbbotsford_ZH-CN1401627293_UHD.jpg)
+![2024-03-25-1](https://www.bing.com/th?id=OHR.ViewFieldsBavaria_DE-DE3928372966_UHD.jpg)
+![2024-03-25-2](https://www.bing.com/th?id=OHR.ColorfulHoli_JA-JP4638350581_UHD.jpg)

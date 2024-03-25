@@ -3449,3 +3449,8 @@ Bing_img
 ![2024-03-25-0](https://www.bing.com/th?id=OHR.TulipAbbotsford_ZH-CN1401627293_UHD.jpg)
 ![2024-03-25-1](https://www.bing.com/th?id=OHR.ViewFieldsBavaria_DE-DE3928372966_UHD.jpg)
 ![2024-03-25-2](https://www.bing.com/th?id=OHR.ColorfulHoli_JA-JP4638350581_UHD.jpg)
+2024-03-26
+----------------
+![2024-03-26-0](https://www.bing.com/th?id=OHR.HangRaiVietnam_ZH-CN1601428109_UHD.jpg)
+![2024-03-26-1](https://www.bing.com/th?id=OHR.ProcrastinationDay_FR-FR8703277811_UHD.jpg)
+![2024-03-26-2](https://www.bing.com/th?id=OHR.CherryBlossom2024_JA-JP4820412066_UHD.jpg)

@@ -3454,3 +3454,7 @@ Bing_img
 ![2024-03-26-0](https://www.bing.com/th?id=OHR.HangRaiVietnam_ZH-CN1601428109_UHD.jpg)
 ![2024-03-26-1](https://www.bing.com/th?id=OHR.ProcrastinationDay_FR-FR8703277811_UHD.jpg)
 ![2024-03-26-2](https://www.bing.com/th?id=OHR.CherryBlossom2024_JA-JP4820412066_UHD.jpg)
+2024-03-27
+----------------
+![2024-03-27-0](https://www.bing.com/th?id=OHR.TeatroColon_ZH-CN5378730986_UHD.jpg)
+![2024-03-27-1](https://www.bing.com/th?id=OHR.Milanbusinesscenter_IT-IT6797515629_UHD.jpg)

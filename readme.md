@@ -3458,3 +3458,8 @@ Bing_img
 ----------------
 ![2024-03-27-0](https://www.bing.com/th?id=OHR.TeatroColon_ZH-CN5378730986_UHD.jpg)
 ![2024-03-27-1](https://www.bing.com/th?id=OHR.Milanbusinesscenter_IT-IT6797515629_UHD.jpg)
+2024-03-28
+----------------
+![2024-03-28-0](https://www.bing.com/th?id=OHR.TeaPlantation_ROW4480341404_UHD.jpg)
+![2024-03-28-1](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_ZH-CN5594677517_UHD.jpg)
+![2024-03-28-2](https://www.bing.com/th?id=OHR.AmerFortJaipur_EN-IN2082526909_UHD.jpg)

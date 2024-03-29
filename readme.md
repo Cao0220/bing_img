@@ -3466,3 +3466,7 @@ Bing_img
 2024-03-29
 ----------------
 ![2024-03-29-0](https://www.bing.com/th?id=OHR.SouthStackLight_ZH-CN5932471774_UHD.jpg)
+2024-03-30
+----------------
+![2024-03-30-0](https://www.bing.com/th?id=OHR.AniversarioSalvador_PT-BR0763407699_UHD.jpg)
+![2024-03-30-1](https://www.bing.com/th?id=OHR.SleepySloth_ZH-CN6084460583_UHD.jpg)

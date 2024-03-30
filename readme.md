@@ -3470,3 +3470,9 @@ Bing_img
 ----------------
 ![2024-03-30-0](https://www.bing.com/th?id=OHR.AniversarioSalvador_PT-BR0763407699_UHD.jpg)
 ![2024-03-30-1](https://www.bing.com/th?id=OHR.SleepySloth_ZH-CN6084460583_UHD.jpg)
+2024-03-31
+----------------
+![2024-03-31-0](https://www.bing.com/th?id=OHR.ArdeAlba_ZH-CN6807697569_UHD.jpg)
+![2024-03-31-1](https://www.bing.com/th?id=OHR.PalazzoFarnese_DE-DE4941485496_UHD.jpg)
+![2024-03-31-2](https://www.bing.com/th?id=OHR.BeaumontClock_ES-ES6311174961_UHD.jpg)
+![2024-03-31-3](https://www.bing.com/th?id=OHR.HungarianEggs_JA-JP9558688915_UHD.jpg)

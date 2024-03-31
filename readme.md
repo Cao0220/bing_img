@@ -3476,3 +3476,6 @@ Bing_img
 ![2024-03-31-1](https://www.bing.com/th?id=OHR.PalazzoFarnese_DE-DE4941485496_UHD.jpg)
 ![2024-03-31-2](https://www.bing.com/th?id=OHR.BeaumontClock_ES-ES6311174961_UHD.jpg)
 ![2024-03-31-3](https://www.bing.com/th?id=OHR.HungarianEggs_JA-JP9558688915_UHD.jpg)
+2024-04-01
+----------------
+![2024-04-01-0](https://www.bing.com/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_UHD.jpg)

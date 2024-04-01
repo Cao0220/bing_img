@@ -3479,3 +3479,7 @@ Bing_img
 2024-04-01
 ----------------
 ![2024-04-01-0](https://www.bing.com/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_UHD.jpg)
+2024-04-02
+----------------
+![2024-04-02-0](https://www.bing.com/th?id=OHR.JutlandSpring_ZH-CN7785758539_UHD.jpg)
+![2024-04-02-1](https://www.bing.com/th?id=OHR.StGeorgiRide_DE-DE6646277481_UHD.jpg)

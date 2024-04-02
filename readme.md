@@ -3483,3 +3483,7 @@ Bing_img
 ----------------
 ![2024-04-02-0](https://www.bing.com/th?id=OHR.JutlandSpring_ZH-CN7785758539_UHD.jpg)
 ![2024-04-02-1](https://www.bing.com/th?id=OHR.StGeorgiRide_DE-DE6646277481_UHD.jpg)
+2024-04-03
+----------------
+![2024-04-03-0](https://www.bing.com/th?id=OHR.SouthStackLight_PT-BR0876989984_UHD.jpg)
+![2024-04-03-1](https://www.bing.com/th?id=OHR.KyrgyzstanRainbow_ZH-CN8027219590_UHD.jpg)

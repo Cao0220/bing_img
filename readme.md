@@ -3494,3 +3494,7 @@ Bing_img
 ![2024-04-04-2](https://www.bing.com/th?id=OHR.ChambordCastle_FR-FR1183220484_UHD.jpg)
 ![2024-04-04-3](https://www.bing.com/th?id=OHR.TeaPlantation_EN-IN7563100977_UHD.jpg)
 ![2024-04-04-4](https://www.bing.com/th?id=OHR.YoshinoyamaSpring_JA-JP6657067611_UHD.jpg)
+2024-04-05
+----------------
+![2024-04-05-0](https://www.bing.com/th?id=OHR.BahamasSpace_ZH-CN8053657656_UHD.jpg)
+![2024-04-05-1](https://www.bing.com/th?id=OHR.DolomitesSeiserAlm_IT-IT7507692792_UHD.jpg)

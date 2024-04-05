@@ -3498,3 +3498,6 @@ Bing_img
 ----------------
 ![2024-04-05-0](https://www.bing.com/th?id=OHR.BahamasSpace_ZH-CN8053657656_UHD.jpg)
 ![2024-04-05-1](https://www.bing.com/th?id=OHR.DolomitesSeiserAlm_IT-IT7507692792_UHD.jpg)
+2024-04-06
+----------------
+![2024-04-06-0](https://www.bing.com/th?id=OHR.JapanHimeji_ZH-CN8344654166_UHD.jpg)

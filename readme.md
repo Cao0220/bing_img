@@ -3501,3 +3501,7 @@ Bing_img
 2024-04-06
 ----------------
 ![2024-04-06-0](https://www.bing.com/th?id=OHR.JapanHimeji_ZH-CN8344654166_UHD.jpg)
+2024-04-07
+----------------
+![2024-04-07-0](https://www.bing.com/th?id=OHR.BeaverDenali_ZH-CN8736013851_UHD.jpg)
+![2024-04-07-1](https://www.bing.com/th?id=OHR.NeogothicBarcelona_ES-ES5800770786_UHD.jpg)

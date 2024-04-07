@@ -3505,3 +3505,7 @@ Bing_img
 ----------------
 ![2024-04-07-0](https://www.bing.com/th?id=OHR.BeaverDenali_ZH-CN8736013851_UHD.jpg)
 ![2024-04-07-1](https://www.bing.com/th?id=OHR.NeogothicBarcelona_ES-ES5800770786_UHD.jpg)
+2024-04-08
+----------------
+![2024-04-08-0](https://www.bing.com/th?id=OHR.HedgehogMeadow_ZH-CN8845586473_UHD.jpg)
+![2024-04-08-1](https://www.bing.com/th?id=OHR.SpringApple_JA-JP3983835058_UHD.jpg)

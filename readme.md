@@ -3509,3 +3509,9 @@ Bing_img
 ----------------
 ![2024-04-08-0](https://www.bing.com/th?id=OHR.HedgehogMeadow_ZH-CN8845586473_UHD.jpg)
 ![2024-04-08-1](https://www.bing.com/th?id=OHR.SpringApple_JA-JP3983835058_UHD.jpg)
+2024-04-09
+----------------
+![2024-04-09-0](https://www.bing.com/th?id=OHR.CuiabaAniversary_PT-BR5141528738_UHD.jpg)
+![2024-04-09-1](https://www.bing.com/th?id=OHR.SolarEclipseOregon_EN-CA9605067136_UHD.jpg)
+![2024-04-09-2](https://www.bing.com/th?id=OHR.SkagitValleyTulips_ZH-CN9034120306_UHD.jpg)
+![2024-04-09-3](https://www.bing.com/th?id=OHR.OwlSiblings_EN-IN5156349531_UHD.jpg)

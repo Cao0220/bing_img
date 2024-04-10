@@ -3520,3 +3520,6 @@ Bing_img
 ![2024-04-10-0](https://www.bing.com/th?id=OHR.WhistlerWSSF_EN-CA2290953999_UHD.jpg)
 ![2024-04-10-1](https://www.bing.com/th?id=OHR.SpringCub_EN-IN5365120354_UHD.jpg)
 ![2024-04-10-2](https://www.bing.com/th?id=OHR.SardiniaSalt_IT-IT3748947428_UHD.jpg)
+2024-04-11
+----------------
+![2024-04-11-0](https://www.bing.com/th?id=OHR.DragonWaterfall_ZH-CN9580105565_UHD.jpg)

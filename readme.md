@@ -3523,3 +3523,7 @@ Bing_img
 2024-04-11
 ----------------
 ![2024-04-11-0](https://www.bing.com/th?id=OHR.DragonWaterfall_ZH-CN9580105565_UHD.jpg)
+2024-04-12
+----------------
+![2024-04-12-0](https://www.bing.com/th?id=OHR.SunsetArchesNP_ZH-CN9875945974_UHD.jpg)
+![2024-04-12-1](https://www.bing.com/th?id=OHR.EidPrayers_EN-IN0060751560_UHD.jpg)

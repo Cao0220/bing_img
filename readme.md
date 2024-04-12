@@ -3527,3 +3527,8 @@ Bing_img
 ----------------
 ![2024-04-12-0](https://www.bing.com/th?id=OHR.SunsetArchesNP_ZH-CN9875945974_UHD.jpg)
 ![2024-04-12-1](https://www.bing.com/th?id=OHR.EidPrayers_EN-IN0060751560_UHD.jpg)
+2024-04-13
+----------------
+![2024-04-13-0](https://www.bing.com/th?id=OHR.Curitiba_PT-BR8811404397_UHD.jpg)
+![2024-04-13-1](https://www.bing.com/th?id=OHR.SpringApple_ZH-CN0101917345_UHD.jpg)
+![2024-04-13-2](https://www.bing.com/th?id=OHR.ShibaZakura2024_JA-JP5037441018_UHD.jpg)

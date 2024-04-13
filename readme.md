@@ -3532,3 +3532,8 @@ Bing_img
 ![2024-04-13-0](https://www.bing.com/th?id=OHR.Curitiba_PT-BR8811404397_UHD.jpg)
 ![2024-04-13-1](https://www.bing.com/th?id=OHR.SpringApple_ZH-CN0101917345_UHD.jpg)
 ![2024-04-13-2](https://www.bing.com/th?id=OHR.ShibaZakura2024_JA-JP5037441018_UHD.jpg)
+2024-04-14
+----------------
+![2024-04-14-0](https://www.bing.com/th?id=OHR.SakuraDaysJapanFair_EN-CA3687472576_UHD.jpg)
+![2024-04-14-1](https://www.bing.com/th?id=OHR.BowlingBallCali_ZH-CN0434558966_UHD.jpg)
+![2024-04-14-2](https://www.bing.com/th?id=OHR.LyonGastronomy_FR-FR6987706290_UHD.jpg)

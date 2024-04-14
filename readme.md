@@ -3537,3 +3537,10 @@ Bing_img
 ![2024-04-14-0](https://www.bing.com/th?id=OHR.SakuraDaysJapanFair_EN-CA3687472576_UHD.jpg)
 ![2024-04-14-1](https://www.bing.com/th?id=OHR.BowlingBallCali_ZH-CN0434558966_UHD.jpg)
 ![2024-04-14-2](https://www.bing.com/th?id=OHR.LyonGastronomy_FR-FR6987706290_UHD.jpg)
+2024-04-15
+----------------
+![2024-04-15-0](https://www.bing.com/th?id=OHR.ChambordCastle_ZH-CN0930093515_UHD.jpg)
+![2024-04-15-1](https://www.bing.com/th?id=OHR.WeenerPrimroses_DE-DE5775502209_UHD.jpg)
+![2024-04-15-2](https://www.bing.com/th?id=OHR.FeriaDeSevilla_ES-ES8766768902_UHD.jpg)
+![2024-04-15-3](https://www.bing.com/th?id=OHR.AloneSole_IT-IT3498476071_UHD.jpg)
+![2024-04-15-4](https://www.bing.com/th?id=OHR.RedBallBelgium_JA-JP5377417723_UHD.jpg)

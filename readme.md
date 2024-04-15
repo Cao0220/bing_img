@@ -3544,3 +3544,6 @@ Bing_img
 ![2024-04-15-2](https://www.bing.com/th?id=OHR.FeriaDeSevilla_ES-ES8766768902_UHD.jpg)
 ![2024-04-15-3](https://www.bing.com/th?id=OHR.AloneSole_IT-IT3498476071_UHD.jpg)
 ![2024-04-15-4](https://www.bing.com/th?id=OHR.RedBallBelgium_JA-JP5377417723_UHD.jpg)
+2024-04-16
+----------------
+![2024-04-16-0](https://www.bing.com/th?id=OHR.UnionSquareNYC_ZH-CN1533018653_UHD.jpg)

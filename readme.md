@@ -3550,3 +3550,12 @@ Bing_img
 2024-04-17
 ----------------
 ![2024-04-17-0](https://www.bing.com/th?id=OHR.SpringCub_ZH-CN1643833378_UHD.jpg)
+2024-04-18
+----------------
+2024-04-19
+----------------
+2024-04-20
+----------------
+![2024-04-20-0](https://www.bing.com/th?id=OHR.PovoIndigena_PT-BR1924645253_UHD.jpg)
+![2024-04-20-1](https://www.bing.com/th?id=OHR.YellowstoneGeyser_ZH-CN3441008468_UHD.jpg)
+![2024-04-20-2](https://www.bing.com/th?id=OHR.PerugiaPriori_IT-IT0077173597_UHD.jpg)

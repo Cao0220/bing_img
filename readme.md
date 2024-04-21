@@ -3562,3 +3562,8 @@ Bing_img
 2024-04-21
 ----------------
 ![2024-04-21-0](https://www.bing.com/th?id=OHR.CadesCove_ZH-CN3950297181_UHD.jpg)
+2024-04-22
+----------------
+![2024-04-22-0](https://www.bing.com/th?id=OHR.EarthDayTurtle_ZH-CN4642042701_UHD.jpg)
+![2024-04-22-1](https://www.bing.com/th?id=OHR.CologneFlowerBed_DE-DE3966467653_UHD.jpg)
+![2024-04-22-2](https://www.bing.com/th?id=OHR.ChauseyIslands_FR-FR2335923449_UHD.jpg)

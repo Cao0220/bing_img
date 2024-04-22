@@ -3567,3 +3567,6 @@ Bing_img
 ![2024-04-22-0](https://www.bing.com/th?id=OHR.EarthDayTurtle_ZH-CN4642042701_UHD.jpg)
 ![2024-04-22-1](https://www.bing.com/th?id=OHR.CologneFlowerBed_DE-DE3966467653_UHD.jpg)
 ![2024-04-22-2](https://www.bing.com/th?id=OHR.ChauseyIslands_FR-FR2335923449_UHD.jpg)
+2024-04-23
+----------------
+![2024-04-23-0](https://www.bing.com/th?id=OHR.TrinityDublin_ZH-CN7902993255_UHD.jpg)

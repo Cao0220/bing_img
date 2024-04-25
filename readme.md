@@ -3577,3 +3577,7 @@ Bing_img
 2024-04-25
 ----------------
 ![2024-04-25-0](https://www.bing.com/th?id=OHR.PenguinDirections_ZH-CN8498684753_UHD.jpg)
+2024-04-26
+----------------
+![2024-04-26-0](https://www.bing.com/th?id=OHR.KalalochTree_ZH-CN9427839259_UHD.jpg)
+![2024-04-26-1](https://www.bing.com/th?id=OHR.LiberationOfItaly_IT-IT5702803658_UHD.jpg)

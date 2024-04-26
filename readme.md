@@ -3581,3 +3581,8 @@ Bing_img
 ----------------
 ![2024-04-26-0](https://www.bing.com/th?id=OHR.KalalochTree_ZH-CN9427839259_UHD.jpg)
 ![2024-04-26-1](https://www.bing.com/th?id=OHR.LiberationOfItaly_IT-IT5702803658_UHD.jpg)
+2024-04-27
+----------------
+![2024-04-27-0](https://www.bing.com/th?id=OHR.ValDiFunes_EN-CA4828083931_UHD.jpg)
+![2024-04-27-1](https://www.bing.com/th?id=OHR.LeucisticHummingbird_ZH-CN2921653789_UHD.jpg)
+![2024-04-27-2](https://www.bing.com/th?id=OHR.MangroveIslands_EN-IN9832664879_UHD.jpg)

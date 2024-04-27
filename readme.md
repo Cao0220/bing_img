@@ -3586,3 +3586,7 @@ Bing_img
 ![2024-04-27-0](https://www.bing.com/th?id=OHR.ValDiFunes_EN-CA4828083931_UHD.jpg)
 ![2024-04-27-1](https://www.bing.com/th?id=OHR.LeucisticHummingbird_ZH-CN2921653789_UHD.jpg)
 ![2024-04-27-2](https://www.bing.com/th?id=OHR.MangroveIslands_EN-IN9832664879_UHD.jpg)
+2024-04-28
+----------------
+![2024-04-28-0](https://www.bing.com/th?id=OHR.GuadalupeTexas_ZH-CN3911419948_UHD.jpg)
+![2024-04-28-1](https://www.bing.com/th?id=OHR.Canigou_FR-FR9013566099_UHD.jpg)

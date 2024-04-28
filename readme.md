@@ -3590,3 +3590,6 @@ Bing_img
 ----------------
 ![2024-04-28-0](https://www.bing.com/th?id=OHR.GuadalupeTexas_ZH-CN3911419948_UHD.jpg)
 ![2024-04-28-1](https://www.bing.com/th?id=OHR.Canigou_FR-FR9013566099_UHD.jpg)
+2024-04-29
+----------------
+![2024-04-29-0](https://www.bing.com/th?id=OHR.TulouFujian_ZH-CN4287018074_UHD.jpg)

@@ -3593,3 +3593,6 @@ Bing_img
 2024-04-29
 ----------------
 ![2024-04-29-0](https://www.bing.com/th?id=OHR.TulouFujian_ZH-CN4287018074_UHD.jpg)
+2024-04-30
+----------------
+![2024-04-30-0](https://www.bing.com/th?id=OHR.CheetahRain_ZH-CN6722375507_UHD.jpg)

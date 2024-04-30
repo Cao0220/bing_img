@@ -3596,3 +3596,7 @@ Bing_img
 2024-04-30
 ----------------
 ![2024-04-30-0](https://www.bing.com/th?id=OHR.CheetahRain_ZH-CN6722375507_UHD.jpg)
+2024-05-01
+----------------
+![2024-05-01-0](https://www.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg)
+![2024-05-01-1](https://www.bing.com/th?id=OHR.TeaGarden2024_JA-JP5324737275_UHD.jpg)

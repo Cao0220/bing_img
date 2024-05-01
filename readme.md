@@ -3600,3 +3600,9 @@ Bing_img
 ----------------
 ![2024-05-01-0](https://www.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg)
 ![2024-05-01-1](https://www.bing.com/th?id=OHR.TeaGarden2024_JA-JP5324737275_UHD.jpg)
+2024-05-02
+----------------
+![2024-05-02-0](https://www.bing.com/th?id=OHR.DiadaLiteraturaBrasileira_PT-BR6259851380_UHD.jpg)
+![2024-05-02-1](https://www.bing.com/th?id=OHR.CratersOfTheMoon_ZH-CN8971565042_UHD.jpg)
+![2024-05-02-2](https://www.bing.com/th?id=OHR.NienhagenMecklenburg_DE-DE3604963569_UHD.jpg)
+![2024-05-02-3](https://www.bing.com/th?id=OHR.MaharashtraDayIN_EN-IN1070524150_UHD.jpg)

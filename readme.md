@@ -3610,3 +3610,7 @@ Bing_img
 ----------------
 ![2024-05-03-0](https://www.bing.com/th?id=OHR.SonoranSpring_ZH-CN9246678734_UHD.jpg)
 ![2024-05-03-1](https://www.bing.com/th?id=OHR.MadridOpen_ES-ES2650206128_UHD.jpg)
+2024-05-04
+----------------
+![2024-05-04-0](https://www.bing.com/th?id=OHR.DiadoSertanejo_PT-BR9682293877_UHD.jpg)
+![2024-05-04-1](https://www.bing.com/th?id=OHR.JediMonastery_ZH-CN0091557941_UHD.jpg)

@@ -3614,3 +3614,8 @@ Bing_img
 ----------------
 ![2024-05-04-0](https://www.bing.com/th?id=OHR.DiadoSertanejo_PT-BR9682293877_UHD.jpg)
 ![2024-05-04-1](https://www.bing.com/th?id=OHR.JediMonastery_ZH-CN0091557941_UHD.jpg)
+2024-05-05
+----------------
+![2024-05-05-0](https://www.bing.com/th?id=OHR.SanMiguelAllende_ZH-CN1840507091_UHD.jpg)
+![2024-05-05-1](https://www.bing.com/th?id=OHR.GirodItalia2024_IT-IT9407204320_UHD.jpg)
+![2024-05-05-2](https://www.bing.com/th?id=OHR.ChildrenDay2024_JA-JP8175282270_UHD.jpg)

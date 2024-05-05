@@ -3619,3 +3619,10 @@ Bing_img
 ![2024-05-05-0](https://www.bing.com/th?id=OHR.SanMiguelAllende_ZH-CN1840507091_UHD.jpg)
 ![2024-05-05-1](https://www.bing.com/th?id=OHR.GirodItalia2024_IT-IT9407204320_UHD.jpg)
 ![2024-05-05-2](https://www.bing.com/th?id=OHR.ChildrenDay2024_JA-JP8175282270_UHD.jpg)
+2024-05-06
+----------------
+![2024-05-06-0](https://www.bing.com/th?id=OHR.KalalochTree_EN-CA6384901158_UHD.jpg)
+![2024-05-06-1](https://www.bing.com/th?id=OHR.TheRoachesPeakDistrict_ZH-CN2657532467_UHD.jpg)
+![2024-05-06-2](https://www.bing.com/th?id=OHR.GuanacoMother_ES-ES1631881267_UHD.jpg)
+![2024-05-06-3](https://www.bing.com/th?id=OHR.KeralaRiver_EN-IN0661487977_UHD.jpg)
+![2024-05-06-4](https://www.bing.com/th?id=OHR.OrkneyStones_IT-IT2078101217_UHD.jpg)

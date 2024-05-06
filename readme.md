@@ -3626,3 +3626,9 @@ Bing_img
 ![2024-05-06-2](https://www.bing.com/th?id=OHR.GuanacoMother_ES-ES1631881267_UHD.jpg)
 ![2024-05-06-3](https://www.bing.com/th?id=OHR.KeralaRiver_EN-IN0661487977_UHD.jpg)
 ![2024-05-06-4](https://www.bing.com/th?id=OHR.OrkneyStones_IT-IT2078101217_UHD.jpg)
+2024-05-07
+----------------
+![2024-05-07-0](https://www.bing.com/th?id=OHR.RiverNekarHeidelberg_ROW3730905003_UHD.jpg)
+![2024-05-07-1](https://www.bing.com/th?id=OHR.LittleDuckling_ZH-CN2922471258_UHD.jpg)
+![2024-05-07-2](https://www.bing.com/th?id=OHR.JediMonastery_IT-IT4680145020_UHD.jpg)
+![2024-05-07-3](https://www.bing.com/th?id=OHR.BlueCityIndia_JA-JP8642255541_UHD.jpg)

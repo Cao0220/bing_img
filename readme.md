@@ -3632,3 +3632,8 @@ Bing_img
 ![2024-05-07-1](https://www.bing.com/th?id=OHR.LittleDuckling_ZH-CN2922471258_UHD.jpg)
 ![2024-05-07-2](https://www.bing.com/th?id=OHR.JediMonastery_IT-IT4680145020_UHD.jpg)
 ![2024-05-07-3](https://www.bing.com/th?id=OHR.BlueCityIndia_JA-JP8642255541_UHD.jpg)
+2024-05-08
+----------------
+![2024-05-08-0](https://www.bing.com/th?id=OHR.PortMarseille_ZH-CN3194394496_UHD.jpg)
+![2024-05-08-1](https://www.bing.com/th?id=OHR.SuspensionBridge_DE-DE5413963074_UHD.jpg)
+![2024-05-08-2](https://www.bing.com/th?id=OHR.LaGeriaLanzarote_IT-IT5537790219_UHD.jpg)

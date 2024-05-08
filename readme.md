@@ -3637,3 +3637,7 @@ Bing_img
 ![2024-05-08-0](https://www.bing.com/th?id=OHR.PortMarseille_ZH-CN3194394496_UHD.jpg)
 ![2024-05-08-1](https://www.bing.com/th?id=OHR.SuspensionBridge_DE-DE5413963074_UHD.jpg)
 ![2024-05-08-2](https://www.bing.com/th?id=OHR.LaGeriaLanzarote_IT-IT5537790219_UHD.jpg)
+2024-05-09
+----------------
+![2024-05-09-0](https://www.bing.com/th?id=OHR.IguazuTurism_PT-BR9760109650_UHD.jpg)
+![2024-05-09-1](https://www.bing.com/th?id=OHR.EmirganPark_ZH-CN3394557999_UHD.jpg)

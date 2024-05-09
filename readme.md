@@ -3641,3 +3641,6 @@ Bing_img
 ----------------
 ![2024-05-09-0](https://www.bing.com/th?id=OHR.IguazuTurism_PT-BR9760109650_UHD.jpg)
 ![2024-05-09-1](https://www.bing.com/th?id=OHR.EmirganPark_ZH-CN3394557999_UHD.jpg)
+2024-05-10
+----------------
+![2024-05-10-0](https://www.bing.com/th?id=OHR.MisoolRajaAmpat_EN-CA9137654877_UHD.jpg)

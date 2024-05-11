@@ -3648,3 +3648,8 @@ Bing_img
 ----------------
 ![2024-05-11-0](https://www.bing.com/th?id=OHR.OttawaTulipFest_EN-CA7422962019_UHD.jpg)
 ![2024-05-11-1](https://www.bing.com/th?id=OHR.TexasIndigoBunting_ZH-CN3699392300_UHD.jpg)
+2024-05-12
+----------------
+![2024-05-12-0](https://www.bing.com/th?id=OHR.GuanacoMother_ZH-CN3856540256_UHD.jpg)
+![2024-05-12-1](https://www.bing.com/th?id=OHR.BlueCityIndia_DE-DE7777501336_UHD.jpg)
+![2024-05-12-2](https://www.bing.com/th?id=OHR.GironaForest_ES-ES1227964184_UHD.jpg)

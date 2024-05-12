@@ -3653,3 +3653,9 @@ Bing_img
 ![2024-05-12-0](https://www.bing.com/th?id=OHR.GuanacoMother_ZH-CN3856540256_UHD.jpg)
 ![2024-05-12-1](https://www.bing.com/th?id=OHR.BlueCityIndia_DE-DE7777501336_UHD.jpg)
 ![2024-05-12-2](https://www.bing.com/th?id=OHR.GironaForest_ES-ES1227964184_UHD.jpg)
+2024-05-13
+----------------
+![2024-05-13-0](https://www.bing.com/th?id=OHR.NamibiaCanyon_ZH-CN3973338246_UHD.jpg)
+![2024-05-13-1](https://www.bing.com/th?id=OHR.SanMiguelAllende_ES-ES3153624819_UHD.jpg)
+![2024-05-13-2](https://www.bing.com/th?id=OHR.CamargueFlamingos_FR-FR0995673980_UHD.jpg)
+![2024-05-13-3](https://www.bing.com/th?id=OHR.BabyDolphinMom_IT-IT8782194786_UHD.jpg)

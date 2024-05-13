@@ -3659,3 +3659,6 @@ Bing_img
 ![2024-05-13-1](https://www.bing.com/th?id=OHR.SanMiguelAllende_ES-ES3153624819_UHD.jpg)
 ![2024-05-13-2](https://www.bing.com/th?id=OHR.CamargueFlamingos_FR-FR0995673980_UHD.jpg)
 ![2024-05-13-3](https://www.bing.com/th?id=OHR.BabyDolphinMom_IT-IT8782194786_UHD.jpg)
+2024-05-14
+----------------
+![2024-05-14-0](https://www.bing.com/th?id=OHR.CarlsbadNP_ZH-CN4136753542_UHD.jpg)

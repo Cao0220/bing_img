@@ -3662,3 +3662,7 @@ Bing_img
 2024-05-14
 ----------------
 ![2024-05-14-0](https://www.bing.com/th?id=OHR.CarlsbadNP_ZH-CN4136753542_UHD.jpg)
+2024-05-15
+----------------
+![2024-05-15-0](https://www.bing.com/th?id=OHR.BlueCityIndia_ZH-CN4275229255_UHD.jpg)
+![2024-05-15-1](https://www.bing.com/th?id=OHR.AoiMatsuri2024_JA-JP1018506374_UHD.jpg)

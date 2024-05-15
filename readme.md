@@ -3666,3 +3666,8 @@ Bing_img
 ----------------
 ![2024-05-15-0](https://www.bing.com/th?id=OHR.BlueCityIndia_ZH-CN4275229255_UHD.jpg)
 ![2024-05-15-1](https://www.bing.com/th?id=OHR.AoiMatsuri2024_JA-JP1018506374_UHD.jpg)
+2024-05-16
+----------------
+![2024-05-16-0](https://www.bing.com/th?id=OHR.ReconquistaVigo_ZH-CN4619580424_UHD.jpg)
+![2024-05-16-1](https://www.bing.com/th?id=OHR.RiverNekarHeidelberg_DE-DE0017451449_UHD.jpg)
+![2024-05-16-2](https://www.bing.com/th?id=OHR.DayOfLight_JA-JP1257596439_UHD.jpg)

@@ -3671,3 +3671,7 @@ Bing_img
 ![2024-05-16-0](https://www.bing.com/th?id=OHR.ReconquistaVigo_ZH-CN4619580424_UHD.jpg)
 ![2024-05-16-1](https://www.bing.com/th?id=OHR.RiverNekarHeidelberg_DE-DE0017451449_UHD.jpg)
 ![2024-05-16-2](https://www.bing.com/th?id=OHR.DayOfLight_JA-JP1257596439_UHD.jpg)
+2024-05-17
+----------------
+![2024-05-17-0](https://www.bing.com/th?id=OHR.TarangireElephants_ZH-CN5447385839_UHD.jpg)
+![2024-05-17-1](https://www.bing.com/th?id=OHR.ParaglidingChampion_ES-ES1439141263_UHD.jpg)

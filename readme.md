@@ -3675,3 +3675,8 @@ Bing_img
 ----------------
 ![2024-05-17-0](https://www.bing.com/th?id=OHR.TarangireElephants_ZH-CN5447385839_UHD.jpg)
 ![2024-05-17-1](https://www.bing.com/th?id=OHR.ParaglidingChampion_ES-ES1439141263_UHD.jpg)
+2024-05-18
+----------------
+![2024-05-18-0](https://www.bing.com/th?id=OHR.PacificRimNationalPark_ZH-CN5809123424_UHD.jpg)
+![2024-05-18-1](https://www.bing.com/th?id=OHR.BergamoAlta_IT-IT3472701981_UHD.jpg)
+![2024-05-18-2](https://www.bing.com/th?id=OHR.Museum2024_JA-JP9828975611_UHD.jpg)

@@ -3680,3 +3680,8 @@ Bing_img
 ![2024-05-18-0](https://www.bing.com/th?id=OHR.PacificRimNationalPark_ZH-CN5809123424_UHD.jpg)
 ![2024-05-18-1](https://www.bing.com/th?id=OHR.BergamoAlta_IT-IT3472701981_UHD.jpg)
 ![2024-05-18-2](https://www.bing.com/th?id=OHR.Museum2024_JA-JP9828975611_UHD.jpg)
+2024-05-19
+----------------
+![2024-05-19-0](https://www.bing.com/th?id=OHR.MuseumWhale_PT-BR0044062488_UHD.jpg)
+![2024-05-19-1](https://www.bing.com/th?id=OHR.VernazzaItaly_ZH-CN6245826569_UHD.jpg)
+![2024-05-19-2](https://www.bing.com/th?id=OHR.IronmanLanzarote_ES-ES3524222384_UHD.jpg)

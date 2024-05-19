@@ -3685,3 +3685,7 @@ Bing_img
 ![2024-05-19-0](https://www.bing.com/th?id=OHR.MuseumWhale_PT-BR0044062488_UHD.jpg)
 ![2024-05-19-1](https://www.bing.com/th?id=OHR.VernazzaItaly_ZH-CN6245826569_UHD.jpg)
 ![2024-05-19-2](https://www.bing.com/th?id=OHR.IronmanLanzarote_ES-ES3524222384_UHD.jpg)
+2024-05-20
+----------------
+![2024-05-20-0](https://www.bing.com/th?id=OHR.HoneycombBee_ZH-CN6572760814_UHD.jpg)
+![2024-05-20-1](https://www.bing.com/th?id=OHR.NefertitiMuseum_DE-DE7400530006_UHD.jpg)

@@ -3689,3 +3689,7 @@ Bing_img
 ----------------
 ![2024-05-20-0](https://www.bing.com/th?id=OHR.HoneycombBee_ZH-CN6572760814_UHD.jpg)
 ![2024-05-20-1](https://www.bing.com/th?id=OHR.NefertitiMuseum_DE-DE7400530006_UHD.jpg)
+2024-05-21
+----------------
+![2024-05-21-0](https://www.bing.com/th?id=OHR.OttawaParliamentHill_EN-CA0974893499_UHD.jpg)
+![2024-05-21-1](https://www.bing.com/th?id=OHR.MalaysiaTea_ZH-CN6758939415_UHD.jpg)

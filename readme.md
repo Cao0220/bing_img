@@ -3693,3 +3693,8 @@ Bing_img
 ----------------
 ![2024-05-21-0](https://www.bing.com/th?id=OHR.OttawaParliamentHill_EN-CA0974893499_UHD.jpg)
 ![2024-05-21-1](https://www.bing.com/th?id=OHR.MalaysiaTea_ZH-CN6758939415_UHD.jpg)
+2024-05-22
+----------------
+![2024-05-22-0](https://www.bing.com/th?id=OHR.ChapadaDiamantinaBahia_ROW4759498139_UHD.jpg)
+![2024-05-22-1](https://www.bing.com/th?id=OHR.SnowGumTasmania_ZH-CN6975160884_UHD.jpg)
+![2024-05-22-2](https://www.bing.com/th?id=OHR.SkyTree2024_JA-JP0993799568_UHD.jpg)

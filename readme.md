@@ -3698,3 +3698,6 @@ Bing_img
 ![2024-05-22-0](https://www.bing.com/th?id=OHR.ChapadaDiamantinaBahia_ROW4759498139_UHD.jpg)
 ![2024-05-22-1](https://www.bing.com/th?id=OHR.SnowGumTasmania_ZH-CN6975160884_UHD.jpg)
 ![2024-05-22-2](https://www.bing.com/th?id=OHR.SkyTree2024_JA-JP0993799568_UHD.jpg)
+2024-05-23
+----------------
+![2024-05-23-0](https://www.bing.com/th?id=OHR.IndianStarTortoise_ZH-CN7177478610_UHD.jpg)

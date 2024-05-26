@@ -3709,3 +3709,9 @@ Bing_img
 ----------------
 ![2024-05-26-0](https://www.bing.com/th?id=OHR.MethowWildflowers_ZH-CN8926661958_UHD.jpg)
 ![2024-05-26-1](https://www.bing.com/th?id=OHR.CorpusChristiGranada_ES-ES5471686703_UHD.jpg)
+2024-05-27
+----------------
+![2024-05-27-0](https://www.bing.com/th?id=OHR.SestriLevante_ZH-CN9286254645_UHD.jpg)
+![2024-05-27-1](https://www.bing.com/th?id=OHR.ElbeSandstone_DE-DE9941836770_UHD.jpg)
+![2024-05-27-2](https://www.bing.com/th?id=OHR.MonacoGP_FR-FR9314919538_UHD.jpg)
+![2024-05-27-3](https://www.bing.com/th?id=OHR.HedgehogMeadow_JA-JP0023153078_UHD.jpg)

@@ -3715,3 +3715,10 @@ Bing_img
 ![2024-05-27-1](https://www.bing.com/th?id=OHR.ElbeSandstone_DE-DE9941836770_UHD.jpg)
 ![2024-05-27-2](https://www.bing.com/th?id=OHR.MonacoGP_FR-FR9314919538_UHD.jpg)
 ![2024-05-27-3](https://www.bing.com/th?id=OHR.HedgehogMeadow_JA-JP0023153078_UHD.jpg)
+2024-05-28
+----------------
+![2024-05-28-0](https://www.bing.com/th?id=OHR.MataAtlantica_PT-BR0600772527_UHD.jpg)
+![2024-05-28-1](https://www.bing.com/th?id=OHR.MinganArchipelago_EN-CA5872186861_UHD.jpg)
+![2024-05-28-2](https://www.bing.com/th?id=OHR.MeteoraMonastery_ZH-CN9551991708_UHD.jpg)
+![2024-05-28-3](https://www.bing.com/th?id=OHR.Guiana_FR-FR0757423981_UHD.jpg)
+![2024-05-28-4](https://www.bing.com/th?id=OHR.ShivaDarasuram_EN-IN5077554474_UHD.jpg)

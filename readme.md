@@ -3722,3 +3722,6 @@ Bing_img
 ![2024-05-28-2](https://www.bing.com/th?id=OHR.MeteoraMonastery_ZH-CN9551991708_UHD.jpg)
 ![2024-05-28-3](https://www.bing.com/th?id=OHR.Guiana_FR-FR0757423981_UHD.jpg)
 ![2024-05-28-4](https://www.bing.com/th?id=OHR.ShivaDarasuram_EN-IN5077554474_UHD.jpg)
+2024-05-29
+----------------
+![2024-05-29-0](https://www.bing.com/th?id=OHR.MullOtter_ZH-CN9691813587_UHD.jpg)

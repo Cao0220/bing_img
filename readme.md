@@ -3725,3 +3725,6 @@ Bing_img
 2024-05-29
 ----------------
 ![2024-05-29-0](https://www.bing.com/th?id=OHR.MullOtter_ZH-CN9691813587_UHD.jpg)
+2024-05-30
+----------------
+![2024-05-30-0](https://www.bing.com/th?id=OHR.Everglades90th_ZH-CN9853372570_UHD.jpg)

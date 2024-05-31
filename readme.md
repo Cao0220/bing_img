@@ -3731,3 +3731,7 @@ Bing_img
 2024-05-31
 ----------------
 ![2024-05-31-0](https://www.bing.com/th?id=OHR.YorkshireDalesNP_ZH-CN0775378262_UHD.jpg)
+2024-06-01
+----------------
+![2024-06-01-0](https://www.bing.com/th?id=OHR.CancaoDoExilio_ZH-CN1012675104_UHD.jpg)
+![2024-06-01-1](https://www.bing.com/th?id=OHR.PrideMonthSF_JA-JP2832342132_UHD.jpg)

@@ -3735,3 +3735,7 @@ Bing_img
 ----------------
 ![2024-06-01-0](https://www.bing.com/th?id=OHR.CancaoDoExilio_ZH-CN1012675104_UHD.jpg)
 ![2024-06-01-1](https://www.bing.com/th?id=OHR.PrideMonthSF_JA-JP2832342132_UHD.jpg)
+2024-06-02
+----------------
+![2024-06-02-0](https://www.bing.com/th?id=OHR.MenRuz_ZH-CN2021725181_UHD.jpg)
+![2024-06-02-1](https://www.bing.com/th?id=OHR.YokohamaPort2024_JA-JP2888889928_UHD.jpg)

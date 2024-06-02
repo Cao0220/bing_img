@@ -3739,3 +3739,9 @@ Bing_img
 ----------------
 ![2024-06-02-0](https://www.bing.com/th?id=OHR.MenRuz_ZH-CN2021725181_UHD.jpg)
 ![2024-06-02-1](https://www.bing.com/th?id=OHR.YokohamaPort2024_JA-JP2888889928_UHD.jpg)
+2024-06-03
+----------------
+![2024-06-03-0](https://www.bing.com/th?id=OHR.CopenhagenBicycles_PT-BR5476760078_UHD.jpg)
+![2024-06-03-1](https://www.bing.com/th?id=OHR.Annahummingbird_EN-CA0660927808_UHD.jpg)
+![2024-06-03-2](https://www.bing.com/th?id=OHR.IndiaHampi_EN-IN5466875133_UHD.jpg)
+![2024-06-03-3](https://www.bing.com/th?id=OHR.ItalyFlag_IT-IT1674511086_UHD.jpg)

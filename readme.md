@@ -3750,3 +3750,6 @@ Bing_img
 ![2024-06-04-0](https://www.bing.com/th?id=OHR.CapybaraEducation_PT-BR9998060500_UHD.jpg)
 ![2024-06-04-1](https://www.bing.com/th?id=OHR.ChestnutBeeEater_ZH-CN3514753872_UHD.jpg)
 ![2024-06-04-2](https://www.bing.com/th?id=OHR.JaswantThadaIN_EN-IN5851391718_UHD.jpg)
+2024-06-05
+----------------
+![2024-06-05-0](https://www.bing.com/th?id=OHR.MadagascarRiver_ZH-CN3842472014_UHD.jpg)

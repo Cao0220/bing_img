@@ -3753,3 +3753,7 @@ Bing_img
 2024-06-05
 ----------------
 ![2024-06-05-0](https://www.bing.com/th?id=OHR.MadagascarRiver_ZH-CN3842472014_UHD.jpg)
+2024-06-06
+----------------
+![2024-06-06-0](https://www.bing.com/th?id=OHR.CamargueFlamingos_ZH-CN4176922228_UHD.jpg)
+![2024-06-06-1](https://www.bing.com/th?id=OHR.GemsbokBotswana_JA-JP2673483195_UHD.jpg)

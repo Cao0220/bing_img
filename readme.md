@@ -3757,3 +3757,9 @@ Bing_img
 ----------------
 ![2024-06-06-0](https://www.bing.com/th?id=OHR.CamargueFlamingos_ZH-CN4176922228_UHD.jpg)
 ![2024-06-06-1](https://www.bing.com/th?id=OHR.GemsbokBotswana_JA-JP2673483195_UHD.jpg)
+2024-06-07
+----------------
+![2024-06-07-0](https://www.bing.com/th?id=OHR.LesBravesNormandy_PT-BR7484983029_UHD.jpg)
+![2024-06-07-1](https://www.bing.com/th?id=OHR.HumpbackFamily_ZH-CN4336100531_UHD.jpg)
+![2024-06-07-2](https://www.bing.com/th?id=OHR.RossfeldRoad_DE-DE6613150514_UHD.jpg)
+![2024-06-07-3](https://www.bing.com/th?id=OHR.TenerifeBluetrail_ES-ES5009256833_UHD.jpg)

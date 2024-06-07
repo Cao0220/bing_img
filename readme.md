@@ -3763,3 +3763,6 @@ Bing_img
 ![2024-06-07-1](https://www.bing.com/th?id=OHR.HumpbackFamily_ZH-CN4336100531_UHD.jpg)
 ![2024-06-07-2](https://www.bing.com/th?id=OHR.RossfeldRoad_DE-DE6613150514_UHD.jpg)
 ![2024-06-07-3](https://www.bing.com/th?id=OHR.TenerifeBluetrail_ES-ES5009256833_UHD.jpg)
+2024-06-08
+----------------
+![2024-06-08-0](https://www.bing.com/th?id=OHR.KillikRiverAlaska_ZH-CN5736211272_UHD.jpg)

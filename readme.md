@@ -3766,3 +3766,7 @@ Bing_img
 2024-06-08
 ----------------
 ![2024-06-08-0](https://www.bing.com/th?id=OHR.KillikRiverAlaska_ZH-CN5736211272_UHD.jpg)
+2024-06-09
+----------------
+![2024-06-09-0](https://www.bing.com/th?id=OHR.CanadianGP_EN-CA8496728904_UHD.jpg)
+![2024-06-09-1](https://www.bing.com/th?id=OHR.BardenasBiosphere_ZH-CN6198033700_UHD.jpg)

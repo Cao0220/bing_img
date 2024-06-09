@@ -3770,3 +3770,9 @@ Bing_img
 ----------------
 ![2024-06-09-0](https://www.bing.com/th?id=OHR.CanadianGP_EN-CA8496728904_UHD.jpg)
 ![2024-06-09-1](https://www.bing.com/th?id=OHR.BardenasBiosphere_ZH-CN6198033700_UHD.jpg)
+2024-06-10
+----------------
+![2024-06-10-0](https://www.bing.com/th?id=OHR.DragonBoatFestival2024_ZH-CN6619827853_UHD.jpg)
+![2024-06-10-1](https://www.bing.com/th?id=OHR.KlosterKamp_DE-DE6407205141_UHD.jpg)
+![2024-06-10-2](https://www.bing.com/th?id=OHR.RegionMurciaDay_ES-ES1540507455_UHD.jpg)
+![2024-06-10-3](https://www.bing.com/th?id=OHR.OsakaNight_JA-JP3335717675_UHD.jpg)

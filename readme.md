@@ -3776,3 +3776,7 @@ Bing_img
 ![2024-06-10-1](https://www.bing.com/th?id=OHR.KlosterKamp_DE-DE6407205141_UHD.jpg)
 ![2024-06-10-2](https://www.bing.com/th?id=OHR.RegionMurciaDay_ES-ES1540507455_UHD.jpg)
 ![2024-06-10-3](https://www.bing.com/th?id=OHR.OsakaNight_JA-JP3335717675_UHD.jpg)
+2024-06-11
+----------------
+![2024-06-11-0](https://www.bing.com/th?id=OHR.GemsbokBotswana_ZH-CN7507199339_UHD.jpg)
+![2024-06-11-1](https://www.bing.com/th?id=OHR.Ajisai2024_JA-JP3414608133_UHD.jpg)

@@ -3780,3 +3780,7 @@ Bing_img
 ----------------
 ![2024-06-11-0](https://www.bing.com/th?id=OHR.GemsbokBotswana_ZH-CN7507199339_UHD.jpg)
 ![2024-06-11-1](https://www.bing.com/th?id=OHR.Ajisai2024_JA-JP3414608133_UHD.jpg)
+2024-06-12
+----------------
+![2024-06-12-0](https://www.bing.com/th?id=OHR.BigBendMilkyWay_ZH-CN7709015605_UHD.jpg)
+![2024-06-12-1](https://www.bing.com/th?id=OHR.ViesteItaly_IT-IT7489172458_UHD.jpg)

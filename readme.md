@@ -3784,3 +3784,7 @@ Bing_img
 ----------------
 ![2024-06-12-0](https://www.bing.com/th?id=OHR.BigBendMilkyWay_ZH-CN7709015605_UHD.jpg)
 ![2024-06-12-1](https://www.bing.com/th?id=OHR.ViesteItaly_IT-IT7489172458_UHD.jpg)
+2024-06-13
+----------------
+![2024-06-13-0](https://www.bing.com/th?id=OHR.DiadosNamorado_PT-BR1152869085_UHD.jpg)
+![2024-06-13-1](https://www.bing.com/th?id=OHR.RegistanUzbekistan_ZH-CN7850329702_UHD.jpg)

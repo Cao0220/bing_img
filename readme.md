@@ -3788,3 +3788,7 @@ Bing_img
 ----------------
 ![2024-06-13-0](https://www.bing.com/th?id=OHR.DiadosNamorado_PT-BR1152869085_UHD.jpg)
 ![2024-06-13-1](https://www.bing.com/th?id=OHR.RegistanUzbekistan_ZH-CN7850329702_UHD.jpg)
+2024-06-14
+----------------
+![2024-06-14-0](https://www.bing.com/th?id=OHR.PeggysCove_ZH-CN4221190894_UHD.jpg)
+![2024-06-14-1](https://www.bing.com/th?id=OHR.DhakaBangladesh_JA-JP0528290685_UHD.jpg)

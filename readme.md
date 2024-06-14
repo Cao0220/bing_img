@@ -3792,3 +3792,7 @@ Bing_img
 ----------------
 ![2024-06-14-0](https://www.bing.com/th?id=OHR.PeggysCove_ZH-CN4221190894_UHD.jpg)
 ![2024-06-14-1](https://www.bing.com/th?id=OHR.DhakaBangladesh_JA-JP0528290685_UHD.jpg)
+2024-06-15
+----------------
+![2024-06-15-0](https://www.bing.com/th?id=OHR.NazareWave_ZH-CN4575182192_UHD.jpg)
+![2024-06-15-1](https://www.bing.com/th?id=OHR.KokinoMacedonia_IT-IT5698531580_UHD.jpg)

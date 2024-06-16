@@ -3799,3 +3799,10 @@ Bing_img
 2024-06-16
 ----------------
 ![2024-06-16-0](https://www.bing.com/th?id=OHR.RedFoxDad_ZH-CN4894022141_UHD.jpg)
+2024-06-17
+----------------
+![2024-06-17-0](https://www.bing.com/th?id=OHR.FloresIsland_PT-BR1096612620_UHD.jpg)
+![2024-06-17-1](https://www.bing.com/th?id=OHR.HummingThistle_ZH-CN5057539905_UHD.jpg)
+![2024-06-17-2](https://www.bing.com/th?id=OHR.Ruinenberg_DE-DE5900996291_UHD.jpg)
+![2024-06-17-3](https://www.bing.com/th?id=OHR.KillikRiverAlaska_ES-ES6266165210_UHD.jpg)
+![2024-06-17-4](https://www.bing.com/th?id=OHR.TodiView_IT-IT4184020567_UHD.jpg)

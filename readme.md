@@ -3806,3 +3806,7 @@ Bing_img
 ![2024-06-17-2](https://www.bing.com/th?id=OHR.Ruinenberg_DE-DE5900996291_UHD.jpg)
 ![2024-06-17-3](https://www.bing.com/th?id=OHR.KillikRiverAlaska_ES-ES6266165210_UHD.jpg)
 ![2024-06-17-4](https://www.bing.com/th?id=OHR.TodiView_IT-IT4184020567_UHD.jpg)
+2024-06-18
+----------------
+![2024-06-18-0](https://www.bing.com/th?id=OHR.LupinIceland_ZH-CN5329147708_UHD.jpg)
+![2024-06-18-1](https://www.bing.com/th?id=OHR.FortCigogne_FR-FR4151283347_UHD.jpg)

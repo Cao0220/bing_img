@@ -3810,3 +3810,7 @@ Bing_img
 ----------------
 ![2024-06-18-0](https://www.bing.com/th?id=OHR.LupinIceland_ZH-CN5329147708_UHD.jpg)
 ![2024-06-18-1](https://www.bing.com/th?id=OHR.FortCigogne_FR-FR4151283347_UHD.jpg)
+2024-06-19
+----------------
+![2024-06-19-0](https://www.bing.com/th?id=OHR.CuxhavenTower_ZH-CN5580118944_UHD.jpg)
+![2024-06-19-1](https://www.bing.com/th?id=OHR.FlorenceDuomo_JA-JP1549442901_UHD.jpg)

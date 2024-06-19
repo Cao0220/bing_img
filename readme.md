@@ -3814,3 +3814,8 @@ Bing_img
 ----------------
 ![2024-06-19-0](https://www.bing.com/th?id=OHR.CuxhavenTower_ZH-CN5580118944_UHD.jpg)
 ![2024-06-19-1](https://www.bing.com/th?id=OHR.FlorenceDuomo_JA-JP1549442901_UHD.jpg)
+2024-06-20
+----------------
+![2024-06-20-0](https://www.bing.com/th?id=OHR.LewaGiraffe_EN-CA8570636554_UHD.jpg)
+![2024-06-20-1](https://www.bing.com/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_UHD.jpg)
+![2024-06-20-2](https://www.bing.com/th?id=OHR.SuperyachtCupPalma_ES-ES7519747010_UHD.jpg)

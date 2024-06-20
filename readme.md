@@ -3819,3 +3819,7 @@ Bing_img
 ![2024-06-20-0](https://www.bing.com/th?id=OHR.LewaGiraffe_EN-CA8570636554_UHD.jpg)
 ![2024-06-20-1](https://www.bing.com/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_UHD.jpg)
 ![2024-06-20-2](https://www.bing.com/th?id=OHR.SuperyachtCupPalma_ES-ES7519747010_UHD.jpg)
+2024-06-21
+----------------
+![2024-06-21-0](https://www.bing.com/th?id=OHR.SummerSolstice2024_ZH-CN6141918663_UHD.jpg)
+![2024-06-21-1](https://www.bing.com/th?id=OHR.SummerTree_IT-IT6031529080_UHD.jpg)

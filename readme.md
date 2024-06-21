@@ -3823,3 +3823,10 @@ Bing_img
 ----------------
 ![2024-06-21-0](https://www.bing.com/th?id=OHR.SummerSolstice2024_ZH-CN6141918663_UHD.jpg)
 ![2024-06-21-1](https://www.bing.com/th?id=OHR.SummerTree_IT-IT6031529080_UHD.jpg)
+2024-06-22
+----------------
+![2024-06-22-0](https://www.bing.com/th?id=OHR.IniciodoInverno_PT-BR1929239619_UHD.jpg)
+![2024-06-22-1](https://www.bing.com/th?id=OHR.IndPeopleDay_EN-CA8734922275_UHD.jpg)
+![2024-06-22-2](https://www.bing.com/th?id=OHR.BrazilRainforest_ZH-CN6432366530_UHD.jpg)
+![2024-06-22-3](https://www.bing.com/th?id=OHR.MusicDayToulouse_FR-FR5434347440_UHD.jpg)
+![2024-06-22-4](https://www.bing.com/th?id=OHR.RishikeshYoga_EN-IN7223104789_UHD.jpg)

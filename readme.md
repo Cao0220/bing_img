@@ -3830,3 +3830,7 @@ Bing_img
 ![2024-06-22-2](https://www.bing.com/th?id=OHR.BrazilRainforest_ZH-CN6432366530_UHD.jpg)
 ![2024-06-22-3](https://www.bing.com/th?id=OHR.MusicDayToulouse_FR-FR5434347440_UHD.jpg)
 ![2024-06-22-4](https://www.bing.com/th?id=OHR.RishikeshYoga_EN-IN7223104789_UHD.jpg)
+2024-06-23
+----------------
+![2024-06-23-0](https://www.bing.com/th?id=OHR.DhakaBangladesh_ZH-CN6777866162_UHD.jpg)
+![2024-06-23-1](https://www.bing.com/th?id=OHR.Lavender2024_JA-JP2620797533_UHD.jpg)

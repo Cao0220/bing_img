@@ -3834,3 +3834,7 @@ Bing_img
 ----------------
 ![2024-06-23-0](https://www.bing.com/th?id=OHR.DhakaBangladesh_ZH-CN6777866162_UHD.jpg)
 ![2024-06-23-1](https://www.bing.com/th?id=OHR.Lavender2024_JA-JP2620797533_UHD.jpg)
+2024-06-24
+----------------
+![2024-06-24-0](https://www.bing.com/th?id=OHR.FloresIsland_ZH-CN6930246149_UHD.jpg)
+![2024-06-24-1](https://www.bing.com/th?id=OHR.SanJuanMenorca_ES-ES8672078305_UHD.jpg)

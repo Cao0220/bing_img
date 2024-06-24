@@ -3838,3 +3838,7 @@ Bing_img
 ----------------
 ![2024-06-24-0](https://www.bing.com/th?id=OHR.FloresIsland_ZH-CN6930246149_UHD.jpg)
 ![2024-06-24-1](https://www.bing.com/th?id=OHR.SanJuanMenorca_ES-ES8672078305_UHD.jpg)
+2024-06-25
+----------------
+![2024-06-25-0](https://www.bing.com/th?id=OHR.FestasJuninas_PT-BR2004376750_UHD.jpg)
+![2024-06-25-1](https://www.bing.com/th?id=OHR.FireWave_ZH-CN7110736577_UHD.jpg)

@@ -3842,3 +3842,7 @@ Bing_img
 ----------------
 ![2024-06-25-0](https://www.bing.com/th?id=OHR.FestasJuninas_PT-BR2004376750_UHD.jpg)
 ![2024-06-25-1](https://www.bing.com/th?id=OHR.FireWave_ZH-CN7110736577_UHD.jpg)
+2024-06-26
+----------------
+![2024-06-26-0](https://www.bing.com/th?id=OHR.CardinalfishAnemone_ZH-CN7249037417_UHD.jpg)
+![2024-06-26-1](https://www.bing.com/th?id=OHR.SpringCaveDale_JA-JP3237523322_UHD.jpg)

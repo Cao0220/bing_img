@@ -3850,3 +3850,7 @@ Bing_img
 ----------------
 ![2024-06-27-0](https://www.bing.com/th?id=OHR.FlorenceDuomo_ZH-CN7379412586_UHD.jpg)
 ![2024-06-27-1](https://www.bing.com/th?id=OHR.Ayame2024_JA-JP3356201078_UHD.jpg)
+2024-06-28
+----------------
+![2024-06-28-0](https://www.bing.com/th?id=OHR.ChauseyIslands_ZH-CN4241103934_UHD.jpg)
+![2024-06-28-1](https://www.bing.com/th?id=OHR.ChristopherPark_JA-JP6692662521_UHD.jpg)

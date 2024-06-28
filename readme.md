@@ -3854,3 +3854,11 @@ Bing_img
 ----------------
 ![2024-06-28-0](https://www.bing.com/th?id=OHR.ChauseyIslands_ZH-CN4241103934_UHD.jpg)
 ![2024-06-28-1](https://www.bing.com/th?id=OHR.ChristopherPark_JA-JP6692662521_UHD.jpg)
+2024-06-29
+----------------
+![2024-06-29-0](https://www.bing.com/th?id=OHR.Pride2024_PT-BR0771293980_UHD.jpg)
+![2024-06-29-1](https://www.bing.com/th?id=OHR.NienhagenMecklenburg_ZH-CN4482269700_UHD.jpg)
+![2024-06-29-2](https://www.bing.com/th?id=OHR.AllianzArena_DE-DE5063263728_UHD.jpg)
+![2024-06-29-3](https://www.bing.com/th?id=OHR.PrideMadrid_ES-ES8204092682_UHD.jpg)
+![2024-06-29-4](https://www.bing.com/th?id=OHR.ParisPrideParade_FR-FR5537567713_UHD.jpg)
+![2024-06-29-5](https://www.bing.com/th?id=OHR.TourCorsica_JA-JP9224507458_UHD.jpg)

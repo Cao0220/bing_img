@@ -3862,3 +3862,6 @@ Bing_img
 ![2024-06-29-3](https://www.bing.com/th?id=OHR.PrideMadrid_ES-ES8204092682_UHD.jpg)
 ![2024-06-29-4](https://www.bing.com/th?id=OHR.ParisPrideParade_FR-FR5537567713_UHD.jpg)
 ![2024-06-29-5](https://www.bing.com/th?id=OHR.TourCorsica_JA-JP9224507458_UHD.jpg)
+2024-06-30
+----------------
+![2024-06-30-0](https://www.bing.com/th?id=OHR.UbudBali_ZH-CN4891348277_UHD.jpg)

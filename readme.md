@@ -3865,3 +3865,7 @@ Bing_img
 2024-06-30
 ----------------
 ![2024-06-30-0](https://www.bing.com/th?id=OHR.UbudBali_ZH-CN4891348277_UHD.jpg)
+2024-07-01
+----------------
+![2024-07-01-0](https://www.bing.com/th?id=OHR.FisgardLighthouse_ZH-CN5474064913_UHD.jpg)
+![2024-07-01-1](https://www.bing.com/th?id=OHR.PrideItalia_IT-IT3295714060_UHD.jpg)

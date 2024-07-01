@@ -3869,3 +3869,8 @@ Bing_img
 ----------------
 ![2024-07-01-0](https://www.bing.com/th?id=OHR.FisgardLighthouse_ZH-CN5474064913_UHD.jpg)
 ![2024-07-01-1](https://www.bing.com/th?id=OHR.PrideItalia_IT-IT3295714060_UHD.jpg)
+2024-07-02
+----------------
+![2024-07-02-0](https://www.bing.com/th?id=OHR.CanadaDayOttawa_EN-CA8916971167_UHD.jpg)
+![2024-07-02-1](https://www.bing.com/th?id=OHR.ItalicaRuins_ZH-CN5932138207_UHD.jpg)
+![2024-07-02-2](https://www.bing.com/th?id=OHR.HeidelbergCastle_DE-DE7111251205_UHD.jpg)

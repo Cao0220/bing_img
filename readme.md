@@ -3874,3 +3874,7 @@ Bing_img
 ![2024-07-02-0](https://www.bing.com/th?id=OHR.CanadaDayOttawa_EN-CA8916971167_UHD.jpg)
 ![2024-07-02-1](https://www.bing.com/th?id=OHR.ItalicaRuins_ZH-CN5932138207_UHD.jpg)
 ![2024-07-02-2](https://www.bing.com/th?id=OHR.HeidelbergCastle_DE-DE7111251205_UHD.jpg)
+2024-07-03
+----------------
+![2024-07-03-0](https://www.bing.com/th?id=OHR.MeerkatManor_ZH-CN2486051161_UHD.jpg)
+![2024-07-03-1](https://www.bing.com/th?id=OHR.PalioDiSiena_IT-IT3821584862_UHD.jpg)

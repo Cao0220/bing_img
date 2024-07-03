@@ -3878,3 +3878,7 @@ Bing_img
 ----------------
 ![2024-07-03-0](https://www.bing.com/th?id=OHR.MeerkatManor_ZH-CN2486051161_UHD.jpg)
 ![2024-07-03-1](https://www.bing.com/th?id=OHR.PalioDiSiena_IT-IT3821584862_UHD.jpg)
+2024-07-04
+----------------
+![2024-07-04-0](https://www.bing.com/th?id=OHR.ZaharaDeLaSierra_ZH-CN6500182265_UHD.jpg)
+![2024-07-04-1](https://www.bing.com/th?id=OHR.YenBaiTerraces_JA-JP0209668675_UHD.jpg)

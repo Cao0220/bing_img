@@ -3888,3 +3888,6 @@ Bing_img
 ![2024-07-05-1](https://www.bing.com/th?id=OHR.NoahBeach_ZH-CN6676061324_UHD.jpg)
 ![2024-07-05-2](https://www.bing.com/th?id=OHR.SenanqueAbbey_FR-FR3993123153_UHD.jpg)
 ![2024-07-05-3](https://www.bing.com/th?id=OHR.KeralaSummer_EN-IN8339171901_UHD.jpg)
+2024-07-06
+----------------
+![2024-07-06-0](https://www.bing.com/th?id=OHR.ConwyRiver_ZH-CN6871799250_UHD.jpg)

@@ -3895,3 +3895,6 @@ Bing_img
 ----------------
 ![2024-07-07-0](https://www.bing.com/th?id=OHR.YenBaiTerraces_ZH-CN7224453501_UHD.jpg)
 ![2024-07-07-1](https://www.bing.com/th?id=OHR.Tanabata2024_JA-JP1586960009_UHD.jpg)
+2024-07-08
+----------------
+![2024-07-08-0](https://www.bing.com/th?id=OHR.NorwayBlueberries_ZH-CN7643097235_UHD.jpg)

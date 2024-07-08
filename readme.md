@@ -3898,3 +3898,8 @@ Bing_img
 2024-07-08
 ----------------
 ![2024-07-08-0](https://www.bing.com/th?id=OHR.NorwayBlueberries_ZH-CN7643097235_UHD.jpg)
+2024-07-09
+----------------
+![2024-07-09-0](https://www.bing.com/th?id=OHR.AniversarioOuroPreto_PT-BR1746358764_UHD.jpg)
+![2024-07-09-1](https://www.bing.com/th?id=OHR.TalampayaNP_ZH-CN7905859626_UHD.jpg)
+![2024-07-09-2](https://www.bing.com/th?id=OHR.PontBordeaux_FR-FR0361302965_UHD.jpg)

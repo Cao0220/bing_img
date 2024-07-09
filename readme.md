@@ -3903,3 +3903,7 @@ Bing_img
 ![2024-07-09-0](https://www.bing.com/th?id=OHR.AniversarioOuroPreto_PT-BR1746358764_UHD.jpg)
 ![2024-07-09-1](https://www.bing.com/th?id=OHR.TalampayaNP_ZH-CN7905859626_UHD.jpg)
 ![2024-07-09-2](https://www.bing.com/th?id=OHR.PontBordeaux_FR-FR0361302965_UHD.jpg)
+2024-07-10
+----------------
+![2024-07-10-0](https://www.bing.com/th?id=OHR.CollaredAracari_ZH-CN8787234462_UHD.jpg)
+![2024-07-10-1](https://www.bing.com/th?id=OHR.Lanternplant2024_JA-JP2260534010_UHD.jpg)

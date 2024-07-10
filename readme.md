@@ -3907,3 +3907,7 @@ Bing_img
 ----------------
 ![2024-07-10-0](https://www.bing.com/th?id=OHR.CollaredAracari_ZH-CN8787234462_UHD.jpg)
 ![2024-07-10-1](https://www.bing.com/th?id=OHR.Lanternplant2024_JA-JP2260534010_UHD.jpg)
+2024-07-11
+----------------
+![2024-07-11-0](https://www.bing.com/th?id=OHR.GangiSicily_ZH-CN9086944081_UHD.jpg)
+![2024-07-11-1](https://www.bing.com/th?id=OHR.UbudBali_IT-IT6720560821_UHD.jpg)

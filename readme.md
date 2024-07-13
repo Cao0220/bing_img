@@ -3918,3 +3918,7 @@ Bing_img
 ----------------
 ![2024-07-13-0](https://www.bing.com/th?id=OHR.CappadociaRocks_ZH-CN9283633861_UHD.jpg)
 ![2024-07-13-1](https://www.bing.com/th?id=OHR.UmbriaInternationalJazz_IT-IT2914317092_UHD.jpg)
+2024-07-14
+----------------
+![2024-07-14-0](https://www.bing.com/th?id=OHR.SilkyShark_ZH-CN9523915460_UHD.jpg)
+![2024-07-14-1](https://www.bing.com/th?id=OHR.MuseumIsland_JA-JP9009131694_UHD.jpg)

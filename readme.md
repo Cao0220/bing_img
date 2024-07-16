@@ -3932,3 +3932,9 @@ Bing_img
 2024-07-16
 ----------------
 ![2024-07-16-0](https://www.bing.com/th?id=OHR.AncientOrkney_ZH-CN1110318653_UHD.jpg)
+2024-07-17
+----------------
+![2024-07-17-0](https://www.bing.com/th?id=OHR.DinosaurProvPark_EN-CA7737524155_UHD.jpg)
+![2024-07-17-1](https://www.bing.com/th?id=OHR.MedievalRothenburg_ZH-CN1522774136_UHD.jpg)
+![2024-07-17-2](https://www.bing.com/th?id=OHR.HammockCamping_EN-IN2367011958_UHD.jpg)
+![2024-07-17-3](https://www.bing.com/th?id=OHR.GionFestival2024_JA-JP2391295161_UHD.jpg)

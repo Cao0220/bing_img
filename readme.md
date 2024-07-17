@@ -3938,3 +3938,7 @@ Bing_img
 ![2024-07-17-1](https://www.bing.com/th?id=OHR.MedievalRothenburg_ZH-CN1522774136_UHD.jpg)
 ![2024-07-17-2](https://www.bing.com/th?id=OHR.HammockCamping_EN-IN2367011958_UHD.jpg)
 ![2024-07-17-3](https://www.bing.com/th?id=OHR.GionFestival2024_JA-JP2391295161_UHD.jpg)
+2024-07-18
+----------------
+![2024-07-18-0](https://www.bing.com/th?id=OHR.DiadoCurupira_PT-BR5262042998_UHD.jpg)
+![2024-07-18-1](https://www.bing.com/th?id=OHR.MayotteCoral_ZH-CN8106288026_UHD.jpg)

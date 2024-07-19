@@ -3945,3 +3945,7 @@ Bing_img
 2024-07-19
 ----------------
 ![2024-07-19-0](https://www.bing.com/th?id=OHR.YoungJaguar_ZH-CN2249923627_UHD.jpg)
+2024-07-20
+----------------
+![2024-07-20-0](https://www.bing.com/th?id=OHR.DiaNacionaldoFutebol_PT-BR4614165115_UHD.jpg)
+![2024-07-20-1](https://www.bing.com/th?id=OHR.MineralMoon_ZH-CN2555749456_UHD.jpg)

@@ -3949,3 +3949,6 @@ Bing_img
 ----------------
 ![2024-07-20-0](https://www.bing.com/th?id=OHR.DiaNacionaldoFutebol_PT-BR4614165115_UHD.jpg)
 ![2024-07-20-1](https://www.bing.com/th?id=OHR.MineralMoon_ZH-CN2555749456_UHD.jpg)
+2024-07-21
+----------------
+![2024-07-21-0](https://www.bing.com/th?id=OHR.ZanzibarBoats_ZH-CN2915388379_UHD.jpg)

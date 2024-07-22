@@ -3957,3 +3957,11 @@ Bing_img
 ![2024-07-22-0](https://www.bing.com/th?id=OHR.TheGreatHeat2024_ZH-CN6033129823_UHD.jpg)
 ![2024-07-22-1](https://www.bing.com/th?id=OHR.RedentorVenezia_IT-IT2428174506_UHD.jpg)
 ![2024-07-22-2](https://www.bing.com/th?id=OHR.MedievalRothenburg_JA-JP3111613598_UHD.jpg)
+2024-07-23
+----------------
+![2024-07-23-0](https://www.bing.com/th?id=OHR.HammockCamping_ROW2610450253_UHD.jpg)
+![2024-07-23-1](https://www.bing.com/th?id=OHR.MethoniCastle_ZH-CN4054146065_UHD.jpg)
+![2024-07-23-2](https://www.bing.com/th?id=OHR.WickerBeachBaskets_DE-DE6881369278_UHD.jpg)
+![2024-07-23-3](https://www.bing.com/th?id=OHR.PerseidasExtremadura_ES-ES2162397207_UHD.jpg)
+![2024-07-23-4](https://www.bing.com/th?id=OHR.SaintFrancois_FR-FR9354176013_UHD.jpg)
+![2024-07-23-5](https://www.bing.com/th?id=OHR.ElloraCavesMH_EN-IN9734367387_UHD.jpg)

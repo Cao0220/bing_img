@@ -3965,3 +3965,7 @@ Bing_img
 ![2024-07-23-3](https://www.bing.com/th?id=OHR.PerseidasExtremadura_ES-ES2162397207_UHD.jpg)
 ![2024-07-23-4](https://www.bing.com/th?id=OHR.SaintFrancois_FR-FR9354176013_UHD.jpg)
 ![2024-07-23-5](https://www.bing.com/th?id=OHR.ElloraCavesMH_EN-IN9734367387_UHD.jpg)
+2024-07-24
+----------------
+![2024-07-24-0](https://www.bing.com/th?id=OHR.SheepCousins_ZH-CN4262132476_UHD.jpg)
+![2024-07-24-1](https://www.bing.com/th?id=OHR.WindBell2024_JA-JP3427351394_UHD.jpg)

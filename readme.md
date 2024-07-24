@@ -3969,3 +3969,8 @@ Bing_img
 ----------------
 ![2024-07-24-0](https://www.bing.com/th?id=OHR.SheepCousins_ZH-CN4262132476_UHD.jpg)
 ![2024-07-24-1](https://www.bing.com/th?id=OHR.WindBell2024_JA-JP3427351394_UHD.jpg)
+2024-07-25
+----------------
+![2024-07-25-0](https://www.bing.com/th?id=OHR.YoungJaguar_PT-BR2280455172_UHD.jpg)
+![2024-07-25-1](https://www.bing.com/th?id=OHR.SmokyMountainTrail_ZH-CN4691667074_UHD.jpg)
+![2024-07-25-2](https://www.bing.com/th?id=OHR.SaintJamesGalicia_ES-ES2247735379_UHD.jpg)

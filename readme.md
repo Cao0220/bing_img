@@ -3982,3 +3982,7 @@ Bing_img
 ![2024-07-27-0](https://www.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_UHD.jpg)
 ![2024-07-27-1](https://www.bing.com/th?id=OHR.ParisOlympicGames_FR-FR9795678627_UHD.jpg)
 ![2024-07-27-2](https://www.bing.com/th?id=OHR.KargilMemorial_EN-IN8142573327_UHD.jpg)
+2024-07-28
+----------------
+![2024-07-28-0](https://www.bing.com/th?id=OHR.BeachHutsSweden_ZH-CN4193150313_UHD.jpg)
+![2024-07-28-1](https://www.bing.com/th?id=OHR.EstateRomana_IT-IT9963812100_UHD.jpg)

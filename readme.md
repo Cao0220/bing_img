@@ -3998,3 +3998,8 @@ Bing_img
 ![2024-07-31-0](https://www.bing.com/th?id=OHR.HoodoosBryce_ZH-CN8398575172_UHD.jpg)
 ![2024-07-31-1](https://www.bing.com/th?id=OHR.GrayWolfPups_DE-DE4132223507_UHD.jpg)
 ![2024-07-31-2](https://www.bing.com/th?id=OHR.ImpalaOxpecker_FR-FR0733173703_UHD.jpg)
+2024-08-01
+----------------
+![2024-08-01-0](https://www.bing.com/th?id=OHR.KaptaiLake_ZH-CN9085738832_UHD.jpg)
+![2024-08-01-1](https://www.bing.com/th?id=OHR.RhinelandVineyards_IT-IT2787669199_UHD.jpg)
+![2024-08-01-2](https://www.bing.com/th?id=OHR.Nebuta2024_JA-JP7778073736_UHD.jpg)

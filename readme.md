@@ -4003,3 +4003,6 @@ Bing_img
 ![2024-08-01-0](https://www.bing.com/th?id=OHR.KaptaiLake_ZH-CN9085738832_UHD.jpg)
 ![2024-08-01-1](https://www.bing.com/th?id=OHR.RhinelandVineyards_IT-IT2787669199_UHD.jpg)
 ![2024-08-01-2](https://www.bing.com/th?id=OHR.Nebuta2024_JA-JP7778073736_UHD.jpg)
+2024-08-02
+----------------
+![2024-08-02-0](https://www.bing.com/th?id=OHR.TrunkBay_ZH-CN9268190655_UHD.jpg)

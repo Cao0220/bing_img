@@ -4006,3 +4006,8 @@ Bing_img
 2024-08-02
 ----------------
 ![2024-08-02-0](https://www.bing.com/th?id=OHR.TrunkBay_ZH-CN9268190655_UHD.jpg)
+2024-08-03
+----------------
+![2024-08-03-0](https://www.bing.com/th?id=OHR.SaintFrancois_ROW4592386961_UHD.jpg)
+![2024-08-03-1](https://www.bing.com/th?id=OHR.GeesefamilyBanff_EN-CA8574111296_UHD.jpg)
+![2024-08-03-2](https://www.bing.com/th?id=OHR.WulongKarst_ZH-CN9386528384_UHD.jpg)

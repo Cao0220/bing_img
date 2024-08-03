@@ -4011,3 +4011,8 @@ Bing_img
 ![2024-08-03-0](https://www.bing.com/th?id=OHR.SaintFrancois_ROW4592386961_UHD.jpg)
 ![2024-08-03-1](https://www.bing.com/th?id=OHR.GeesefamilyBanff_EN-CA8574111296_UHD.jpg)
 ![2024-08-03-2](https://www.bing.com/th?id=OHR.WulongKarst_ZH-CN9386528384_UHD.jpg)
+2024-08-04
+----------------
+![2024-08-04-0](https://www.bing.com/th?id=OHR.ImpalaOxpecker_ZH-CN9652434873_UHD.jpg)
+![2024-08-04-1](https://www.bing.com/th?id=OHR.DescensodelSella_ES-ES4018014092_UHD.jpg)
+![2024-08-04-2](https://www.bing.com/th?id=OHR.SummerDeer_FR-FR3909354454_UHD.jpg)

@@ -4016,3 +4016,10 @@ Bing_img
 ![2024-08-04-0](https://www.bing.com/th?id=OHR.ImpalaOxpecker_ZH-CN9652434873_UHD.jpg)
 ![2024-08-04-1](https://www.bing.com/th?id=OHR.DescensodelSella_ES-ES4018014092_UHD.jpg)
 ![2024-08-04-2](https://www.bing.com/th?id=OHR.SummerDeer_FR-FR3909354454_UHD.jpg)
+2024-08-05
+----------------
+![2024-08-05-0](https://www.bing.com/th?id=OHR.DiaInternacionaldosAvos_PT-BR2289016069_UHD.jpg)
+![2024-08-05-1](https://www.bing.com/th?id=OHR.HertfordshireLavender_ZH-CN9771886404_UHD.jpg)
+![2024-08-05-2](https://www.bing.com/th?id=OHR.SellinSeebruecke_DE-DE4280331105_UHD.jpg)
+![2024-08-05-3](https://www.bing.com/th?id=OHR.RomeriaVikinga_ES-ES4247544127_UHD.jpg)
+![2024-08-05-4](https://www.bing.com/th?id=OHR.GimignanoTuscany_FR-FR0891435828_UHD.jpg)

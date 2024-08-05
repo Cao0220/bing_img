@@ -4023,3 +4023,7 @@ Bing_img
 ![2024-08-05-2](https://www.bing.com/th?id=OHR.SellinSeebruecke_DE-DE4280331105_UHD.jpg)
 ![2024-08-05-3](https://www.bing.com/th?id=OHR.RomeriaVikinga_ES-ES4247544127_UHD.jpg)
 ![2024-08-05-4](https://www.bing.com/th?id=OHR.GimignanoTuscany_FR-FR0891435828_UHD.jpg)
+2024-08-06
+----------------
+![2024-08-06-0](https://www.bing.com/th?id=OHR.MolokiniHawaii_ZH-CN0375050872_UHD.jpg)
+![2024-08-06-1](https://www.bing.com/th?id=OHR.SendaiTanabata2024_JA-JP8906260169_UHD.jpg)

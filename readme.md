@@ -4033,3 +4033,7 @@ Bing_img
 2024-08-08
 ----------------
 ![2024-08-08-0](https://www.bing.com/th?id=OHR.SpottedOwlet_ZH-CN0841935587_UHD.jpg)
+2024-08-09
+----------------
+![2024-08-09-0](https://www.bing.com/th?id=OHR.IncaRuinPeru_ZH-CN5068602301_UHD.jpg)
+![2024-08-09-1](https://www.bing.com/th?id=OHR.LagoComoItaly_IT-IT3865741032_UHD.jpg)

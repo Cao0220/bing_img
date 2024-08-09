@@ -4037,3 +4037,8 @@ Bing_img
 ----------------
 ![2024-08-09-0](https://www.bing.com/th?id=OHR.IncaRuinPeru_ZH-CN5068602301_UHD.jpg)
 ![2024-08-09-1](https://www.bing.com/th?id=OHR.LagoComoItaly_IT-IT3865741032_UHD.jpg)
+2024-08-10
+----------------
+![2024-08-10-0](https://www.bing.com/th?id=OHR.JoshuaTreeNP_ZH-CN5917576674_UHD.jpg)
+![2024-08-10-1](https://www.bing.com/th?id=OHR.HangCave_EN-IN5640527051_UHD.jpg)
+![2024-08-10-2](https://www.bing.com/th?id=OHR.TofinoVancouver_JA-JP8938759537_UHD.jpg)

@@ -4047,3 +4047,7 @@ Bing_img
 ![2024-08-11-0](https://www.bing.com/th?id=OHR.Elbphilharmonie_DE-DE2773966721_UHD.jpg)
 ![2024-08-11-1](https://www.bing.com/th?id=OHR.SanLorenzoNight_IT-IT4055519723_UHD.jpg)
 ![2024-08-11-2](https://www.bing.com/th?id=OHR.MountainDay2024_JA-JP9130465329_UHD.jpg)
+2024-08-12
+----------------
+![2024-08-12-0](https://www.bing.com/th?id=OHR.DiadosPais_PT-BR1045421907_UHD.jpg)
+![2024-08-12-1](https://www.bing.com/th?id=OHR.ElephantsAmboseli_ZH-CN7596989061_UHD.jpg)

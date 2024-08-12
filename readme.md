@@ -4051,3 +4051,6 @@ Bing_img
 ----------------
 ![2024-08-12-0](https://www.bing.com/th?id=OHR.DiadosPais_PT-BR1045421907_UHD.jpg)
 ![2024-08-12-1](https://www.bing.com/th?id=OHR.ElephantsAmboseli_ZH-CN7596989061_UHD.jpg)
+2024-08-13
+----------------
+![2024-08-13-0](https://www.bing.com/th?id=OHR.DugiOtokCroatia_ZH-CN7791404392_UHD.jpg)

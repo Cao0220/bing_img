@@ -4054,3 +4054,8 @@ Bing_img
 2024-08-13
 ----------------
 ![2024-08-13-0](https://www.bing.com/th?id=OHR.DugiOtokCroatia_ZH-CN7791404392_UHD.jpg)
+2024-08-14
+----------------
+![2024-08-14-0](https://www.bing.com/th?id=OHR.WatarrkaLizard_ZH-CN7974623468_UHD.jpg)
+![2024-08-14-1](https://www.bing.com/th?id=OHR.LorientCelticFestival_FR-FR2950316084_UHD.jpg)
+![2024-08-14-2](https://www.bing.com/th?id=OHR.JoshuaTreeNP_JA-JP9735541892_UHD.jpg)

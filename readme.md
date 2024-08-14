@@ -4059,3 +4059,6 @@ Bing_img
 ![2024-08-14-0](https://www.bing.com/th?id=OHR.WatarrkaLizard_ZH-CN7974623468_UHD.jpg)
 ![2024-08-14-1](https://www.bing.com/th?id=OHR.LorientCelticFestival_FR-FR2950316084_UHD.jpg)
 ![2024-08-14-2](https://www.bing.com/th?id=OHR.JoshuaTreeNP_JA-JP9735541892_UHD.jpg)
+2024-08-15
+----------------
+![2024-08-15-0](https://www.bing.com/th?id=OHR.HangCave_ZH-CN9217507365_UHD.jpg)

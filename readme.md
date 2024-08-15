@@ -4062,3 +4062,9 @@ Bing_img
 2024-08-15
 ----------------
 ![2024-08-15-0](https://www.bing.com/th?id=OHR.HangCave_ZH-CN9217507365_UHD.jpg)
+2024-08-16
+----------------
+![2024-08-16-0](https://www.bing.com/th?id=OHR.JapanRollerCoaster_ZH-CN7954058301_UHD.jpg)
+![2024-08-16-1](https://www.bing.com/th?id=OHR.RedFortID_EN-IN8417084718_UHD.jpg)
+![2024-08-16-2](https://www.bing.com/th?id=OHR.Ferragosto_IT-IT4867237057_UHD.jpg)
+![2024-08-16-3](https://www.bing.com/th?id=OHR.Gozan2024_JA-JP4841375373_UHD.jpg)

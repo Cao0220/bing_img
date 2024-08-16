@@ -4068,3 +4068,8 @@ Bing_img
 ![2024-08-16-1](https://www.bing.com/th?id=OHR.RedFortID_EN-IN8417084718_UHD.jpg)
 ![2024-08-16-2](https://www.bing.com/th?id=OHR.Ferragosto_IT-IT4867237057_UHD.jpg)
 ![2024-08-16-3](https://www.bing.com/th?id=OHR.Gozan2024_JA-JP4841375373_UHD.jpg)
+2024-08-17
+----------------
+![2024-08-17-0](https://www.bing.com/th?id=OHR.CNE2024_EN-CA8242328301_UHD.jpg)
+![2024-08-17-1](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_ZH-CN9704515669_UHD.jpg)
+![2024-08-17-2](https://www.bing.com/th?id=OHR.ButterflyFlower_FR-FR4834672236_UHD.jpg)

@@ -4073,3 +4073,7 @@ Bing_img
 ![2024-08-17-0](https://www.bing.com/th?id=OHR.CNE2024_EN-CA8242328301_UHD.jpg)
 ![2024-08-17-1](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_ZH-CN9704515669_UHD.jpg)
 ![2024-08-17-2](https://www.bing.com/th?id=OHR.ButterflyFlower_FR-FR4834672236_UHD.jpg)
+2024-08-18
+----------------
+![2024-08-18-0](https://www.bing.com/th?id=OHR.HuntingtonBeach_ZH-CN0368691951_UHD.jpg)
+![2024-08-18-1](https://www.bing.com/th?id=OHR.SemanaGrandeBilbao_ES-ES1226526692_UHD.jpg)

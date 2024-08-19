@@ -4082,3 +4082,8 @@ Bing_img
 ![2024-08-19-0](https://www.bing.com/th?id=OHR.RegataSanGines_ZH-CN0807566522_UHD.jpg)
 ![2024-08-19-1](https://www.bing.com/th?id=OHR.ExternsteineTeutoburg_DE-DE6454962619_UHD.jpg)
 ![2024-08-19-2](https://www.bing.com/th?id=OHR.JapanRollerCoaster_JA-JP5324856123_UHD.jpg)
+2024-08-20
+----------------
+![2024-08-20-0](https://www.bing.com/th?id=OHR.TwoPuffins_EN-CA7284054519_UHD.jpg)
+![2024-08-20-1](https://www.bing.com/th?id=OHR.TetonSunrise_ZH-CN1118823848_UHD.jpg)
+![2024-08-20-2](https://www.bing.com/th?id=OHR.FestivalRakhi_EN-IN9632575091_UHD.jpg)

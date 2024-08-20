@@ -4087,3 +4087,6 @@ Bing_img
 ![2024-08-20-0](https://www.bing.com/th?id=OHR.TwoPuffins_EN-CA7284054519_UHD.jpg)
 ![2024-08-20-1](https://www.bing.com/th?id=OHR.TetonSunrise_ZH-CN1118823848_UHD.jpg)
 ![2024-08-20-2](https://www.bing.com/th?id=OHR.FestivalRakhi_EN-IN9632575091_UHD.jpg)
+2024-08-21
+----------------
+![2024-08-21-0](https://www.bing.com/th?id=OHR.NazcaBooby_ZH-CN1534931799_UHD.jpg)

@@ -4090,3 +4090,6 @@ Bing_img
 2024-08-21
 ----------------
 ![2024-08-21-0](https://www.bing.com/th?id=OHR.NazcaBooby_ZH-CN1534931799_UHD.jpg)
+2024-08-22
+----------------
+![2024-08-22-0](https://www.bing.com/th?id=OHR.OceanCityMD_ZH-CN1876928284_UHD.jpg)

@@ -4093,3 +4093,8 @@ Bing_img
 2024-08-22
 ----------------
 ![2024-08-22-0](https://www.bing.com/th?id=OHR.OceanCityMD_ZH-CN1876928284_UHD.jpg)
+2024-08-23
+----------------
+![2024-08-23-0](https://www.bing.com/th?id=OHR.DiadoFolclore_PT-BR9451693617_UHD.jpg)
+![2024-08-23-1](https://www.bing.com/th?id=OHR.PrasatPhanom_ZH-CN0445884858_UHD.jpg)
+![2024-08-23-2](https://www.bing.com/th?id=OHR.Fireworks2024_JA-JP2308803408_UHD.jpg)

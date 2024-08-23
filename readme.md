@@ -4098,3 +4098,7 @@ Bing_img
 ![2024-08-23-0](https://www.bing.com/th?id=OHR.DiadoFolclore_PT-BR9451693617_UHD.jpg)
 ![2024-08-23-1](https://www.bing.com/th?id=OHR.PrasatPhanom_ZH-CN0445884858_UHD.jpg)
 ![2024-08-23-2](https://www.bing.com/th?id=OHR.Fireworks2024_JA-JP2308803408_UHD.jpg)
+2024-08-24
+----------------
+![2024-08-24-0](https://www.bing.com/th?id=OHR.KatahdinWoods_ZH-CN0748954905_UHD.jpg)
+![2024-08-24-1](https://www.bing.com/th?id=OHR.JizoFestival2024_JA-JP8040094666_UHD.jpg)

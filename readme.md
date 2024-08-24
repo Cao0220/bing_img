@@ -4102,3 +4102,7 @@ Bing_img
 ----------------
 ![2024-08-24-0](https://www.bing.com/th?id=OHR.KatahdinWoods_ZH-CN0748954905_UHD.jpg)
 ![2024-08-24-1](https://www.bing.com/th?id=OHR.JizoFestival2024_JA-JP8040094666_UHD.jpg)
+2024-08-25
+----------------
+![2024-08-25-0](https://www.bing.com/th?id=OHR.SwiftcurrentLake_ZH-CN1513761894_UHD.jpg)
+![2024-08-25-1](https://www.bing.com/th?id=OHR.MuseumsinselSpree_DE-DE8201453372_UHD.jpg)

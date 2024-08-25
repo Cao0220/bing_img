@@ -4106,3 +4106,10 @@ Bing_img
 ----------------
 ![2024-08-25-0](https://www.bing.com/th?id=OHR.SwiftcurrentLake_ZH-CN1513761894_UHD.jpg)
 ![2024-08-25-1](https://www.bing.com/th?id=OHR.MuseumsinselSpree_DE-DE8201453372_UHD.jpg)
+2024-08-26
+----------------
+![2024-08-26-0](https://www.bing.com/th?id=OHR.PalmyraAtoll_ZH-CN1814325540_UHD.jpg)
+![2024-08-26-1](https://www.bing.com/th?id=OHR.VineyardsinRemstalvalley_DE-DE8704317940_UHD.jpg)
+![2024-08-26-2](https://www.bing.com/th?id=OHR.VelaAmericaCupBarcelona_ES-ES7829816830_UHD.jpg)
+![2024-08-26-3](https://www.bing.com/th?id=OHR.TrailMontBlanc_FR-FR5602937641_UHD.jpg)
+![2024-08-26-4](https://www.bing.com/th?id=OHR.GolcondaFort_EN-IN3908727493_UHD.jpg)

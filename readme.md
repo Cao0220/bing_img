@@ -4117,3 +4117,7 @@ Bing_img
 ----------------
 ![2024-08-27-0](https://www.bing.com/th?id=OHR.YoungCaiman_ZH-CN1995433788_UHD.jpg)
 ![2024-08-27-1](https://www.bing.com/th?id=OHR.PrasatPhanom_JA-JP7500129821_UHD.jpg)
+2024-08-28
+----------------
+![2024-08-28-0](https://www.bing.com/th?id=OHR.ParalympicsParis_ZH-CN9773135851_UHD.jpg)
+![2024-08-28-1](https://www.bing.com/th?id=OHR.LagoMisurina_IT-IT4702658331_UHD.jpg)

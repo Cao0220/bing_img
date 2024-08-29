@@ -4125,3 +4125,6 @@ Bing_img
 ----------------
 ![2024-08-29-0](https://www.bing.com/th?id=OHR.CastellfollitSpain_ZH-CN2990517626_UHD.jpg)
 ![2024-08-29-1](https://www.bing.com/th?id=OHR.PontNeuf_FR-FR7590326569_UHD.jpg)
+2024-08-30
+----------------
+![2024-08-30-0](https://www.bing.com/th?id=OHR.WhaleSharkDay_ZH-CN3334940631_UHD.jpg)

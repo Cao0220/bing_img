@@ -4128,3 +4128,6 @@ Bing_img
 2024-08-30
 ----------------
 ![2024-08-30-0](https://www.bing.com/th?id=OHR.WhaleSharkDay_ZH-CN3334940631_UHD.jpg)
+2024-08-31
+----------------
+![2024-08-31-0](https://www.bing.com/th?id=OHR.DjanetAlgeria_ZH-CN3458706695_UHD.jpg)

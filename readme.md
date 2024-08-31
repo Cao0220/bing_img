@@ -4131,3 +4131,6 @@ Bing_img
 2024-08-31
 ----------------
 ![2024-08-31-0](https://www.bing.com/th?id=OHR.DjanetAlgeria_ZH-CN3458706695_UHD.jpg)
+2024-09-01
+----------------
+![2024-09-01-0](https://www.bing.com/th?id=OHR.ThamesLondon_ZH-CN3629717426_UHD.jpg)

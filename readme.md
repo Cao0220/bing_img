@@ -4134,3 +4134,7 @@ Bing_img
 2024-09-01
 ----------------
 ![2024-09-01-0](https://www.bing.com/th?id=OHR.ThamesLondon_ZH-CN3629717426_UHD.jpg)
+2024-09-02
+----------------
+![2024-09-02-0](https://www.bing.com/th?id=OHR.BuracodasAraras_ZH-CN3881985508_UHD.jpg)
+![2024-09-02-1](https://www.bing.com/th?id=OHR.RegataStoricaVenezia_IT-IT2940958877_UHD.jpg)

@@ -4144,3 +4144,6 @@ Bing_img
 ![2024-09-03-1](https://www.bing.com/th?id=OHR.AlpineLakes_ZH-CN4537389724_UHD.jpg)
 ![2024-09-03-2](https://www.bing.com/th?id=OHR.PenitentMees_FR-FR9818550884_UHD.jpg)
 ![2024-09-03-3](https://www.bing.com/th?id=OHR.RhinoMother_EN-IN4208210232_UHD.jpg)
+2024-09-04
+----------------
+![2024-09-04-0](https://www.bing.com/th?id=OHR.DuskyOwls_ZH-CN4729762831_UHD.jpg)

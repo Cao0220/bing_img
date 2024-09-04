@@ -4147,3 +4147,7 @@ Bing_img
 2024-09-04
 ----------------
 ![2024-09-04-0](https://www.bing.com/th?id=OHR.DuskyOwls_ZH-CN4729762831_UHD.jpg)
+2024-09-05
+----------------
+![2024-09-05-0](https://www.bing.com/th?id=OHR.TIFF2024_ZH-CN4896695918_UHD.jpg)
+![2024-09-05-1](https://www.bing.com/th?id=OHR.LaVueltaJerez_ES-ES7910099478_UHD.jpg)

@@ -4151,3 +4151,8 @@ Bing_img
 ----------------
 ![2024-09-05-0](https://www.bing.com/th?id=OHR.TIFF2024_ZH-CN4896695918_UHD.jpg)
 ![2024-09-05-1](https://www.bing.com/th?id=OHR.LaVueltaJerez_ES-ES7910099478_UHD.jpg)
+2024-09-06
+----------------
+![2024-09-06-0](https://www.bing.com/th?id=OHR.RioNegroSolimoes_PT-BR3787535047_UHD.jpg)
+![2024-09-06-1](https://www.bing.com/th?id=OHR.GlenariffPark_ZH-CN4667558707_UHD.jpg)
+![2024-09-06-2](https://www.bing.com/th?id=OHR.GujoHachiman_JA-JP9477689405_UHD.jpg)

@@ -4156,3 +4156,7 @@ Bing_img
 ![2024-09-06-0](https://www.bing.com/th?id=OHR.RioNegroSolimoes_PT-BR3787535047_UHD.jpg)
 ![2024-09-06-1](https://www.bing.com/th?id=OHR.GlenariffPark_ZH-CN4667558707_UHD.jpg)
 ![2024-09-06-2](https://www.bing.com/th?id=OHR.GujoHachiman_JA-JP9477689405_UHD.jpg)
+2024-09-07
+----------------
+![2024-09-07-0](https://www.bing.com/th?id=OHR.SantaCruzHummer_ZH-CN5448262039_UHD.jpg)
+![2024-09-07-1](https://www.bing.com/th?id=OHR.AmericanDeauvilleFestival_FR-FR8608848742_UHD.jpg)

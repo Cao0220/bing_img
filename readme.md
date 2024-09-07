@@ -4160,3 +4160,10 @@ Bing_img
 ----------------
 ![2024-09-07-0](https://www.bing.com/th?id=OHR.SantaCruzHummer_ZH-CN5448262039_UHD.jpg)
 ![2024-09-07-1](https://www.bing.com/th?id=OHR.AmericanDeauvilleFestival_FR-FR8608848742_UHD.jpg)
+2024-09-08
+----------------
+![2024-09-08-0](https://www.bing.com/th?id=OHR.IndependenciaBrasil_PT-BR0488632296_UHD.jpg)
+![2024-09-08-1](https://www.bing.com/th?id=OHR.Canigou_ZH-CN6145410455_UHD.jpg)
+![2024-09-08-2](https://www.bing.com/th?id=OHR.GaneshaIdol_EN-IN0545844303_UHD.jpg)
+![2024-09-08-3](https://www.bing.com/th?id=OHR.FestaRificolona_IT-IT8489654769_UHD.jpg)
+![2024-09-08-4](https://www.bing.com/th?id=OHR.StockholmLibrary_JA-JP1538658617_UHD.jpg)

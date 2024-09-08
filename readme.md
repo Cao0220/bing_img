@@ -4167,3 +4167,6 @@ Bing_img
 ![2024-09-08-2](https://www.bing.com/th?id=OHR.GaneshaIdol_EN-IN0545844303_UHD.jpg)
 ![2024-09-08-3](https://www.bing.com/th?id=OHR.FestaRificolona_IT-IT8489654769_UHD.jpg)
 ![2024-09-08-4](https://www.bing.com/th?id=OHR.StockholmLibrary_JA-JP1538658617_UHD.jpg)
+2024-09-09
+----------------
+![2024-09-09-0](https://www.bing.com/th?id=OHR.IguazuRainbow_ZH-CN6524347982_UHD.jpg)

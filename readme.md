@@ -4174,3 +4174,6 @@ Bing_img
 ----------------
 ![2024-09-10-0](https://www.bing.com/th?id=OHR.BridgeLisbon_ZH-CN6877671644_UHD.jpg)
 ![2024-09-10-1](https://www.bing.com/th?id=OHR.RapaNuiSunrise_JA-JP2119516419_UHD.jpg)
+2024-09-11
+----------------
+![2024-09-11-0](https://www.bing.com/th?id=OHR.EltzCastle_ZH-CN7586749377_UHD.jpg)

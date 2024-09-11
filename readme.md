@@ -4177,3 +4177,10 @@ Bing_img
 2024-09-11
 ----------------
 ![2024-09-11-0](https://www.bing.com/th?id=OHR.EltzCastle_ZH-CN7586749377_UHD.jpg)
+2024-09-12
+----------------
+![2024-09-12-0](https://www.bing.com/th?id=OHR.RedFoxMother_EN-CA4368684954_UHD.jpg)
+![2024-09-12-1](https://www.bing.com/th?id=OHR.DolphinReunion_ZH-CN7681290861_UHD.jpg)
+![2024-09-12-2](https://www.bing.com/th?id=OHR.BarcelonaCataloniaDay_ES-ES6860997474_UHD.jpg)
+![2024-09-12-3](https://www.bing.com/th?id=OHR.AkshardhamDL_EN-IN1118148366_UHD.jpg)
+![2024-09-12-4](https://www.bing.com/th?id=OHR.CalabriaPeperoncino_IT-IT5208415155_UHD.jpg)

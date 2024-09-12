@@ -4184,3 +4184,6 @@ Bing_img
 ![2024-09-12-2](https://www.bing.com/th?id=OHR.BarcelonaCataloniaDay_ES-ES6860997474_UHD.jpg)
 ![2024-09-12-3](https://www.bing.com/th?id=OHR.AkshardhamDL_EN-IN1118148366_UHD.jpg)
 ![2024-09-12-4](https://www.bing.com/th?id=OHR.CalabriaPeperoncino_IT-IT5208415155_UHD.jpg)
+2024-09-13
+----------------
+![2024-09-13-0](https://www.bing.com/th?id=OHR.PointReyes_ZH-CN7781514086_UHD.jpg)

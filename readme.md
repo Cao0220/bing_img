@@ -4187,3 +4187,9 @@ Bing_img
 2024-09-13
 ----------------
 ![2024-09-13-0](https://www.bing.com/th?id=OHR.PointReyes_ZH-CN7781514086_UHD.jpg)
+2024-09-14
+----------------
+![2024-09-14-0](https://www.bing.com/th?id=OHR.RapaNuiSunrise_ZH-CN1220508877_UHD.jpg)
+![2024-09-14-1](https://www.bing.com/th?id=OHR.SanssouciPalace_DE-DE1364639804_UHD.jpg)
+![2024-09-14-2](https://www.bing.com/th?id=OHR.SunriseWallabies_ES-ES9650921909_UHD.jpg)
+![2024-09-14-3](https://www.bing.com/th?id=OHR.CosmosDay2024_JA-JP3703662081_UHD.jpg)

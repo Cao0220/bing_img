@@ -4196,3 +4196,10 @@ Bing_img
 2024-09-15
 ----------------
 ![2024-09-15-0](https://www.bing.com/th?id=OHR.CalabriaPeperoncino_ZH-CN8603617212_UHD.jpg)
+2024-09-16
+----------------
+![2024-09-16-0](https://www.bing.com/th?id=OHR.LagoComoItaly_ROW4645357239_UHD.jpg)
+![2024-09-16-1](https://www.bing.com/th?id=OHR.OuimetCanyon_EN-CA0342113199_UHD.jpg)
+![2024-09-16-2](https://www.bing.com/th?id=OHR.SantaCruzHummer_EN-IN8727128444_UHD.jpg)
+![2024-09-16-3](https://www.bing.com/th?id=OHR.EltzCastle_IT-IT5701748731_UHD.jpg)
+![2024-09-16-4](https://www.bing.com/th?id=OHR.OwlNew2024_JA-JP4084004440_UHD.jpg)

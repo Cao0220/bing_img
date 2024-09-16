@@ -4203,3 +4203,8 @@ Bing_img
 ![2024-09-16-2](https://www.bing.com/th?id=OHR.SantaCruzHummer_EN-IN8727128444_UHD.jpg)
 ![2024-09-16-3](https://www.bing.com/th?id=OHR.EltzCastle_IT-IT5701748731_UHD.jpg)
 ![2024-09-16-4](https://www.bing.com/th?id=OHR.OwlNew2024_JA-JP4084004440_UHD.jpg)
+2024-09-17
+----------------
+![2024-09-17-0](https://www.bing.com/th?id=OHR.MidAutumnFestival2024_ZH-CN9096556094_UHD.jpg)
+![2024-09-17-1](https://www.bing.com/th?id=OHR.WindsurferWorldChampionships_ES-ES7763895554_UHD.jpg)
+![2024-09-17-2](https://www.bing.com/th?id=OHR.MidAutumnSingapore_JA-JP4830170317_UHD.jpg)

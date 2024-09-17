@@ -4208,3 +4208,9 @@ Bing_img
 ![2024-09-17-0](https://www.bing.com/th?id=OHR.MidAutumnFestival2024_ZH-CN9096556094_UHD.jpg)
 ![2024-09-17-1](https://www.bing.com/th?id=OHR.WindsurferWorldChampionships_ES-ES7763895554_UHD.jpg)
 ![2024-09-17-2](https://www.bing.com/th?id=OHR.MidAutumnSingapore_JA-JP4830170317_UHD.jpg)
+2024-09-18
+----------------
+![2024-09-18-0](https://www.bing.com/th?id=OHR.KeralaSummer_ROW5096349608_UHD.jpg)
+![2024-09-18-1](https://www.bing.com/th?id=OHR.GujoHachiman_ZH-CN9192289658_UHD.jpg)
+![2024-09-18-2](https://www.bing.com/th?id=OHR.NordicWalkingDay_FR-FR1412128674_UHD.jpg)
+![2024-09-18-3](https://www.bing.com/th?id=OHR.GlenariffPark_JA-JP5014364740_UHD.jpg)

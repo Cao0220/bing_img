@@ -4214,3 +4214,7 @@ Bing_img
 ![2024-09-18-1](https://www.bing.com/th?id=OHR.GujoHachiman_ZH-CN9192289658_UHD.jpg)
 ![2024-09-18-2](https://www.bing.com/th?id=OHR.NordicWalkingDay_FR-FR1412128674_UHD.jpg)
 ![2024-09-18-3](https://www.bing.com/th?id=OHR.GlenariffPark_JA-JP5014364740_UHD.jpg)
+2024-09-19
+----------------
+![2024-09-19-0](https://www.bing.com/th?id=OHR.ElbowRiver_ZH-CN9580175593_UHD.jpg)
+![2024-09-19-1](https://www.bing.com/th?id=OHR.PiratePlayground_JA-JP8924583087_UHD.jpg)

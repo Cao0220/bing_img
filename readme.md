@@ -4218,3 +4218,7 @@ Bing_img
 ----------------
 ![2024-09-19-0](https://www.bing.com/th?id=OHR.ElbowRiver_ZH-CN9580175593_UHD.jpg)
 ![2024-09-19-1](https://www.bing.com/th?id=OHR.PiratePlayground_JA-JP8924583087_UHD.jpg)
+2024-09-20
+----------------
+![2024-09-20-0](https://www.bing.com/th?id=OHR.DiaNacionaldoTeatro_PT-BR7232325945_UHD.jpg)
+![2024-09-20-1](https://www.bing.com/th?id=OHR.OcracokeLight_ZH-CN9810840077_UHD.jpg)

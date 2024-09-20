@@ -4222,3 +4222,6 @@ Bing_img
 ----------------
 ![2024-09-20-0](https://www.bing.com/th?id=OHR.DiaNacionaldoTeatro_PT-BR7232325945_UHD.jpg)
 ![2024-09-20-1](https://www.bing.com/th?id=OHR.OcracokeLight_ZH-CN9810840077_UHD.jpg)
+2024-09-21
+----------------
+![2024-09-21-0](https://www.bing.com/th?id=OHR.MunichBeerfest_ZH-CN0304560562_UHD.jpg)

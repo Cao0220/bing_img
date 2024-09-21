@@ -4225,3 +4225,9 @@ Bing_img
 2024-09-21
 ----------------
 ![2024-09-21-0](https://www.bing.com/th?id=OHR.MunichBeerfest_ZH-CN0304560562_UHD.jpg)
+2024-09-22
+----------------
+![2024-09-22-0](https://www.bing.com/th?id=OHR.DiadaArvore_PT-BR9942268995_UHD.jpg)
+![2024-09-22-1](https://www.bing.com/th?id=OHR.AutumnCumbria_ZH-CN0565958390_UHD.jpg)
+![2024-09-22-2](https://www.bing.com/th?id=OHR.SpatenBeerTent_DE-DE4425745255_UHD.jpg)
+![2024-09-22-3](https://www.bing.com/th?id=OHR.RedSpiderlily2024_JA-JP1171609872_UHD.jpg)

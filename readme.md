@@ -4231,3 +4231,9 @@ Bing_img
 ![2024-09-22-1](https://www.bing.com/th?id=OHR.AutumnCumbria_ZH-CN0565958390_UHD.jpg)
 ![2024-09-22-2](https://www.bing.com/th?id=OHR.SpatenBeerTent_DE-DE4425745255_UHD.jpg)
 ![2024-09-22-3](https://www.bing.com/th?id=OHR.RedSpiderlily2024_JA-JP1171609872_UHD.jpg)
+2024-09-23
+----------------
+![2024-09-23-0](https://www.bing.com/th?id=OHR.Primavera_PT-BR5788355112_UHD.jpg)
+![2024-09-23-1](https://www.bing.com/th?id=OHR.IcebergOtter_ZH-CN0972467238_UHD.jpg)
+![2024-09-23-2](https://www.bing.com/th?id=OHR.AragonAutumnLandscape_ES-ES5440172345_UHD.jpg)
+![2024-09-23-3](https://www.bing.com/th?id=OHR.BadaBagh_EN-IN0375946006_UHD.jpg)

@@ -4237,3 +4237,6 @@ Bing_img
 ![2024-09-23-1](https://www.bing.com/th?id=OHR.IcebergOtter_ZH-CN0972467238_UHD.jpg)
 ![2024-09-23-2](https://www.bing.com/th?id=OHR.AragonAutumnLandscape_ES-ES5440172345_UHD.jpg)
 ![2024-09-23-3](https://www.bing.com/th?id=OHR.BadaBagh_EN-IN0375946006_UHD.jpg)
+2024-09-24
+----------------
+![2024-09-24-0](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_ZH-CN1766863001_UHD.jpg)

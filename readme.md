@@ -4240,3 +4240,6 @@ Bing_img
 2024-09-24
 ----------------
 ![2024-09-24-0](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_ZH-CN1766863001_UHD.jpg)
+2024-09-25
+----------------
+![2024-09-25-0](https://www.bing.com/th?id=OHR.GiantSequoias_ZH-CN2666897238_UHD.jpg)

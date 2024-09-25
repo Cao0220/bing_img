@@ -4243,3 +4243,7 @@ Bing_img
 2024-09-25
 ----------------
 ![2024-09-25-0](https://www.bing.com/th?id=OHR.GiantSequoias_ZH-CN2666897238_UHD.jpg)
+2024-09-26
+----------------
+![2024-09-26-0](https://www.bing.com/th?id=OHR.LittleToucanet_ZH-CN2910262009_UHD.jpg)
+![2024-09-26-1](https://www.bing.com/th?id=OHR.FestivalMedioevo_IT-IT1145169158_UHD.jpg)

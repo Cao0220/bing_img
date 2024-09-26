@@ -4247,3 +4247,9 @@ Bing_img
 ----------------
 ![2024-09-26-0](https://www.bing.com/th?id=OHR.LittleToucanet_ZH-CN2910262009_UHD.jpg)
 ![2024-09-26-1](https://www.bing.com/th?id=OHR.FestivalMedioevo_IT-IT1145169158_UHD.jpg)
+2024-09-27
+----------------
+![2024-09-27-0](https://www.bing.com/th?id=OHR.VeniceAerial_ZH-CN4070720525_UHD.jpg)
+![2024-09-27-1](https://www.bing.com/th?id=OHR.TajMahalReflection_DE-DE5120779662_UHD.jpg)
+![2024-09-27-2](https://www.bing.com/th?id=OHR.WindRiverAlaska_IT-IT8914553087_UHD.jpg)
+![2024-09-27-3](https://www.bing.com/th?id=OHR.YokohamaBridge2024_JA-JP2381649830_UHD.jpg)

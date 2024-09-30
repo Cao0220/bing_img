@@ -4264,3 +4264,7 @@ Bing_img
 2024-09-30
 ----------------
 ![2024-09-30-0](https://www.bing.com/th?id=OHR.WalrusNorway_ZH-CN5657804031_UHD.jpg)
+2024-10-01
+----------------
+![2024-10-01-0](https://www.bing.com/th?id=OHR.NationalDay2024_ZH-CN7026189162_UHD.jpg)
+![2024-10-01-1](https://www.bing.com/th?id=OHR.HalfDomeYosemite_JA-JP3299475040_UHD.jpg)

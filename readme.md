@@ -4268,3 +4268,7 @@ Bing_img
 ----------------
 ![2024-10-01-0](https://www.bing.com/th?id=OHR.NationalDay2024_ZH-CN7026189162_UHD.jpg)
 ![2024-10-01-1](https://www.bing.com/th?id=OHR.HalfDomeYosemite_JA-JP3299475040_UHD.jpg)
+2024-10-02
+----------------
+![2024-10-02-0](https://www.bing.com/th?id=OHR.WindRiverAlaska_ZH-CN7317039321_UHD.jpg)
+![2024-10-02-1](https://www.bing.com/th?id=OHR.BoraPapeete_FR-FR3866752919_UHD.jpg)

@@ -4272,3 +4272,9 @@ Bing_img
 ----------------
 ![2024-10-02-0](https://www.bing.com/th?id=OHR.WindRiverAlaska_ZH-CN7317039321_UHD.jpg)
 ![2024-10-02-1](https://www.bing.com/th?id=OHR.BoraPapeete_FR-FR3866752919_UHD.jpg)
+2024-10-03
+----------------
+![2024-10-03-0](https://www.bing.com/th?id=OHR.YukonAutumn_EN-CA4777665764_UHD.jpg)
+![2024-10-03-1](https://www.bing.com/th?id=OHR.TajMahalReflection_ZH-CN7498774173_UHD.jpg)
+![2024-10-03-2](https://www.bing.com/th?id=OHR.FatherGandhi_EN-IN5411891616_UHD.jpg)
+![2024-10-03-3](https://www.bing.com/th?id=OHR.LakeInItalianNonni_IT-IT2833873964_UHD.jpg)

@@ -4278,3 +4278,7 @@ Bing_img
 ![2024-10-03-1](https://www.bing.com/th?id=OHR.TajMahalReflection_ZH-CN7498774173_UHD.jpg)
 ![2024-10-03-2](https://www.bing.com/th?id=OHR.FatherGandhi_EN-IN5411891616_UHD.jpg)
 ![2024-10-03-3](https://www.bing.com/th?id=OHR.LakeInItalianNonni_IT-IT2833873964_UHD.jpg)
+2024-10-04
+----------------
+![2024-10-04-0](https://www.bing.com/th?id=OHR.EuropaMoon_ZH-CN0149249980_UHD.jpg)
+![2024-10-04-1](https://www.bing.com/th?id=OHR.BerlinWallBlueHands_DE-DE6022715375_UHD.jpg)

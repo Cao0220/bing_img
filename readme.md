@@ -4282,3 +4282,7 @@ Bing_img
 ----------------
 ![2024-10-04-0](https://www.bing.com/th?id=OHR.EuropaMoon_ZH-CN0149249980_UHD.jpg)
 ![2024-10-04-1](https://www.bing.com/th?id=OHR.BerlinWallBlueHands_DE-DE6022715375_UHD.jpg)
+2024-10-05
+----------------
+![2024-10-05-0](https://www.bing.com/th?id=OHR.NuitBlanche24_EN-CA8251507494_UHD.jpg)
+![2024-10-05-1](https://www.bing.com/th?id=OHR.ElephantTeacher_ZH-CN0543308499_UHD.jpg)

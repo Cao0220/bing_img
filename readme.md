@@ -4286,3 +4286,8 @@ Bing_img
 ----------------
 ![2024-10-05-0](https://www.bing.com/th?id=OHR.NuitBlanche24_EN-CA8251507494_UHD.jpg)
 ![2024-10-05-1](https://www.bing.com/th?id=OHR.ElephantTeacher_ZH-CN0543308499_UHD.jpg)
+2024-10-06
+----------------
+![2024-10-06-0](https://www.bing.com/th?id=OHR.MaraMigration_PT-BR7440860691_UHD.jpg)
+![2024-10-06-1](https://www.bing.com/th?id=OHR.CoyoteGulch_ZH-CN2869463336_UHD.jpg)
+![2024-10-06-2](https://www.bing.com/th?id=OHR.KochiaJapan_JA-JP5196113182_UHD.jpg)

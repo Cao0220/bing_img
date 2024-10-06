@@ -4291,3 +4291,9 @@ Bing_img
 ![2024-10-06-0](https://www.bing.com/th?id=OHR.MaraMigration_PT-BR7440860691_UHD.jpg)
 ![2024-10-06-1](https://www.bing.com/th?id=OHR.CoyoteGulch_ZH-CN2869463336_UHD.jpg)
 ![2024-10-06-2](https://www.bing.com/th?id=OHR.KochiaJapan_JA-JP5196113182_UHD.jpg)
+2024-10-07
+----------------
+![2024-10-07-0](https://www.bing.com/th?id=OHR.BoraPapeete_ZH-CN1991283465_UHD.jpg)
+![2024-10-07-1](https://www.bing.com/th?id=OHR.BerlinConcertHallFestivalofLights_DE-DE1090691492_UHD.jpg)
+![2024-10-07-2](https://www.bing.com/th?id=OHR.ValleAostaGranParadiso_IT-IT5881740566_UHD.jpg)
+![2024-10-07-3](https://www.bing.com/th?id=OHR.ElbePhilharmonic_JA-JP5541486306_UHD.jpg)

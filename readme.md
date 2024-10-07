@@ -4297,3 +4297,7 @@ Bing_img
 ![2024-10-07-1](https://www.bing.com/th?id=OHR.BerlinConcertHallFestivalofLights_DE-DE1090691492_UHD.jpg)
 ![2024-10-07-2](https://www.bing.com/th?id=OHR.ValleAostaGranParadiso_IT-IT5881740566_UHD.jpg)
 ![2024-10-07-3](https://www.bing.com/th?id=OHR.ElbePhilharmonic_JA-JP5541486306_UHD.jpg)
+2024-10-08
+----------------
+![2024-10-08-0](https://www.bing.com/th?id=OHR.SoranoItaly_ZH-CN1190725201_UHD.jpg)
+![2024-10-08-1](https://www.bing.com/th?id=OHR.Kanro2024_JA-JP5787966494_UHD.jpg)

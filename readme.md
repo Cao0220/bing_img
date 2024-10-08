@@ -4301,3 +4301,7 @@ Bing_img
 ----------------
 ![2024-10-08-0](https://www.bing.com/th?id=OHR.SoranoItaly_ZH-CN1190725201_UHD.jpg)
 ![2024-10-08-1](https://www.bing.com/th?id=OHR.Kanro2024_JA-JP5787966494_UHD.jpg)
+2024-10-09
+----------------
+![2024-10-09-0](https://www.bing.com/th?id=OHR.MototiOctopus_ROW8930489347_UHD.jpg)
+![2024-10-09-1](https://www.bing.com/th?id=OHR.AspensColorado_ZH-CN0132780533_UHD.jpg)

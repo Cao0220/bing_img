@@ -4312,3 +4312,9 @@ Bing_img
 2024-10-12
 ----------------
 ![2024-10-12-0](https://www.bing.com/th?id=OHR.QuebecDuck_ZH-CN0588954873_UHD.jpg)
+2024-10-13
+----------------
+![2024-10-13-0](https://www.bing.com/th?id=OHR.FelizDiadasCriancas_PT-BR6983342881_UHD.jpg)
+![2024-10-13-1](https://www.bing.com/th?id=OHR.AlcazarSeville_ZH-CN5581795099_UHD.jpg)
+![2024-10-13-2](https://www.bing.com/th?id=OHR.NationalDaySpain_ES-ES5367780660_UHD.jpg)
+![2024-10-13-3](https://www.bing.com/th?id=OHR.DussehraMysore_EN-IN0426603332_UHD.jpg)

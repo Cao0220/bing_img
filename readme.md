@@ -4318,3 +4318,7 @@ Bing_img
 ![2024-10-13-1](https://www.bing.com/th?id=OHR.AlcazarSeville_ZH-CN5581795099_UHD.jpg)
 ![2024-10-13-2](https://www.bing.com/th?id=OHR.NationalDaySpain_ES-ES5367780660_UHD.jpg)
 ![2024-10-13-3](https://www.bing.com/th?id=OHR.DussehraMysore_EN-IN0426603332_UHD.jpg)
+2024-10-14
+----------------
+![2024-10-14-0](https://www.bing.com/th?id=OHR.CocoBeach_ZH-CN7503553722_UHD.jpg)
+![2024-10-14-1](https://www.bing.com/th?id=OHR.RailwaysDayNew_JA-JP8050699925_UHD.jpg)

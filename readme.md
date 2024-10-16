@@ -4330,3 +4330,8 @@ Bing_img
 2024-10-16
 ----------------
 ![2024-10-16-0](https://www.bing.com/th?id=OHR.ElephantTeacher_PT-BR6921941046_UHD.jpg)
+2024-10-17
+----------------
+![2024-10-17-0](https://www.bing.com/th?id=OHR.KochiaJapan_ZH-CN9896157139_UHD.jpg)
+![2024-10-17-1](https://www.bing.com/th?id=OHR.RomeFilmFestival_IT-IT3375259000_UHD.jpg)
+![2024-10-17-2](https://www.bing.com/th?id=OHR.CoyoteGulch_JA-JP8998470067_UHD.jpg)

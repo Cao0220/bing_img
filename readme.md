@@ -4335,3 +4335,7 @@ Bing_img
 ![2024-10-17-0](https://www.bing.com/th?id=OHR.KochiaJapan_ZH-CN9896157139_UHD.jpg)
 ![2024-10-17-1](https://www.bing.com/th?id=OHR.RomeFilmFestival_IT-IT3375259000_UHD.jpg)
 ![2024-10-17-2](https://www.bing.com/th?id=OHR.CoyoteGulch_JA-JP8998470067_UHD.jpg)
+2024-10-18
+----------------
+![2024-10-18-0](https://www.bing.com/th?id=OHR.CentralParkAutumn_ZH-CN2757358246_UHD.jpg)
+![2024-10-18-1](https://www.bing.com/th?id=OHR.PitonFournaise_FR-FR7028055947_UHD.jpg)

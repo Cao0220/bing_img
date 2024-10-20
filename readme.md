@@ -4346,3 +4346,8 @@ Bing_img
 2024-10-20
 ----------------
 ![2024-10-20-0](https://www.bing.com/th?id=OHR.SmilingSloth_ZH-CN4646662964_UHD.jpg)
+2024-10-21
+----------------
+![2024-10-21-0](https://www.bing.com/th?id=OHR.AutumnCypress_ZH-CN5099875619_UHD.jpg)
+![2024-10-21-1](https://www.bing.com/th?id=OHR.SpanishBMXRacingChampionship_ES-ES3255025375_UHD.jpg)
+![2024-10-21-2](https://www.bing.com/th?id=OHR.NuitsChampagne_FR-FR1213854382_UHD.jpg)

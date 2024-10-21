@@ -4351,3 +4351,8 @@ Bing_img
 ![2024-10-21-0](https://www.bing.com/th?id=OHR.AutumnCypress_ZH-CN5099875619_UHD.jpg)
 ![2024-10-21-1](https://www.bing.com/th?id=OHR.SpanishBMXRacingChampionship_ES-ES3255025375_UHD.jpg)
 ![2024-10-21-2](https://www.bing.com/th?id=OHR.NuitsChampagne_FR-FR1213854382_UHD.jpg)
+2024-10-22
+----------------
+![2024-10-22-0](https://www.bing.com/th?id=OHR.MonsterDoor_ZH-CN6613337019_UHD.jpg)
+![2024-10-22-1](https://www.bing.com/th?id=OHR.GermanyBaldeneyseeFall_DE-DE3538373815_UHD.jpg)
+![2024-10-22-2](https://www.bing.com/th?id=OHR.HeianJingu2024_JA-JP4866409141_UHD.jpg)

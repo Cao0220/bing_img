@@ -4356,3 +4356,7 @@ Bing_img
 ![2024-10-22-0](https://www.bing.com/th?id=OHR.MonsterDoor_ZH-CN6613337019_UHD.jpg)
 ![2024-10-22-1](https://www.bing.com/th?id=OHR.GermanyBaldeneyseeFall_DE-DE3538373815_UHD.jpg)
 ![2024-10-22-2](https://www.bing.com/th?id=OHR.HeianJingu2024_JA-JP4866409141_UHD.jpg)
+2024-10-23
+----------------
+![2024-10-23-0](https://www.bing.com/th?id=OHR.MadameSherriCastle_ZH-CN8101580548_UHD.jpg)
+![2024-10-23-1](https://www.bing.com/th?id=OHR.HottaiFalls2024_JA-JP5036595123_UHD.jpg)

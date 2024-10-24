@@ -4363,3 +4363,9 @@ Bing_img
 2024-10-24
 ----------------
 ![2024-10-24-0](https://www.bing.com/th?id=OHR.BodieCalifornia_ZH-CN8941360519_UHD.jpg)
+2024-10-25
+----------------
+![2024-10-25-0](https://www.bing.com/th?id=OHR.GreatOwl_PT-BR6294923796_UHD.jpg)
+![2024-10-25-1](https://www.bing.com/th?id=OHR.MontBlancMassif_ZH-CN9172264924_UHD.jpg)
+![2024-10-25-2](https://www.bing.com/th?id=OHR.HumboldtUniversityLibrary_DE-DE9129729075_UHD.jpg)
+![2024-10-25-3](https://www.bing.com/th?id=OHR.GhostForest_IT-IT8926574914_UHD.jpg)

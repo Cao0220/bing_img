@@ -4378,3 +4378,6 @@ Bing_img
 ![2024-10-27-0](https://www.bing.com/th?id=OHR.PolarBearHug_ZH-CN0696077546_UHD.jpg)
 ![2024-10-27-1](https://www.bing.com/th?id=OHR.DaylightOrsay_FR-FR6504936679_UHD.jpg)
 ![2024-10-27-2](https://www.bing.com/th?id=OHR.MateraFolklore_IT-IT9091648904_UHD.jpg)
+2024-10-28
+----------------
+![2024-10-28-0](https://www.bing.com/th?id=OHR.PumpkinMist_ZH-CN0898655859_UHD.jpg)

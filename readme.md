@@ -4381,3 +4381,7 @@ Bing_img
 2024-10-28
 ----------------
 ![2024-10-28-0](https://www.bing.com/th?id=OHR.PumpkinMist_ZH-CN0898655859_UHD.jpg)
+2024-10-29
+----------------
+![2024-10-29-0](https://www.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_UHD.jpg)
+![2024-10-29-1](https://www.bing.com/th?id=OHR.GernikaAgriculturalFair_ES-ES3036304498_UHD.jpg)

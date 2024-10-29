@@ -4385,3 +4385,7 @@ Bing_img
 ----------------
 ![2024-10-29-0](https://www.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_UHD.jpg)
 ![2024-10-29-1](https://www.bing.com/th?id=OHR.GernikaAgriculturalFair_ES-ES3036304498_UHD.jpg)
+2024-10-30
+----------------
+![2024-10-30-0](https://www.bing.com/th?id=OHR.DiadoLivroRJ_PT-BR5813515082_UHD.jpg)
+![2024-10-30-1](https://www.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_UHD.jpg)

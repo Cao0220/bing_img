@@ -4389,3 +4389,8 @@ Bing_img
 ----------------
 ![2024-10-30-0](https://www.bing.com/th?id=OHR.DiadoLivroRJ_PT-BR5813515082_UHD.jpg)
 ![2024-10-30-1](https://www.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_UHD.jpg)
+2024-10-31
+----------------
+![2024-10-31-0](https://www.bing.com/th?id=OHR.ValleAostaGranParadiso_ROW5529148067_UHD.jpg)
+![2024-10-31-1](https://www.bing.com/th?id=OHR.GargoyleParis_ZH-CN1668628241_UHD.jpg)
+![2024-10-31-2](https://www.bing.com/th?id=OHR.Halloween2024_JA-JP6692896772_UHD.jpg)

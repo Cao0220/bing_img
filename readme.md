@@ -4400,3 +4400,6 @@ Bing_img
 ![2024-11-01-1](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_ZH-CN6767078591_UHD.jpg)
 ![2024-11-01-2](https://www.bing.com/th?id=OHR.FireworksDiwali_EN-IN6255593826_UHD.jpg)
 ![2024-11-01-3](https://www.bing.com/th?id=OHR.LencoisMaranhao_JA-JP9337793324_UHD.jpg)
+2024-11-02
+----------------
+![2024-11-02-0](https://www.bing.com/th?id=OHR.BisonYellowstone_ZH-CN7320887379_UHD.jpg)

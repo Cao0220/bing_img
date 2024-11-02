@@ -4403,3 +4403,6 @@ Bing_img
 2024-11-02
 ----------------
 ![2024-11-02-0](https://www.bing.com/th?id=OHR.BisonYellowstone_ZH-CN7320887379_UHD.jpg)
+2024-11-03
+----------------
+![2024-11-03-0](https://www.bing.com/th?id=OHR.YucatanBiosphere_ZH-CN7442392453_UHD.jpg)

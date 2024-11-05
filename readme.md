@@ -4414,3 +4414,10 @@ Bing_img
 ![2024-11-05-0](https://www.bing.com/th?id=OHR.LencoisMaranhao_PT-BR0859804056_UHD.jpg)
 ![2024-11-05-1](https://www.bing.com/th?id=OHR.NationalUnityDayIT_IT-IT9698106067_UHD.jpg)
 ![2024-11-05-2](https://www.bing.com/th?id=OHR.Torinoichi2024_JA-JP3936994887_UHD.jpg)
+2024-11-06
+----------------
+![2024-11-06-0](https://www.bing.com/th?id=OHR.DiadaLinguaPortuguesa_PT-BR1619682232_UHD.jpg)
+![2024-11-06-1](https://www.bing.com/th?id=OHR.ShiShiBeach_ZH-CN8685799566_UHD.jpg)
+![2024-11-06-2](https://www.bing.com/th?id=OHR.SmartCityExpoBarcelona_ES-ES0874398191_UHD.jpg)
+![2024-11-06-3](https://www.bing.com/th?id=OHR.YucatanFlamingos_FR-FR7541144444_UHD.jpg)
+![2024-11-06-4](https://www.bing.com/th?id=OHR.AdinathTemple_EN-IN6085140917_UHD.jpg)

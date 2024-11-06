@@ -4421,3 +4421,7 @@ Bing_img
 ![2024-11-06-2](https://www.bing.com/th?id=OHR.SmartCityExpoBarcelona_ES-ES0874398191_UHD.jpg)
 ![2024-11-06-3](https://www.bing.com/th?id=OHR.YucatanFlamingos_FR-FR7541144444_UHD.jpg)
 ![2024-11-06-4](https://www.bing.com/th?id=OHR.AdinathTemple_EN-IN6085140917_UHD.jpg)
+2024-11-07
+----------------
+![2024-11-07-0](https://www.bing.com/th?id=OHR.LiDong2024_ZH-CN9944723194_UHD.jpg)
+![2024-11-07-1](https://www.bing.com/th?id=OHR.AnserAlbifrons2024_JA-JP4172907824_UHD.jpg)

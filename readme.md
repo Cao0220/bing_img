@@ -4425,3 +4425,7 @@ Bing_img
 ----------------
 ![2024-11-07-0](https://www.bing.com/th?id=OHR.LiDong2024_ZH-CN9944723194_UHD.jpg)
 ![2024-11-07-1](https://www.bing.com/th?id=OHR.AnserAlbifrons2024_JA-JP4172907824_UHD.jpg)
+2024-11-08
+----------------
+![2024-11-08-0](https://www.bing.com/th?id=OHR.CanadaWolves_ROW1146778576_UHD.jpg)
+![2024-11-08-1](https://www.bing.com/th?id=OHR.GlacialRivers_ZH-CN0260507556_UHD.jpg)

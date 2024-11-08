@@ -4429,3 +4429,7 @@ Bing_img
 ----------------
 ![2024-11-08-0](https://www.bing.com/th?id=OHR.CanadaWolves_ROW1146778576_UHD.jpg)
 ![2024-11-08-1](https://www.bing.com/th?id=OHR.GlacialRivers_ZH-CN0260507556_UHD.jpg)
+2024-11-09
+----------------
+![2024-11-09-0](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_ZH-CN3544344290_UHD.jpg)
+![2024-11-09-1](https://www.bing.com/th?id=OHR.TrentinoAltoBolzanoMerano_IT-IT4259043530_UHD.jpg)

@@ -4433,3 +4433,7 @@ Bing_img
 ----------------
 ![2024-11-09-0](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_ZH-CN3544344290_UHD.jpg)
 ![2024-11-09-1](https://www.bing.com/th?id=OHR.TrentinoAltoBolzanoMerano_IT-IT4259043530_UHD.jpg)
+2024-11-10
+----------------
+![2024-11-10-0](https://www.bing.com/th?id=OHR.YucatanFlamingos_ZH-CN0721673752_UHD.jpg)
+![2024-11-10-1](https://www.bing.com/th?id=OHR.FiestaDeLaAlmudena_ES-ES5634922695_UHD.jpg)

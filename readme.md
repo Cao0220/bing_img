@@ -4437,3 +4437,7 @@ Bing_img
 ----------------
 ![2024-11-10-0](https://www.bing.com/th?id=OHR.YucatanFlamingos_ZH-CN0721673752_UHD.jpg)
 ![2024-11-10-1](https://www.bing.com/th?id=OHR.FiestaDeLaAlmudena_ES-ES5634922695_UHD.jpg)
+2024-11-11
+----------------
+![2024-11-11-0](https://www.bing.com/th?id=OHR.Banff24_ZH-CN1156176817_UHD.jpg)
+![2024-11-11-1](https://www.bing.com/th?id=OHR.VendeeGlobe_FR-FR8019139667_UHD.jpg)

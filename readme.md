@@ -4444,3 +4444,9 @@ Bing_img
 2024-11-12
 ----------------
 ![2024-11-12-0](https://www.bing.com/th?id=OHR.CoveArch_ZH-CN1281140578_UHD.jpg)
+2024-11-13
+----------------
+![2024-11-13-0](https://www.bing.com/th?id=OHR.KelpForest_ZH-CN2357269491_UHD.jpg)
+![2024-11-13-1](https://www.bing.com/th?id=OHR.MoselleValleyChurchTowerFall_DE-DE0272111000_UHD.jpg)
+![2024-11-13-2](https://www.bing.com/th?id=OHR.Moorea_FR-FR8377929183_UHD.jpg)
+![2024-11-13-3](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_EN-IN7604889650_UHD.jpg)

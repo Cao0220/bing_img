@@ -4450,3 +4450,6 @@ Bing_img
 ![2024-11-13-1](https://www.bing.com/th?id=OHR.MoselleValleyChurchTowerFall_DE-DE0272111000_UHD.jpg)
 ![2024-11-13-2](https://www.bing.com/th?id=OHR.Moorea_FR-FR8377929183_UHD.jpg)
 ![2024-11-13-3](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_EN-IN7604889650_UHD.jpg)
+2024-11-14
+----------------
+![2024-11-14-0](https://www.bing.com/th?id=OHR.ManarolaItaly_ZH-CN2837915120_UHD.jpg)

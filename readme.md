@@ -4456,3 +4456,7 @@ Bing_img
 2024-11-15
 ----------------
 ![2024-11-15-0](https://www.bing.com/th?id=OHR.YiPengLanterns_ZH-CN5613043353_UHD.jpg)
+2024-11-16
+----------------
+![2024-11-16-0](https://www.bing.com/th?id=OHR.RepublicaBR_PT-BR7751607802_UHD.jpg)
+![2024-11-16-1](https://www.bing.com/th?id=OHR.FrieslandNetherlands_ZH-CN5952456898_UHD.jpg)

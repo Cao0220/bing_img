@@ -4460,3 +4460,7 @@ Bing_img
 ----------------
 ![2024-11-16-0](https://www.bing.com/th?id=OHR.RepublicaBR_PT-BR7751607802_UHD.jpg)
 ![2024-11-16-1](https://www.bing.com/th?id=OHR.FrieslandNetherlands_ZH-CN5952456898_UHD.jpg)
+2024-11-17
+----------------
+![2024-11-17-0](https://www.bing.com/th?id=OHR.RedStag_ZH-CN6403546321_UHD.jpg)
+![2024-11-17-1](https://www.bing.com/th?id=OHR.FlamencoDay2024_ES-ES0805815742_UHD.jpg)

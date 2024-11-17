@@ -4464,3 +4464,6 @@ Bing_img
 ----------------
 ![2024-11-17-0](https://www.bing.com/th?id=OHR.RedStag_ZH-CN6403546321_UHD.jpg)
 ![2024-11-17-1](https://www.bing.com/th?id=OHR.FlamencoDay2024_ES-ES0805815742_UHD.jpg)
+2024-11-18
+----------------
+![2024-11-18-0](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_ZH-CN6655235820_UHD.jpg)

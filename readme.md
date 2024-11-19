@@ -4470,3 +4470,8 @@ Bing_img
 2024-11-19
 ----------------
 ![2024-11-19-0](https://www.bing.com/th?id=OHR.TasmansArch_ZH-CN7062784426_UHD.jpg)
+2024-11-20
+----------------
+![2024-11-20-0](https://www.bing.com/th?id=OHR.PontBordeaux_ZH-CN7656263575_UHD.jpg)
+![2024-11-20-1](https://www.bing.com/th?id=OHR.GermanyEuropeanWhiteBirchAutumn_DE-DE4170358667_UHD.jpg)
+![2024-11-20-2](https://www.bing.com/th?id=OHR.BeyondSaype_JA-JP4402963918_UHD.jpg)

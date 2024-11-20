@@ -4475,3 +4475,8 @@ Bing_img
 ![2024-11-20-0](https://www.bing.com/th?id=OHR.PontBordeaux_ZH-CN7656263575_UHD.jpg)
 ![2024-11-20-1](https://www.bing.com/th?id=OHR.GermanyEuropeanWhiteBirchAutumn_DE-DE4170358667_UHD.jpg)
 ![2024-11-20-2](https://www.bing.com/th?id=OHR.BeyondSaype_JA-JP4402963918_UHD.jpg)
+2024-11-21
+----------------
+![2024-11-21-0](https://www.bing.com/th?id=OHR.ConscienciaNegraCamelia_PT-BR9267638631_UHD.jpg)
+![2024-11-21-1](https://www.bing.com/th?id=OHR.LionCubs_ZH-CN8538754038_UHD.jpg)
+![2024-11-21-2](https://www.bing.com/th?id=OHR.TrulliGrove_EN-IN6379040036_UHD.jpg)

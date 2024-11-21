@@ -4480,3 +4480,9 @@ Bing_img
 ![2024-11-21-0](https://www.bing.com/th?id=OHR.ConscienciaNegraCamelia_PT-BR9267638631_UHD.jpg)
 ![2024-11-21-1](https://www.bing.com/th?id=OHR.LionCubs_ZH-CN8538754038_UHD.jpg)
 ![2024-11-21-2](https://www.bing.com/th?id=OHR.TrulliGrove_EN-IN6379040036_UHD.jpg)
+2024-11-22
+----------------
+![2024-11-22-0](https://www.bing.com/th?id=OHR.AspenTrees_EN-CA3238986123_UHD.jpg)
+![2024-11-22-1](https://www.bing.com/th?id=OHR.ZafraCastle_ZH-CN8791148758_UHD.jpg)
+![2024-11-22-2](https://www.bing.com/th?id=OHR.NationalTreeDay_IT-IT7236455581_UHD.jpg)
+![2024-11-22-3](https://www.bing.com/th?id=OHR.Xiaoxue2024_JA-JP4930643570_UHD.jpg)

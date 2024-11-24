@@ -4492,3 +4492,8 @@ Bing_img
 2024-11-24
 ----------------
 ![2024-11-24-0](https://www.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg)
+2024-11-25
+----------------
+![2024-11-25-0](https://www.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_UHD.jpg)
+![2024-11-25-1](https://www.bing.com/th?id=OHR.DavisCupFinalsMalaga_ES-ES2847450969_UHD.jpg)
+![2024-11-25-2](https://www.bing.com/th?id=OHR.ParisAutumn_FR-FR3278291664_UHD.jpg)

@@ -4503,3 +4503,7 @@ Bing_img
 ![2024-11-26-1](https://www.bing.com/th?id=OHR.RegensburgChristmasMarket_DE-DE8576246094_UHD.jpg)
 ![2024-11-26-2](https://www.bing.com/th?id=OHR.CowsInAlpineValley_IT-IT8150386866_UHD.jpg)
 ![2024-11-26-3](https://www.bing.com/th?id=OHR.HotBathDay2024_JA-JP6338825094_UHD.jpg)
+2024-11-27
+----------------
+![2024-11-27-0](https://www.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg)
+![2024-11-27-1](https://www.bing.com/th?id=OHR.ConstitutionDay_EN-IN3100148262_UHD.jpg)

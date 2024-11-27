@@ -4507,3 +4507,8 @@ Bing_img
 ----------------
 ![2024-11-27-0](https://www.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg)
 ![2024-11-27-1](https://www.bing.com/th?id=OHR.ConstitutionDay_EN-IN3100148262_UHD.jpg)
+2024-11-28
+----------------
+![2024-11-28-0](https://www.bing.com/th?id=OHR.AssiniboineTS_ZH-CN9936042562_UHD.jpg)
+![2024-11-28-1](https://www.bing.com/th?id=OHR.RaidAlyzees_FR-FR4119370811_UHD.jpg)
+![2024-11-28-2](https://www.bing.com/th?id=OHR.ZafraCastle_JA-JP6761146829_UHD.jpg)

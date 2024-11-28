@@ -4512,3 +4512,7 @@ Bing_img
 ![2024-11-28-0](https://www.bing.com/th?id=OHR.AssiniboineTS_ZH-CN9936042562_UHD.jpg)
 ![2024-11-28-1](https://www.bing.com/th?id=OHR.RaidAlyzees_FR-FR4119370811_UHD.jpg)
 ![2024-11-28-2](https://www.bing.com/th?id=OHR.ZafraCastle_JA-JP6761146829_UHD.jpg)
+2024-11-29
+----------------
+![2024-11-29-0](https://www.bing.com/th?id=OHR.MtStMichel_ZH-CN1232662142_UHD.jpg)
+![2024-11-29-1](https://www.bing.com/th?id=OHR.MurdeshwarTemple_EN-IN3830652229_UHD.jpg)

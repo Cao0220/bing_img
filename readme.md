@@ -4516,3 +4516,6 @@ Bing_img
 ----------------
 ![2024-11-29-0](https://www.bing.com/th?id=OHR.MtStMichel_ZH-CN1232662142_UHD.jpg)
 ![2024-11-29-1](https://www.bing.com/th?id=OHR.MurdeshwarTemple_EN-IN3830652229_UHD.jpg)
+2024-11-30
+----------------
+![2024-11-30-0](https://www.bing.com/th?id=OHR.KilchurnAutumn_ZH-CN2547959725_UHD.jpg)

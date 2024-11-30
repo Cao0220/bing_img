@@ -4519,3 +4519,7 @@ Bing_img
 2024-11-30
 ----------------
 ![2024-11-30-0](https://www.bing.com/th?id=OHR.KilchurnAutumn_ZH-CN2547959725_UHD.jpg)
+2024-12-01
+----------------
+![2024-12-01-0](https://www.bing.com/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_UHD.jpg)
+![2024-12-01-1](https://www.bing.com/th?id=OHR.RhinosKenya_EN-IN6639992420_UHD.jpg)

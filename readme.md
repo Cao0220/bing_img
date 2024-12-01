@@ -4523,3 +4523,8 @@ Bing_img
 ----------------
 ![2024-12-01-0](https://www.bing.com/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_UHD.jpg)
 ![2024-12-01-1](https://www.bing.com/th?id=OHR.RhinosKenya_EN-IN6639992420_UHD.jpg)
+2024-12-02
+----------------
+![2024-12-02-0](https://www.bing.com/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg)
+![2024-12-02-1](https://www.bing.com/th?id=OHR.FreudenbergHistoricHouses_DE-DE3863423728_UHD.jpg)
+![2024-12-02-2](https://www.bing.com/th?id=OHR.MercatiDiNataleBolzano_IT-IT2256905385_UHD.jpg)

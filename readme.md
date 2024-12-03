@@ -4533,3 +4533,6 @@ Bing_img
 ![2024-12-03-0](https://www.bing.com/th?id=OHR.DiadoSamba_PT-BR6499916889_UHD.jpg)
 ![2024-12-03-1](https://www.bing.com/th?id=OHR.JaipurFort_ZH-CN3891828158_UHD.jpg)
 ![2024-12-03-2](https://www.bing.com/th?id=OHR.ChichibuFestival2024_JA-JP7708851590_UHD.jpg)
+2024-12-04
+----------------
+![2024-12-04-0](https://www.bing.com/th?id=OHR.RhinosKenya_ZH-CN4422118541_UHD.jpg)

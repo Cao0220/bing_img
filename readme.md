@@ -4536,3 +4536,7 @@ Bing_img
 2024-12-04
 ----------------
 ![2024-12-04-0](https://www.bing.com/th?id=OHR.RhinosKenya_ZH-CN4422118541_UHD.jpg)
+2024-12-05
+----------------
+![2024-12-05-0](https://www.bing.com/th?id=OHR.MonoTufa_ZH-CN4998806540_UHD.jpg)
+![2024-12-05-1](https://www.bing.com/th?id=OHR.NavyDayIN_EN-IN0092273094_UHD.jpg)

@@ -4540,3 +4540,7 @@ Bing_img
 ----------------
 ![2024-12-05-0](https://www.bing.com/th?id=OHR.MonoTufa_ZH-CN4998806540_UHD.jpg)
 ![2024-12-05-1](https://www.bing.com/th?id=OHR.NavyDayIN_EN-IN0092273094_UHD.jpg)
+2024-12-06
+----------------
+![2024-12-06-0](https://www.bing.com/th?id=OHR.GreaterSnow2024_ZH-CN5929129591_UHD.jpg)
+![2024-12-06-1](https://www.bing.com/th?id=OHR.HelsinkiDusk_JA-JP8216541034_UHD.jpg)

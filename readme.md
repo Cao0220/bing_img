@@ -4544,3 +4544,9 @@ Bing_img
 ----------------
 ![2024-12-06-0](https://www.bing.com/th?id=OHR.GreaterSnow2024_ZH-CN5929129591_UHD.jpg)
 ![2024-12-06-1](https://www.bing.com/th?id=OHR.HelsinkiDusk_JA-JP8216541034_UHD.jpg)
+2024-12-07
+----------------
+![2024-12-07-0](https://www.bing.com/th?id=OHR.ArraialdoCabo_ZH-CN6202620711_UHD.jpg)
+![2024-12-07-1](https://www.bing.com/th?id=OHR.SpainConstitutionDay2024_ES-ES5831471578_UHD.jpg)
+![2024-12-07-2](https://www.bing.com/th?id=OHR.ColmarHoliday_FR-FR1755218249_UHD.jpg)
+![2024-12-07-3](https://www.bing.com/th?id=OHR.Daxue2024_JA-JP8353318760_UHD.jpg)

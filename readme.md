@@ -4550,3 +4550,8 @@ Bing_img
 ![2024-12-07-1](https://www.bing.com/th?id=OHR.SpainConstitutionDay2024_ES-ES5831471578_UHD.jpg)
 ![2024-12-07-2](https://www.bing.com/th?id=OHR.ColmarHoliday_FR-FR1755218249_UHD.jpg)
 ![2024-12-07-3](https://www.bing.com/th?id=OHR.Daxue2024_JA-JP8353318760_UHD.jpg)
+2024-12-08
+----------------
+![2024-12-08-0](https://www.bing.com/th?id=OHR.TorontoWinterSkyline_EN-CA1219816615_UHD.jpg)
+![2024-12-08-1](https://www.bing.com/th?id=OHR.ReopeningNotreDame_ZH-CN6512133762_UHD.jpg)
+![2024-12-08-2](https://www.bing.com/th?id=OHR.OrchhaFort_EN-IN5765082916_UHD.jpg)

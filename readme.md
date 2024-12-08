@@ -4555,3 +4555,8 @@ Bing_img
 ![2024-12-08-0](https://www.bing.com/th?id=OHR.TorontoWinterSkyline_EN-CA1219816615_UHD.jpg)
 ![2024-12-08-1](https://www.bing.com/th?id=OHR.ReopeningNotreDame_ZH-CN6512133762_UHD.jpg)
 ![2024-12-08-2](https://www.bing.com/th?id=OHR.OrchhaFort_EN-IN5765082916_UHD.jpg)
+2024-12-09
+----------------
+![2024-12-09-0](https://www.bing.com/th?id=OHR.Moorea_ROW6093414822_UHD.jpg)
+![2024-12-09-1](https://www.bing.com/th?id=OHR.GuanacosChile_ZH-CN7011761081_UHD.jpg)
+![2024-12-09-2](https://www.bing.com/th?id=OHR.PonteDeellImmacolata_IT-IT7974246156_UHD.jpg)

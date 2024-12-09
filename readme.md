@@ -4560,3 +4560,6 @@ Bing_img
 ![2024-12-09-0](https://www.bing.com/th?id=OHR.Moorea_ROW6093414822_UHD.jpg)
 ![2024-12-09-1](https://www.bing.com/th?id=OHR.GuanacosChile_ZH-CN7011761081_UHD.jpg)
 ![2024-12-09-2](https://www.bing.com/th?id=OHR.PonteDeellImmacolata_IT-IT7974246156_UHD.jpg)
+2024-12-10
+----------------
+![2024-12-10-0](https://www.bing.com/th?id=OHR.CornwallSnow_ZH-CN8407245245_UHD.jpg)

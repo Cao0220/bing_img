@@ -4563,3 +4563,7 @@ Bing_img
 2024-12-10
 ----------------
 ![2024-12-10-0](https://www.bing.com/th?id=OHR.CornwallSnow_ZH-CN8407245245_UHD.jpg)
+2024-12-11
+----------------
+![2024-12-11-0](https://www.bing.com/th?id=OHR.DolomitesSky_ZH-CN9299967785_UHD.jpg)
+![2024-12-11-1](https://www.bing.com/th?id=OHR.CovadongaWinter_ES-ES7227856759_UHD.jpg)

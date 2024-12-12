@@ -4570,3 +4570,7 @@ Bing_img
 2024-12-12
 ----------------
 ![2024-12-12-0](https://www.bing.com/th?id=OHR.WildPoinsettia_ZH-CN9570708784_UHD.jpg)
+2024-12-13
+----------------
+![2024-12-13-0](https://www.bing.com/th?id=OHR.ChristmasBudapest_ZH-CN8197439971_UHD.jpg)
+![2024-12-13-1](https://www.bing.com/th?id=OHR.FrozenLakebyWintrySunrise_DE-DE6146213126_UHD.jpg)

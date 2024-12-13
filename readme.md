@@ -4574,3 +4574,7 @@ Bing_img
 ----------------
 ![2024-12-13-0](https://www.bing.com/th?id=OHR.ChristmasBudapest_ZH-CN8197439971_UHD.jpg)
 ![2024-12-13-1](https://www.bing.com/th?id=OHR.FrozenLakebyWintrySunrise_DE-DE6146213126_UHD.jpg)
+2024-12-14
+----------------
+![2024-12-14-0](https://www.bing.com/th?id=OHR.DiaNacionaldoForro_PT-BR8634835181_UHD.jpg)
+![2024-12-14-1](https://www.bing.com/th?id=OHR.NorthernHawkOwl_ZH-CN8408027305_UHD.jpg)

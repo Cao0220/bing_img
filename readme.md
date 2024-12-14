@@ -4578,3 +4578,8 @@ Bing_img
 ----------------
 ![2024-12-14-0](https://www.bing.com/th?id=OHR.DiaNacionaldoForro_PT-BR8634835181_UHD.jpg)
 ![2024-12-14-1](https://www.bing.com/th?id=OHR.NorthernHawkOwl_ZH-CN8408027305_UHD.jpg)
+2024-12-15
+----------------
+![2024-12-15-0](https://www.bing.com/th?id=OHR.MisurinaLake_ZH-CN0744434715_UHD.jpg)
+![2024-12-15-1](https://www.bing.com/th?id=OHR.PrioroWinter_ES-ES0831913831_UHD.jpg)
+![2024-12-15-2](https://www.bing.com/th?id=OHR.LynxTree_FR-FR1855644774_UHD.jpg)

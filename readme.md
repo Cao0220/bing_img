@@ -4586,3 +4586,6 @@ Bing_img
 2024-12-16
 ----------------
 ![2024-12-16-0](https://www.bing.com/th?id=OHR.SalzburgSnow_ZH-CN0964131994_UHD.jpg)
+2024-12-17
+----------------
+![2024-12-17-0](https://www.bing.com/th?id=OHR.ReinefjordenNorway_ZH-CN1198843758_UHD.jpg)

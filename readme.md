@@ -4589,3 +4589,7 @@ Bing_img
 2024-12-17
 ----------------
 ![2024-12-17-0](https://www.bing.com/th?id=OHR.ReinefjordenNorway_ZH-CN1198843758_UHD.jpg)
+2024-12-18
+----------------
+![2024-12-18-0](https://www.bing.com/th?id=OHR.MorningElephants_ZH-CN1418579765_UHD.jpg)
+![2024-12-18-1](https://www.bing.com/th?id=OHR.NutcrackerBallet_JA-JP8484350110_UHD.jpg)

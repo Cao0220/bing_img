@@ -4596,3 +4596,6 @@ Bing_img
 2024-12-19
 ----------------
 ![2024-12-19-0](https://www.bing.com/th?id=OHR.SibiuRomania_ZH-CN1631942857_UHD.jpg)
+2024-12-20
+----------------
+![2024-12-20-0](https://www.bing.com/th?id=OHR.SantaClausVillage_ZH-CN1839275027_UHD.jpg)

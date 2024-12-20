@@ -4599,3 +4599,7 @@ Bing_img
 2024-12-20
 ----------------
 ![2024-12-20-0](https://www.bing.com/th?id=OHR.SantaClausVillage_ZH-CN1839275027_UHD.jpg)
+2024-12-21
+----------------
+![2024-12-21-0](https://www.bing.com/th?id=OHR.WinterSolstice2024_ZH-CN2045153949_UHD.jpg)
+![2024-12-21-1](https://www.bing.com/th?id=OHR.BluePond2024_JA-JP2198755551_UHD.jpg)

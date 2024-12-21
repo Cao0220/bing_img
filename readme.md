@@ -4603,3 +4603,9 @@ Bing_img
 ----------------
 ![2024-12-21-0](https://www.bing.com/th?id=OHR.WinterSolstice2024_ZH-CN2045153949_UHD.jpg)
 ![2024-12-21-1](https://www.bing.com/th?id=OHR.BluePond2024_JA-JP2198755551_UHD.jpg)
+2024-12-22
+----------------
+![2024-12-22-0](https://www.bing.com/th?id=OHR.SolsticeHalo_ROW3351945339_UHD.jpg)
+![2024-12-22-1](https://www.bing.com/th?id=OHR.InicioVerao2024_PT-BR9499376932_UHD.jpg)
+![2024-12-22-2](https://www.bing.com/th?id=OHR.CrystalPier_ZH-CN2256372880_UHD.jpg)
+![2024-12-22-3](https://www.bing.com/th?id=OHR.FestivusCranes_JA-JP9750730538_UHD.jpg)

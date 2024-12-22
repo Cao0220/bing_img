@@ -4609,3 +4609,7 @@ Bing_img
 ![2024-12-22-1](https://www.bing.com/th?id=OHR.InicioVerao2024_PT-BR9499376932_UHD.jpg)
 ![2024-12-22-2](https://www.bing.com/th?id=OHR.CrystalPier_ZH-CN2256372880_UHD.jpg)
 ![2024-12-22-3](https://www.bing.com/th?id=OHR.FestivusCranes_JA-JP9750730538_UHD.jpg)
+2024-12-23
+----------------
+![2024-12-23-0](https://www.bing.com/th?id=OHR.GermanyAdventWreath_DE-DE0507962655_UHD.jpg)
+![2024-12-23-1](https://www.bing.com/th?id=OHR.TokyoTower2024_JA-JP2762394000_UHD.jpg)

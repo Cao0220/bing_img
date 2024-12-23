@@ -4613,3 +4613,7 @@ Bing_img
 ----------------
 ![2024-12-23-0](https://www.bing.com/th?id=OHR.GermanyAdventWreath_DE-DE0507962655_UHD.jpg)
 ![2024-12-23-1](https://www.bing.com/th?id=OHR.TokyoTower2024_JA-JP2762394000_UHD.jpg)
+2024-12-24
+----------------
+![2024-12-24-0](https://www.bing.com/th?id=OHR.SantaSnowglobe_ZH-CN2671421527_UHD.jpg)
+![2024-12-24-1](https://www.bing.com/th?id=OHR.DhamekStupa_EN-IN0403888448_UHD.jpg)

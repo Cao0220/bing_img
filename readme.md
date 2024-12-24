@@ -4617,3 +4617,9 @@ Bing_img
 ----------------
 ![2024-12-24-0](https://www.bing.com/th?id=OHR.SantaSnowglobe_ZH-CN2671421527_UHD.jpg)
 ![2024-12-24-1](https://www.bing.com/th?id=OHR.DhamekStupa_EN-IN0403888448_UHD.jpg)
+2024-12-25
+----------------
+![2024-12-25-0](https://www.bing.com/th?id=OHR.FreudenbergHistoricHouses_ROW2814247948_UHD.jpg)
+![2024-12-25-1](https://www.bing.com/th?id=OHR.CovadongaWinter_ZH-CN2873340163_UHD.jpg)
+![2024-12-25-2](https://www.bing.com/th?id=OHR.GalleriaVittiorioEmanuele_IT-IT9220244159_UHD.jpg)
+![2024-12-25-3](https://www.bing.com/th?id=OHR.ReindeerTrio_JA-JP0425560339_UHD.jpg)

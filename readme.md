@@ -4623,3 +4623,7 @@ Bing_img
 ![2024-12-25-1](https://www.bing.com/th?id=OHR.CovadongaWinter_ZH-CN2873340163_UHD.jpg)
 ![2024-12-25-2](https://www.bing.com/th?id=OHR.GalleriaVittiorioEmanuele_IT-IT9220244159_UHD.jpg)
 ![2024-12-25-3](https://www.bing.com/th?id=OHR.ReindeerTrio_JA-JP0425560339_UHD.jpg)
+2024-12-26
+----------------
+![2024-12-26-0](https://www.bing.com/th?id=OHR.Christmas24_EN-CA4696082080_UHD.jpg)
+![2024-12-26-1](https://www.bing.com/th?id=OHR.MouseholeXmas_ZH-CN3079184443_UHD.jpg)

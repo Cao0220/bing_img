@@ -4627,3 +4627,10 @@ Bing_img
 ----------------
 ![2024-12-26-0](https://www.bing.com/th?id=OHR.Christmas24_EN-CA4696082080_UHD.jpg)
 ![2024-12-26-1](https://www.bing.com/th?id=OHR.MouseholeXmas_ZH-CN3079184443_UHD.jpg)
+2024-12-27
+----------------
+![2024-12-27-0](https://www.bing.com/th?id=OHR.BoxingDay24_EN-CA4323476281_UHD.jpg)
+![2024-12-27-1](https://www.bing.com/th?id=OHR.LakeBledSnow_ZH-CN4118056813_UHD.jpg)
+![2024-12-27-2](https://www.bing.com/th?id=OHR.SaintStephensDay_ES-ES9179048163_UHD.jpg)
+![2024-12-27-3](https://www.bing.com/th?id=OHR.PointeDiable_FR-FR3649413809_UHD.jpg)
+![2024-12-27-4](https://www.bing.com/th?id=OHR.ChristmasSeason_IT-IT9715464696_UHD.jpg)

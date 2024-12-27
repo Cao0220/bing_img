@@ -4634,3 +4634,6 @@ Bing_img
 ![2024-12-27-2](https://www.bing.com/th?id=OHR.SaintStephensDay_ES-ES9179048163_UHD.jpg)
 ![2024-12-27-3](https://www.bing.com/th?id=OHR.PointeDiable_FR-FR3649413809_UHD.jpg)
 ![2024-12-27-4](https://www.bing.com/th?id=OHR.ChristmasSeason_IT-IT9715464696_UHD.jpg)
+2024-12-28
+----------------
+![2024-12-28-0](https://www.bing.com/th?id=OHR.CoralTurtle_ZH-CN4771437860_UHD.jpg)

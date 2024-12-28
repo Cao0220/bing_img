@@ -4637,3 +4637,7 @@ Bing_img
 2024-12-28
 ----------------
 ![2024-12-28-0](https://www.bing.com/th?id=OHR.CoralTurtle_ZH-CN4771437860_UHD.jpg)
+2024-12-29
+----------------
+![2024-12-29-0](https://www.bing.com/th?id=OHR.BorobudurBells_ZH-CN5291511365_UHD.jpg)
+![2024-12-29-1](https://www.bing.com/th?id=OHR.DudhsagarFalls_EN-IN8941732838_UHD.jpg)

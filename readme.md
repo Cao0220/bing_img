@@ -4644,3 +4644,8 @@ Bing_img
 2024-12-30
 ----------------
 ![2024-12-30-0](https://www.bing.com/th?id=OHR.MountFieldNP_ZH-CN6004420782_UHD.jpg)
+2024-12-31
+----------------
+![2024-12-31-0](https://www.bing.com/th?id=OHR.CorridadeSaoSilvestre_PT-BR4824975840_UHD.jpg)
+![2024-12-31-1](https://www.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_UHD.jpg)
+![2024-12-31-2](https://www.bing.com/th?id=OHR.Omisoka2024_JA-JP6408751475_UHD.jpg)

@@ -4649,3 +4649,12 @@ Bing_img
 ![2024-12-31-0](https://www.bing.com/th?id=OHR.CorridadeSaoSilvestre_PT-BR4824975840_UHD.jpg)
 ![2024-12-31-1](https://www.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_UHD.jpg)
 ![2024-12-31-2](https://www.bing.com/th?id=OHR.Omisoka2024_JA-JP6408751475_UHD.jpg)
+2025-01-01
+----------------
+![2025-01-01-0](https://www.bing.com/th?id=OHR.RioNewYear_PT-BR1238586029_UHD.jpg)
+![2025-01-01-1](https://www.bing.com/th?id=OHR.PolarBearSwim_ZH-CN1000349057_UHD.jpg)
+![2025-01-01-2](https://www.bing.com/th?id=OHR.BavariaNewYearsEveFireworks_DE-DE4504129944_UHD.jpg)
+![2025-01-01-3](https://www.bing.com/th?id=OHR.NewYearSpain24_ES-ES3801149904_UHD.jpg)
+![2025-01-01-4](https://www.bing.com/th?id=OHR.ParisNewYearEve_FR-FR3084713180_UHD.jpg)
+![2025-01-01-5](https://www.bing.com/th?id=OHR.CapodannoFirenze_IT-IT8277886621_UHD.jpg)
+![2025-01-01-6](https://www.bing.com/th?id=OHR.ShirahigeSunrise2024_JA-JP6695296609_UHD.jpg)

@@ -4658,3 +4658,7 @@ Bing_img
 ![2025-01-01-4](https://www.bing.com/th?id=OHR.ParisNewYearEve_FR-FR3084713180_UHD.jpg)
 ![2025-01-01-5](https://www.bing.com/th?id=OHR.CapodannoFirenze_IT-IT8277886621_UHD.jpg)
 ![2025-01-01-6](https://www.bing.com/th?id=OHR.ShirahigeSunrise2024_JA-JP6695296609_UHD.jpg)
+2025-01-02
+----------------
+![2025-01-02-0](https://www.bing.com/th?id=OHR.ArdezSwitzerland_ZH-CN5605305240_UHD.jpg)
+![2025-01-02-1](https://www.bing.com/th?id=OHR.PlumParakeet_JA-JP6915629740_UHD.jpg)

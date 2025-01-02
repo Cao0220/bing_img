@@ -4662,3 +4662,7 @@ Bing_img
 ----------------
 ![2025-01-02-0](https://www.bing.com/th?id=OHR.ArdezSwitzerland_ZH-CN5605305240_UHD.jpg)
 ![2025-01-02-1](https://www.bing.com/th?id=OHR.PlumParakeet_JA-JP6915629740_UHD.jpg)
+2025-01-03
+----------------
+![2025-01-03-0](https://www.bing.com/th?id=OHR.TolkienOxford_ZH-CN6331694590_UHD.jpg)
+![2025-01-03-1](https://www.bing.com/th?id=OHR.AlpsSunset_FR-FR0523137668_UHD.jpg)

@@ -4670,3 +4670,7 @@ Bing_img
 ----------------
 ![2025-01-04-0](https://www.bing.com/th?id=OHR.VietnamFalls_ZH-CN9659529108_UHD.jpg)
 ![2025-01-04-1](https://www.bing.com/th?id=OHR.BouldersNZ_JA-JP7494581439_UHD.jpg)
+2025-01-05
+----------------
+![2025-01-05-0](https://www.bing.com/th?id=OHR.PlumParakeet_ZH-CN0311942558_UHD.jpg)
+![2025-01-05-1](https://www.bing.com/th?id=OHR.ArdezSwitzerland_JA-JP7833129331_UHD.jpg)

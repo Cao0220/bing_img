@@ -4674,3 +4674,10 @@ Bing_img
 ----------------
 ![2025-01-05-0](https://www.bing.com/th?id=OHR.PlumParakeet_ZH-CN0311942558_UHD.jpg)
 ![2025-01-05-1](https://www.bing.com/th?id=OHR.ArdezSwitzerland_JA-JP7833129331_UHD.jpg)
+2025-01-06
+----------------
+![2025-01-06-0](https://www.bing.com/th?id=OHR.RavennaBasilica_ZH-CN1406474730_UHD.jpg)
+![2025-01-06-1](https://www.bing.com/th?id=OHR.WinterLandscapeBavaria_DE-DE6496709723_UHD.jpg)
+![2025-01-06-2](https://www.bing.com/th?id=OHR.GeneralWinterNavarre_ES-ES5527142777_UHD.jpg)
+![2025-01-06-3](https://www.bing.com/th?id=OHR.PushkarniTank_EN-IN9828404964_UHD.jpg)
+![2025-01-06-4](https://www.bing.com/th?id=OHR.BouldersNZ_IT-IT9574087004_UHD.jpg)

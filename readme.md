@@ -4681,3 +4681,7 @@ Bing_img
 ![2025-01-06-2](https://www.bing.com/th?id=OHR.GeneralWinterNavarre_ES-ES5527142777_UHD.jpg)
 ![2025-01-06-3](https://www.bing.com/th?id=OHR.PushkarniTank_EN-IN9828404964_UHD.jpg)
 ![2025-01-06-4](https://www.bing.com/th?id=OHR.BouldersNZ_IT-IT9574087004_UHD.jpg)
+2025-01-07
+----------------
+![2025-01-07-0](https://www.bing.com/th?id=OHR.NamibiaDunes_ES-ES5811843699_UHD.jpg)
+![2025-01-07-1](https://www.bing.com/th?id=OHR.VietnamFalls_JA-JP8519812125_UHD.jpg)

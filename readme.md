@@ -4685,3 +4685,7 @@ Bing_img
 ----------------
 ![2025-01-07-0](https://www.bing.com/th?id=OHR.NamibiaDunes_ES-ES5811843699_UHD.jpg)
 ![2025-01-07-1](https://www.bing.com/th?id=OHR.VietnamFalls_JA-JP8519812125_UHD.jpg)
+2025-01-08
+----------------
+![2025-01-08-0](https://www.bing.com/th?id=OHR.GreatWallStairs_ZH-CN4045949792_UHD.jpg)
+![2025-01-08-1](https://www.bing.com/th?id=OHR.FestaTricoloreDolomites_IT-IT7900673609_UHD.jpg)

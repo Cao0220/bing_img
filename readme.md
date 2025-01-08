@@ -4689,3 +4689,7 @@ Bing_img
 ----------------
 ![2025-01-08-0](https://www.bing.com/th?id=OHR.GreatWallStairs_ZH-CN4045949792_UHD.jpg)
 ![2025-01-08-1](https://www.bing.com/th?id=OHR.FestaTricoloreDolomites_IT-IT7900673609_UHD.jpg)
+2025-01-09
+----------------
+![2025-01-09-0](https://www.bing.com/th?id=OHR.DiaNacionaldoFotografo_PT-BR5093198767_UHD.jpg)
+![2025-01-09-1](https://www.bing.com/th?id=OHR.NamibiaDunes_ZH-CN5102483490_UHD.jpg)

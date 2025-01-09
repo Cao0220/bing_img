@@ -4693,3 +4693,7 @@ Bing_img
 ----------------
 ![2025-01-09-0](https://www.bing.com/th?id=OHR.DiaNacionaldoFotografo_PT-BR5093198767_UHD.jpg)
 ![2025-01-09-1](https://www.bing.com/th?id=OHR.NamibiaDunes_ZH-CN5102483490_UHD.jpg)
+2025-01-10
+----------------
+![2025-01-10-0](https://www.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg)
+![2025-01-10-1](https://www.bing.com/th?id=OHR.RavennaBasilica_ES-ES6729761925_UHD.jpg)

@@ -4697,3 +4697,7 @@ Bing_img
 ----------------
 ![2025-01-10-0](https://www.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg)
 ![2025-01-10-1](https://www.bing.com/th?id=OHR.RavennaBasilica_ES-ES6729761925_UHD.jpg)
+2025-01-11
+----------------
+![2025-01-11-0](https://www.bing.com/th?id=OHR.MeknesMorocco_ZH-CN7953910585_UHD.jpg)
+![2025-01-11-1](https://www.bing.com/th?id=OHR.DayTintin_FR-FR9740389196_UHD.jpg)

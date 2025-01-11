@@ -4701,3 +4701,8 @@ Bing_img
 ----------------
 ![2025-01-11-0](https://www.bing.com/th?id=OHR.MeknesMorocco_ZH-CN7953910585_UHD.jpg)
 ![2025-01-11-1](https://www.bing.com/th?id=OHR.DayTintin_FR-FR9740389196_UHD.jpg)
+2025-01-12
+----------------
+![2025-01-12-0](https://www.bing.com/th?id=OHR.CrescentTail_ZH-CN8283248964_UHD.jpg)
+![2025-01-12-1](https://www.bing.com/th?id=OHR.GermanyAppleOnWinterTree_DE-DE6727700722_UHD.jpg)
+![2025-01-12-2](https://www.bing.com/th?id=OHR.CadizSpain_JA-JP3855173491_UHD.jpg)

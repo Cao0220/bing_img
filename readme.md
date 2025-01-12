@@ -4706,3 +4706,7 @@ Bing_img
 ![2025-01-12-0](https://www.bing.com/th?id=OHR.CrescentTail_ZH-CN8283248964_UHD.jpg)
 ![2025-01-12-1](https://www.bing.com/th?id=OHR.GermanyAppleOnWinterTree_DE-DE6727700722_UHD.jpg)
 ![2025-01-12-2](https://www.bing.com/th?id=OHR.CadizSpain_JA-JP3855173491_UHD.jpg)
+2025-01-13
+----------------
+![2025-01-13-0](https://www.bing.com/th?id=OHR.AniversarioBelem_PT-BR6953225578_UHD.jpg)
+![2025-01-13-1](https://www.bing.com/th?id=OHR.CoastalWales_ZH-CN9113929287_UHD.jpg)

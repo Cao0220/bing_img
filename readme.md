@@ -4710,3 +4710,7 @@ Bing_img
 ----------------
 ![2025-01-13-0](https://www.bing.com/th?id=OHR.AniversarioBelem_PT-BR6953225578_UHD.jpg)
 ![2025-01-13-1](https://www.bing.com/th?id=OHR.CoastalWales_ZH-CN9113929287_UHD.jpg)
+2025-01-14
+----------------
+![2025-01-14-0](https://www.bing.com/th?id=OHR.CadizSpain_ZH-CN0032172399_UHD.jpg)
+![2025-01-14-1](https://www.bing.com/th?id=OHR.MuseumCourt_JA-JP4665250059_UHD.jpg)

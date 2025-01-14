@@ -4714,3 +4714,9 @@ Bing_img
 ----------------
 ![2025-01-14-0](https://www.bing.com/th?id=OHR.CadizSpain_ZH-CN0032172399_UHD.jpg)
 ![2025-01-14-1](https://www.bing.com/th?id=OHR.MuseumCourt_JA-JP4665250059_UHD.jpg)
+2025-01-15
+----------------
+![2025-01-15-0](https://www.bing.com/th?id=OHR.PointeDiable_ZH-CN0610493136_UHD.jpg)
+![2025-01-15-1](https://www.bing.com/th?id=OHR.SkyKites_EN-IN7504370489_UHD.jpg)
+![2025-01-15-2](https://www.bing.com/th?id=OHR.NeptunesGrotto_IT-IT6948130051_UHD.jpg)
+![2025-01-15-3](https://www.bing.com/th?id=OHR.Mochibana2025_JA-JP8291657654_UHD.jpg)

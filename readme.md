@@ -4720,3 +4720,10 @@ Bing_img
 ![2025-01-15-1](https://www.bing.com/th?id=OHR.SkyKites_EN-IN7504370489_UHD.jpg)
 ![2025-01-15-2](https://www.bing.com/th?id=OHR.NeptunesGrotto_IT-IT6948130051_UHD.jpg)
 ![2025-01-15-3](https://www.bing.com/th?id=OHR.Mochibana2025_JA-JP8291657654_UHD.jpg)
+2025-01-16
+----------------
+![2025-01-16-0](https://www.bing.com/th?id=OHR.TrancosoPraia_PT-BR2050297915_UHD.jpg)
+![2025-01-16-1](https://www.bing.com/th?id=OHR.FrozenLakeSuperior_EN-CA6245571097_UHD.jpg)
+![2025-01-16-2](https://www.bing.com/th?id=OHR.PinnaclesPeaks_ZH-CN1603877182_UHD.jpg)
+![2025-01-16-3](https://www.bing.com/th?id=OHR.MuseumCourt_DE-DE6557412428_UHD.jpg)
+![2025-01-16-4](https://www.bing.com/th?id=OHR.DeerBuck_EN-IN3553465734_UHD.jpg)

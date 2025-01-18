@@ -4737,3 +4737,6 @@ Bing_img
 ----------------
 ![2025-01-18-0](https://www.bing.com/th?id=OHR.NapoliPizza_EN-CA6013158057_UHD.jpg)
 ![2025-01-18-1](https://www.bing.com/th?id=OHR.WhiteSandsNP_ZH-CN2517618394_UHD.jpg)
+2025-01-19
+----------------
+![2025-01-19-0](https://www.bing.com/th?id=OHR.NeptunesGrotto_ZH-CN3092540170_UHD.jpg)

@@ -4740,3 +4740,8 @@ Bing_img
 2025-01-19
 ----------------
 ![2025-01-19-0](https://www.bing.com/th?id=OHR.NeptunesGrotto_ZH-CN3092540170_UHD.jpg)
+2025-01-20
+----------------
+![2025-01-20-0](https://www.bing.com/th?id=OHR.DutchSquirrel_ZH-CN3896893818_UHD.jpg)
+![2025-01-20-1](https://www.bing.com/th?id=OHR.CortinaAmpezzo_IT-IT8151089763_UHD.jpg)
+![2025-01-20-2](https://www.bing.com/th?id=OHR.Daikan2025_JA-JP9667984098_UHD.jpg)

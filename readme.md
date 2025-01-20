@@ -4745,3 +4745,10 @@ Bing_img
 ![2025-01-20-0](https://www.bing.com/th?id=OHR.DutchSquirrel_ZH-CN3896893818_UHD.jpg)
 ![2025-01-20-1](https://www.bing.com/th?id=OHR.CortinaAmpezzo_IT-IT8151089763_UHD.jpg)
 ![2025-01-20-2](https://www.bing.com/th?id=OHR.Daikan2025_JA-JP9667984098_UHD.jpg)
+2025-01-21
+----------------
+![2025-01-21-0](https://www.bing.com/th?id=OHR.NapoliPizza_ROW8840504063_UHD.jpg)
+![2025-01-21-1](https://www.bing.com/th?id=OHR.PelicanPortrait_EN-CA2220060113_UHD.jpg)
+![2025-01-21-2](https://www.bing.com/th?id=OHR.LasCarantonas_ES-ES8729775352_UHD.jpg)
+![2025-01-21-3](https://www.bing.com/th?id=OHR.BubbleLake_FR-FR0545944347_UHD.jpg)
+![2025-01-21-4](https://www.bing.com/th?id=OHR.CadizSpain_EN-IN5354642054_UHD.jpg)

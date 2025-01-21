@@ -4752,3 +4752,7 @@ Bing_img
 ![2025-01-21-2](https://www.bing.com/th?id=OHR.LasCarantonas_ES-ES8729775352_UHD.jpg)
 ![2025-01-21-3](https://www.bing.com/th?id=OHR.BubbleLake_FR-FR0545944347_UHD.jpg)
 ![2025-01-21-4](https://www.bing.com/th?id=OHR.CadizSpain_EN-IN5354642054_UHD.jpg)
+2025-01-22
+----------------
+![2025-01-22-0](https://www.bing.com/th?id=OHR.PetraMonastery_ZH-CN5091189333_UHD.jpg)
+![2025-01-22-1](https://www.bing.com/th?id=OHR.ColourfulBlueMonday_FR-FR0873171314_UHD.jpg)

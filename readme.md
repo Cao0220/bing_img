@@ -4756,3 +4756,6 @@ Bing_img
 ----------------
 ![2025-01-22-0](https://www.bing.com/th?id=OHR.PetraMonastery_ZH-CN5091189333_UHD.jpg)
 ![2025-01-22-1](https://www.bing.com/th?id=OHR.ColourfulBlueMonday_FR-FR0873171314_UHD.jpg)
+2025-01-23
+----------------
+![2025-01-23-0](https://www.bing.com/th?id=OHR.DeerValley_ZH-CN6029262704_UHD.jpg)

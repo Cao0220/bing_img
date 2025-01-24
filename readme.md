@@ -4762,3 +4762,6 @@ Bing_img
 2025-01-24
 ----------------
 ![2025-01-24-0](https://www.bing.com/th?id=OHR.IcelandGeyser_ZH-CN2136665867_UHD.jpg)
+2025-01-25
+----------------
+![2025-01-25-0](https://www.bing.com/th?id=OHR.PortoSunset_ZH-CN2388246668_UHD.jpg)

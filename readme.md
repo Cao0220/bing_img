@@ -4765,3 +4765,7 @@ Bing_img
 2025-01-25
 ----------------
 ![2025-01-25-0](https://www.bing.com/th?id=OHR.PortoSunset_ZH-CN2388246668_UHD.jpg)
+2025-01-26
+----------------
+![2025-01-26-0](https://www.bing.com/th?id=OHR.DiaBossaNova_PT-BR0445068072_UHD.jpg)
+![2025-01-26-1](https://www.bing.com/th?id=OHR.FrostedBeech_ZH-CN2845716018_UHD.jpg)

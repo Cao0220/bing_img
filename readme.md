@@ -4769,3 +4769,7 @@ Bing_img
 ----------------
 ![2025-01-26-0](https://www.bing.com/th?id=OHR.DiaBossaNova_PT-BR0445068072_UHD.jpg)
 ![2025-01-26-1](https://www.bing.com/th?id=OHR.FrostedBeech_ZH-CN2845716018_UHD.jpg)
+2025-01-27
+----------------
+![2025-01-27-0](https://www.bing.com/th?id=OHR.CanyonSnow_ZH-CN3910130781_UHD.jpg)
+![2025-01-27-1](https://www.bing.com/th?id=OHR.IndiaGateTriColour_EN-IN3150557359_UHD.jpg)

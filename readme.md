@@ -4773,3 +4773,8 @@ Bing_img
 ----------------
 ![2025-01-27-0](https://www.bing.com/th?id=OHR.CanyonSnow_ZH-CN3910130781_UHD.jpg)
 ![2025-01-27-1](https://www.bing.com/th?id=OHR.IndiaGateTriColour_EN-IN3150557359_UHD.jpg)
+2025-01-28
+----------------
+![2025-01-28-0](https://www.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_UHD.jpg)
+![2025-01-28-1](https://www.bing.com/th?id=OHR.ParisSnow_FR-FR5265906192_UHD.jpg)
+![2025-01-28-2](https://www.bing.com/th?id=OHR.FlyingOwl_JA-JP5099744024_UHD.jpg)

@@ -4778,3 +4778,8 @@ Bing_img
 ![2025-01-28-0](https://www.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_UHD.jpg)
 ![2025-01-28-1](https://www.bing.com/th?id=OHR.ParisSnow_FR-FR5265906192_UHD.jpg)
 ![2025-01-28-2](https://www.bing.com/th?id=OHR.FlyingOwl_JA-JP5099744024_UHD.jpg)
+2025-01-29
+----------------
+![2025-01-29-0](https://www.bing.com/th?id=OHR.SpringFestival25Y_ZH-CN6133182159_UHD.jpg)
+![2025-01-29-1](https://www.bing.com/th?id=OHR.Piedmont_IT-IT1689633679_UHD.jpg)
+![2025-01-29-2](https://www.bing.com/th?id=OHR.LunarDragon_JA-JP5285145740_UHD.jpg)

@@ -4825,3 +4825,7 @@ Bing_img
 2025-02-07
 ----------------
 ![2025-02-07-0](https://www.bing.com/th?id=OHR.BlueNorway_ZH-CN7489077966_UHD.jpg)
+2025-02-08
+----------------
+![2025-02-08-0](https://www.bing.com/th?id=OHR.SnowySvaneti_ZH-CN7626153023_UHD.jpg)
+![2025-02-08-1](https://www.bing.com/th?id=OHR.LouvreRainyDay_FR-FR9439129374_UHD.jpg)

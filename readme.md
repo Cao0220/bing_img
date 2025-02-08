@@ -4829,3 +4829,7 @@ Bing_img
 ----------------
 ![2025-02-08-0](https://www.bing.com/th?id=OHR.SnowySvaneti_ZH-CN7626153023_UHD.jpg)
 ![2025-02-08-1](https://www.bing.com/th?id=OHR.LouvreRainyDay_FR-FR9439129374_UHD.jpg)
+2025-02-09
+----------------
+![2025-02-09-0](https://www.bing.com/th?id=OHR.AlstromPoint_ZH-CN7844819126_UHD.jpg)
+![2025-02-09-1](https://www.bing.com/th?id=OHR.PremiosGoya_ES-ES9389747120_UHD.jpg)

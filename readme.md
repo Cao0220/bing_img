@@ -4837,3 +4837,9 @@ Bing_img
 ----------------
 ![2025-02-10-0](https://www.bing.com/th?id=OHR.UmbrellaDay_ZH-CN8024305066_UHD.jpg)
 ![2025-02-10-1](https://www.bing.com/th?id=OHR.LeonardoGlassCubeBadDriburg_DE-DE7335934587_UHD.jpg)
+2025-02-11
+----------------
+![2025-02-11-0](https://www.bing.com/th?id=OHR.DiaAtletaPro_PT-BR7651032356_UHD.jpg)
+![2025-02-11-1](https://www.bing.com/th?id=OHR.BanffSnow25_EN-CA9095652551_UHD.jpg)
+![2025-02-11-2](https://www.bing.com/th?id=OHR.YungangGrottoes_ZH-CN8275054060_UHD.jpg)
+![2025-02-11-3](https://www.bing.com/th?id=OHR.KairakuUme2025_JA-JP3144342607_UHD.jpg)

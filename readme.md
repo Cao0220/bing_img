@@ -4843,3 +4843,8 @@ Bing_img
 ![2025-02-11-1](https://www.bing.com/th?id=OHR.BanffSnow25_EN-CA9095652551_UHD.jpg)
 ![2025-02-11-2](https://www.bing.com/th?id=OHR.YungangGrottoes_ZH-CN8275054060_UHD.jpg)
 ![2025-02-11-3](https://www.bing.com/th?id=OHR.KairakuUme2025_JA-JP3144342607_UHD.jpg)
+2025-02-12
+----------------
+![2025-02-12-0](https://www.bing.com/th?id=OHR.LanterFestival25Y_ZH-CN8547998003_UHD.jpg)
+![2025-02-12-1](https://www.bing.com/th?id=OHR.PanoramaSanremoFestival_IT-IT5283578356_UHD.jpg)
+![2025-02-12-2](https://www.bing.com/th?id=OHR.PolarBearSwim_JA-JP3305613182_UHD.jpg)

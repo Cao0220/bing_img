@@ -4853,3 +4853,7 @@ Bing_img
 ![2025-02-13-0](https://www.bing.com/th?id=OHR.GalapagosIguana_ROW4125098914_UHD.jpg)
 ![2025-02-13-1](https://www.bing.com/th?id=OHR.LakeTyrrell_ZH-CN8860948292_UHD.jpg)
 ![2025-02-13-2](https://www.bing.com/th?id=OHR.AshokaPillar_EN-IN9270643437_UHD.jpg)
+2025-02-14
+----------------
+![2025-02-14-0](https://www.bing.com/th?id=OHR.PenguinLove_ZH-CN9124008164_UHD.jpg)
+![2025-02-14-1](https://www.bing.com/th?id=OHR.BerlinKinoZooPalast_DE-DE5942620149_UHD.jpg)

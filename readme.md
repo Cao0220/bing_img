@@ -4862,3 +4862,7 @@ Bing_img
 ![2025-02-15-0](https://www.bing.com/th?id=OHR.PelourinhoSalvador_PT-BR8001944563_UHD.jpg)
 ![2025-02-15-1](https://www.bing.com/th?id=OHR.Misotsuchi2025_ZH-CN9260395680_UHD.jpg)
 ![2025-02-15-2](https://www.bing.com/th?id=OHR.TypicalVenetianRedGold_IT-IT4023171951_UHD.jpg)
+2025-02-16
+----------------
+![2025-02-16-0](https://www.bing.com/th?id=OHR.HumpbackMother_ZH-CN9453300759_UHD.jpg)
+![2025-02-16-1](https://www.bing.com/th?id=OHR.CarnivalNice_FR-FR8752947591_UHD.jpg)

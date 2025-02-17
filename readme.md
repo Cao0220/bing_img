@@ -4870,3 +4870,8 @@ Bing_img
 ----------------
 ![2025-02-17-0](https://www.bing.com/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg)
 ![2025-02-17-1](https://www.bing.com/th?id=OHR.YungangGrottoes_JA-JP4266553262_UHD.jpg)
+2025-02-18
+----------------
+![2025-02-18-0](https://www.bing.com/th?id=OHR.BlueBelize_ZH-CN9875040666_UHD.jpg)
+![2025-02-18-1](https://www.bing.com/th?id=OHR.Misotsuchi2025_FR-FR1372228903_UHD.jpg)
+![2025-02-18-2](https://www.bing.com/th?id=OHR.SikriComplex_EN-IN1366254962_UHD.jpg)

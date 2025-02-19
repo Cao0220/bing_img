@@ -4878,3 +4878,8 @@ Bing_img
 2025-02-19
 ----------------
 ![2025-02-19-0](https://www.bing.com/th?id=OHR.IceHoleOtter_ZH-CN0106321041_UHD.jpg)
+2025-02-20
+----------------
+![2025-02-20-0](https://www.bing.com/th?id=OHR.CanadaDeer_ZH-CN0631345798_UHD.jpg)
+![2025-02-20-1](https://www.bing.com/th?id=OHR.YungangGrottoes_IT-IT7896461151_UHD.jpg)
+![2025-02-20-2](https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_JA-JP4771104579_UHD.jpg)

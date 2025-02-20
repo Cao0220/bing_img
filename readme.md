@@ -4883,3 +4883,7 @@ Bing_img
 ![2025-02-20-0](https://www.bing.com/th?id=OHR.CanadaDeer_ZH-CN0631345798_UHD.jpg)
 ![2025-02-20-1](https://www.bing.com/th?id=OHR.YungangGrottoes_IT-IT7896461151_UHD.jpg)
 ![2025-02-20-2](https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_JA-JP4771104579_UHD.jpg)
+2025-02-21
+----------------
+![2025-02-21-0](https://www.bing.com/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_UHD.jpg)
+![2025-02-21-1](https://www.bing.com/th?id=OHR.BlueNorway_FR-FR6545553571_UHD.jpg)

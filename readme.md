@@ -4893,3 +4893,8 @@ Bing_img
 ![2025-02-22-1](https://www.bing.com/th?id=OHR.GoldfinchSunflower_DE-DE5115131607_UHD.jpg)
 ![2025-02-22-2](https://www.bing.com/th?id=OHR.MentonFestival_FR-FR5996828688_UHD.jpg)
 ![2025-02-22-3](https://www.bing.com/th?id=OHR.BattagliaDiPavia_IT-IT9266388577_UHD.jpg)
+2025-02-23
+----------------
+![2025-02-23-0](https://www.bing.com/th?id=OHR.PalaciodeCristalCuritiba_PT-BR6693947310_UHD.jpg)
+![2025-02-23-1](https://www.bing.com/th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg)
+![2025-02-23-2](https://www.bing.com/th?id=OHR.SkiResortBaqueiraBeret_ES-ES4946875842_UHD.jpg)

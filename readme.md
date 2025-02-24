@@ -4902,3 +4902,6 @@ Bing_img
 ----------------
 ![2025-02-24-0](https://www.bing.com/th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg)
 ![2025-02-24-1](https://www.bing.com/th?id=OHR.RibbleheadViaduct_JA-JP0769503543_UHD.jpg)
+2025-02-25
+----------------
+![2025-02-25-0](https://www.bing.com/th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg)

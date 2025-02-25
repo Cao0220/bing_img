@@ -4905,3 +4905,8 @@ Bing_img
 2025-02-25
 ----------------
 ![2025-02-25-0](https://www.bing.com/th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg)
+2025-02-26
+----------------
+![2025-02-26-0](https://www.bing.com/th?id=OHR.ArgyllStalker_ZH-CN0970395078_UHD.jpg)
+![2025-02-26-1](https://www.bing.com/th?id=OHR.MillauBridge_FR-FR5934709762_UHD.jpg)
+![2025-02-26-2](https://www.bing.com/th?id=OHR.MilanFashionWeek_IT-IT9622143512_UHD.jpg)

@@ -4914,3 +4914,7 @@ Bing_img
 ----------------
 ![2025-02-27-0](https://www.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg)
 ![2025-02-27-1](https://www.bing.com/th?id=OHR.TungnathShiva_EN-IN3198630247_UHD.jpg)
+2025-02-28
+----------------
+![2025-02-28-0](https://www.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg)
+![2025-02-28-1](https://www.bing.com/th?id=OHR.CologneNight_DE-DE4660512744_UHD.jpg)

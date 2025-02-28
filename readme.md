@@ -4918,3 +4918,9 @@ Bing_img
 ----------------
 ![2025-02-28-0](https://www.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg)
 ![2025-02-28-1](https://www.bing.com/th?id=OHR.CologneNight_DE-DE4660512744_UHD.jpg)
+2025-03-01
+----------------
+![2025-03-01-0](https://www.bing.com/th?id=OHR.NevadaBigHorns_EN-CA8281032097_UHD.jpg)
+![2025-03-01-1](https://www.bing.com/th?id=OHR.MaligneLakeJasper_ZH-CN2664289451_UHD.jpg)
+![2025-03-01-2](https://www.bing.com/th?id=OHR.AndalusianStreet_ES-ES6181340886_UHD.jpg)
+![2025-03-01-3](https://www.bing.com/th?id=OHR.EucalyptusForest_JA-JP1746182669_UHD.jpg)

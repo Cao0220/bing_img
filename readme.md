@@ -4924,3 +4924,7 @@ Bing_img
 ![2025-03-01-1](https://www.bing.com/th?id=OHR.MaligneLakeJasper_ZH-CN2664289451_UHD.jpg)
 ![2025-03-01-2](https://www.bing.com/th?id=OHR.AndalusianStreet_ES-ES6181340886_UHD.jpg)
 ![2025-03-01-3](https://www.bing.com/th?id=OHR.EucalyptusForest_JA-JP1746182669_UHD.jpg)
+2025-03-02
+----------------
+![2025-03-02-0](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-IN9126700951_UHD.jpg)
+![2025-03-02-1](https://www.bing.com/th?id=OHR.HornbillPair_JA-JP1960738768_UHD.jpg)

@@ -4928,3 +4928,6 @@ Bing_img
 ----------------
 ![2025-03-02-0](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-IN9126700951_UHD.jpg)
 ![2025-03-02-1](https://www.bing.com/th?id=OHR.HornbillPair_JA-JP1960738768_UHD.jpg)
+2025-03-03
+----------------
+![2025-03-03-0](https://www.bing.com/th?id=OHR.Hinamatsuri2025_JA-JP2146557406_UHD.jpg)

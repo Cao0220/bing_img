@@ -4931,3 +4931,7 @@ Bing_img
 2025-03-03
 ----------------
 ![2025-03-03-0](https://www.bing.com/th?id=OHR.Hinamatsuri2025_JA-JP2146557406_UHD.jpg)
+2025-03-04
+----------------
+![2025-03-04-0](https://www.bing.com/th?id=OHR.Carnaval2024_PT-BR2466690213_UHD.jpg)
+![2025-03-04-1](https://www.bing.com/th?id=OHR.MardiGrasJackson_ZH-CN3456301377_UHD.jpg)

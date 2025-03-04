@@ -4935,3 +4935,7 @@ Bing_img
 ----------------
 ![2025-03-04-0](https://www.bing.com/th?id=OHR.Carnaval2024_PT-BR2466690213_UHD.jpg)
 ![2025-03-04-1](https://www.bing.com/th?id=OHR.MardiGrasJackson_ZH-CN3456301377_UHD.jpg)
+2025-03-05
+----------------
+![2025-03-05-0](https://www.bing.com/th?id=OHR.SuratThani_ZH-CN4797096558_UHD.jpg)
+![2025-03-05-1](https://www.bing.com/th?id=OHR.CharminarInterior_EN-IN8277108319_UHD.jpg)

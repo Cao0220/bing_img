@@ -4939,3 +4939,6 @@ Bing_img
 ----------------
 ![2025-03-05-0](https://www.bing.com/th?id=OHR.SuratThani_ZH-CN4797096558_UHD.jpg)
 ![2025-03-05-1](https://www.bing.com/th?id=OHR.CharminarInterior_EN-IN8277108319_UHD.jpg)
+2025-03-06
+----------------
+![2025-03-06-0](https://www.bing.com/th?id=OHR.NevadaBigHorns_ZH-CN5987046965_UHD.jpg)

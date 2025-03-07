@@ -4947,3 +4947,7 @@ Bing_img
 ![2025-03-07-0](https://www.bing.com/th?id=OHR.WalterdaleBridge_EN-CA9868203704_UHD.jpg)
 ![2025-03-07-1](https://www.bing.com/th?id=OHR.PlumBlossom_ZH-CN5888621119_UHD.jpg)
 ![2025-03-07-2](https://www.bing.com/th?id=OHR.ChampakaSarasi_IT-IT6538793114_UHD.jpg)
+2025-03-08
+----------------
+![2025-03-08-0](https://www.bing.com/th?id=OHR.WaddenSeaBiosphereReserve_ZH-CN9012125146_UHD.jpg)
+![2025-03-08-1](https://www.bing.com/th?id=OHR.FearlessWomen_JA-JP3446140149_UHD.jpg)

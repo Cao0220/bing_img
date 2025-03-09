@@ -4954,3 +4954,12 @@ Bing_img
 2025-03-09
 ----------------
 ![2025-03-09-0](https://www.bing.com/th?id=OHR.ItalyClock_ZH-CN0846995743_UHD.jpg)
+2025-03-10
+----------------
+![2025-03-10-0](https://www.bing.com/th?id=OHR.NappingLion_ZH-CN1214312983_UHD.jpg)
+![2025-03-10-1](https://www.bing.com/th?id=OHR.BavarianAlpsMariaGern_DE-DE4506132433_UHD.jpg)
+![2025-03-10-2](https://www.bing.com/th?id=OHR.ForumRomanum_ES-ES7963502187_UHD.jpg)
+![2025-03-10-3](https://www.bing.com/th?id=OHR.kingfisherFr_FR-FR6370911716_UHD.jpg)
+![2025-03-10-4](https://www.bing.com/th?id=OHR.KedarkanthaSummit_EN-IN0550105745_UHD.jpg)
+![2025-03-10-5](https://www.bing.com/th?id=OHR.WinterGamesTurin_IT-IT9894957082_UHD.jpg)
+![2025-03-10-6](https://www.bing.com/th?id=OHR.PandaSnow_JA-JP3991253092_UHD.jpg)

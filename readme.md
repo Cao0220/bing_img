@@ -4963,3 +4963,8 @@ Bing_img
 ![2025-03-10-4](https://www.bing.com/th?id=OHR.KedarkanthaSummit_EN-IN0550105745_UHD.jpg)
 ![2025-03-10-5](https://www.bing.com/th?id=OHR.WinterGamesTurin_IT-IT9894957082_UHD.jpg)
 ![2025-03-10-6](https://www.bing.com/th?id=OHR.PandaSnow_JA-JP3991253092_UHD.jpg)
+2025-03-11
+----------------
+![2025-03-11-0](https://www.bing.com/th?id=OHR.AndorinhaodeCascata_PT-BR6572671128_UHD.jpg)
+![2025-03-11-1](https://www.bing.com/th?id=OHR.NusaPenida_ZH-CN4934656933_UHD.jpg)
+![2025-03-11-2](https://www.bing.com/th?id=OHR.TohokuEarthquake2025_JA-JP8965651144_UHD.jpg)

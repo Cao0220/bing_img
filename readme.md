@@ -4968,3 +4968,7 @@ Bing_img
 ![2025-03-11-0](https://www.bing.com/th?id=OHR.AndorinhaodeCascata_PT-BR6572671128_UHD.jpg)
 ![2025-03-11-1](https://www.bing.com/th?id=OHR.NusaPenida_ZH-CN4934656933_UHD.jpg)
 ![2025-03-11-2](https://www.bing.com/th?id=OHR.TohokuEarthquake2025_JA-JP8965651144_UHD.jpg)
+2025-03-12
+----------------
+![2025-03-12-0](https://www.bing.com/th?id=OHR.ChateauLoire_ZH-CN5040147638_UHD.jpg)
+![2025-03-12-1](https://www.bing.com/th?id=OHR.Omizutori2025_JA-JP2990990687_UHD.jpg)

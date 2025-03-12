@@ -4972,3 +4972,6 @@ Bing_img
 ----------------
 ![2025-03-12-0](https://www.bing.com/th?id=OHR.ChateauLoire_ZH-CN5040147638_UHD.jpg)
 ![2025-03-12-1](https://www.bing.com/th?id=OHR.Omizutori2025_JA-JP2990990687_UHD.jpg)
+2025-03-13
+----------------
+![2025-03-13-0](https://www.bing.com/th?id=OHR.HoliColors_ZH-CN2177185823_UHD.jpg)

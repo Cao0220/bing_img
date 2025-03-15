@@ -4984,3 +4984,9 @@ Bing_img
 ----------------
 ![2025-03-15-0](https://www.bing.com/th?id=OHR.ForumRomanum_ZH-CN5873120178_UHD.jpg)
 ![2025-03-15-1](https://www.bing.com/th?id=OHR.NandgaonHoli_EN-IN5066984939_UHD.jpg)
+2025-03-16
+----------------
+![2025-03-16-0](https://www.bing.com/th?id=OHR.WhaleFestival_EN-CA5433600142_UHD.jpg)
+![2025-03-16-1](https://www.bing.com/th?id=OHR.PandaSnow_ZH-CN5981854301_UHD.jpg)
+![2025-03-16-2](https://www.bing.com/th?id=OHR.FallasSpainWomen_ES-ES9361742240_UHD.jpg)
+![2025-03-16-3](https://www.bing.com/th?id=OHR.NusaPenida_JA-JP6740183252_UHD.jpg)

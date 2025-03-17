@@ -4994,3 +4994,6 @@ Bing_img
 ----------------
 ![2025-03-17-0](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2025_ROW7653300959_UHD.jpg)
 ![2025-03-17-1](https://www.bing.com/th?id=OHR.BeckettBridge_ZH-CN6206942429_UHD.jpg)
+2025-03-18
+----------------
+![2025-03-18-0](https://www.bing.com/th?id=OHR.SedonaSpring_ZH-CN6305197600_UHD.jpg)

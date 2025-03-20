@@ -5004,3 +5004,11 @@ Bing_img
 ----------------
 ![2025-03-20-0](https://www.bing.com/th?id=OHR.SpringequinoxY25_ZH-CN1635828827_UHD.jpg)
 ![2025-03-20-1](https://www.bing.com/th?id=OHR.SpringDaffodils_JA-JP0516701335_UHD.jpg)
+2025-03-21
+----------------
+![2025-03-21-0](https://www.bing.com/th?id=OHR.Outono2025_PT-BR0841637921_UHD.jpg)
+![2025-03-21-1](https://www.bing.com/th?id=OHR.DanumValley_ZH-CN5786482012_UHD.jpg)
+![2025-03-21-2](https://www.bing.com/th?id=OHR.SnowdropsSpring_DE-DE6698149221_UHD.jpg)
+![2025-03-21-3](https://www.bing.com/th?id=OHR.PrimaveraSpain_ES-ES9088231028_UHD.jpg)
+![2025-03-21-4](https://www.bing.com/th?id=OHR.FrancophonieDay_FR-FR0580579974_UHD.jpg)
+![2025-03-21-5](https://www.bing.com/th?id=OHR.PrimaveraToscana_IT-IT0074316759_UHD.jpg)

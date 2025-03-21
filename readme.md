@@ -5012,3 +5012,6 @@ Bing_img
 ![2025-03-21-3](https://www.bing.com/th?id=OHR.PrimaveraSpain_ES-ES9088231028_UHD.jpg)
 ![2025-03-21-4](https://www.bing.com/th?id=OHR.FrancophonieDay_FR-FR0580579974_UHD.jpg)
 ![2025-03-21-5](https://www.bing.com/th?id=OHR.PrimaveraToscana_IT-IT0074316759_UHD.jpg)
+2025-03-22
+----------------
+![2025-03-22-0](https://www.bing.com/th?id=OHR.CenoteLilies_ZH-CN5915682591_UHD.jpg)

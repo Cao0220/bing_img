@@ -5023,3 +5023,8 @@ Bing_img
 ----------------
 ![2025-03-24-0](https://www.bing.com/th?id=OHR.AniversarioFlorianopolis_PT-BR1020574641_UHD.jpg)
 ![2025-03-24-1](https://www.bing.com/th?id=OHR.ElephantGrass_ZH-CN7110191053_UHD.jpg)
+2025-03-25
+----------------
+![2025-03-25-0](https://www.bing.com/th?id=OHR.GoldfinchSunflower_ZH-CN7276848190_UHD.jpg)
+![2025-03-25-1](https://www.bing.com/th?id=OHR.PiazzaBologna_IT-IT4343709340_UHD.jpg)
+![2025-03-25-2](https://www.bing.com/th?id=OHR.HobbitHole_JA-JP0242283883_UHD.jpg)

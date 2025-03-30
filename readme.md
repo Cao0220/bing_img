@@ -5048,3 +5048,9 @@ Bing_img
 2025-03-30
 ----------------
 ![2025-03-30-0](https://www.bing.com/th?id=OHR.SydneyHarbour_ZH-CN8119451632_UHD.jpg)
+2025-03-31
+----------------
+![2025-03-31-0](https://www.bing.com/th?id=OHR.ItalyOstuni_ZH-CN8306220080_UHD.jpg)
+![2025-03-31-1](https://www.bing.com/th?id=OHR.AtheneNoctuaGermany_DE-DE4640297200_UHD.jpg)
+![2025-03-31-2](https://www.bing.com/th?id=OHR.ItalyClock_ES-ES6730268051_UHD.jpg)
+![2025-03-31-3](https://www.bing.com/th?id=OHR.Clock_IT-IT7164959440_UHD.jpg)

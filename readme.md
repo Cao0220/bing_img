@@ -5054,3 +5054,7 @@ Bing_img
 ![2025-03-31-1](https://www.bing.com/th?id=OHR.AtheneNoctuaGermany_DE-DE4640297200_UHD.jpg)
 ![2025-03-31-2](https://www.bing.com/th?id=OHR.ItalyClock_ES-ES6730268051_UHD.jpg)
 ![2025-03-31-3](https://www.bing.com/th?id=OHR.Clock_IT-IT7164959440_UHD.jpg)
+2025-04-01
+----------------
+![2025-04-01-0](https://www.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg)
+![2025-04-01-1](https://www.bing.com/th?id=OHR.CherryBlossom2025_JA-JP1573820444_UHD.jpg)

@@ -5058,3 +5058,8 @@ Bing_img
 ----------------
 ![2025-04-01-0](https://www.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg)
 ![2025-04-01-1](https://www.bing.com/th?id=OHR.CherryBlossom2025_JA-JP1573820444_UHD.jpg)
+2025-04-02
+----------------
+![2025-04-02-0](https://www.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg)
+![2025-04-02-1](https://www.bing.com/th?id=OHR.CerezoEnFlor_ES-ES6779922174_UHD.jpg)
+![2025-04-02-2](https://www.bing.com/th?id=OHR.Sawara2025_JA-JP1817975477_UHD.jpg)

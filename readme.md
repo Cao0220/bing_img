@@ -5063,3 +5063,8 @@ Bing_img
 ![2025-04-02-0](https://www.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg)
 ![2025-04-02-1](https://www.bing.com/th?id=OHR.CerezoEnFlor_ES-ES6779922174_UHD.jpg)
 ![2025-04-02-2](https://www.bing.com/th?id=OHR.Sawara2025_JA-JP1817975477_UHD.jpg)
+2025-04-03
+----------------
+![2025-04-03-0](https://www.bing.com/th?id=OHR.CanyonItaimbezinho_PT-BR4970821899_UHD.jpg)
+![2025-04-03-1](https://www.bing.com/th?id=OHR.SaguaroRainbow_ZH-CN0139056375_UHD.jpg)
+![2025-04-03-2](https://www.bing.com/th?id=OHR.WildWolf_FR-FR5843982312_UHD.jpg)

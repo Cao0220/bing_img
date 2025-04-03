@@ -5068,3 +5068,9 @@ Bing_img
 ![2025-04-03-0](https://www.bing.com/th?id=OHR.CanyonItaimbezinho_PT-BR4970821899_UHD.jpg)
 ![2025-04-03-1](https://www.bing.com/th?id=OHR.SaguaroRainbow_ZH-CN0139056375_UHD.jpg)
 ![2025-04-03-2](https://www.bing.com/th?id=OHR.WildWolf_FR-FR5843982312_UHD.jpg)
+2025-04-04
+----------------
+![2025-04-04-0](https://www.bing.com/th?id=OHR.RufousHummingbird_EN-CA2493433576_UHD.jpg)
+![2025-04-04-1](https://www.bing.com/th?id=OHR.QingMingY25_ZH-CN9818431198_UHD.jpg)
+![2025-04-04-2](https://www.bing.com/th?id=OHR.KanyakumariSunrise_EN-IN5756215519_UHD.jpg)
+![2025-04-04-3](https://www.bing.com/th?id=OHR.Qingming2025_JA-JP2915866958_UHD.jpg)

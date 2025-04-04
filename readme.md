@@ -5074,3 +5074,10 @@ Bing_img
 ![2025-04-04-1](https://www.bing.com/th?id=OHR.QingMingY25_ZH-CN9818431198_UHD.jpg)
 ![2025-04-04-2](https://www.bing.com/th?id=OHR.KanyakumariSunrise_EN-IN5756215519_UHD.jpg)
 ![2025-04-04-3](https://www.bing.com/th?id=OHR.Qingming2025_JA-JP2915866958_UHD.jpg)
+2025-04-05
+----------------
+![2025-04-05-0](https://www.bing.com/th?id=OHR.CherryBlossomDC_ROW7816114178_UHD.jpg)
+![2025-04-05-1](https://www.bing.com/th?id=OHR.BhutanMonastery_EN-CA6496050057_UHD.jpg)
+![2025-04-05-2](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_UHD.jpg)
+![2025-04-05-3](https://www.bing.com/th?id=OHR.IKMZLibrary_DE-DE3922270471_UHD.jpg)
+![2025-04-05-4](https://www.bing.com/th?id=OHR.HumayunsTomb_EN-IN9625838128_UHD.jpg)

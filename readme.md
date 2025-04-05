@@ -5081,3 +5081,7 @@ Bing_img
 ![2025-04-05-2](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_UHD.jpg)
 ![2025-04-05-3](https://www.bing.com/th?id=OHR.IKMZLibrary_DE-DE3922270471_UHD.jpg)
 ![2025-04-05-4](https://www.bing.com/th?id=OHR.HumayunsTomb_EN-IN9625838128_UHD.jpg)
+2025-04-06
+----------------
+![2025-04-06-0](https://www.bing.com/th?id=OHR.ShardLondon2025_ZH-CN0722863055_UHD.jpg)
+![2025-04-06-1](https://www.bing.com/th?id=OHR.CastleDay2025_JA-JP3325548053_UHD.jpg)

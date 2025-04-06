@@ -5085,3 +5085,12 @@ Bing_img
 ----------------
 ![2025-04-06-0](https://www.bing.com/th?id=OHR.ShardLondon2025_ZH-CN0722863055_UHD.jpg)
 ![2025-04-06-1](https://www.bing.com/th?id=OHR.CastleDay2025_JA-JP3325548053_UHD.jpg)
+2025-04-07
+----------------
+![2025-04-07-0](https://www.bing.com/th?id=OHR.PeabodyBaltimore_PT-BR0400301029_UHD.jpg)
+![2025-04-07-1](https://www.bing.com/th?id=OHR.YellowWarbler_EN-CA8652491444_UHD.jpg)
+![2025-04-07-2](https://www.bing.com/th?id=OHR.BeaverDay_ZH-CN2889563041_UHD.jpg)
+![2025-04-07-3](https://www.bing.com/th?id=OHR.AsturiasCovadongaSpain_ES-ES8023805515_UHD.jpg)
+![2025-04-07-4](https://www.bing.com/th?id=OHR.TulipsWindmill_FR-FR8201526563_UHD.jpg)
+![2025-04-07-5](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-IN9911189149_UHD.jpg)
+![2025-04-07-6](https://www.bing.com/th?id=OHR.CarbonaraDay_IT-IT2080771090_UHD.jpg)

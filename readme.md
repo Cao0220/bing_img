@@ -5094,3 +5094,8 @@ Bing_img
 ![2025-04-07-4](https://www.bing.com/th?id=OHR.TulipsWindmill_FR-FR8201526563_UHD.jpg)
 ![2025-04-07-5](https://www.bing.com/th?id=OHR.SpottedDolphins_EN-IN9911189149_UHD.jpg)
 ![2025-04-07-6](https://www.bing.com/th?id=OHR.CarbonaraDay_IT-IT2080771090_UHD.jpg)
+2025-04-08
+----------------
+![2025-04-08-0](https://www.bing.com/th?id=OHR.WhistlerSnowboard_EN-CA9156013019_UHD.jpg)
+![2025-04-08-1](https://www.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_UHD.jpg)
+![2025-04-08-2](https://www.bing.com/th?id=OHR.ParoTsechu_JA-JP3717839940_UHD.jpg)

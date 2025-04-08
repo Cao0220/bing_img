@@ -5099,3 +5099,7 @@ Bing_img
 ![2025-04-08-0](https://www.bing.com/th?id=OHR.WhistlerSnowboard_EN-CA9156013019_UHD.jpg)
 ![2025-04-08-1](https://www.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_UHD.jpg)
 ![2025-04-08-2](https://www.bing.com/th?id=OHR.ParoTsechu_JA-JP3717839940_UHD.jpg)
+2025-04-09
+----------------
+![2025-04-09-0](https://www.bing.com/th?id=OHR.PiazzaBologna_ROW8498910662_UHD.jpg)
+![2025-04-09-1](https://www.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_UHD.jpg)

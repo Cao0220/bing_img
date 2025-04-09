@@ -5103,3 +5103,6 @@ Bing_img
 ----------------
 ![2025-04-09-0](https://www.bing.com/th?id=OHR.PiazzaBologna_ROW8498910662_UHD.jpg)
 ![2025-04-09-1](https://www.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_UHD.jpg)
+2025-04-10
+----------------
+![2025-04-10-0](https://www.bing.com/th?id=OHR.LittleFoxes_ZH-CN8622806156_UHD.jpg)

@@ -5109,3 +5109,7 @@ Bing_img
 2025-04-11
 ----------------
 ![2025-04-11-0](https://www.bing.com/th?id=OHR.TulipsWindmill_ZH-CN0665142956_UHD.jpg)
+2025-04-12
+----------------
+![2025-04-12-0](https://www.bing.com/th?id=OHR.SpaceFlight_ZH-CN0927394503_UHD.jpg)
+![2025-04-12-1](https://www.bing.com/th?id=OHR.BookFestival_FR-FR8770789335_UHD.jpg)

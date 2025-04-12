@@ -5113,3 +5113,6 @@ Bing_img
 ----------------
 ![2025-04-12-0](https://www.bing.com/th?id=OHR.SpaceFlight_ZH-CN0927394503_UHD.jpg)
 ![2025-04-12-1](https://www.bing.com/th?id=OHR.BookFestival_FR-FR8770789335_UHD.jpg)
+2025-04-13
+----------------
+![2025-04-13-0](https://www.bing.com/th?id=OHR.ThailandPagodas_ZH-CN1143878296_UHD.jpg)

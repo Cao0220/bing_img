@@ -5116,3 +5116,8 @@ Bing_img
 2025-04-13
 ----------------
 ![2025-04-13-0](https://www.bing.com/th?id=OHR.ThailandPagodas_ZH-CN1143878296_UHD.jpg)
+2025-04-14
+----------------
+![2025-04-14-0](https://www.bing.com/th?id=OHR.AniversarioFortaleza_PT-BR2253033645_UHD.jpg)
+![2025-04-14-1](https://www.bing.com/th?id=OHR.SpottedDolphins_ZH-CN1257100316_UHD.jpg)
+![2025-04-14-2](https://www.bing.com/th?id=OHR.TakayamaFestival2025_JA-JP4780504174_UHD.jpg)

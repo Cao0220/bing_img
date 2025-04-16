@@ -5129,3 +5129,10 @@ Bing_img
 2025-04-16
 ----------------
 ![2025-04-16-0](https://www.bing.com/th?id=OHR.KachinaBridge_ZH-CN3333793502_UHD.jpg)
+2025-04-17
+----------------
+![2025-04-17-0](https://www.bing.com/th?id=OHR.FozdoIguacu2025_PT-BR5499701871_UHD.jpg)
+![2025-04-17-1](https://www.bing.com/th?id=OHR.EcuadorBird_ZH-CN3676173654_UHD.jpg)
+![2025-04-17-2](https://www.bing.com/th?id=OHR.BeachChairsSteinwarder_DE-DE2084587794_UHD.jpg)
+![2025-04-17-3](https://www.bing.com/th?id=OHR.ToulouseBridge_FR-FR3626710676_UHD.jpg)
+![2025-04-17-4](https://www.bing.com/th?id=OHR.MilanSpringCiliegi_IT-IT8049577261_UHD.jpg)

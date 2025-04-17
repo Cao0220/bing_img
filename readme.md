@@ -5136,3 +5136,8 @@ Bing_img
 ![2025-04-17-2](https://www.bing.com/th?id=OHR.BeachChairsSteinwarder_DE-DE2084587794_UHD.jpg)
 ![2025-04-17-3](https://www.bing.com/th?id=OHR.ToulouseBridge_FR-FR3626710676_UHD.jpg)
 ![2025-04-17-4](https://www.bing.com/th?id=OHR.MilanSpringCiliegi_IT-IT8049577261_UHD.jpg)
+2025-04-18
+----------------
+![2025-04-18-0](https://www.bing.com/th?id=OHR.GoremeTurkey_ZH-CN0255739302_UHD.jpg)
+![2025-04-18-1](https://www.bing.com/th?id=OHR.CastroUrdiales_ES-ES0758582290_UHD.jpg)
+![2025-04-18-2](https://www.bing.com/th?id=OHR.PeabodyBaltimore_IT-IT8224367841_UHD.jpg)

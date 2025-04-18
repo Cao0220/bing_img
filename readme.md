@@ -5141,3 +5141,7 @@ Bing_img
 ![2025-04-18-0](https://www.bing.com/th?id=OHR.GoremeTurkey_ZH-CN0255739302_UHD.jpg)
 ![2025-04-18-1](https://www.bing.com/th?id=OHR.CastroUrdiales_ES-ES0758582290_UHD.jpg)
 ![2025-04-18-2](https://www.bing.com/th?id=OHR.PeabodyBaltimore_IT-IT8224367841_UHD.jpg)
+2025-04-19
+----------------
+![2025-04-19-0](https://www.bing.com/th?id=OHR.ZionValley_ZH-CN0611524754_UHD.jpg)
+![2025-04-19-1](https://www.bing.com/th?id=OHR.BelfortLion_FR-FR4338393080_UHD.jpg)

@@ -5145,3 +5145,6 @@ Bing_img
 ----------------
 ![2025-04-19-0](https://www.bing.com/th?id=OHR.ZionValley_ZH-CN0611524754_UHD.jpg)
 ![2025-04-19-1](https://www.bing.com/th?id=OHR.BelfortLion_FR-FR4338393080_UHD.jpg)
+2025-04-20
+----------------
+![2025-04-20-0](https://www.bing.com/th?id=OHR.BunnyLove_ZH-CN1145897965_UHD.jpg)

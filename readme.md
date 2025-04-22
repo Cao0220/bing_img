@@ -5158,3 +5158,7 @@ Bing_img
 ![2025-04-22-0](https://www.bing.com/th?id=OHR.AniversarioBrasilia_PT-BR0404109011_UHD.jpg)
 ![2025-04-22-1](https://www.bing.com/th?id=OHR.YellowstoneSpring_ZH-CN2643482467_UHD.jpg)
 ![2025-04-22-2](https://www.bing.com/th?id=OHR.PitiglianoPasquetta_IT-IT4003845136_UHD.jpg)
+2025-04-23
+----------------
+![2025-04-23-0](https://www.bing.com/th?id=OHR.BeachChairsSteinwarder_ZH-CN2947390092_UHD.jpg)
+![2025-04-23-1](https://www.bing.com/th?id=OHR.GlobeTheatre_JA-JP1842538883_UHD.jpg)

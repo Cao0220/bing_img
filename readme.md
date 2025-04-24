@@ -5166,3 +5166,6 @@ Bing_img
 ----------------
 ![2025-04-24-0](https://www.bing.com/th?id=OHR.KenaiSpires_ZH-CN3045699778_UHD.jpg)
 ![2025-04-24-1](https://www.bing.com/th?id=OHR.CastillayLeonDay_ES-ES9340220273_UHD.jpg)
+2025-04-25
+----------------
+![2025-04-25-0](https://www.bing.com/th?id=OHR.MagellanicPenguin_ZH-CN3177950090_UHD.jpg)

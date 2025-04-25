@@ -5169,3 +5169,7 @@ Bing_img
 2025-04-25
 ----------------
 ![2025-04-25-0](https://www.bing.com/th?id=OHR.MagellanicPenguin_ZH-CN3177950090_UHD.jpg)
+2025-04-26
+----------------
+![2025-04-26-0](https://www.bing.com/th?id=OHR.BrucePeninsula_ZH-CN3258296517_UHD.jpg)
+![2025-04-26-1](https://www.bing.com/th?id=OHR.MaligneLakeJasper_JA-JP2332159486_UHD.jpg)

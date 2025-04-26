@@ -5173,3 +5173,6 @@ Bing_img
 ----------------
 ![2025-04-26-0](https://www.bing.com/th?id=OHR.BrucePeninsula_ZH-CN3258296517_UHD.jpg)
 ![2025-04-26-1](https://www.bing.com/th?id=OHR.MaligneLakeJasper_JA-JP2332159486_UHD.jpg)
+2025-04-27
+----------------
+![2025-04-27-0](https://www.bing.com/th?id=OHR.RedwoodGrove_ZH-CN3339576686_UHD.jpg)

@@ -5176,3 +5176,8 @@ Bing_img
 2025-04-27
 ----------------
 ![2025-04-27-0](https://www.bing.com/th?id=OHR.RedwoodGrove_ZH-CN3339576686_UHD.jpg)
+2025-04-28
+----------------
+![2025-04-28-0](https://www.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_UHD.jpg)
+![2025-04-28-1](https://www.bing.com/th?id=OHR.LuebeckHouses_DE-DE5661377255_UHD.jpg)
+![2025-04-28-2](https://www.bing.com/th?id=OHR.Castildetierra_ES-ES9629386205_UHD.jpg)

@@ -5186,3 +5186,7 @@ Bing_img
 ![2025-04-29-0](https://www.bing.com/th?id=OHR.DunasMaranhenses_PT-BR7731502605_UHD.jpg)
 ![2025-04-29-1](https://www.bing.com/th?id=OHR.GardensVillandry_ZH-CN3660934263_UHD.jpg)
 ![2025-04-29-2](https://www.bing.com/th?id=OHR.LagoDiGardaVillaRomana_IT-IT2119836247_UHD.jpg)
+2025-04-30
+----------------
+![2025-04-30-0](https://www.bing.com/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_UHD.jpg)
+![2025-04-30-1](https://www.bing.com/th?id=OHR.ColtraneBand_JA-JP3450716389_UHD.jpg)

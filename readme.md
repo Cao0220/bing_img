@@ -5190,3 +5190,8 @@ Bing_img
 ----------------
 ![2025-04-30-0](https://www.bing.com/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_UHD.jpg)
 ![2025-04-30-1](https://www.bing.com/th?id=OHR.ColtraneBand_JA-JP3450716389_UHD.jpg)
+2025-05-01
+----------------
+![2025-05-01-0](https://www.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg)
+![2025-05-01-1](https://www.bing.com/th?id=OHR.Pheasant_FR-FR7804669644_UHD.jpg)
+![2025-05-01-2](https://www.bing.com/th?id=OHR.Hachijyuhachi2025_JA-JP6490825826_UHD.jpg)

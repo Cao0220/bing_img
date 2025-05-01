@@ -5195,3 +5195,7 @@ Bing_img
 ![2025-05-01-0](https://www.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg)
 ![2025-05-01-1](https://www.bing.com/th?id=OHR.Pheasant_FR-FR7804669644_UHD.jpg)
 ![2025-05-01-2](https://www.bing.com/th?id=OHR.Hachijyuhachi2025_JA-JP6490825826_UHD.jpg)
+2025-05-02
+----------------
+![2025-05-02-0](https://www.bing.com/th?id=OHR.BrazilHeron_ZH-CN7200229300_UHD.jpg)
+![2025-05-02-1](https://www.bing.com/th?id=OHR.SeaLink_EN-IN8546932125_UHD.jpg)

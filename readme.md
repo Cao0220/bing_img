@@ -5202,3 +5202,8 @@ Bing_img
 2025-05-03
 ----------------
 ![2025-05-03-0](https://www.bing.com/th?id=OHR.ArchesGalaxy_ZH-CN0954505086_UHD.jpg)
+2025-05-04
+----------------
+![2025-05-04-0](https://www.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg)
+![2025-05-04-1](https://www.bing.com/th?id=OHR.SchlossMoritzburg_DE-DE9218601077_UHD.jpg)
+![2025-05-04-2](https://www.bing.com/th?id=OHR.GreeneryDay2025_JA-JP4166384279_UHD.jpg)

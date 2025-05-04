@@ -5207,3 +5207,8 @@ Bing_img
 ![2025-05-04-0](https://www.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg)
 ![2025-05-04-1](https://www.bing.com/th?id=OHR.SchlossMoritzburg_DE-DE9218601077_UHD.jpg)
 ![2025-05-04-2](https://www.bing.com/th?id=OHR.GreeneryDay2025_JA-JP4166384279_UHD.jpg)
+2025-05-05
+----------------
+![2025-05-05-0](https://www.bing.com/th?id=OHR.BeginningofSummer25Y_ZH-CN2000519236_UHD.jpg)
+![2025-05-05-1](https://www.bing.com/th?id=OHR.MysorePalace_EN-IN3228585823_UHD.jpg)
+![2025-05-05-2](https://www.bing.com/th?id=OHR.Koinobori2025_JA-JP0438864566_UHD.jpg)

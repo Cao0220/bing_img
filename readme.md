@@ -5212,3 +5212,10 @@ Bing_img
 ![2025-05-05-0](https://www.bing.com/th?id=OHR.BeginningofSummer25Y_ZH-CN2000519236_UHD.jpg)
 ![2025-05-05-1](https://www.bing.com/th?id=OHR.MysorePalace_EN-IN3228585823_UHD.jpg)
 ![2025-05-05-2](https://www.bing.com/th?id=OHR.Koinobori2025_JA-JP0438864566_UHD.jpg)
+2025-05-06
+----------------
+![2025-05-06-0](https://www.bing.com/th?id=OHR.YohoNP_ROW2748763967_UHD.jpg)
+![2025-05-06-1](https://www.bing.com/th?id=OHR.TorresChile_EN-CA6313308803_UHD.jpg)
+![2025-05-06-2](https://www.bing.com/th?id=OHR.FlyoverNamibia_ZH-CN2114171516_UHD.jpg)
+![2025-05-06-3](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_FR-FR1931273047_UHD.jpg)
+![2025-05-06-4](https://www.bing.com/th?id=OHR.DunluceIreland_EN-IN3454088296_UHD.jpg)

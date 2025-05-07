@@ -5222,3 +5222,7 @@ Bing_img
 2025-05-07
 ----------------
 ![2025-05-07-0](https://www.bing.com/th?id=OHR.SevillaFairMay_ES-ES5278862844_UHD.jpg)
+2025-05-08
+----------------
+![2025-05-08-0](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_ZH-CN2626127533_UHD.jpg)
+![2025-05-08-1](https://www.bing.com/th?id=OHR.RabindraJayantiIN_EN-IN3289019397_UHD.jpg)

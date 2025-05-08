@@ -5226,3 +5226,9 @@ Bing_img
 ----------------
 ![2025-05-08-0](https://www.bing.com/th?id=OHR.RhyoliteDonkeys_ZH-CN2626127533_UHD.jpg)
 ![2025-05-08-1](https://www.bing.com/th?id=OHR.RabindraJayantiIN_EN-IN3289019397_UHD.jpg)
+2025-05-09
+----------------
+![2025-05-09-0](https://www.bing.com/th?id=OHR.DiaNacionalTurismo2025_PT-BR1293599256_UHD.jpg)
+![2025-05-09-1](https://www.bing.com/th?id=OHR.CuteChameleon_ZH-CN5029981236_UHD.jpg)
+![2025-05-09-2](https://www.bing.com/th?id=OHR.VictoryDay_FR-FR8101939030_UHD.jpg)
+![2025-05-09-3](https://www.bing.com/th?id=OHR.BrucePeninsula_JA-JP8286448696_UHD.jpg)

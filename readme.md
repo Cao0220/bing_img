@@ -5232,3 +5232,10 @@ Bing_img
 ![2025-05-09-1](https://www.bing.com/th?id=OHR.CuteChameleon_ZH-CN5029981236_UHD.jpg)
 ![2025-05-09-2](https://www.bing.com/th?id=OHR.VictoryDay_FR-FR8101939030_UHD.jpg)
 ![2025-05-09-3](https://www.bing.com/th?id=OHR.BrucePeninsula_JA-JP8286448696_UHD.jpg)
+2025-05-10
+----------------
+![2025-05-10-0](https://www.bing.com/th?id=OHR.FumacinhaBahia_PT-BR0440078650_UHD.jpg)
+![2025-05-10-1](https://www.bing.com/th?id=OHR.Tulip25Fest_EN-CA8965169062_UHD.jpg)
+![2025-05-10-2](https://www.bing.com/th?id=OHR.Castildetierra_ZH-CN6042529770_UHD.jpg)
+![2025-05-10-3](https://www.bing.com/th?id=OHR.GiroItalia_IT-IT8486738014_UHD.jpg)
+![2025-05-10-4](https://www.bing.com/th?id=OHR.MinnesotaRotunda_JA-JP1387558437_UHD.jpg)

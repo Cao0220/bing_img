@@ -5243,3 +5243,8 @@ Bing_img
 ----------------
 ![2025-05-11-0](https://www.bing.com/th?id=OHR.LeopardMother_ZH-CN6134353524_UHD.jpg)
 ![2025-05-11-1](https://www.bing.com/th?id=OHR.HeidelbergSpring_DE-DE1255336849_UHD.jpg)
+2025-05-12
+----------------
+![2025-05-12-0](https://www.bing.com/th?id=OHR.IrisGarden_ZH-CN6226448882_UHD.jpg)
+![2025-05-12-1](https://www.bing.com/th?id=OHR.TorresChile_FR-FR7071695988_UHD.jpg)
+![2025-05-12-2](https://www.bing.com/th?id=OHR.FestaDellaMammaCigni_IT-IT8623843601_UHD.jpg)

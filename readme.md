@@ -5255,3 +5255,6 @@ Bing_img
 ![2025-05-14-0](https://www.bing.com/th?id=OHR.YohoNP_EN-CA4325092437_UHD.jpg)
 ![2025-05-14-1](https://www.bing.com/th?id=OHR.SardiniaFlavia_ZH-CN6784449568_UHD.jpg)
 ![2025-05-14-2](https://www.bing.com/th?id=OHR.CannesFilmFestival_FR-FR6520718255_UHD.jpg)
+2025-05-15
+----------------
+![2025-05-15-0](https://www.bing.com/th?id=OHR.LondonParliament_ZH-CN7089923691_UHD.jpg)

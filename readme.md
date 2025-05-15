@@ -5258,3 +5258,9 @@ Bing_img
 2025-05-15
 ----------------
 ![2025-05-15-0](https://www.bing.com/th?id=OHR.LondonParliament_ZH-CN7089923691_UHD.jpg)
+2025-05-16
+----------------
+![2025-05-16-0](https://www.bing.com/th?id=OHR.GreenMacaw_ZH-CN3451340204_UHD.jpg)
+![2025-05-16-1](https://www.bing.com/th?id=OHR.SanIsidroMadrid_ES-ES1627425280_UHD.jpg)
+![2025-05-16-2](https://www.bing.com/th?id=OHR.LeopardMother_IT-IT3189476011_UHD.jpg)
+![2025-05-16-3](https://www.bing.com/th?id=OHR.Arashiyama2025_JA-JP6326802936_UHD.jpg)

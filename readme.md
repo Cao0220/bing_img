@@ -5268,3 +5268,8 @@ Bing_img
 ----------------
 ![2025-05-17-0](https://www.bing.com/th?id=OHR.VeniceLagoon_ZH-CN3791408491_UHD.jpg)
 ![2025-05-17-1](https://www.bing.com/th?id=OHR.HawaMahalIN_EN-IN6116640436_UHD.jpg)
+2025-05-18
+----------------
+![2025-05-18-0](https://www.bing.com/th?id=OHR.ToulouseBridge_ZH-CN3930246927_UHD.jpg)
+![2025-05-18-1](https://www.bing.com/th?id=OHR.LaGeriaLanzarote_ES-ES6158465086_UHD.jpg)
+![2025-05-18-2](https://www.bing.com/th?id=OHR.DufyRoom_JA-JP7244878631_UHD.jpg)

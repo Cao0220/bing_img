@@ -5273,3 +5273,7 @@ Bing_img
 ![2025-05-18-0](https://www.bing.com/th?id=OHR.ToulouseBridge_ZH-CN3930246927_UHD.jpg)
 ![2025-05-18-1](https://www.bing.com/th?id=OHR.LaGeriaLanzarote_ES-ES6158465086_UHD.jpg)
 ![2025-05-18-2](https://www.bing.com/th?id=OHR.DufyRoom_JA-JP7244878631_UHD.jpg)
+2025-05-19
+----------------
+![2025-05-19-0](https://www.bing.com/th?id=OHR.MountHamilton_ZH-CN4280549129_UHD.jpg)
+![2025-05-19-1](https://www.bing.com/th?id=OHR.BerlinHistoryMuseum_DE-DE3052163032_UHD.jpg)

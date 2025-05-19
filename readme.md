@@ -5277,3 +5277,10 @@ Bing_img
 ----------------
 ![2025-05-19-0](https://www.bing.com/th?id=OHR.MountHamilton_ZH-CN4280549129_UHD.jpg)
 ![2025-05-19-1](https://www.bing.com/th?id=OHR.BerlinHistoryMuseum_DE-DE3052163032_UHD.jpg)
+2025-05-20
+----------------
+![2025-05-20-0](https://www.bing.com/th?id=OHR.TiradentesMinasGerais_PT-BR9045751128_UHD.jpg)
+![2025-05-20-1](https://www.bing.com/th?id=OHR.Victoria25Day_EN-CA7366662879_UHD.jpg)
+![2025-05-20-2](https://www.bing.com/th?id=OHR.HoneyBeeLavender_ZH-CN4513594236_UHD.jpg)
+![2025-05-20-3](https://www.bing.com/th?id=OHR.RolandGarros_FR-FR5445830165_UHD.jpg)
+![2025-05-20-4](https://www.bing.com/th?id=OHR.OrecchioDiDionisoSiracusa_IT-IT7033157310_UHD.jpg)

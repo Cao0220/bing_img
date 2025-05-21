@@ -5287,3 +5287,6 @@ Bing_img
 2025-05-21
 ----------------
 ![2025-05-21-0](https://www.bing.com/th?id=OHR.SongyangTeaGarden_ZH-CN4763170909_UHD.jpg)
+2025-05-22
+----------------
+![2025-05-22-0](https://www.bing.com/th?id=OHR.BaobabAvenue_ZH-CN5217451344_UHD.jpg)

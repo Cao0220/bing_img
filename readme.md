@@ -5290,3 +5290,6 @@ Bing_img
 2025-05-22
 ----------------
 ![2025-05-22-0](https://www.bing.com/th?id=OHR.BaobabAvenue_ZH-CN5217451344_UHD.jpg)
+2025-05-23
+----------------
+![2025-05-23-0](https://www.bing.com/th?id=OHR.ButterflyTurtle_ZH-CN5706515924_UHD.jpg)

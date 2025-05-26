@@ -5305,3 +5305,9 @@ Bing_img
 ----------------
 ![2025-05-26-0](https://www.bing.com/th?id=OHR.Arashiyama2025_ZH-CN7836747321_UHD.jpg)
 ![2025-05-26-1](https://www.bing.com/th?id=OHR.LeopardMother_FR-FR7857818680_UHD.jpg)
+2025-05-27
+----------------
+![2025-05-27-0](https://www.bing.com/th?id=OHR.MountHamilton_EN-CA6570980527_UHD.jpg)
+![2025-05-27-1](https://www.bing.com/th?id=OHR.MonaValePool_ZH-CN7968271596_UHD.jpg)
+![2025-05-27-2](https://www.bing.com/th?id=OHR.StorksMeadow_FR-FR7891953780_UHD.jpg)
+![2025-05-27-3](https://www.bing.com/th?id=OHR.AgrasenKiBaoli_EN-IN6234444944_UHD.jpg)

@@ -5329,3 +5329,6 @@ Bing_img
 ![2025-05-31-0](https://www.bing.com/th?id=OHR.DuanwuFestivalY25_ZH-CN7343005503_UHD.jpg)
 ![2025-05-31-1](https://www.bing.com/th?id=OHR.CanaryIslandDay_ES-ES5813844536_UHD.jpg)
 ![2025-05-31-2](https://www.bing.com/th?id=OHR.SwedenReserve_JA-JP5195008647_UHD.jpg)
+2025-06-01
+----------------
+![2025-06-01-0](https://www.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_UHD.jpg)

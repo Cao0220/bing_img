@@ -5332,3 +5332,8 @@ Bing_img
 2025-06-01
 ----------------
 ![2025-06-01-0](https://www.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_UHD.jpg)
+2025-06-02
+----------------
+![2025-06-02-0](https://www.bing.com/th?id=OHR.BeginningFestasJuninas_PT-BR8821402766_UHD.jpg)
+![2025-06-02-1](https://www.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_UHD.jpg)
+![2025-06-02-2](https://www.bing.com/th?id=OHR.YokohamaPort2025_JA-JP6222425156_UHD.jpg)

@@ -5337,3 +5337,11 @@ Bing_img
 ![2025-06-02-0](https://www.bing.com/th?id=OHR.BeginningFestasJuninas_PT-BR8821402766_UHD.jpg)
 ![2025-06-02-1](https://www.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_UHD.jpg)
 ![2025-06-02-2](https://www.bing.com/th?id=OHR.YokohamaPort2025_JA-JP6222425156_UHD.jpg)
+2025-06-03
+----------------
+![2025-06-03-0](https://www.bing.com/th?id=OHR.Fogoisland_EN-CA7909293676_UHD.jpg)
+![2025-06-03-1](https://www.bing.com/th?id=OHR.BicyclesUtrecht_ZH-CN8016028978_UHD.jpg)
+![2025-06-03-2](https://www.bing.com/th?id=OHR.ChickAhnepark_DE-DE9261263631_UHD.jpg)
+![2025-06-03-3](https://www.bing.com/th?id=OHR.BloisBridge_FR-FR5822069151_UHD.jpg)
+![2025-06-03-4](https://www.bing.com/th?id=OHR.NewSecretariat_EN-IN9926784114_UHD.jpg)
+![2025-06-03-5](https://www.bing.com/th?id=OHR.RepubblicaGiugnoFesta_IT-IT6228684298_UHD.jpg)

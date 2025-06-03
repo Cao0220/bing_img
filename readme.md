@@ -5345,3 +5345,6 @@ Bing_img
 ![2025-06-03-3](https://www.bing.com/th?id=OHR.BloisBridge_FR-FR5822069151_UHD.jpg)
 ![2025-06-03-4](https://www.bing.com/th?id=OHR.NewSecretariat_EN-IN9926784114_UHD.jpg)
 ![2025-06-03-5](https://www.bing.com/th?id=OHR.RepubblicaGiugnoFesta_IT-IT6228684298_UHD.jpg)
+2025-06-04
+----------------
+![2025-06-04-0](https://www.bing.com/th?id=OHR.CalaLuna_ZH-CN8174946414_UHD.jpg)

@@ -5348,3 +5348,8 @@ Bing_img
 2025-06-04
 ----------------
 ![2025-06-04-0](https://www.bing.com/th?id=OHR.CalaLuna_ZH-CN8174946414_UHD.jpg)
+2025-06-05
+----------------
+![2025-06-05-0](https://www.bing.com/th?id=OHR.SchlossMoritzburg_ROW1385647959_UHD.jpg)
+![2025-06-05-1](https://www.bing.com/th?id=OHR.FumacinhaBahia_ZH-CN9190616593_UHD.jpg)
+![2025-06-05-2](https://www.bing.com/th?id=OHR.OlivaresMural_JA-JP5583290879_UHD.jpg)

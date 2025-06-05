@@ -5353,3 +5353,7 @@ Bing_img
 ![2025-06-05-0](https://www.bing.com/th?id=OHR.SchlossMoritzburg_ROW1385647959_UHD.jpg)
 ![2025-06-05-1](https://www.bing.com/th?id=OHR.FumacinhaBahia_ZH-CN9190616593_UHD.jpg)
 ![2025-06-05-2](https://www.bing.com/th?id=OHR.OlivaresMural_JA-JP5583290879_UHD.jpg)
+2025-06-06
+----------------
+![2025-06-06-0](https://www.bing.com/th?id=OHR.NormandyBeach_ZH-CN9312381737_UHD.jpg)
+![2025-06-06-1](https://www.bing.com/th?id=OHR.FlamingosNamibia_JA-JP5652363702_UHD.jpg)

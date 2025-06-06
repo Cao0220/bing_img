@@ -5357,3 +5357,8 @@ Bing_img
 ----------------
 ![2025-06-06-0](https://www.bing.com/th?id=OHR.NormandyBeach_ZH-CN9312381737_UHD.jpg)
 ![2025-06-06-1](https://www.bing.com/th?id=OHR.FlamingosNamibia_JA-JP5652363702_UHD.jpg)
+2025-06-07
+----------------
+![2025-06-07-0](https://www.bing.com/th?id=OHR.Pheasant_ROW1557701381_UHD.jpg)
+![2025-06-07-1](https://www.bing.com/th?id=OHR.PacificCrestTrail_ZH-CN9582395021_UHD.jpg)
+![2025-06-07-2](https://www.bing.com/th?id=OHR.DubrovnikTwilight_DE-DE7732789552_UHD.jpg)

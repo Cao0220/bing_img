@@ -5362,3 +5362,8 @@ Bing_img
 ![2025-06-07-0](https://www.bing.com/th?id=OHR.Pheasant_ROW1557701381_UHD.jpg)
 ![2025-06-07-1](https://www.bing.com/th?id=OHR.PacificCrestTrail_ZH-CN9582395021_UHD.jpg)
 ![2025-06-07-2](https://www.bing.com/th?id=OHR.DubrovnikTwilight_DE-DE7732789552_UHD.jpg)
+2025-06-08
+----------------
+![2025-06-08-0](https://www.bing.com/th?id=OHR.StellarSeaLions_ZH-CN2859514359_UHD.jpg)
+![2025-06-08-1](https://www.bing.com/th?id=OHR.NuitBlancheParis_FR-FR2686890778_UHD.jpg)
+![2025-06-08-2](https://www.bing.com/th?id=OHR.GadisarLake_EN-IN3675528422_UHD.jpg)

@@ -5375,3 +5375,8 @@ Bing_img
 ![2025-06-10-0](https://www.bing.com/th?id=OHR.AerialEverglades_ZH-CN3388982881_UHD.jpg)
 ![2025-06-10-1](https://www.bing.com/th?id=OHR.MillDetmold_DE-DE6095177325_UHD.jpg)
 ![2025-06-10-2](https://www.bing.com/th?id=OHR.MurciaDay_ES-ES3398985009_UHD.jpg)
+2025-06-11
+----------------
+![2025-06-11-0](https://www.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_UHD.jpg)
+![2025-06-11-1](https://www.bing.com/th?id=OHR.AmalfiCampania_IT-IT5052027567_UHD.jpg)
+![2025-06-11-2](https://www.bing.com/th?id=OHR.Hydrangea2025_JA-JP6293958044_UHD.jpg)

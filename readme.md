@@ -5380,3 +5380,6 @@ Bing_img
 ![2025-06-11-0](https://www.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_UHD.jpg)
 ![2025-06-11-1](https://www.bing.com/th?id=OHR.AmalfiCampania_IT-IT5052027567_UHD.jpg)
 ![2025-06-11-2](https://www.bing.com/th?id=OHR.Hydrangea2025_JA-JP6293958044_UHD.jpg)
+2025-06-12
+----------------
+![2025-06-12-0](https://www.bing.com/th?id=OHR.BigBendChisos_ZH-CN3794880768_UHD.jpg)

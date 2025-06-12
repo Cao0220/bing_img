@@ -5383,3 +5383,7 @@ Bing_img
 2025-06-12
 ----------------
 ![2025-06-12-0](https://www.bing.com/th?id=OHR.BigBendChisos_ZH-CN3794880768_UHD.jpg)
+2025-06-13
+----------------
+![2025-06-13-0](https://www.bing.com/th?id=OHR.DiaDosNamoradosMacaws_PT-BR5812210481_UHD.jpg)
+![2025-06-13-1](https://www.bing.com/th?id=OHR.SanMiguelAzores_ZH-CN2511982585_UHD.jpg)

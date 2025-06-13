@@ -5387,3 +5387,8 @@ Bing_img
 ----------------
 ![2025-06-13-0](https://www.bing.com/th?id=OHR.DiaDosNamoradosMacaws_PT-BR5812210481_UHD.jpg)
 ![2025-06-13-1](https://www.bing.com/th?id=OHR.SanMiguelAzores_ZH-CN2511982585_UHD.jpg)
+2025-06-14
+----------------
+![2025-06-14-0](https://www.bing.com/th?id=OHR.CanadianGPQuebec_EN-CA4428568673_UHD.jpg)
+![2025-06-14-1](https://www.bing.com/th?id=OHR.DolomitiEstate_ZH-CN6501271709_UHD.jpg)
+![2025-06-14-2](https://www.bing.com/th?id=OHR.NikkoToshoguShrine_JA-JP2939521159_UHD.jpg)

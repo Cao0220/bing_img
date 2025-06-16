@@ -5399,3 +5399,6 @@ Bing_img
 ----------------
 ![2025-06-16-0](https://www.bing.com/th?id=OHR.SeaTurtleBrazil_ZH-CN6907161064_UHD.jpg)
 ![2025-06-16-1](https://www.bing.com/th?id=OHR.WatertowerMannheim_DE-DE8334179684_UHD.jpg)
+2025-06-17
+----------------
+![2025-06-17-0](https://www.bing.com/th?id=OHR.CumberlandOaks_ZH-CN7265906780_UHD.jpg)

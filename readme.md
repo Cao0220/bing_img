@@ -5402,3 +5402,6 @@ Bing_img
 2025-06-17
 ----------------
 ![2025-06-17-0](https://www.bing.com/th?id=OHR.CumberlandOaks_ZH-CN7265906780_UHD.jpg)
+2025-06-18
+----------------
+![2025-06-18-0](https://www.bing.com/th?id=OHR.AsianSwallowtail_ZH-CN7442263508_UHD.jpg)

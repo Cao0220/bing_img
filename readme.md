@@ -5405,3 +5405,7 @@ Bing_img
 2025-06-18
 ----------------
 ![2025-06-18-0](https://www.bing.com/th?id=OHR.AsianSwallowtail_ZH-CN7442263508_UHD.jpg)
+2025-06-19
+----------------
+![2025-06-19-0](https://www.bing.com/th?id=OHR.WinterBegins_ZH-CN7638411804_UHD.jpg)
+![2025-06-19-1](https://www.bing.com/th?id=OHR.FireflySeason2025_JA-JP3057846302_UHD.jpg)

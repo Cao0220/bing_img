@@ -5409,3 +5409,8 @@ Bing_img
 ----------------
 ![2025-06-19-0](https://www.bing.com/th?id=OHR.WinterBegins_ZH-CN7638411804_UHD.jpg)
 ![2025-06-19-1](https://www.bing.com/th?id=OHR.FireflySeason2025_JA-JP3057846302_UHD.jpg)
+2025-06-20
+----------------
+![2025-06-20-0](https://www.bing.com/th?id=OHR.IcelandSolstice_PT-BR2763816413_UHD.jpg)
+![2025-06-20-1](https://www.bing.com/th?id=OHR.SanMiguelAzores_EN-CA7375629918_UHD.jpg)
+![2025-06-20-2](https://www.bing.com/th?id=OHR.SerengetiGiraffe_ZH-CN2613013393_UHD.jpg)

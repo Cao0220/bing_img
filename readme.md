@@ -5414,3 +5414,7 @@ Bing_img
 ![2025-06-20-0](https://www.bing.com/th?id=OHR.IcelandSolstice_PT-BR2763816413_UHD.jpg)
 ![2025-06-20-1](https://www.bing.com/th?id=OHR.SanMiguelAzores_EN-CA7375629918_UHD.jpg)
 ![2025-06-20-2](https://www.bing.com/th?id=OHR.SerengetiGiraffe_ZH-CN2613013393_UHD.jpg)
+2025-06-21
+----------------
+![2025-06-21-0](https://www.bing.com/th?id=OHR.SummerSolsticeY25_ZH-CN2728972774_UHD.jpg)
+![2025-06-21-1](https://www.bing.com/th?id=OHR.SaleTrapani_IT-IT6306427374_UHD.jpg)

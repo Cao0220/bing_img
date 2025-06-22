@@ -5424,3 +5424,6 @@ Bing_img
 ![2025-06-22-1](https://www.bing.com/th?id=OHR.WorldTriathlonMultisport_ES-ES0689492688_UHD.jpg)
 ![2025-06-22-2](https://www.bing.com/th?id=OHR.AntibesMusic_FR-FR0026620746_UHD.jpg)
 ![2025-06-22-3](https://www.bing.com/th?id=OHR.LakshmanJhula_EN-IN9788352654_UHD.jpg)
+2025-06-23
+----------------
+![2025-06-23-0](https://www.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg)

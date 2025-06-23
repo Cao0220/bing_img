@@ -5427,3 +5427,7 @@ Bing_img
 2025-06-23
 ----------------
 ![2025-06-23-0](https://www.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg)
+2025-06-24
+----------------
+![2025-06-24-0](https://www.bing.com/th?id=OHR.DelicateArch_ZH-CN8971667580_UHD.jpg)
+![2025-06-24-1](https://www.bing.com/th?id=OHR.CalaIbiza_ES-ES1129716294_UHD.jpg)

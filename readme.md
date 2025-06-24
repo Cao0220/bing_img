@@ -5431,3 +5431,9 @@ Bing_img
 ----------------
 ![2025-06-24-0](https://www.bing.com/th?id=OHR.DelicateArch_ZH-CN8971667580_UHD.jpg)
 ![2025-06-24-1](https://www.bing.com/th?id=OHR.CalaIbiza_ES-ES1129716294_UHD.jpg)
+2025-06-25
+----------------
+![2025-06-25-0](https://www.bing.com/th?id=OHR.Araraquara_PT-BR8567454542_UHD.jpg)
+![2025-06-25-1](https://www.bing.com/th?id=OHR.GlastonburyScenic_ZH-CN9162571249_UHD.jpg)
+![2025-06-25-2](https://www.bing.com/th?id=OHR.ScenicEibsee_DE-DE0418956156_UHD.jpg)
+![2025-06-25-3](https://www.bing.com/th?id=OHR.BolozonViaduct_FR-FR0653638254_UHD.jpg)

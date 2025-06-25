@@ -5437,3 +5437,6 @@ Bing_img
 ![2025-06-25-1](https://www.bing.com/th?id=OHR.GlastonburyScenic_ZH-CN9162571249_UHD.jpg)
 ![2025-06-25-2](https://www.bing.com/th?id=OHR.ScenicEibsee_DE-DE0418956156_UHD.jpg)
 ![2025-06-25-3](https://www.bing.com/th?id=OHR.BolozonViaduct_FR-FR0653638254_UHD.jpg)
+2025-06-26
+----------------
+![2025-06-26-0](https://www.bing.com/th?id=OHR.HorseheadRock_ZH-CN9319651125_UHD.jpg)

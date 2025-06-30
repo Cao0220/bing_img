@@ -5452,3 +5452,6 @@ Bing_img
 2025-06-30
 ----------------
 ![2025-06-30-0](https://www.bing.com/th?id=OHR.WolfeCrater_ZH-CN1652906326_UHD.jpg)
+2025-07-01
+----------------
+![2025-07-01-0](https://www.bing.com/th?id=OHR.CanadaDayFogo_ZH-CN2593963748_UHD.jpg)

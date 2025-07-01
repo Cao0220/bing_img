@@ -5455,3 +5455,9 @@ Bing_img
 2025-07-01
 ----------------
 ![2025-07-01-0](https://www.bing.com/th?id=OHR.CanadaDayFogo_ZH-CN2593963748_UHD.jpg)
+2025-07-02
+----------------
+![2025-07-02-0](https://www.bing.com/th?id=OHR.Canada25Day_EN-CA2287928069_UHD.jpg)
+![2025-07-02-1](https://www.bing.com/th?id=OHR.MaroonClownfish_ZH-CN5071934692_UHD.jpg)
+![2025-07-02-2](https://www.bing.com/th?id=OHR.ButterflyPurpleFlower_FR-FR7407948243_UHD.jpg)
+![2025-07-02-3](https://www.bing.com/th?id=OHR.KeralaHouseboats_EN-IN3537088049_UHD.jpg)

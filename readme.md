@@ -5461,3 +5461,9 @@ Bing_img
 ![2025-07-02-1](https://www.bing.com/th?id=OHR.MaroonClownfish_ZH-CN5071934692_UHD.jpg)
 ![2025-07-02-2](https://www.bing.com/th?id=OHR.ButterflyPurpleFlower_FR-FR7407948243_UHD.jpg)
 ![2025-07-02-3](https://www.bing.com/th?id=OHR.KeralaHouseboats_EN-IN3537088049_UHD.jpg)
+2025-07-03
+----------------
+![2025-07-03-0](https://www.bing.com/th?id=OHR.RainbowRiver_ZH-CN5320095849_UHD.jpg)
+![2025-07-03-1](https://www.bing.com/th?id=OHR.CalwMarketsquare_DE-DE9027821635_UHD.jpg)
+![2025-07-03-2](https://www.bing.com/th?id=OHR.TarragonaFireworks_ES-ES2035632810_UHD.jpg)
+![2025-07-03-3](https://www.bing.com/th?id=OHR.PalioDiSiena_IT-IT2319808114_UHD.jpg)

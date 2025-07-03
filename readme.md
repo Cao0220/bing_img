@@ -5467,3 +5467,7 @@ Bing_img
 ![2025-07-03-1](https://www.bing.com/th?id=OHR.CalwMarketsquare_DE-DE9027821635_UHD.jpg)
 ![2025-07-03-2](https://www.bing.com/th?id=OHR.TarragonaFireworks_ES-ES2035632810_UHD.jpg)
 ![2025-07-03-3](https://www.bing.com/th?id=OHR.PalioDiSiena_IT-IT2319808114_UHD.jpg)
+2025-07-04
+----------------
+![2025-07-04-0](https://www.bing.com/th?id=OHR.OroseiSardegna_ZH-CN5789138034_UHD.jpg)
+![2025-07-04-1](https://www.bing.com/th?id=OHR.SecedaPeak_JA-JP7772253981_UHD.jpg)

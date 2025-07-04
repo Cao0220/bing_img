@@ -5471,3 +5471,8 @@ Bing_img
 ----------------
 ![2025-07-04-0](https://www.bing.com/th?id=OHR.OroseiSardegna_ZH-CN5789138034_UHD.jpg)
 ![2025-07-04-1](https://www.bing.com/th?id=OHR.SecedaPeak_JA-JP7772253981_UHD.jpg)
+2025-07-05
+----------------
+![2025-07-05-0](https://www.bing.com/th?id=OHR.EchinaceaButterfly_EN-CA7402334180_UHD.jpg)
+![2025-07-05-1](https://www.bing.com/th?id=OHR.BolozonViaduct_ZH-CN6408632524_UHD.jpg)
+![2025-07-05-2](https://www.bing.com/th?id=OHR.TourCyclists_JA-JP7957952597_UHD.jpg)

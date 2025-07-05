@@ -5476,3 +5476,6 @@ Bing_img
 ![2025-07-05-0](https://www.bing.com/th?id=OHR.EchinaceaButterfly_EN-CA7402334180_UHD.jpg)
 ![2025-07-05-1](https://www.bing.com/th?id=OHR.BolozonViaduct_ZH-CN6408632524_UHD.jpg)
 ![2025-07-05-2](https://www.bing.com/th?id=OHR.TourCyclists_JA-JP7957952597_UHD.jpg)
+2025-07-06
+----------------
+![2025-07-06-0](https://www.bing.com/th?id=OHR.MesquiteFlats_ZH-CN7152959188_UHD.jpg)

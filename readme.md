@@ -5484,3 +5484,7 @@ Bing_img
 ![2025-07-07-0](https://www.bing.com/th?id=OHR.LuzTrainStation_PT-BR2740667890_UHD.jpg)
 ![2025-07-07-1](https://www.bing.com/th?id=OHR.ShetlandGannets_ZH-CN7279521125_UHD.jpg)
 ![2025-07-07-2](https://www.bing.com/th?id=OHR.Tanabata2025_JA-JP0218360290_UHD.jpg)
+2025-07-08
+----------------
+![2025-07-08-0](https://www.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_UHD.jpg)
+![2025-07-08-1](https://www.bing.com/th?id=OHR.WheatFields2025_JA-JP0694604988_UHD.jpg)

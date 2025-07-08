@@ -5488,3 +5488,8 @@ Bing_img
 ----------------
 ![2025-07-08-0](https://www.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_UHD.jpg)
 ![2025-07-08-1](https://www.bing.com/th?id=OHR.WheatFields2025_JA-JP0694604988_UHD.jpg)
+2025-07-09
+----------------
+![2025-07-09-0](https://www.bing.com/th?id=OHR.NationalScienceDay_PT-BR3314898058_UHD.jpg)
+![2025-07-09-1](https://www.bing.com/th?id=OHR.ConstitucionStation_ZH-CN7962568053_UHD.jpg)
+![2025-07-09-2](https://www.bing.com/th?id=OHR.BaieSomme_FR-FR5529600506_UHD.jpg)

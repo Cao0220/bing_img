@@ -5500,3 +5500,6 @@ Bing_img
 ----------------
 ![2025-07-11-0](https://www.bing.com/th?id=OHR.TokyoSunrise_ZH-CN0091906710_UHD.jpg)
 ![2025-07-11-1](https://www.bing.com/th?id=OHR.LordBuddha_EN-IN7435610826_UHD.jpg)
+2025-07-12
+----------------
+![2025-07-12-0](https://www.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg)

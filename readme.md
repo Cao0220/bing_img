@@ -5507,3 +5507,6 @@ Bing_img
 ----------------
 ![2025-07-13-0](https://www.bing.com/th?id=OHR.BasaltColumns_ZH-CN0743036217_UHD.jpg)
 ![2025-07-13-1](https://www.bing.com/th?id=OHR.RibadesellaSummer_ES-ES5366585834_UHD.jpg)
+2025-07-14
+----------------
+![2025-07-14-0](https://www.bing.com/th?id=OHR.YoungShark_ZH-CN0887374663_UHD.jpg)

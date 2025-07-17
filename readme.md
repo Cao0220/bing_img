@@ -5522,3 +5522,9 @@ Bing_img
 ![2025-07-16-2](https://www.bing.com/th?id=OHR.MuchalindaLake_EN-IN3808425098_UHD.jpg)
 2025-07-17
 ----------------
+2025-07-18
+----------------
+![2025-07-18-0](https://www.bing.com/th?id=OHR.IcelandSolstice_ZH-CN6073168622_UHD.jpg)
+![2025-07-18-1](https://www.bing.com/th?id=OHR.LavenderWesterhever_DE-DE1062458785_UHD.jpg)
+![2025-07-18-2](https://www.bing.com/th?id=OHR.PerseidasAragon_ES-ES4625376331_UHD.jpg)
+![2025-07-18-3](https://www.bing.com/th?id=OHR.DolomitiEstate_JA-JP1752445418_UHD.jpg)

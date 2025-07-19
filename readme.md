@@ -5540,3 +5540,10 @@ Bing_img
 ![2025-07-19-7](https://www.bing.com/th?id=OHR.BahamaBlues_EN-IN1616548748_UHD.jpg)
 ![2025-07-19-8](https://www.bing.com/th?id=OHR.MonaValePool_IT-IT0291843782_UHD.jpg)
 ![2025-07-19-9](https://www.bing.com/th?id=OHR.VaticanCity_JA-JP3107889250_UHD.jpg)
+2025-07-20
+----------------
+![2025-07-20-0](https://www.bing.com/th?id=OHR.MothWeek_ROW9542610307_UHD.jpg)
+![2025-07-20-1](https://www.bing.com/th?id=OHR.NationalSoccerDay_PT-BR3956559362_UHD.jpg)
+![2025-07-20-2](https://www.bing.com/th?id=OHR.SimcoeLighthouse_EN-CA4989806848_UHD.jpg)
+![2025-07-20-3](https://www.bing.com/th?id=OHR.BigMoon_ZH-CN2508603883_UHD.jpg)
+![2025-07-20-4](https://www.bing.com/th?id=OHR.Saumur_FR-FR4957130952_UHD.jpg)

@@ -5547,3 +5547,7 @@ Bing_img
 ![2025-07-20-2](https://www.bing.com/th?id=OHR.SimcoeLighthouse_EN-CA4989806848_UHD.jpg)
 ![2025-07-20-3](https://www.bing.com/th?id=OHR.BigMoon_ZH-CN2508603883_UHD.jpg)
 ![2025-07-20-4](https://www.bing.com/th?id=OHR.Saumur_FR-FR4957130952_UHD.jpg)
+2025-07-21
+----------------
+![2025-07-21-0](https://www.bing.com/th?id=OHR.AcroporaReef_ZH-CN2622120276_UHD.jpg)
+![2025-07-21-1](https://www.bing.com/th?id=OHR.MarineDay2025_JA-JP8195760967_UHD.jpg)

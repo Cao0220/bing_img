@@ -5551,3 +5551,7 @@ Bing_img
 ----------------
 ![2025-07-21-0](https://www.bing.com/th?id=OHR.AcroporaReef_ZH-CN2622120276_UHD.jpg)
 ![2025-07-21-1](https://www.bing.com/th?id=OHR.MarineDay2025_JA-JP8195760967_UHD.jpg)
+2025-07-22
+----------------
+![2025-07-22-0](https://www.bing.com/th?id=OHR.GreatHeatY25_ZH-CN8252122347_UHD.jpg)
+![2025-07-22-1](https://www.bing.com/th?id=OHR.BadlandsSunset_JA-JP4206808892_UHD.jpg)

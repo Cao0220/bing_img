@@ -5555,3 +5555,9 @@ Bing_img
 ----------------
 ![2025-07-22-0](https://www.bing.com/th?id=OHR.GreatHeatY25_ZH-CN8252122347_UHD.jpg)
 ![2025-07-22-1](https://www.bing.com/th?id=OHR.BadlandsSunset_JA-JP4206808892_UHD.jpg)
+2025-07-23
+----------------
+![2025-07-23-0](https://www.bing.com/th?id=OHR.EucaliptoSC_PT-BR8170247706_UHD.jpg)
+![2025-07-23-1](https://www.bing.com/th?id=OHR.VaticanCity_ZH-CN3075109504_UHD.jpg)
+![2025-07-23-2](https://www.bing.com/th?id=OHR.ThomsonGazelle_ES-ES5485485713_UHD.jpg)
+![2025-07-23-3](https://www.bing.com/th?id=OHR.GionFestival2025_JA-JP8597633874_UHD.jpg)

@@ -5565,3 +5565,9 @@ Bing_img
 ----------------
 ![2025-07-24-0](https://www.bing.com/th?id=OHR.AshyWoodswallow_ZH-CN3224168805_UHD.jpg)
 ![2025-07-24-1](https://www.bing.com/th?id=OHR.AlassioLiguria_IT-IT1114546774_UHD.jpg)
+2025-07-25
+----------------
+![2025-07-25-0](https://www.bing.com/th?id=OHR.LasPalmas_ZH-CN5993442425_UHD.jpg)
+![2025-07-25-1](https://www.bing.com/th?id=OHR.BayreuthTheatre_DE-DE1209418300_UHD.jpg)
+![2025-07-25-2](https://www.bing.com/th?id=OHR.PerseidsPine_ES-ES6515069919_UHD.jpg)
+![2025-07-25-3](https://www.bing.com/th?id=OHR.AdalajStepwell_EN-IN5898657988_UHD.jpg)

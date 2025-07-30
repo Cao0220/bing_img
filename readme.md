@@ -5590,3 +5590,7 @@ Bing_img
 ----------------
 ![2025-07-30-0](https://www.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_UHD.jpg)
 ![2025-07-30-1](https://www.bing.com/th?id=OHR.SaypeDubai_JA-JP1584990235_UHD.jpg)
+2025-07-31
+----------------
+![2025-07-31-0](https://www.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_UHD.jpg)
+![2025-07-31-1](https://www.bing.com/th?id=OHR.AgraFortInside_EN-IN8393128269_UHD.jpg)

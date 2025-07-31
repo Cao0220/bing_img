@@ -5594,3 +5594,6 @@ Bing_img
 ----------------
 ![2025-07-31-0](https://www.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_UHD.jpg)
 ![2025-07-31-1](https://www.bing.com/th?id=OHR.AgraFortInside_EN-IN8393128269_UHD.jpg)
+2025-08-01
+----------------
+![2025-08-01-0](https://www.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg)

@@ -5597,3 +5597,7 @@ Bing_img
 2025-08-01
 ----------------
 ![2025-08-01-0](https://www.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg)
+2025-08-02
+----------------
+![2025-08-02-0](https://www.bing.com/th?id=OHR.FruitaPetroglyphs_ZH-CN5423905955_UHD.jpg)
+![2025-08-02-1](https://www.bing.com/th?id=OHR.LorientCeltic_FR-FR1271228559_UHD.jpg)

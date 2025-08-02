@@ -5601,3 +5601,10 @@ Bing_img
 ----------------
 ![2025-08-02-0](https://www.bing.com/th?id=OHR.FruitaPetroglyphs_ZH-CN5423905955_UHD.jpg)
 ![2025-08-02-1](https://www.bing.com/th?id=OHR.LorientCeltic_FR-FR1271228559_UHD.jpg)
+2025-08-03
+----------------
+![2025-08-03-0](https://www.bing.com/th?id=OHR.RotatoriaLetras_PT-BR3269837053_UHD.jpg)
+![2025-08-03-1](https://www.bing.com/th?id=OHR.HappySunflower_ZH-CN5840993161_UHD.jpg)
+![2025-08-03-2](https://www.bing.com/th?id=OHR.HerrenhaeuserHannover_DE-DE9700830017_UHD.jpg)
+![2025-08-03-3](https://www.bing.com/th?id=OHR.MallorcaSumerYacht_ES-ES6937239924_UHD.jpg)
+![2025-08-03-4](https://www.bing.com/th?id=OHR.HirosakiNeputaFestival2025_JA-JP2869487998_UHD.jpg)

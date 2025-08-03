@@ -5608,3 +5608,7 @@ Bing_img
 ![2025-08-03-2](https://www.bing.com/th?id=OHR.HerrenhaeuserHannover_DE-DE9700830017_UHD.jpg)
 ![2025-08-03-3](https://www.bing.com/th?id=OHR.MallorcaSumerYacht_ES-ES6937239924_UHD.jpg)
 ![2025-08-03-4](https://www.bing.com/th?id=OHR.HirosakiNeputaFestival2025_JA-JP2869487998_UHD.jpg)
+2025-08-04
+----------------
+![2025-08-04-0](https://www.bing.com/th?id=OHR.DiaCapoeirista_PT-BR1567987361_UHD.jpg)
+![2025-08-04-1](https://www.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg)

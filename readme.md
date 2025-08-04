@@ -5612,3 +5612,7 @@ Bing_img
 ----------------
 ![2025-08-04-0](https://www.bing.com/th?id=OHR.DiaCapoeirista_PT-BR1567987361_UHD.jpg)
 ![2025-08-04-1](https://www.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg)
+2025-08-05
+----------------
+![2025-08-05-0](https://www.bing.com/th?id=OHR.CaliforniaTidepool_ZH-CN6273815361_UHD.jpg)
+![2025-08-05-1](https://www.bing.com/th?id=OHR.BlackfinBarracuda_IT-IT1143705457_UHD.jpg)

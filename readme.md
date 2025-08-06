@@ -5621,3 +5621,7 @@ Bing_img
 ![2025-08-06-0](https://www.bing.com/th?id=OHR.BabyLemur_ZH-CN6617977758_UHD.jpg)
 ![2025-08-06-1](https://www.bing.com/th?id=OHR.PoppyfieldAdelschlag_DE-DE8788732067_UHD.jpg)
 ![2025-08-06-2](https://www.bing.com/th?id=OHR.HiroshimaPeace2025_JA-JP3351733972_UHD.jpg)
+2025-08-07
+----------------
+![2025-08-07-0](https://www.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_UHD.jpg)
+![2025-08-07-1](https://www.bing.com/th?id=OHR.RuotaRimini_IT-IT1297102060_UHD.jpg)

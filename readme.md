@@ -5625,3 +5625,8 @@ Bing_img
 ----------------
 ![2025-08-07-0](https://www.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_UHD.jpg)
 ![2025-08-07-1](https://www.bing.com/th?id=OHR.RuotaRimini_IT-IT1297102060_UHD.jpg)
+2025-08-08
+----------------
+![2025-08-08-0](https://www.bing.com/th?id=OHR.MinganWonders_EN-CA5648384478_UHD.jpg)
+![2025-08-08-1](https://www.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_UHD.jpg)
+![2025-08-08-2](https://www.bing.com/th?id=OHR.MalshejGhat_EN-IN3001069579_UHD.jpg)

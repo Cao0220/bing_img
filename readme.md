@@ -5633,3 +5633,10 @@ Bing_img
 2025-08-09
 ----------------
 ![2025-08-09-0](https://www.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_UHD.jpg)
+2025-08-10
+----------------
+![2025-08-10-0](https://www.bing.com/th?id=OHR.RotatoriaLetras_ROW3601160329_UHD.jpg)
+![2025-08-10-1](https://www.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_UHD.jpg)
+![2025-08-10-2](https://www.bing.com/th?id=OHR.RhineFirework_DE-DE3111105918_UHD.jpg)
+![2025-08-10-3](https://www.bing.com/th?id=OHR.SanSebastianBigWeek_ES-ES3382774844_UHD.jpg)
+![2025-08-10-4](https://www.bing.com/th?id=OHR.RakhiRice_EN-IN3504050150_UHD.jpg)

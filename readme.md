@@ -5640,3 +5640,8 @@ Bing_img
 ![2025-08-10-2](https://www.bing.com/th?id=OHR.RhineFirework_DE-DE3111105918_UHD.jpg)
 ![2025-08-10-3](https://www.bing.com/th?id=OHR.SanSebastianBigWeek_ES-ES3382774844_UHD.jpg)
 ![2025-08-10-4](https://www.bing.com/th?id=OHR.RakhiRice_EN-IN3504050150_UHD.jpg)
+2025-08-11
+----------------
+![2025-08-11-0](https://www.bing.com/th?id=OHR.DiaPais_PT-BR3238446689_UHD.jpg)
+![2025-08-11-1](https://www.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_UHD.jpg)
+![2025-08-11-2](https://www.bing.com/th?id=OHR.MountainDay2025_JA-JP4443243001_UHD.jpg)

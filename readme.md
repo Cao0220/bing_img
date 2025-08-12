@@ -5649,3 +5649,6 @@ Bing_img
 ----------------
 ![2025-08-12-0](https://www.bing.com/th?id=OHR.KenyaElephants_ZH-CN7587207512_UHD.jpg)
 ![2025-08-12-1](https://www.bing.com/th?id=OHR.StelleSanLorenzo_IT-IT2737058274_UHD.jpg)
+2025-08-13
+----------------
+![2025-08-13-0](https://www.bing.com/th?id=OHR.CoronaArch_ZH-CN5406267193_UHD.jpg)

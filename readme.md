@@ -5652,3 +5652,9 @@ Bing_img
 2025-08-13
 ----------------
 ![2025-08-13-0](https://www.bing.com/th?id=OHR.CoronaArch_ZH-CN5406267193_UHD.jpg)
+2025-08-14
+----------------
+![2025-08-14-0](https://www.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_UHD.jpg)
+![2025-08-14-1](https://www.bing.com/th?id=OHR.MaoriRock_ES-ES4316358547_UHD.jpg)
+![2025-08-14-2](https://www.bing.com/th?id=OHR.Flamingos_FR-FR9616625186_UHD.jpg)
+![2025-08-14-3](https://www.bing.com/th?id=OHR.SantaMaddalena_IT-IT2896067117_UHD.jpg)

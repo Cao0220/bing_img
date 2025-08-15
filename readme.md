@@ -5661,3 +5661,10 @@ Bing_img
 2025-08-15
 ----------------
 ![2025-08-15-0](https://www.bing.com/th?id=OHR.SpottedEagleRay_ZH-CN9894613260_UHD.jpg)
+2025-08-16
+----------------
+![2025-08-16-0](https://www.bing.com/th?id=OHR.CNExhibit_EN-CA7387294969_UHD.jpg)
+![2025-08-16-1](https://www.bing.com/th?id=OHR.ColorfulBeehives_ZH-CN0180195770_UHD.jpg)
+![2025-08-16-2](https://www.bing.com/th?id=OHR.RefFort2025_EN-IN3018612282_UHD.jpg)
+![2025-08-16-3](https://www.bing.com/th?id=OHR.LaMaddalenaSardegna_IT-IT3035454950_UHD.jpg)
+![2025-08-16-4](https://www.bing.com/th?id=OHR.Okuribi2025_JA-JP4621795615_UHD.jpg)

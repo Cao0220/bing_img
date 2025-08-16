@@ -5668,3 +5668,7 @@ Bing_img
 ![2025-08-16-2](https://www.bing.com/th?id=OHR.RefFort2025_EN-IN3018612282_UHD.jpg)
 ![2025-08-16-3](https://www.bing.com/th?id=OHR.LaMaddalenaSardegna_IT-IT3035454950_UHD.jpg)
 ![2025-08-16-4](https://www.bing.com/th?id=OHR.Okuribi2025_JA-JP4621795615_UHD.jpg)
+2025-08-17
+----------------
+![2025-08-17-0](https://www.bing.com/th?id=OHR.LyngvigLighthouse_ZH-CN0836204503_UHD.jpg)
+![2025-08-17-1](https://www.bing.com/th?id=OHR.KiteFrejus_FR-FR4833953629_UHD.jpg)

@@ -5672,3 +5672,7 @@ Bing_img
 ----------------
 ![2025-08-17-0](https://www.bing.com/th?id=OHR.LyngvigLighthouse_ZH-CN0836204503_UHD.jpg)
 ![2025-08-17-1](https://www.bing.com/th?id=OHR.KiteFrejus_FR-FR4833953629_UHD.jpg)
+2025-08-18
+----------------
+![2025-08-18-0](https://www.bing.com/th?id=OHR.Jeribeach_PT-BR3080165878_UHD.jpg)
+![2025-08-18-1](https://www.bing.com/th?id=OHR.AvalancheLake_ZH-CN1442576083_UHD.jpg)

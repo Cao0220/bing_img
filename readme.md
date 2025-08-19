@@ -5682,3 +5682,8 @@ Bing_img
 ![2025-08-19-1](https://www.bing.com/th?id=OHR.GermanyHiker_DE-DE4106707068_UHD.jpg)
 ![2025-08-19-2](https://www.bing.com/th?id=OHR.ColorfulBeehives_FR-FR5685260580_UHD.jpg)
 ![2025-08-19-3](https://www.bing.com/th?id=OHR.SantaMaddalena_JA-JP3939499195_UHD.jpg)
+2025-08-20
+----------------
+![2025-08-20-0](https://www.bing.com/th?id=OHR.VanIsland_EN-CA8465545166_UHD.jpg)
+![2025-08-20-1](https://www.bing.com/th?id=OHR.CitadelBonifacio_ZH-CN2130899430_UHD.jpg)
+![2025-08-20-2](https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-IN9432285920_UHD.jpg)

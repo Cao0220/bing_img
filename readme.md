@@ -5690,3 +5690,6 @@ Bing_img
 2025-08-21
 ----------------
 ![2025-08-21-0](https://www.bing.com/th?id=OHR.WheatearBird_ZH-CN2663965839_UHD.jpg)
+2025-08-22
+----------------
+![2025-08-22-0](https://www.bing.com/th?id=OHR.PalouseWA_ZH-CN2552273820_UHD.jpg)

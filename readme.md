@@ -5693,3 +5693,10 @@ Bing_img
 2025-08-22
 ----------------
 ![2025-08-22-0](https://www.bing.com/th?id=OHR.PalouseWA_ZH-CN2552273820_UHD.jpg)
+2025-08-23
+----------------
+![2025-08-23-0](https://www.bing.com/th?id=OHR.DiaFolk_PT-BR5591184698_UHD.jpg)
+![2025-08-23-1](https://www.bing.com/th?id=OHR.ChushuY25_ZH-CN0495086720_UHD.jpg)
+![2025-08-23-2](https://www.bing.com/th?id=OHR.FieldKaiserstuhl_DE-DE8624743800_UHD.jpg)
+![2025-08-23-3](https://www.bing.com/th?id=OHR.RockSeine_FR-FR5220728990_UHD.jpg)
+![2025-08-23-4](https://www.bing.com/th?id=OHR.Morningglory2025_JA-JP5429610056_UHD.jpg)

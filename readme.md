@@ -5705,3 +5705,7 @@ Bing_img
 ![2025-08-24-0](https://www.bing.com/th?id=OHR.Flamingos_ROW6320249671_UHD.jpg)
 ![2025-08-24-1](https://www.bing.com/th?id=OHR.SaintBarbaras_PT-BR9908756704_UHD.jpg)
 ![2025-08-24-2](https://www.bing.com/th?id=OHR.CervusDama_ZH-CN3603505811_UHD.jpg)
+2025-08-25
+----------------
+![2025-08-25-0](https://www.bing.com/th?id=OHR.Pepalantus_PT-BR6960217232_UHD.jpg)
+![2025-08-25-1](https://www.bing.com/th?id=OHR.YellowstoneRiver_ZH-CN3716808579_UHD.jpg)

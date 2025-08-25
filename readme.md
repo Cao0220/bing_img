@@ -5709,3 +5709,7 @@ Bing_img
 ----------------
 ![2025-08-25-0](https://www.bing.com/th?id=OHR.Pepalantus_PT-BR6960217232_UHD.jpg)
 ![2025-08-25-1](https://www.bing.com/th?id=OHR.YellowstoneRiver_ZH-CN3716808579_UHD.jpg)
+2025-08-26
+----------------
+![2025-08-26-0](https://www.bing.com/th?id=OHR.Gannets_EN-CA1938110347_UHD.jpg)
+![2025-08-26-1](https://www.bing.com/th?id=OHR.TrulliHouses_ZH-CN3856452406_UHD.jpg)

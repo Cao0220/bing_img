@@ -5713,3 +5713,7 @@ Bing_img
 ----------------
 ![2025-08-26-0](https://www.bing.com/th?id=OHR.Gannets_EN-CA1938110347_UHD.jpg)
 ![2025-08-26-1](https://www.bing.com/th?id=OHR.TrulliHouses_ZH-CN3856452406_UHD.jpg)
+2025-08-27
+----------------
+![2025-08-27-0](https://www.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_UHD.jpg)
+![2025-08-27-1](https://www.bing.com/th?id=OHR.KitesurferGermany_DE-DE6337370430_UHD.jpg)

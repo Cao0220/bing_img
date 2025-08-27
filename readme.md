@@ -5717,3 +5717,8 @@ Bing_img
 ----------------
 ![2025-08-27-0](https://www.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_UHD.jpg)
 ![2025-08-27-1](https://www.bing.com/th?id=OHR.KitesurferGermany_DE-DE6337370430_UHD.jpg)
+2025-08-28
+----------------
+![2025-08-28-0](https://www.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg)
+![2025-08-28-1](https://www.bing.com/th?id=OHR.ClayGanesha_EN-IN3970807588_UHD.jpg)
+![2025-08-28-2](https://www.bing.com/th?id=OHR.FestivalVenezia_IT-IT9738242817_UHD.jpg)

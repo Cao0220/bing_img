@@ -5725,3 +5725,7 @@ Bing_img
 2025-08-29
 ----------------
 ![2025-08-29-0](https://www.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg)
+2025-08-30
+----------------
+![2025-08-30-0](https://www.bing.com/th?id=OHR.MaldivesWhaleShark_ZH-CN9975504316_UHD.jpg)
+![2025-08-30-1](https://www.bing.com/th?id=OHR.OmagariFireworks2025_JA-JP5692415884_UHD.jpg)

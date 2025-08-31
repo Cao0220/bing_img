@@ -5732,3 +5732,8 @@ Bing_img
 2025-08-31
 ----------------
 ![2025-08-31-0](https://www.bing.com/th?id=OHR.ScottsBluff_ZH-CN0292735112_UHD.jpg)
+2025-09-01
+----------------
+![2025-09-01-0](https://www.bing.com/th?id=OHR.FieldKaiserstuhl_ZH-CN0467488834_UHD.jpg)
+![2025-09-01-1](https://www.bing.com/th?id=OHR.Palafrugell_ES-ES9170936933_UHD.jpg)
+![2025-09-01-2](https://www.bing.com/th?id=OHR.SaintBarbaras_JA-JP5804029970_UHD.jpg)

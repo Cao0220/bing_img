@@ -5737,3 +5737,11 @@ Bing_img
 ![2025-09-01-0](https://www.bing.com/th?id=OHR.FieldKaiserstuhl_ZH-CN0467488834_UHD.jpg)
 ![2025-09-01-1](https://www.bing.com/th?id=OHR.Palafrugell_ES-ES9170936933_UHD.jpg)
 ![2025-09-01-2](https://www.bing.com/th?id=OHR.SaintBarbaras_JA-JP5804029970_UHD.jpg)
+2025-09-02
+----------------
+![2025-09-02-0](https://www.bing.com/th?id=OHR.PalouseWA_PT-BR8269290462_UHD.jpg)
+![2025-09-02-1](https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-CA9627036432_UHD.jpg)
+![2025-09-02-2](https://www.bing.com/th?id=OHR.DeadvleiTrees_ZH-CN0967414858_UHD.jpg)
+![2025-09-02-3](https://www.bing.com/th?id=OHR.TrulliHouses_DE-DE2753356790_UHD.jpg)
+![2025-09-02-4](https://www.bing.com/th?id=OHR.MinnesotaWaters_FR-FR7608099826_UHD.jpg)
+![2025-09-02-5](https://www.bing.com/th?id=OHR.PerseidsPine_EN-IN9650707879_UHD.jpg)

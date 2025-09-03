@@ -5747,3 +5747,11 @@ Bing_img
 ![2025-09-02-5](https://www.bing.com/th?id=OHR.PerseidsPine_EN-IN9650707879_UHD.jpg)
 2025-09-03
 ----------------
+2025-09-04
+----------------
+![2025-09-04-0](https://www.bing.com/th?id=OHR.WrestlingBears_EN-CA6711958224_UHD.jpg)
+![2025-09-04-1](https://www.bing.com/th?id=OHR.LaVueltaBilbao_ES-ES0567019335_UHD.jpg)
+![2025-09-04-2](https://www.bing.com/th?id=OHR.MontSaintMichel_FR-FR8463268794_UHD.jpg)
+![2025-09-04-3](https://www.bing.com/th?id=OHR.TrulliHouses_EN-IN4494179096_UHD.jpg)
+![2025-09-04-4](https://www.bing.com/th?id=OHR.AgrigentoSicilia_IT-IT0162455126_UHD.jpg)
+![2025-09-04-5](https://www.bing.com/th?id=OHR.YohoNP_JA-JP5965096200_UHD.jpg)

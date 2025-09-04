@@ -5755,3 +5755,7 @@ Bing_img
 ![2025-09-04-3](https://www.bing.com/th?id=OHR.TrulliHouses_EN-IN4494179096_UHD.jpg)
 ![2025-09-04-4](https://www.bing.com/th?id=OHR.AgrigentoSicilia_IT-IT0162455126_UHD.jpg)
 ![2025-09-04-5](https://www.bing.com/th?id=OHR.YohoNP_JA-JP5965096200_UHD.jpg)
+2025-09-05
+----------------
+![2025-09-05-0](https://www.bing.com/th?id=OHR.TiFF25_EN-CA4935162806_UHD.jpg)
+![2025-09-05-1](https://www.bing.com/th?id=OHR.SunsetPier_ZH-CN1202083395_UHD.jpg)

@@ -5759,3 +5759,8 @@ Bing_img
 ----------------
 ![2025-09-05-0](https://www.bing.com/th?id=OHR.TiFF25_EN-CA4935162806_UHD.jpg)
 ![2025-09-05-1](https://www.bing.com/th?id=OHR.SunsetPier_ZH-CN1202083395_UHD.jpg)
+2025-09-06
+----------------
+![2025-09-06-0](https://www.bing.com/th?id=OHR.DiaAmazonia_PT-BR5240863340_UHD.jpg)
+![2025-09-06-1](https://www.bing.com/th?id=OHR.RufousHummer_ZH-CN1777072350_UHD.jpg)
+![2025-09-06-2](https://www.bing.com/th?id=OHR.BoatraceOnam_EN-IN9170886628_UHD.jpg)

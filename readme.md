@@ -5764,3 +5764,8 @@ Bing_img
 ![2025-09-06-0](https://www.bing.com/th?id=OHR.DiaAmazonia_PT-BR5240863340_UHD.jpg)
 ![2025-09-06-1](https://www.bing.com/th?id=OHR.RufousHummer_ZH-CN1777072350_UHD.jpg)
 ![2025-09-06-2](https://www.bing.com/th?id=OHR.BoatraceOnam_EN-IN9170886628_UHD.jpg)
+2025-09-07
+----------------
+![2025-09-07-0](https://www.bing.com/th?id=OHR.BlueGdansk_ZH-CN3328928509_UHD.jpg)
+![2025-09-07-1](https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_DE-DE0460546178_UHD.jpg)
+![2025-09-07-2](https://www.bing.com/th?id=OHR.LilleMarket_FR-FR3271144048_UHD.jpg)

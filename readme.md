@@ -5769,3 +5769,7 @@ Bing_img
 ![2025-09-07-0](https://www.bing.com/th?id=OHR.BlueGdansk_ZH-CN3328928509_UHD.jpg)
 ![2025-09-07-1](https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_DE-DE0460546178_UHD.jpg)
 ![2025-09-07-2](https://www.bing.com/th?id=OHR.LilleMarket_FR-FR3271144048_UHD.jpg)
+2025-09-08
+----------------
+![2025-09-08-0](https://www.bing.com/th?id=OHR.OrchardLibrary_ZH-CN3578982798_UHD.jpg)
+![2025-09-08-1](https://www.bing.com/th?id=OHR.GaribaldiNapoli_IT-IT9017622092_UHD.jpg)

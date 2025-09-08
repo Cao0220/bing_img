@@ -5773,3 +5773,7 @@ Bing_img
 ----------------
 ![2025-09-08-0](https://www.bing.com/th?id=OHR.OrchardLibrary_ZH-CN3578982798_UHD.jpg)
 ![2025-09-08-1](https://www.bing.com/th?id=OHR.GaribaldiNapoli_IT-IT9017622092_UHD.jpg)
+2025-09-09
+----------------
+![2025-09-09-0](https://www.bing.com/th?id=OHR.SwissSquirrel_ZH-CN1499344455_UHD.jpg)
+![2025-09-09-1](https://www.bing.com/th?id=OHR.LaJayaAsturiasDay_ES-ES0574508384_UHD.jpg)

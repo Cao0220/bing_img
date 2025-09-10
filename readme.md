@@ -5781,3 +5781,6 @@ Bing_img
 ----------------
 ![2025-09-10-0](https://www.bing.com/th?id=OHR.YorkshireHay_ZH-CN9097986997_UHD.jpg)
 ![2025-09-10-1](https://www.bing.com/th?id=OHR.DunquinIreland_IT-IT9116681695_UHD.jpg)
+2025-09-11
+----------------
+![2025-09-11-0](https://www.bing.com/th?id=OHR.ExtremaduraJamon_ZH-CN1559355133_UHD.jpg)

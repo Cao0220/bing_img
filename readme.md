@@ -5784,3 +5784,8 @@ Bing_img
 2025-09-11
 ----------------
 ![2025-09-11-0](https://www.bing.com/th?id=OHR.ExtremaduraJamon_ZH-CN1559355133_UHD.jpg)
+2025-09-12
+----------------
+![2025-09-12-0](https://www.bing.com/th?id=OHR.SpinnerDolphins_ZH-CN9731341241_UHD.jpg)
+![2025-09-12-1](https://www.bing.com/th?id=OHR.ButterflyBeach_EN-IN0695823552_UHD.jpg)
+![2025-09-12-2](https://www.bing.com/th?id=OHR.SpaceDay2025_JA-JP8112086826_UHD.jpg)

@@ -5789,3 +5789,6 @@ Bing_img
 ![2025-09-12-0](https://www.bing.com/th?id=OHR.SpinnerDolphins_ZH-CN9731341241_UHD.jpg)
 ![2025-09-12-1](https://www.bing.com/th?id=OHR.ButterflyBeach_EN-IN0695823552_UHD.jpg)
 ![2025-09-12-2](https://www.bing.com/th?id=OHR.SpaceDay2025_JA-JP8112086826_UHD.jpg)
+2025-09-13
+----------------
+![2025-09-13-0](https://www.bing.com/th?id=OHR.PointReyesSeashore_ZH-CN0076789582_UHD.jpg)

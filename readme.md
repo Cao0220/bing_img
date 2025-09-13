@@ -5792,3 +5792,6 @@ Bing_img
 2025-09-13
 ----------------
 ![2025-09-13-0](https://www.bing.com/th?id=OHR.PointReyesSeashore_ZH-CN0076789582_UHD.jpg)
+2025-09-14
+----------------
+![2025-09-14-0](https://www.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_UHD.jpg)

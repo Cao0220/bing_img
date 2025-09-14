@@ -5795,3 +5795,8 @@ Bing_img
 2025-09-14
 ----------------
 ![2025-09-14-0](https://www.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_UHD.jpg)
+2025-09-15
+----------------
+![2025-09-15-0](https://www.bing.com/th?id=OHR.Echasse_ZH-CN0670369582_UHD.jpg)
+![2025-09-15-1](https://www.bing.com/th?id=OHR.GeraOrangerie_DE-DE0955611584_UHD.jpg)
+![2025-09-15-2](https://www.bing.com/th?id=OHR.AgedDay2025_JA-JP9424136979_UHD.jpg)

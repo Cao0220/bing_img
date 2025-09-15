@@ -5800,3 +5800,7 @@ Bing_img
 ![2025-09-15-0](https://www.bing.com/th?id=OHR.Echasse_ZH-CN0670369582_UHD.jpg)
 ![2025-09-15-1](https://www.bing.com/th?id=OHR.GeraOrangerie_DE-DE0955611584_UHD.jpg)
 ![2025-09-15-2](https://www.bing.com/th?id=OHR.AgedDay2025_JA-JP9424136979_UHD.jpg)
+2025-09-16
+----------------
+![2025-09-16-0](https://www.bing.com/th?id=OHR.BrentonHighlandsNP_EN-CA6938321042_UHD.jpg)
+![2025-09-16-1](https://www.bing.com/th?id=OHR.OzoneEarth_ZH-CN0993915980_UHD.jpg)

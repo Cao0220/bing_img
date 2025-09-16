@@ -5804,3 +5804,6 @@ Bing_img
 ----------------
 ![2025-09-16-0](https://www.bing.com/th?id=OHR.BrentonHighlandsNP_EN-CA6938321042_UHD.jpg)
 ![2025-09-16-1](https://www.bing.com/th?id=OHR.OzoneEarth_ZH-CN0993915980_UHD.jpg)
+2025-09-17
+----------------
+![2025-09-17-0](https://www.bing.com/th?id=OHR.YoungMoose_ZH-CN4639410217_UHD.jpg)

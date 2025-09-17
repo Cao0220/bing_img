@@ -5807,3 +5807,7 @@ Bing_img
 2025-09-17
 ----------------
 ![2025-09-17-0](https://www.bing.com/th?id=OHR.YoungMoose_ZH-CN4639410217_UHD.jpg)
+2025-09-18
+----------------
+![2025-09-18-0](https://www.bing.com/th?id=OHR.ArpoadorRJ_PT-BR5341950627_UHD.jpg)
+![2025-09-18-1](https://www.bing.com/th?id=OHR.DunquinIreland_ZH-CN1418844818_UHD.jpg)

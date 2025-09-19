@@ -5815,3 +5815,7 @@ Bing_img
 ----------------
 ![2025-09-19-0](https://www.bing.com/th?id=OHR.ThousandIslands_ZH-CN3197750437_UHD.jpg)
 ![2025-09-19-1](https://www.bing.com/th?id=OHR.GenovaPorto_IT-IT9490275029_UHD.jpg)
+2025-09-20
+----------------
+![2025-09-20-0](https://www.bing.com/th?id=OHR.OktoberfestSwing_ZH-CN5270146600_UHD.jpg)
+![2025-09-20-1](https://www.bing.com/th?id=OHR.BolDor_FR-FR4058003205_UHD.jpg)

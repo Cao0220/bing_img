@@ -5819,3 +5819,8 @@ Bing_img
 ----------------
 ![2025-09-20-0](https://www.bing.com/th?id=OHR.OktoberfestSwing_ZH-CN5270146600_UHD.jpg)
 ![2025-09-20-1](https://www.bing.com/th?id=OHR.BolDor_FR-FR4058003205_UHD.jpg)
+2025-09-21
+----------------
+![2025-09-21-0](https://www.bing.com/th?id=OHR.IceOtters_ZH-CN5393791969_UHD.jpg)
+![2025-09-21-1](https://www.bing.com/th?id=OHR.OktoberfestHackerFestzelt_DE-DE2583035265_UHD.jpg)
+![2025-09-21-2](https://www.bing.com/th?id=OHR.PaellaDay_ES-ES0490054669_UHD.jpg)

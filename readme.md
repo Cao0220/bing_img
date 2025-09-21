@@ -5824,3 +5824,9 @@ Bing_img
 ![2025-09-21-0](https://www.bing.com/th?id=OHR.IceOtters_ZH-CN5393791969_UHD.jpg)
 ![2025-09-21-1](https://www.bing.com/th?id=OHR.OktoberfestHackerFestzelt_DE-DE2583035265_UHD.jpg)
 ![2025-09-21-2](https://www.bing.com/th?id=OHR.PaellaDay_ES-ES0490054669_UHD.jpg)
+2025-09-22
+----------------
+![2025-09-22-0](https://www.bing.com/th?id=OHR.AspenEquinox_ZH-CN5474695693_UHD.jpg)
+![2025-09-22-1](https://www.bing.com/th?id=OHR.EtretatBeach_FR-FR4685460454_UHD.jpg)
+![2025-09-22-2](https://www.bing.com/th?id=OHR.TenutaPiemonte_IT-IT3634009863_UHD.jpg)
+![2025-09-22-3](https://www.bing.com/th?id=OHR.ToucanForest_JA-JP8804759807_UHD.jpg)

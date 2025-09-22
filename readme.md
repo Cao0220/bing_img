@@ -5830,3 +5830,8 @@ Bing_img
 ![2025-09-22-1](https://www.bing.com/th?id=OHR.EtretatBeach_FR-FR4685460454_UHD.jpg)
 ![2025-09-22-2](https://www.bing.com/th?id=OHR.TenutaPiemonte_IT-IT3634009863_UHD.jpg)
 ![2025-09-22-3](https://www.bing.com/th?id=OHR.ToucanForest_JA-JP8804759807_UHD.jpg)
+2025-09-23
+----------------
+![2025-09-23-0](https://www.bing.com/th?id=OHR.Primavera25_PT-BR8233875845_UHD.jpg)
+![2025-09-23-1](https://www.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_UHD.jpg)
+![2025-09-23-2](https://www.bing.com/th?id=OHR.AutumnEquinox2025_JA-JP9152081751_UHD.jpg)

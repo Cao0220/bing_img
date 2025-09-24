@@ -5840,3 +5840,6 @@ Bing_img
 ![2025-09-24-0](https://www.bing.com/th?id=OHR.ToucanForest_ROW4747613727_UHD.jpg)
 ![2025-09-24-1](https://www.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_UHD.jpg)
 ![2025-09-24-2](https://www.bing.com/th?id=OHR.SportWeekTeide_ES-ES0590010437_UHD.jpg)
+2025-09-25
+----------------
+![2025-09-25-0](https://www.bing.com/th?id=OHR.FortChittorgarh_ZH-CN5999553283_UHD.jpg)

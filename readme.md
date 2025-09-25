@@ -5843,3 +5843,6 @@ Bing_img
 2025-09-25
 ----------------
 ![2025-09-25-0](https://www.bing.com/th?id=OHR.FortChittorgarh_ZH-CN5999553283_UHD.jpg)
+2025-09-26
+----------------
+![2025-09-26-0](https://www.bing.com/th?id=OHR.AutumnChipmunk_ZH-CN6224482683_UHD.jpg)

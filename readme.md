@@ -5846,3 +5846,6 @@ Bing_img
 2025-09-26
 ----------------
 ![2025-09-26-0](https://www.bing.com/th?id=OHR.AutumnChipmunk_ZH-CN6224482683_UHD.jpg)
+2025-09-27
+----------------
+![2025-09-27-0](https://www.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_UHD.jpg)

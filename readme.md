@@ -5849,3 +5849,8 @@ Bing_img
 2025-09-27
 ----------------
 ![2025-09-27-0](https://www.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_UHD.jpg)
+2025-09-28
+----------------
+![2025-09-28-0](https://www.bing.com/th?id=OHR.RedMapleleaf_EN-CA8222399050_UHD.jpg)
+![2025-09-28-1](https://www.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_UHD.jpg)
+![2025-09-28-2](https://www.bing.com/th?id=OHR.BerlinAutumn_DE-DE0881465418_UHD.jpg)

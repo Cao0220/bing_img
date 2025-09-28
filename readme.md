@@ -5854,3 +5854,7 @@ Bing_img
 ![2025-09-28-0](https://www.bing.com/th?id=OHR.RedMapleleaf_EN-CA8222399050_UHD.jpg)
 ![2025-09-28-1](https://www.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_UHD.jpg)
 ![2025-09-28-2](https://www.bing.com/th?id=OHR.BerlinAutumn_DE-DE0881465418_UHD.jpg)
+2025-09-29
+----------------
+![2025-09-29-0](https://www.bing.com/th?id=OHR.HoutenHouses_ZH-CN6776452438_UHD.jpg)
+![2025-09-29-1](https://www.bing.com/th?id=OHR.ManekiNeko_JA-JP6063646197_UHD.jpg)

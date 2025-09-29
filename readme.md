@@ -5858,3 +5858,6 @@ Bing_img
 ----------------
 ![2025-09-29-0](https://www.bing.com/th?id=OHR.HoutenHouses_ZH-CN6776452438_UHD.jpg)
 ![2025-09-29-1](https://www.bing.com/th?id=OHR.ManekiNeko_JA-JP6063646197_UHD.jpg)
+2025-09-30
+----------------
+![2025-09-30-0](https://www.bing.com/th?id=OHR.EucalyptusKoala_ZH-CN6942451940_UHD.jpg)

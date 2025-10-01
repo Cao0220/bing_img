@@ -5864,3 +5864,8 @@ Bing_img
 2025-10-01
 ----------------
 ![2025-10-01-0](https://www.bing.com/th?id=OHR.YosemiteClark_ZH-CN7179533292_UHD.jpg)
+2025-10-02
+----------------
+![2025-10-02-0](https://www.bing.com/th?id=OHR.PraiaPortoGalinhas_PT-BR2218477838_UHD.jpg)
+![2025-10-02-1](https://www.bing.com/th?id=OHR.OxbowBend_ZH-CN7211791969_UHD.jpg)
+![2025-10-02-2](https://www.bing.com/th?id=OHR.GoddessDurga2025_EN-IN4254679403_UHD.jpg)

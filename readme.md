@@ -5869,3 +5869,8 @@ Bing_img
 ![2025-10-02-0](https://www.bing.com/th?id=OHR.PraiaPortoGalinhas_PT-BR2218477838_UHD.jpg)
 ![2025-10-02-1](https://www.bing.com/th?id=OHR.OxbowBend_ZH-CN7211791969_UHD.jpg)
 ![2025-10-02-2](https://www.bing.com/th?id=OHR.GoddessDurga2025_EN-IN4254679403_UHD.jpg)
+2025-10-03
+----------------
+![2025-10-03-0](https://www.bing.com/th?id=OHR.SkyeHeather_ZH-CN2820283990_UHD.jpg)
+![2025-10-03-1](https://www.bing.com/th?id=OHR.StatueGandhi_EN-IN4485364887_UHD.jpg)
+![2025-10-03-2](https://www.bing.com/th?id=OHR.ToscanaAutunno_IT-IT9368718519_UHD.jpg)

@@ -5874,3 +5874,7 @@ Bing_img
 ![2025-10-03-0](https://www.bing.com/th?id=OHR.SkyeHeather_ZH-CN2820283990_UHD.jpg)
 ![2025-10-03-1](https://www.bing.com/th?id=OHR.StatueGandhi_EN-IN4485364887_UHD.jpg)
 ![2025-10-03-2](https://www.bing.com/th?id=OHR.ToscanaAutunno_IT-IT9368718519_UHD.jpg)
+2025-10-04
+----------------
+![2025-10-04-0](https://www.bing.com/th?id=OHR.DragonEndeavour_ZH-CN8160066040_UHD.jpg)
+![2025-10-04-1](https://www.bing.com/th?id=OHR.BrandenburgGate_DE-DE4138430516_UHD.jpg)

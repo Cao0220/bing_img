@@ -5883,3 +5883,8 @@ Bing_img
 ![2025-10-05-0](https://www.bing.com/th?id=OHR.InsideOutNB_EN-CA6818912564_UHD.jpg)
 ![2025-10-05-1](https://www.bing.com/th?id=OHR.TeacherOwl_ZH-CN8289875605_UHD.jpg)
 ![2025-10-05-2](https://www.bing.com/th?id=OHR.CamagueHorses_FR-FR8949135937_UHD.jpg)
+2025-10-06
+----------------
+![2025-10-06-0](https://www.bing.com/th?id=OHR.AnshunBridge_ZH-CN8392458102_UHD.jpg)
+![2025-10-06-1](https://www.bing.com/th?id=OHR.ElPilarZaragoza_ES-ES2251401044_UHD.jpg)
+![2025-10-06-2](https://www.bing.com/th?id=OHR.JahangirMahal_EN-IN7628563681_UHD.jpg)

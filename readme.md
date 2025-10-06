@@ -5888,3 +5888,7 @@ Bing_img
 ![2025-10-06-0](https://www.bing.com/th?id=OHR.AnshunBridge_ZH-CN8392458102_UHD.jpg)
 ![2025-10-06-1](https://www.bing.com/th?id=OHR.ElPilarZaragoza_ES-ES2251401044_UHD.jpg)
 ![2025-10-06-2](https://www.bing.com/th?id=OHR.JahangirMahal_EN-IN7628563681_UHD.jpg)
+2025-10-07
+----------------
+![2025-10-07-0](https://www.bing.com/th?id=OHR.RidgwayAspens_ZH-CN8735375502_UHD.jpg)
+![2025-10-07-1](https://www.bing.com/th?id=OHR.AmethystLaccaria_IT-IT7329865927_UHD.jpg)

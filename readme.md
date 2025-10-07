@@ -5892,3 +5892,10 @@ Bing_img
 ----------------
 ![2025-10-07-0](https://www.bing.com/th?id=OHR.RidgwayAspens_ZH-CN8735375502_UHD.jpg)
 ![2025-10-07-1](https://www.bing.com/th?id=OHR.AmethystLaccaria_IT-IT7329865927_UHD.jpg)
+2025-10-08
+----------------
+![2025-10-08-0](https://www.bing.com/th?id=OHR.SaoMiguel_PT-BR6587333283_UHD.jpg)
+![2025-10-08-1](https://www.bing.com/th?id=OHR.OctopusCyanea_ZH-CN8948609460_UHD.jpg)
+![2025-10-08-2](https://www.bing.com/th?id=OHR.SaranacLake_ES-ES0795608317_UHD.jpg)
+![2025-10-08-3](https://www.bing.com/th?id=OHR.CapAntibes_FR-FR2066318600_UHD.jpg)
+![2025-10-08-4](https://www.bing.com/th?id=OHR.Ryuzufalls2025_JA-JP6418303608_UHD.jpg)

@@ -5908,3 +5908,7 @@ Bing_img
 2025-10-11
 ----------------
 ![2025-10-11-0](https://www.bing.com/th?id=OHR.WoodDuckHen_ZH-CN9558916773_UHD.jpg)
+2025-10-12
+----------------
+![2025-10-12-0](https://www.bing.com/th?id=OHR.SaranacLake_ZH-CN0224689397_UHD.jpg)
+![2025-10-12-1](https://www.bing.com/th?id=OHR.LagoLagazuolo_IT-IT9428871019_UHD.jpg)

@@ -5912,3 +5912,9 @@ Bing_img
 ----------------
 ![2025-10-12-0](https://www.bing.com/th?id=OHR.SaranacLake_ZH-CN0224689397_UHD.jpg)
 ![2025-10-12-1](https://www.bing.com/th?id=OHR.LagoLagazuolo_IT-IT9428871019_UHD.jpg)
+2025-10-13
+----------------
+![2025-10-13-0](https://www.bing.com/th?id=OHR.DiaCriancas_PT-BR4646526292_UHD.jpg)
+![2025-10-13-1](https://www.bing.com/th?id=OHR.HinterseeWaterfall_ZH-CN0432994081_UHD.jpg)
+![2025-10-13-2](https://www.bing.com/th?id=OHR.DaySpain_ES-ES2088635486_UHD.jpg)
+![2025-10-13-3](https://www.bing.com/th?id=OHR.OiaSantorini_JA-JP8051360298_UHD.jpg)

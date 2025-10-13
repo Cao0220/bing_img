@@ -5918,3 +5918,8 @@ Bing_img
 ![2025-10-13-1](https://www.bing.com/th?id=OHR.HinterseeWaterfall_ZH-CN0432994081_UHD.jpg)
 ![2025-10-13-2](https://www.bing.com/th?id=OHR.DaySpain_ES-ES2088635486_UHD.jpg)
 ![2025-10-13-3](https://www.bing.com/th?id=OHR.OiaSantorini_JA-JP8051360298_UHD.jpg)
+2025-10-14
+----------------
+![2025-10-14-0](https://www.bing.com/th?id=OHR.AlgonParkOnt_EN-CA8810326454_UHD.jpg)
+![2025-10-14-1](https://www.bing.com/th?id=OHR.MamallapuramBoat_EN-IN7710066435_UHD.jpg)
+![2025-10-14-2](https://www.bing.com/th?id=OHR.RailwayDay2025_JA-JP0346908442_UHD.jpg)

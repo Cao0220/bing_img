@@ -5927,3 +5927,7 @@ Bing_img
 ----------------
 ![2025-10-15-0](https://www.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_UHD.jpg)
 ![2025-10-15-1](https://www.bing.com/th?id=OHR.HoutenHouses_JA-JP0762629111_UHD.jpg)
+2025-10-16
+----------------
+![2025-10-16-0](https://www.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_UHD.jpg)
+![2025-10-16-1](https://www.bing.com/th?id=OHR.FontanaDiTrevi_IT-IT9781844919_UHD.jpg)

@@ -5931,3 +5931,6 @@ Bing_img
 ----------------
 ![2025-10-16-0](https://www.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_UHD.jpg)
 ![2025-10-16-1](https://www.bing.com/th?id=OHR.FontanaDiTrevi_IT-IT9781844919_UHD.jpg)
+2025-10-17
+----------------
+![2025-10-17-0](https://www.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_UHD.jpg)

@@ -5934,3 +5934,9 @@ Bing_img
 2025-10-17
 ----------------
 ![2025-10-17-0](https://www.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_UHD.jpg)
+2025-10-18
+----------------
+![2025-10-18-0](https://www.bing.com/th?id=OHR.JasperFestival_EN-CA8017450155_UHD.jpg)
+![2025-10-18-1](https://www.bing.com/th?id=OHR.SilburyHill_ZH-CN6666447580_UHD.jpg)
+![2025-10-18-2](https://www.bing.com/th?id=OHR.MettlachAutumn_DE-DE9026182741_UHD.jpg)
+![2025-10-18-3](https://www.bing.com/th?id=OHR.CorsicaSunshine_FR-FR8649215960_UHD.jpg)

@@ -5943,3 +5943,7 @@ Bing_img
 2025-10-19
 ----------------
 ![2025-10-19-0](https://www.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_UHD.jpg)
+2025-10-20
+----------------
+![2025-10-20-0](https://www.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_UHD.jpg)
+![2025-10-20-1](https://www.bing.com/th?id=OHR.JaenCathedral_ES-ES4511407655_UHD.jpg)

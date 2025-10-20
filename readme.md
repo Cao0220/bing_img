@@ -5947,3 +5947,8 @@ Bing_img
 ----------------
 ![2025-10-20-0](https://www.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_UHD.jpg)
 ![2025-10-20-1](https://www.bing.com/th?id=OHR.JaenCathedral_ES-ES4511407655_UHD.jpg)
+2025-10-21
+----------------
+![2025-10-21-0](https://www.bing.com/th?id=OHR.ToucanForest_ZH-CN0072036253_UHD.jpg)
+![2025-10-21-1](https://www.bing.com/th?id=OHR.MonteVelino_IT-IT3560922998_UHD.jpg)
+![2025-10-21-2](https://www.bing.com/th?id=OHR.DiyaDiwali_JA-JP1552911829_UHD.jpg)

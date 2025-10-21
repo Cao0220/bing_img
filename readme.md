@@ -5952,3 +5952,9 @@ Bing_img
 ![2025-10-21-0](https://www.bing.com/th?id=OHR.ToucanForest_ZH-CN0072036253_UHD.jpg)
 ![2025-10-21-1](https://www.bing.com/th?id=OHR.MonteVelino_IT-IT3560922998_UHD.jpg)
 ![2025-10-21-2](https://www.bing.com/th?id=OHR.DiyaDiwali_JA-JP1552911829_UHD.jpg)
+2025-10-22
+----------------
+![2025-10-22-0](https://www.bing.com/th?id=OHR.CapAntibes_ROW9927091167_UHD.jpg)
+![2025-10-22-1](https://www.bing.com/th?id=OHR.BulgariaRocks_ZH-CN0234903972_UHD.jpg)
+![2025-10-22-2](https://www.bing.com/th?id=OHR.OilLamps_EN-IN0305267650_UHD.jpg)
+![2025-10-22-3](https://www.bing.com/th?id=OHR.HeianDay2025_JA-JP1910457007_UHD.jpg)

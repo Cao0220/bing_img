@@ -5958,3 +5958,7 @@ Bing_img
 ![2025-10-22-1](https://www.bing.com/th?id=OHR.BulgariaRocks_ZH-CN0234903972_UHD.jpg)
 ![2025-10-22-2](https://www.bing.com/th?id=OHR.OilLamps_EN-IN0305267650_UHD.jpg)
 ![2025-10-22-3](https://www.bing.com/th?id=OHR.HeianDay2025_JA-JP1910457007_UHD.jpg)
+2025-10-23
+----------------
+![2025-10-23-0](https://www.bing.com/th?id=OHR.SnowLeopard_ZH-CN6644701381_UHD.jpg)
+![2025-10-23-1](https://www.bing.com/th?id=OHR.AomoriAutumn2025_JA-JP3668853549_UHD.jpg)

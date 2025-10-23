@@ -5962,3 +5962,7 @@ Bing_img
 ----------------
 ![2025-10-23-0](https://www.bing.com/th?id=OHR.SnowLeopard_ZH-CN6644701381_UHD.jpg)
 ![2025-10-23-1](https://www.bing.com/th?id=OHR.AomoriAutumn2025_JA-JP3668853549_UHD.jpg)
+2025-10-24
+----------------
+![2025-10-24-0](https://www.bing.com/th?id=OHR.PondCave_PT-BR4920189612_UHD.jpg)
+![2025-10-24-1](https://www.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg)

@@ -5966,3 +5966,8 @@ Bing_img
 ----------------
 ![2025-10-24-0](https://www.bing.com/th?id=OHR.PondCave_PT-BR4920189612_UHD.jpg)
 ![2025-10-24-1](https://www.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg)
+2025-10-25
+----------------
+![2025-10-25-0](https://www.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_UHD.jpg)
+![2025-10-25-1](https://www.bing.com/th?id=OHR.StMangLibrary_DE-DE0881251342_UHD.jpg)
+![2025-10-25-2](https://www.bing.com/th?id=OHR.PumpkinFarm_IT-IT9478392413_UHD.jpg)

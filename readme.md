@@ -5971,3 +5971,6 @@ Bing_img
 ![2025-10-25-0](https://www.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_UHD.jpg)
 ![2025-10-25-1](https://www.bing.com/th?id=OHR.StMangLibrary_DE-DE0881251342_UHD.jpg)
 ![2025-10-25-2](https://www.bing.com/th?id=OHR.PumpkinFarm_IT-IT9478392413_UHD.jpg)
+2025-10-26
+----------------
+![2025-10-26-0](https://www.bing.com/th?id=OHR.PaisVascoDay_ES-ES6776223688_UHD.jpg)

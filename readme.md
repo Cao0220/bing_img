@@ -5974,3 +5974,8 @@ Bing_img
 2025-10-26
 ----------------
 ![2025-10-26-0](https://www.bing.com/th?id=OHR.PaisVascoDay_ES-ES6776223688_UHD.jpg)
+2025-10-27
+----------------
+![2025-10-27-0](https://www.bing.com/th?id=OHR.AutumnColorY25_ZH-CN1551135398_UHD.jpg)
+![2025-10-27-1](https://www.bing.com/th?id=OHR.AfricanRaven_EN-IN6796929078_UHD.jpg)
+![2025-10-27-2](https://www.bing.com/th?id=OHR.ItalyClock_IT-IT0847273649_UHD.jpg)

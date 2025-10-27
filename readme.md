@@ -5979,3 +5979,8 @@ Bing_img
 ![2025-10-27-0](https://www.bing.com/th?id=OHR.AutumnColorY25_ZH-CN1551135398_UHD.jpg)
 ![2025-10-27-1](https://www.bing.com/th?id=OHR.AfricanRaven_EN-IN6796929078_UHD.jpg)
 ![2025-10-27-2](https://www.bing.com/th?id=OHR.ItalyClock_IT-IT0847273649_UHD.jpg)
+2025-10-28
+----------------
+![2025-10-28-0](https://www.bing.com/th?id=OHR.TepliceRocks_ZH-CN1785316311_UHD.jpg)
+![2025-10-28-1](https://www.bing.com/th?id=OHR.ChampagneDay_FR-FR1389141387_UHD.jpg)
+![2025-10-28-2](https://www.bing.com/th?id=OHR.ChhathPuja_EN-IN6737950149_UHD.jpg)

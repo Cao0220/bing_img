@@ -5984,3 +5984,7 @@ Bing_img
 ![2025-10-28-0](https://www.bing.com/th?id=OHR.TepliceRocks_ZH-CN1785316311_UHD.jpg)
 ![2025-10-28-1](https://www.bing.com/th?id=OHR.ChampagneDay_FR-FR1389141387_UHD.jpg)
 ![2025-10-28-2](https://www.bing.com/th?id=OHR.ChhathPuja_EN-IN6737950149_UHD.jpg)
+2025-10-29
+----------------
+![2025-10-29-0](https://www.bing.com/th?id=OHR.PublicServ_PT-BR4483210857_UHD.jpg)
+![2025-10-29-1](https://www.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_UHD.jpg)

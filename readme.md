@@ -5991,3 +5991,6 @@ Bing_img
 2025-10-30
 ----------------
 ![2025-10-30-0](https://www.bing.com/th?id=OHR.PushkarFair_ZH-CN2069143641_UHD.jpg)
+2025-10-31
+----------------
+![2025-10-31-0](https://www.bing.com/th?id=OHR.BranCastle_ZH-CN3879660917_UHD.jpg)

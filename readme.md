@@ -5998,3 +5998,7 @@ Bing_img
 ----------------
 ![2025-11-01-0](https://www.bing.com/th?id=OHR.PumpkinHalloween_EN-CA7800115096_UHD.jpg)
 ![2025-11-01-1](https://www.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg)
+2025-11-02
+----------------
+![2025-11-02-0](https://www.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_UHD.jpg)
+![2025-11-02-1](https://www.bing.com/th?id=OHR.AutumSaints_ES-ES0641147491_UHD.jpg)

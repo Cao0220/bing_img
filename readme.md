@@ -6002,3 +6002,7 @@ Bing_img
 ----------------
 ![2025-11-02-0](https://www.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_UHD.jpg)
 ![2025-11-02-1](https://www.bing.com/th?id=OHR.AutumSaints_ES-ES0641147491_UHD.jpg)
+2025-11-03
+----------------
+![2025-11-03-0](https://www.bing.com/th?id=OHR.MexicoJelly_ZH-CN5266285518_UHD.jpg)
+![2025-11-03-1](https://www.bing.com/th?id=OHR.HinterseeWaterfall_JA-JP9416603910_UHD.jpg)

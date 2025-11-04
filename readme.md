@@ -6009,3 +6009,7 @@ Bing_img
 2025-11-04
 ----------------
 ![2025-11-04-0](https://www.bing.com/th?id=OHR.TowerBridgeUK_ZH-CN1846533186_UHD.jpg)
+2025-11-05
+----------------
+![2025-11-05-0](https://www.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg)
+![2025-11-05-1](https://www.bing.com/th?id=OHR.ForzeArmate_IT-IT4457176272_UHD.jpg)

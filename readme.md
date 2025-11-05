@@ -6013,3 +6013,7 @@ Bing_img
 ----------------
 ![2025-11-05-0](https://www.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg)
 ![2025-11-05-1](https://www.bing.com/th?id=OHR.ForzeArmate_IT-IT4457176272_UHD.jpg)
+2025-11-06
+----------------
+![2025-11-06-0](https://www.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_UHD.jpg)
+![2025-11-06-1](https://www.bing.com/th?id=OHR.GurpurabAmritsar_EN-IN2812865988_UHD.jpg)

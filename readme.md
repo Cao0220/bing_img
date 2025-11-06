@@ -6017,3 +6017,7 @@ Bing_img
 ----------------
 ![2025-11-06-0](https://www.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_UHD.jpg)
 ![2025-11-06-1](https://www.bing.com/th?id=OHR.GurpurabAmritsar_EN-IN2812865988_UHD.jpg)
+2025-11-07
+----------------
+![2025-11-07-0](https://www.bing.com/th?id=OHR.WillowBear_ZH-CN3501489210_UHD.jpg)
+![2025-11-07-1](https://www.bing.com/th?id=OHR.Lidong2025_JA-JP0788996940_UHD.jpg)

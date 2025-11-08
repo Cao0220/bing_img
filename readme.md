@@ -6025,3 +6025,7 @@ Bing_img
 ----------------
 ![2025-11-08-0](https://www.bing.com/th?id=OHR.ChurchMG_PT-BR3242997817_UHD.jpg)
 ![2025-11-08-1](https://www.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_UHD.jpg)
+2025-11-09
+----------------
+![2025-11-09-0](https://www.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_UHD.jpg)
+![2025-11-09-1](https://www.bing.com/th?id=OHR.ExternsteineSunset_ES-ES1694019342_UHD.jpg)

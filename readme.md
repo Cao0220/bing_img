@@ -6029,3 +6029,8 @@ Bing_img
 ----------------
 ![2025-11-09-0](https://www.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_UHD.jpg)
 ![2025-11-09-1](https://www.bing.com/th?id=OHR.ExternsteineSunset_ES-ES1694019342_UHD.jpg)
+2025-11-10
+----------------
+![2025-11-10-0](https://www.bing.com/th?id=OHR.PrairieDogTown_ZH-CN3989288881_UHD.jpg)
+![2025-11-10-1](https://www.bing.com/th?id=OHR.BerlinOberbaumbruecke_DE-DE8698967118_UHD.jpg)
+![2025-11-10-2](https://www.bing.com/th?id=OHR.MatsumotoCastleDay2025_JA-JP3896283133_UHD.jpg)

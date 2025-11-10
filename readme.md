@@ -6034,3 +6034,9 @@ Bing_img
 ![2025-11-10-0](https://www.bing.com/th?id=OHR.PrairieDogTown_ZH-CN3989288881_UHD.jpg)
 ![2025-11-10-1](https://www.bing.com/th?id=OHR.BerlinOberbaumbruecke_DE-DE8698967118_UHD.jpg)
 ![2025-11-10-2](https://www.bing.com/th?id=OHR.MatsumotoCastleDay2025_JA-JP3896283133_UHD.jpg)
+2025-11-11
+----------------
+![2025-11-11-0](https://www.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_UHD.jpg)
+![2025-11-11-1](https://www.bing.com/th?id=OHR.KiteFuerteventura_ES-ES1949854266_UHD.jpg)
+![2025-11-11-2](https://www.bing.com/th?id=OHR.CastleAbruzzo_IT-IT5062952309_UHD.jpg)
+![2025-11-11-3](https://www.bing.com/th?id=OHR.BulgariaRocks_JA-JP2963566999_UHD.jpg)

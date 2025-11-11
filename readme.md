@@ -6040,3 +6040,8 @@ Bing_img
 ![2025-11-11-1](https://www.bing.com/th?id=OHR.KiteFuerteventura_ES-ES1949854266_UHD.jpg)
 ![2025-11-11-2](https://www.bing.com/th?id=OHR.CastleAbruzzo_IT-IT5062952309_UHD.jpg)
 ![2025-11-11-3](https://www.bing.com/th?id=OHR.BulgariaRocks_JA-JP2963566999_UHD.jpg)
+2025-11-12
+----------------
+![2025-11-12-0](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-CA9316195338_UHD.jpg)
+![2025-11-12-1](https://www.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_UHD.jpg)
+![2025-11-12-2](https://www.bing.com/th?id=OHR.Armistice_FR-FR5922039911_UHD.jpg)

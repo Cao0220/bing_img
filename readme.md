@@ -6045,3 +6045,6 @@ Bing_img
 ![2025-11-12-0](https://www.bing.com/th?id=OHR.AloeDichotoma_EN-CA9316195338_UHD.jpg)
 ![2025-11-12-1](https://www.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_UHD.jpg)
 ![2025-11-12-2](https://www.bing.com/th?id=OHR.Armistice_FR-FR5922039911_UHD.jpg)
+2025-11-13
+----------------
+![2025-11-13-0](https://www.bing.com/th?id=OHR.DiaPantanal_PT-BR4333976346_UHD.jpg)

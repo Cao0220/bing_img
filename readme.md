@@ -6053,3 +6053,8 @@ Bing_img
 ![2025-11-14-0](https://www.bing.com/th?id=OHR.TntChrisMkt_EN-CA8094529209_UHD.jpg)
 ![2025-11-14-1](https://www.bing.com/th?id=OHR.ManateeBaby_ZH-CN7805040281_UHD.jpg)
 ![2025-11-14-2](https://www.bing.com/th?id=OHR.ParisAnniversary_FR-FR6127144121_UHD.jpg)
+2025-11-15
+----------------
+![2025-11-15-0](https://www.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_UHD.jpg)
+![2025-11-15-1](https://www.bing.com/th?id=OHR.SaypeGeneva_EN-IN7312721048_UHD.jpg)
+![2025-11-15-2](https://www.bing.com/th?id=OHR.PerugiaStreet_IT-IT9685190845_UHD.jpg)

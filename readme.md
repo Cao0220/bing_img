@@ -6058,3 +6058,7 @@ Bing_img
 ![2025-11-15-0](https://www.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_UHD.jpg)
 ![2025-11-15-1](https://www.bing.com/th?id=OHR.SaypeGeneva_EN-IN7312721048_UHD.jpg)
 ![2025-11-15-2](https://www.bing.com/th?id=OHR.PerugiaStreet_IT-IT9685190845_UHD.jpg)
+2025-11-16
+----------------
+![2025-11-16-0](https://www.bing.com/th?id=OHR.ProcRep_PT-BR2106067461_UHD.jpg)
+![2025-11-16-1](https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg)

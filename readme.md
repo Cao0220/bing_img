@@ -6062,3 +6062,7 @@ Bing_img
 ----------------
 ![2025-11-16-0](https://www.bing.com/th?id=OHR.ProcRep_PT-BR2106067461_UHD.jpg)
 ![2025-11-16-1](https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg)
+2025-11-17
+----------------
+![2025-11-17-0](https://www.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg)
+![2025-11-17-1](https://www.bing.com/th?id=OHR.FlamencoDay_ES-ES7190621326_UHD.jpg)

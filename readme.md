@@ -6066,3 +6066,9 @@ Bing_img
 ----------------
 ![2025-11-17-0](https://www.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg)
 ![2025-11-17-1](https://www.bing.com/th?id=OHR.FlamencoDay_ES-ES7190621326_UHD.jpg)
+2025-11-18
+----------------
+![2025-11-18-0](https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_UHD.jpg)
+![2025-11-18-1](https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg)
+![2025-11-18-2](https://www.bing.com/th?id=OHR.GermanyOwl_DE-DE5134865756_UHD.jpg)
+![2025-11-18-3](https://www.bing.com/th?id=OHR.AlpesAutumn_FR-FR0334744208_UHD.jpg)

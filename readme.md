@@ -6072,3 +6072,7 @@ Bing_img
 ![2025-11-18-1](https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg)
 ![2025-11-18-2](https://www.bing.com/th?id=OHR.GermanyOwl_DE-DE5134865756_UHD.jpg)
 ![2025-11-18-3](https://www.bing.com/th?id=OHR.AlpesAutumn_FR-FR0334744208_UHD.jpg)
+2025-11-19
+----------------
+![2025-11-19-0](https://www.bing.com/th?id=OHR.Cataguas_PT-BR6322961600_UHD.jpg)
+![2025-11-19-1](https://www.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_UHD.jpg)

@@ -6076,3 +6076,7 @@ Bing_img
 ----------------
 ![2025-11-19-0](https://www.bing.com/th?id=OHR.Cataguas_PT-BR6322961600_UHD.jpg)
 ![2025-11-19-1](https://www.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_UHD.jpg)
+2025-11-20
+----------------
+![2025-11-20-0](https://www.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_UHD.jpg)
+![2025-11-20-1](https://www.bing.com/th?id=OHR.SaypeGeneva_JA-JP5293768953_UHD.jpg)

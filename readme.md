@@ -6080,3 +6080,7 @@ Bing_img
 ----------------
 ![2025-11-20-0](https://www.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_UHD.jpg)
 ![2025-11-20-1](https://www.bing.com/th?id=OHR.SaypeGeneva_JA-JP5293768953_UHD.jpg)
+2025-11-21
+----------------
+![2025-11-21-0](https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg)
+![2025-11-21-1](https://www.bing.com/th?id=OHR.ManateeBaby_EN-IN4061513303_UHD.jpg)

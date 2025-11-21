@@ -6084,3 +6084,9 @@ Bing_img
 ----------------
 ![2025-11-21-0](https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg)
 ![2025-11-21-1](https://www.bing.com/th?id=OHR.ManateeBaby_EN-IN4061513303_UHD.jpg)
+2025-11-22
+----------------
+![2025-11-22-0](https://www.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_UHD.jpg)
+![2025-11-22-1](https://www.bing.com/th?id=OHR.KeralaEzhikara2025_EN-IN4420432928_UHD.jpg)
+![2025-11-22-2](https://www.bing.com/th?id=OHR.FestaAlbero_IT-IT0339248009_UHD.jpg)
+![2025-11-22-3](https://www.bing.com/th?id=OHR.Kenrokuen2025_JA-JP5771782879_UHD.jpg)

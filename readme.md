@@ -6094,3 +6094,6 @@ Bing_img
 ----------------
 ![2025-11-23-0](https://www.bing.com/th?id=OHR.MonteVelino_ROW8967772522_UHD.jpg)
 ![2025-11-23-1](https://www.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg)
+2025-11-24
+----------------
+![2025-11-24-0](https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg)

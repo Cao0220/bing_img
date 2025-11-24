@@ -6097,3 +6097,6 @@ Bing_img
 2025-11-24
 ----------------
 ![2025-11-24-0](https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg)
+2025-11-25
+----------------
+![2025-11-25-0](https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg)

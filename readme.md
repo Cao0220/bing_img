@@ -6100,3 +6100,8 @@ Bing_img
 2025-11-25
 ----------------
 ![2025-11-25-0](https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg)
+2025-11-26
+----------------
+![2025-11-26-0](https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg)
+![2025-11-26-1](https://www.bing.com/th?id=OHR.ErfurtChristmas_DE-DE4066993799_UHD.jpg)
+![2025-11-26-2](https://www.bing.com/th?id=OHR.TamagawaHotspring2025_JA-JP7774958074_UHD.jpg)

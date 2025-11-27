@@ -6110,3 +6110,6 @@ Bing_img
 ![2025-11-27-0](https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg)
 ![2025-11-27-1](https://www.bing.com/th?id=OHR.HandmadeMarket_FR-FR3762412272_UHD.jpg)
 ![2025-11-27-2](https://www.bing.com/th?id=OHR.LeshanBuddha_JA-JP7625382649_UHD.jpg)
+2025-11-28
+----------------
+![2025-11-28-0](https://www.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg)

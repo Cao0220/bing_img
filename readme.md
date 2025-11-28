@@ -6113,3 +6113,7 @@ Bing_img
 2025-11-28
 ----------------
 ![2025-11-28-0](https://www.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg)
+2025-11-29
+----------------
+![2025-11-29-0](https://www.bing.com/th?id=OHR.PraiaFloripa_PT-BR9500409157_UHD.jpg)
+![2025-11-29-1](https://www.bing.com/th?id=OHR.DeerVeluwe_ZH-CN1438758687_UHD.jpg)

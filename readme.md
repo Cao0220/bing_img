@@ -6117,3 +6117,6 @@ Bing_img
 ----------------
 ![2025-11-29-0](https://www.bing.com/th?id=OHR.PraiaFloripa_PT-BR9500409157_UHD.jpg)
 ![2025-11-29-1](https://www.bing.com/th?id=OHR.DeerVeluwe_ZH-CN1438758687_UHD.jpg)
+2025-11-30
+----------------
+![2025-11-30-0](https://www.bing.com/th?id=OHR.LeipzigMarket_ZH-CN1517513161_UHD.jpg)

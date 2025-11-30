@@ -6120,3 +6120,6 @@ Bing_img
 2025-11-30
 ----------------
 ![2025-11-30-0](https://www.bing.com/th?id=OHR.LeipzigMarket_ZH-CN1517513161_UHD.jpg)
+2025-12-01
+----------------
+![2025-12-01-0](https://www.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_UHD.jpg)

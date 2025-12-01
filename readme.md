@@ -6123,3 +6123,7 @@ Bing_img
 2025-12-01
 ----------------
 ![2025-12-01-0](https://www.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_UHD.jpg)
+2025-12-02
+----------------
+![2025-12-02-0](https://www.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_UHD.jpg)
+![2025-12-02-1](https://www.bing.com/th?id=OHR.AdventcalendarGermany_DE-DE4536925565_UHD.jpg)

@@ -6133,3 +6133,8 @@ Bing_img
 ![2025-12-03-1](https://www.bing.com/th?id=OHR.WhistlerVillage_EN-CA2405537581_UHD.jpg)
 ![2025-12-03-2](https://www.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_UHD.jpg)
 ![2025-12-03-3](https://www.bing.com/th?id=OHR.ChichibuNightFestival2025_JA-JP8715169093_UHD.jpg)
+2025-12-04
+----------------
+![2025-12-04-0](https://www.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_UHD.jpg)
+![2025-12-04-1](https://www.bing.com/th?id=OHR.CastildetierraNavarra_ES-ES0561192005_UHD.jpg)
+![2025-12-04-2](https://www.bing.com/th?id=OHR.ComoChristmas_IT-IT9407440928_UHD.jpg)

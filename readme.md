@@ -6138,3 +6138,7 @@ Bing_img
 ![2025-12-04-0](https://www.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_UHD.jpg)
 ![2025-12-04-1](https://www.bing.com/th?id=OHR.CastildetierraNavarra_ES-ES0561192005_UHD.jpg)
 ![2025-12-04-2](https://www.bing.com/th?id=OHR.ComoChristmas_IT-IT9407440928_UHD.jpg)
+2025-12-05
+----------------
+![2025-12-05-0](https://www.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324_UHD.jpg)
+![2025-12-05-1](https://www.bing.com/th?id=OHR.IndianNavyDay2025_EN-IN1202327501_UHD.jpg)

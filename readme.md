@@ -6142,3 +6142,6 @@ Bing_img
 ----------------
 ![2025-12-05-0](https://www.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324_UHD.jpg)
 ![2025-12-05-1](https://www.bing.com/th?id=OHR.IndianNavyDay2025_EN-IN1202327501_UHD.jpg)
+2025-12-06
+----------------
+![2025-12-06-0](https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_UHD.jpg)

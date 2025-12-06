@@ -6145,3 +6145,10 @@ Bing_img
 2025-12-06
 ----------------
 ![2025-12-06-0](https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_UHD.jpg)
+2025-12-07
+----------------
+![2025-12-07-0](https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg)
+![2025-12-07-1](https://www.bing.com/th?id=OHR.NicholasChocolate_DE-DE9261454162_UHD.jpg)
+![2025-12-07-2](https://www.bing.com/th?id=OHR.ConstitutionSpainDay_ES-ES1916135600_UHD.jpg)
+![2025-12-07-3](https://www.bing.com/th?id=OHR.StrasbourgNicolas_FR-FR8648061434_UHD.jpg)
+![2025-12-07-4](https://www.bing.com/th?id=OHR.Daxue2025_JA-JP6833558565_UHD.jpg)

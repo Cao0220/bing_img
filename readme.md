@@ -6152,3 +6152,7 @@ Bing_img
 ![2025-12-07-2](https://www.bing.com/th?id=OHR.ConstitutionSpainDay_ES-ES1916135600_UHD.jpg)
 ![2025-12-07-3](https://www.bing.com/th?id=OHR.StrasbourgNicolas_FR-FR8648061434_UHD.jpg)
 ![2025-12-07-4](https://www.bing.com/th?id=OHR.Daxue2025_JA-JP6833558565_UHD.jpg)
+2025-12-08
+----------------
+![2025-12-08-0](https://www.bing.com/th?id=OHR.MistyPineForest_ROW4499541003_UHD.jpg)
+![2025-12-08-1](https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg)

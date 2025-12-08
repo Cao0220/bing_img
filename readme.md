@@ -6156,3 +6156,7 @@ Bing_img
 ----------------
 ![2025-12-08-0](https://www.bing.com/th?id=OHR.MistyPineForest_ROW4499541003_UHD.jpg)
 ![2025-12-08-1](https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg)
+2025-12-09
+----------------
+![2025-12-09-0](https://www.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg)
+![2025-12-09-1](https://www.bing.com/th?id=OHR.FirenzeNeve_IT-IT0358482518_UHD.jpg)

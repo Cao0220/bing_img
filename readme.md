@@ -6163,3 +6163,7 @@ Bing_img
 2025-12-10
 ----------------
 ![2025-12-10-0](https://www.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_UHD.jpg)
+2025-12-11
+----------------
+![2025-12-11-0](https://www.bing.com/th?id=OHR.CastleAbruzzo_ROW4838323641_UHD.jpg)
+![2025-12-11-1](https://www.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_UHD.jpg)

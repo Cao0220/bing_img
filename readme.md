@@ -6167,3 +6167,6 @@ Bing_img
 ----------------
 ![2025-12-11-0](https://www.bing.com/th?id=OHR.CastleAbruzzo_ROW4838323641_UHD.jpg)
 ![2025-12-11-1](https://www.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_UHD.jpg)
+2025-12-12
+----------------
+![2025-12-12-0](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_UHD.jpg)

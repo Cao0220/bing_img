@@ -6170,3 +6170,7 @@ Bing_img
 2025-12-12
 ----------------
 ![2025-12-12-0](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_UHD.jpg)
+2025-12-13
+----------------
+![2025-12-13-0](https://www.bing.com/th?id=OHR.SuspensionLights_EN-CA1736218976_UHD.jpg)
+![2025-12-13-1](https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg)

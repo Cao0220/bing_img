@@ -6174,3 +6174,7 @@ Bing_img
 ----------------
 ![2025-12-13-0](https://www.bing.com/th?id=OHR.SuspensionLights_EN-CA1736218976_UHD.jpg)
 ![2025-12-13-1](https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg)
+2025-12-14
+----------------
+![2025-12-14-0](https://www.bing.com/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_UHD.jpg)
+![2025-12-14-1](https://www.bing.com/th?id=OHR.RacletteDay_FR-FR1340553802_UHD.jpg)

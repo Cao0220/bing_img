@@ -6191,3 +6191,7 @@ Bing_img
 ![2025-12-17-0](https://www.bing.com/th?id=OHR.PerugiaStreet_ROW4410274538_UHD.jpg)
 ![2025-12-17-1](https://www.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg)
 ![2025-12-17-2](https://www.bing.com/th?id=OHR.ItalySpaceDay_IT-IT1038189118_UHD.jpg)
+2025-12-18
+----------------
+![2025-12-18-0](https://www.bing.com/th?id=OHR.RedFoxVulpes_PT-BR4619865412_UHD.jpg)
+![2025-12-18-1](https://www.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_UHD.jpg)

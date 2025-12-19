@@ -6202,3 +6202,7 @@ Bing_img
 ![2025-12-19-2](https://www.bing.com/th?id=OHR.SwedenSolstice_ES-ES4279169138_UHD.jpg)
 ![2025-12-19-3](https://www.bing.com/th?id=OHR.StarLanterns_FR-FR0647392410_UHD.jpg)
 ![2025-12-19-4](https://www.bing.com/th?id=OHR.GopuramVirupaksha_EN-IN6686101876_UHD.jpg)
+2025-12-20
+----------------
+![2025-12-20-0](https://www.bing.com/th?id=OHR.MonaValePool_PT-BR3761325411_UHD.jpg)
+![2025-12-20-1](https://www.bing.com/th?id=OHR.YosemiteWinter_FR-FR0908929457_UHD.jpg)

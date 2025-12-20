@@ -6206,3 +6206,9 @@ Bing_img
 ----------------
 ![2025-12-20-0](https://www.bing.com/th?id=OHR.MonaValePool_PT-BR3761325411_UHD.jpg)
 ![2025-12-20-1](https://www.bing.com/th?id=OHR.YosemiteWinter_FR-FR0908929457_UHD.jpg)
+2025-12-21
+----------------
+![2025-12-21-0](https://www.bing.com/th?id=OHR.RedFoxVulpes_ROW4883421988_UHD.jpg)
+![2025-12-21-1](https://www.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_UHD.jpg)
+![2025-12-21-2](https://www.bing.com/th?id=OHR.FetNav_FR-FR1160112574_UHD.jpg)
+![2025-12-21-3](https://www.bing.com/th?id=OHR.WinterSolstice2025_JA-JP2351386518_UHD.jpg)

@@ -6212,3 +6212,10 @@ Bing_img
 ![2025-12-21-1](https://www.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_UHD.jpg)
 ![2025-12-21-2](https://www.bing.com/th?id=OHR.FetNav_FR-FR1160112574_UHD.jpg)
 ![2025-12-21-3](https://www.bing.com/th?id=OHR.WinterSolstice2025_JA-JP2351386518_UHD.jpg)
+2025-12-22
+----------------
+![2025-12-22-0](https://www.bing.com/th?id=OHR.SwedenSolstice_ROW5093958502_UHD.jpg)
+![2025-12-22-1](https://www.bing.com/th?id=OHR.Chevroned_PT-BR2327788537_UHD.jpg)
+![2025-12-22-2](https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_UHD.jpg)
+![2025-12-22-3](https://www.bing.com/th?id=OHR.WinterCovadonga_ES-ES5041137538_UHD.jpg)
+![2025-12-22-4](https://www.bing.com/th?id=OHR.ReindeerFinland_JA-JP2648977140_UHD.jpg)

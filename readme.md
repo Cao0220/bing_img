@@ -6219,3 +6219,7 @@ Bing_img
 ![2025-12-22-2](https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_UHD.jpg)
 ![2025-12-22-3](https://www.bing.com/th?id=OHR.WinterCovadonga_ES-ES5041137538_UHD.jpg)
 ![2025-12-22-4](https://www.bing.com/th?id=OHR.ReindeerFinland_JA-JP2648977140_UHD.jpg)
+2025-12-23
+----------------
+![2025-12-23-0](https://www.bing.com/th?id=OHR.NutcrackerAnkara_PT-BR2095396672_UHD.jpg)
+![2025-12-23-1](https://www.bing.com/th?id=OHR.TokyoTower2025_JA-JP2794529209_UHD.jpg)

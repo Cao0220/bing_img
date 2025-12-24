@@ -6227,3 +6227,9 @@ Bing_img
 ----------------
 ![2025-12-24-0](https://www.bing.com/th?id=OHR.LagoLagazuolo_ROW5340646179_UHD.jpg)
 ![2025-12-24-1](https://www.bing.com/th?id=OHR.ElmauChapel_ZH-CN6919330333_UHD.jpg)
+2025-12-25
+----------------
+![2025-12-25-0](https://www.bing.com/th?id=OHR.StarlingBrighton2025_ROW5558323918_UHD.jpg)
+![2025-12-25-1](https://www.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg)
+![2025-12-25-2](https://www.bing.com/th?id=OHR.ElmauSnow_DE-DE2680814765_UHD.jpg)
+![2025-12-25-3](https://www.bing.com/th?id=OHR.SibylSongMallorca_ES-ES5129981423_UHD.jpg)

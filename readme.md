@@ -6233,3 +6233,10 @@ Bing_img
 ![2025-12-25-1](https://www.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg)
 ![2025-12-25-2](https://www.bing.com/th?id=OHR.ElmauSnow_DE-DE2680814765_UHD.jpg)
 ![2025-12-25-3](https://www.bing.com/th?id=OHR.SibylSongMallorca_ES-ES5129981423_UHD.jpg)
+2025-12-26
+----------------
+![2025-12-26-0](https://www.bing.com/th?id=OHR.ReindeerFinland_ROW5662663795_UHD.jpg)
+![2025-12-26-1](https://www.bing.com/th?id=OHR.XmasRio_PT-BR9436214235_UHD.jpg)
+![2025-12-26-2](https://www.bing.com/th?id=OHR.XmasTree_EN-CA1915827603_UHD.jpg)
+![2025-12-26-3](https://www.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_UHD.jpg)
+![2025-12-26-4](https://www.bing.com/th?id=OHR.MilanoNatale_IT-IT0776124040_UHD.jpg)

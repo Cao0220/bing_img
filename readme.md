@@ -6240,3 +6240,8 @@ Bing_img
 ![2025-12-26-2](https://www.bing.com/th?id=OHR.XmasTree_EN-CA1915827603_UHD.jpg)
 ![2025-12-26-3](https://www.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_UHD.jpg)
 ![2025-12-26-4](https://www.bing.com/th?id=OHR.MilanoNatale_IT-IT0776124040_UHD.jpg)
+2025-12-27
+----------------
+![2025-12-27-0](https://www.bing.com/th?id=OHR.WinterCovadonga_ROW0034591599_UHD.jpg)
+![2025-12-27-1](https://www.bing.com/th?id=OHR.SuperiorIceMN_ZH-CN5339027344_UHD.jpg)
+![2025-12-27-2](https://www.bing.com/th?id=OHR.NuukGreenland_FR-FR4321343444_UHD.jpg)

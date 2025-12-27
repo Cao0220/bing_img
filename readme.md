@@ -6245,3 +6245,7 @@ Bing_img
 ![2025-12-27-0](https://www.bing.com/th?id=OHR.WinterCovadonga_ROW0034591599_UHD.jpg)
 ![2025-12-27-1](https://www.bing.com/th?id=OHR.SuperiorIceMN_ZH-CN5339027344_UHD.jpg)
 ![2025-12-27-2](https://www.bing.com/th?id=OHR.NuukGreenland_FR-FR4321343444_UHD.jpg)
+2025-12-28
+----------------
+![2025-12-28-0](https://www.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg)
+![2025-12-28-1](https://www.bing.com/th?id=OHR.MistyPineForest_JA-JP0902135263_UHD.jpg)

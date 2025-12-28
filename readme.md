@@ -6249,3 +6249,7 @@ Bing_img
 ----------------
 ![2025-12-28-0](https://www.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg)
 ![2025-12-28-1](https://www.bing.com/th?id=OHR.MistyPineForest_JA-JP0902135263_UHD.jpg)
+2025-12-29
+----------------
+![2025-12-29-0](https://www.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_UHD.jpg)
+![2025-12-29-1](https://www.bing.com/th?id=OHR.MangaloreBeach2025_EN-IN9427603327_UHD.jpg)

@@ -6259,3 +6259,7 @@ Bing_img
 ![2025-12-30-1](https://www.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_UHD.jpg)
 ![2025-12-30-2](https://www.bing.com/th?id=OHR.SkijumpingEisenbichler_DE-DE4421399020_UHD.jpg)
 ![2025-12-30-3](https://www.bing.com/th?id=OHR.JapanSwans_JA-JP3625883145_UHD.jpg)
+2025-12-31
+----------------
+![2025-12-31-0](https://www.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_UHD.jpg)
+![2025-12-31-1](https://www.bing.com/th?id=OHR.Omisoka2026_JA-JP3799587419_UHD.jpg)

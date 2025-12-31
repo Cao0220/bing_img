@@ -6263,3 +6263,12 @@ Bing_img
 ----------------
 ![2025-12-31-0](https://www.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_UHD.jpg)
 ![2025-12-31-1](https://www.bing.com/th?id=OHR.Omisoka2026_JA-JP3799587419_UHD.jpg)
+2026-01-01
+----------------
+![2026-01-01-0](https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_UHD.jpg)
+![2026-01-01-1](https://www.bing.com/th?id=OHR.NYEToronto_EN-CA2554609222_UHD.jpg)
+![2026-01-01-2](https://www.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_UHD.jpg)
+![2026-01-01-3](https://www.bing.com/th?id=OHR.NewYearES_ES-ES0875645687_UHD.jpg)
+![2026-01-01-4](https://www.bing.com/th?id=OHR.FireworksParis_FR-FR0850151117_UHD.jpg)
+![2026-01-01-5](https://www.bing.com/th?id=OHR.AnnoNuovo_IT-IT2133696487_UHD.jpg)
+![2026-01-01-6](https://www.bing.com/th?id=OHR.NewYearSunrise2026_JA-JP4680541723_UHD.jpg)

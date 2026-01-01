@@ -6272,3 +6272,7 @@ Bing_img
 ![2026-01-01-4](https://www.bing.com/th?id=OHR.FireworksParis_FR-FR0850151117_UHD.jpg)
 ![2026-01-01-5](https://www.bing.com/th?id=OHR.AnnoNuovo_IT-IT2133696487_UHD.jpg)
 ![2026-01-01-6](https://www.bing.com/th?id=OHR.NewYearSunrise2026_JA-JP4680541723_UHD.jpg)
+2026-01-02
+----------------
+![2026-01-02-0](https://www.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_UHD.jpg)
+![2026-01-02-1](https://www.bing.com/th?id=OHR.LoisachWinter_DE-DE1878852056_UHD.jpg)

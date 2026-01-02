@@ -6276,3 +6276,7 @@ Bing_img
 ----------------
 ![2026-01-02-0](https://www.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_UHD.jpg)
 ![2026-01-02-1](https://www.bing.com/th?id=OHR.LoisachWinter_DE-DE1878852056_UHD.jpg)
+2026-01-03
+----------------
+![2026-01-03-0](https://www.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_UHD.jpg)
+![2026-01-03-1](https://www.bing.com/th?id=OHR.ImpalaRooibok_IT-IT2418246080_UHD.jpg)

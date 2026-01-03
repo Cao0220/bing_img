@@ -6280,3 +6280,6 @@ Bing_img
 ----------------
 ![2026-01-03-0](https://www.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_UHD.jpg)
 ![2026-01-03-1](https://www.bing.com/th?id=OHR.ImpalaRooibok_IT-IT2418246080_UHD.jpg)
+2026-01-04
+----------------
+![2026-01-04-0](https://www.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_UHD.jpg)

@@ -6286,3 +6286,6 @@ Bing_img
 2026-01-05
 ----------------
 ![2026-01-05-0](https://www.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg)
+2026-01-06
+----------------
+![2026-01-06-0](https://www.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_UHD.jpg)

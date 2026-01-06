@@ -6289,3 +6289,9 @@ Bing_img
 2026-01-06
 ----------------
 ![2026-01-06-0](https://www.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_UHD.jpg)
+2026-01-07
+----------------
+![2026-01-07-0](https://www.bing.com/th?id=OHR.OldRockArch_ZH-CN2061140260_UHD.jpg)
+![2026-01-07-1](https://www.bing.com/th?id=OHR.ReyesMagos_ES-ES2955520279_UHD.jpg)
+![2026-01-07-2](https://www.bing.com/th?id=OHR.EpiphanyDay_FR-FR4715294698_UHD.jpg)
+![2026-01-07-3](https://www.bing.com/th?id=OHR.BefanaItalia_IT-IT3087185120_UHD.jpg)

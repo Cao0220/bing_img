@@ -6295,3 +6295,7 @@ Bing_img
 ![2026-01-07-1](https://www.bing.com/th?id=OHR.ReyesMagos_ES-ES2955520279_UHD.jpg)
 ![2026-01-07-2](https://www.bing.com/th?id=OHR.EpiphanyDay_FR-FR4715294698_UHD.jpg)
 ![2026-01-07-3](https://www.bing.com/th?id=OHR.BefanaItalia_IT-IT3087185120_UHD.jpg)
+2026-01-08
+----------------
+![2026-01-08-0](https://www.bing.com/th?id=OHR.NoronhaSunset_PT-BR9160496041_UHD.jpg)
+![2026-01-08-1](https://www.bing.com/th?id=OHR.StarlingBrighton2025_ZH-CN2775446092_UHD.jpg)

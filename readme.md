@@ -6299,3 +6299,7 @@ Bing_img
 ----------------
 ![2026-01-08-0](https://www.bing.com/th?id=OHR.NoronhaSunset_PT-BR9160496041_UHD.jpg)
 ![2026-01-08-1](https://www.bing.com/th?id=OHR.StarlingBrighton2025_ZH-CN2775446092_UHD.jpg)
+2026-01-09
+----------------
+![2026-01-09-0](https://www.bing.com/th?id=OHR.Chevroned_ROW1885349561_UHD.jpg)
+![2026-01-09-1](https://www.bing.com/th?id=OHR.MuirWoodsMonument_ZH-CN2985538001_UHD.jpg)

@@ -6309,3 +6309,6 @@ Bing_img
 ![2026-01-10-1](https://www.bing.com/th?id=OHR.LynxBavariaSnow_DE-DE0416366629_UHD.jpg)
 ![2026-01-10-2](https://www.bing.com/th?id=OHR.NaplesBasilica_ES-ES4865830331_UHD.jpg)
 ![2026-01-10-3](https://www.bing.com/th?id=OHR.CorsicaDay_FR-FR4522810421_UHD.jpg)
+2026-01-11
+----------------
+![2026-01-11-0](https://www.bing.com/th?id=OHR.BlueMorocco_ZH-CN3296596109_UHD.jpg)

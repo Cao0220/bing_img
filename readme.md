@@ -6312,3 +6312,7 @@ Bing_img
 2026-01-11
 ----------------
 ![2026-01-11-0](https://www.bing.com/th?id=OHR.BlueMorocco_ZH-CN3296596109_UHD.jpg)
+2026-01-12
+----------------
+![2026-01-12-0](https://www.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_UHD.jpg)
+![2026-01-12-1](https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP1055394608_UHD.jpg)

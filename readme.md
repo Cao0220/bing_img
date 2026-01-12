@@ -6316,3 +6316,7 @@ Bing_img
 ----------------
 ![2026-01-12-0](https://www.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_UHD.jpg)
 ![2026-01-12-1](https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP1055394608_UHD.jpg)
+2026-01-13
+----------------
+![2026-01-13-0](https://www.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_UHD.jpg)
+![2026-01-13-1](https://www.bing.com/th?id=OHR.EtnaSiciliaNeve_IT-IT1228064958_UHD.jpg)

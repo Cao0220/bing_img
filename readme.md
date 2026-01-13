@@ -6320,3 +6320,6 @@ Bing_img
 ----------------
 ![2026-01-13-0](https://www.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_UHD.jpg)
 ![2026-01-13-1](https://www.bing.com/th?id=OHR.EtnaSiciliaNeve_IT-IT1228064958_UHD.jpg)
+2026-01-14
+----------------
+![2026-01-14-0](https://www.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_UHD.jpg)

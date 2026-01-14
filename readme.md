@@ -6323,3 +6323,6 @@ Bing_img
 2026-01-14
 ----------------
 ![2026-01-14-0](https://www.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_UHD.jpg)
+2026-01-15
+----------------
+![2026-01-15-0](https://www.bing.com/th?id=OHR.ReineSunrise_ZH-CN6297586399_UHD.jpg)

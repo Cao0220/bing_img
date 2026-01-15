@@ -6326,3 +6326,8 @@ Bing_img
 2026-01-15
 ----------------
 ![2026-01-15-0](https://www.bing.com/th?id=OHR.ReineSunrise_ZH-CN6297586399_UHD.jpg)
+2026-01-16
+----------------
+![2026-01-16-0](https://www.bing.com/th?id=OHR.Bonfim_PT-BR7860220146_UHD.jpg)
+![2026-01-16-1](https://www.bing.com/th?id=OHR.EtoshaLeopard_ZH-CN6654006040_UHD.jpg)
+![2026-01-16-2](https://www.bing.com/th?id=OHR.SnowOtters_JA-JP0357169871_UHD.jpg)

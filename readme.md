@@ -6336,3 +6336,9 @@ Bing_img
 ![2026-01-17-0](https://www.bing.com/th?id=OHR.NaplesBasilica_ZH-CN6888150174_UHD.jpg)
 ![2026-01-17-1](https://www.bing.com/th?id=OHR.BerrySquirrel_ES-ES5927701913_UHD.jpg)
 ![2026-01-17-2](https://www.bing.com/th?id=OHR.DeerWinter_FR-FR9698040180_UHD.jpg)
+2026-01-18
+----------------
+![2026-01-18-0](https://www.bing.com/th?id=OHR.NoronhaSunset_ROW5367221935_UHD.jpg)
+![2026-01-18-1](https://www.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_UHD.jpg)
+![2026-01-18-2](https://www.bing.com/th?id=OHR.Menorca_ES-ES6251409346_UHD.jpg)
+![2026-01-18-3](https://www.bing.com/th?id=OHR.WorldPizza_IT-IT4174875702_UHD.jpg)

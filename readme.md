@@ -6346,3 +6346,8 @@ Bing_img
 ----------------
 ![2026-01-19-0](https://www.bing.com/th?id=OHR.BubblesAbraham_ZH-CN7203734882_UHD.jpg)
 ![2026-01-19-1](https://www.bing.com/th?id=OHR.ExternsteineSunset_JA-JP0787932101_UHD.jpg)
+2026-01-20
+----------------
+![2026-01-20-0](https://www.bing.com/th?id=OHR.AlterPara_PT-BR8119560973_UHD.jpg)
+![2026-01-20-1](https://www.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_UHD.jpg)
+![2026-01-20-2](https://www.bing.com/th?id=OHR.Daikan2026_JA-JP0917583221_UHD.jpg)

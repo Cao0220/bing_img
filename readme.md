@@ -6351,3 +6351,7 @@ Bing_img
 ![2026-01-20-0](https://www.bing.com/th?id=OHR.AlterPara_PT-BR8119560973_UHD.jpg)
 ![2026-01-20-1](https://www.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_UHD.jpg)
 ![2026-01-20-2](https://www.bing.com/th?id=OHR.Daikan2026_JA-JP0917583221_UHD.jpg)
+2026-01-21
+----------------
+![2026-01-21-0](https://www.bing.com/th?id=OHR.IciclePenguin_ROW6935173309_UHD.jpg)
+![2026-01-21-1](https://www.bing.com/th?id=OHR.BerrySquirrel_ZH-CN7382553646_UHD.jpg)

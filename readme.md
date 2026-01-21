@@ -6355,3 +6355,8 @@ Bing_img
 ----------------
 ![2026-01-21-0](https://www.bing.com/th?id=OHR.IciclePenguin_ROW6935173309_UHD.jpg)
 ![2026-01-21-1](https://www.bing.com/th?id=OHR.BerrySquirrel_ZH-CN7382553646_UHD.jpg)
+2026-01-22
+----------------
+![2026-01-22-0](https://www.bing.com/th?id=OHR.KarlovyVary_ZH-CN7585938362_UHD.jpg)
+![2026-01-22-1](https://www.bing.com/th?id=OHR.FITUR_ES-ES6773132633_UHD.jpg)
+![2026-01-22-2](https://www.bing.com/th?id=OHR.RajasthanSandDunes2025_EN-IN0938855919_UHD.jpg)

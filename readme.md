@@ -6360,3 +6360,7 @@ Bing_img
 ![2026-01-22-0](https://www.bing.com/th?id=OHR.KarlovyVary_ZH-CN7585938362_UHD.jpg)
 ![2026-01-22-1](https://www.bing.com/th?id=OHR.FITUR_ES-ES6773132633_UHD.jpg)
 ![2026-01-22-2](https://www.bing.com/th?id=OHR.RajasthanSandDunes2025_EN-IN0938855919_UHD.jpg)
+2026-01-23
+----------------
+![2026-01-23-0](https://www.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_UHD.jpg)
+![2026-01-23-1](https://www.bing.com/th?id=OHR.Mimramfootbridge_DE-DE7428215729_UHD.jpg)

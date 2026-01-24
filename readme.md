@@ -6368,3 +6368,7 @@ Bing_img
 ----------------
 ![2026-01-24-0](https://www.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg)
 ![2026-01-24-1](https://www.bing.com/th?id=OHR.Toledo_ES-ES4779443125_UHD.jpg)
+2026-01-25
+----------------
+![2026-01-25-0](https://www.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_UHD.jpg)
+![2026-01-25-1](https://www.bing.com/th?id=OHR.PisaTower_IT-IT3619940805_UHD.jpg)

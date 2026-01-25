@@ -6372,3 +6372,8 @@ Bing_img
 ----------------
 ![2026-01-25-0](https://www.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_UHD.jpg)
 ![2026-01-25-1](https://www.bing.com/th?id=OHR.PisaTower_IT-IT3619940805_UHD.jpg)
+2026-01-26
+----------------
+![2026-01-26-0](https://www.bing.com/th?id=OHR.AnniversarySP_PT-BR3102321116_UHD.jpg)
+![2026-01-26-1](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_UHD.jpg)
+![2026-01-26-2](https://www.bing.com/th?id=OHR.BubblesAbraham_JA-JP9895459899_UHD.jpg)

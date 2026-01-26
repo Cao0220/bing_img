@@ -6377,3 +6377,10 @@ Bing_img
 ![2026-01-26-0](https://www.bing.com/th?id=OHR.AnniversarySP_PT-BR3102321116_UHD.jpg)
 ![2026-01-26-1](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_UHD.jpg)
 ![2026-01-26-2](https://www.bing.com/th?id=OHR.BubblesAbraham_JA-JP9895459899_UHD.jpg)
+2026-01-27
+----------------
+![2026-01-27-0](https://www.bing.com/th?id=OHR.FITUR_ROW7734232756_UHD.jpg)
+![2026-01-27-1](https://www.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_UHD.jpg)
+![2026-01-27-2](https://www.bing.com/th?id=OHR.Navarra_ES-ES9772390059_UHD.jpg)
+![2026-01-27-3](https://www.bing.com/th?id=OHR.BluetitWinter_FR-FR1512662576_UHD.jpg)
+![2026-01-27-4](https://www.bing.com/th?id=OHR.RepublicDay2026_EN-IN4289196268_UHD.jpg)

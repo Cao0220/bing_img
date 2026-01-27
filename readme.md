@@ -6384,3 +6384,6 @@ Bing_img
 ![2026-01-27-2](https://www.bing.com/th?id=OHR.Navarra_ES-ES9772390059_UHD.jpg)
 ![2026-01-27-3](https://www.bing.com/th?id=OHR.BluetitWinter_FR-FR1512662576_UHD.jpg)
 ![2026-01-27-4](https://www.bing.com/th?id=OHR.RepublicDay2026_EN-IN4289196268_UHD.jpg)
+2026-01-28
+----------------
+![2026-01-28-0](https://www.bing.com/th?id=OHR.WhanganuiPark_ZH-CN5664518836_UHD.jpg)

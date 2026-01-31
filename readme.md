@@ -6400,3 +6400,7 @@ Bing_img
 ![2026-01-31-1](https://www.bing.com/th?id=OHR.EtoshaZebra_ZH-CN6068087794_UHD.jpg)
 ![2026-01-31-2](https://www.bing.com/th?id=OHR.AndermattSwiss_IT-IT7291559000_UHD.jpg)
 ![2026-01-31-3](https://www.bing.com/th?id=OHR.IceFestival2026_JA-JP1189462193_UHD.jpg)
+2026-02-01
+----------------
+![2026-02-01-0](https://www.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg)
+![2026-02-01-1](https://www.bing.com/th?id=OHR.Echasse_JA-JP1351434706_UHD.jpg)

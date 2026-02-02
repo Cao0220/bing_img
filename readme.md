@@ -6408,3 +6408,8 @@ Bing_img
 ----------------
 ![2026-02-02-0](https://www.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_UHD.jpg)
 ![2026-02-02-1](https://www.bing.com/th?id=OHR.IcelandSheep_ES-ES7827276592_UHD.jpg)
+2026-02-03
+----------------
+![2026-02-03-0](https://www.bing.com/th?id=OHR.FanetteIsland_ZH-CN6466809551_UHD.jpg)
+![2026-02-03-1](https://www.bing.com/th?id=OHR.BretagneCrepe_FR-FR4282491151_UHD.jpg)
+![2026-02-03-2](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_EN-IN1290603562_UHD.jpg)

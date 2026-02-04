@@ -6417,3 +6417,8 @@ Bing_img
 ----------------
 ![2026-02-04-0](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_ZH-CN6864628198_UHD.jpg)
 ![2026-02-04-1](https://www.bing.com/th?id=OHR.Risshun2026_JA-JP6581085415_UHD.jpg)
+2026-02-05
+----------------
+![2026-02-05-0](https://www.bing.com/th?id=OHR.MaltaSalt_ZH-CN7025158187_UHD.jpg)
+![2026-02-05-1](https://www.bing.com/th?id=OHR.HamburgSpeicherstadt_DE-DE2204805313_UHD.jpg)
+![2026-02-05-2](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_ES-ES8143316489_UHD.jpg)

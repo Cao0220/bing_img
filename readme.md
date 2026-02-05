@@ -6422,3 +6422,6 @@ Bing_img
 ![2026-02-05-0](https://www.bing.com/th?id=OHR.MaltaSalt_ZH-CN7025158187_UHD.jpg)
 ![2026-02-05-1](https://www.bing.com/th?id=OHR.HamburgSpeicherstadt_DE-DE2204805313_UHD.jpg)
 ![2026-02-05-2](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_ES-ES8143316489_UHD.jpg)
+2026-02-06
+----------------
+![2026-02-06-0](https://www.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_UHD.jpg)

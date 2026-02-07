@@ -6430,3 +6430,6 @@ Bing_img
 ![2026-02-07-0](https://www.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_UHD.jpg)
 ![2026-02-07-1](https://www.bing.com/th?id=OHR.CortinaOlimpiadi_IT-IT1161240762_UHD.jpg)
 ![2026-02-07-2](https://www.bing.com/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944_UHD.jpg)
+2026-02-08
+----------------
+![2026-02-08-0](https://www.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_UHD.jpg)

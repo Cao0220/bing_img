@@ -6455,3 +6455,9 @@ Bing_img
 ![2026-02-15-0](https://www.bing.com/th?id=OHR.Carnaval26_PT-BR4981816549_UHD.jpg)
 ![2026-02-15-1](https://www.bing.com/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_UHD.jpg)
 ![2026-02-15-2](https://www.bing.com/th?id=OHR.SanValentino_IT-IT4953032598_UHD.jpg)
+2026-02-16
+----------------
+![2026-02-16-0](https://www.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_UHD.jpg)
+![2026-02-16-1](https://www.bing.com/th?id=OHR.IbizaIslets_ES-ES3095870118_UHD.jpg)
+![2026-02-16-2](https://www.bing.com/th?id=OHR.MahaShivaratri2026_EN-IN9432301075_UHD.jpg)
+![2026-02-16-3](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_JA-JP2834863474_UHD.jpg)

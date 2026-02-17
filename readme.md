@@ -6469,3 +6469,7 @@ Bing_img
 ![2026-02-17-3](https://www.bing.com/th?id=OHR.Bornand_FR-FR4225399243_UHD.jpg)
 ![2026-02-17-4](https://www.bing.com/th?id=OHR.DragonsEyeRock_IT-IT5246962899_UHD.jpg)
 ![2026-02-17-5](https://www.bing.com/th?id=OHR.NewYearLantern_JA-JP3079738564_UHD.jpg)
+2026-02-18
+----------------
+![2026-02-18-0](https://www.bing.com/th?id=OHR.Navarra_ROW0874580487_UHD.jpg)
+![2026-02-18-1](https://www.bing.com/th?id=OHR.PrzewalskisHorse_ZH-CN5785609662_UHD.jpg)

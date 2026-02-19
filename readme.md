@@ -6477,3 +6477,8 @@ Bing_img
 ----------------
 ![2026-02-19-0](https://www.bing.com/th?id=OHR.SavanaBA_PT-BR8450191150_UHD.jpg)
 ![2026-02-19-1](https://www.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_UHD.jpg)
+2026-02-20
+----------------
+![2026-02-20-0](https://www.bing.com/th?id=OHR.AdamsFirefall_ZH-CN9409143565_UHD.jpg)
+![2026-02-20-1](https://www.bing.com/th?id=OHR.GranadaAlhambra_ES-ES3338584785_UHD.jpg)
+![2026-02-20-2](https://www.bing.com/th?id=OHR.GiauPass_IT-IT5498738884_UHD.jpg)

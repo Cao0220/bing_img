@@ -6487,3 +6487,7 @@ Bing_img
 ![2026-02-21-0](https://www.bing.com/th?id=OHR.TetonFox_ZH-CN9461948674_UHD.jpg)
 ![2026-02-21-1](https://www.bing.com/th?id=OHR.SwanHesse_DE-DE7086737425_UHD.jpg)
 ![2026-02-21-2](https://www.bing.com/th?id=OHR.LemonFestival_FR-FR1757347913_UHD.jpg)
+2026-02-22
+----------------
+![2026-02-22-0](https://www.bing.com/th?id=OHR.MamTorSunrise_ZH-CN9698497298_UHD.jpg)
+![2026-02-22-1](https://www.bing.com/th?id=OHR.CapraIbex_FR-FR0715684177_UHD.jpg)

@@ -6491,3 +6491,8 @@ Bing_img
 ----------------
 ![2026-02-22-0](https://www.bing.com/th?id=OHR.MamTorSunrise_ZH-CN9698497298_UHD.jpg)
 ![2026-02-22-1](https://www.bing.com/th?id=OHR.CapraIbex_FR-FR0715684177_UHD.jpg)
+2026-02-23
+----------------
+![2026-02-23-0](https://www.bing.com/th?id=OHR.IgFalls_PT-BR4551523679_UHD.jpg)
+![2026-02-23-1](https://www.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_UHD.jpg)
+![2026-02-23-2](https://www.bing.com/th?id=OHR.MountFuji2026_JA-JP8594170652_UHD.jpg)

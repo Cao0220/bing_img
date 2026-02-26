@@ -6506,3 +6506,7 @@ Bing_img
 2026-02-26
 ----------------
 ![2026-02-26-0](https://www.bing.com/th?id=OHR.GrandSunset_ZH-CN1905986519_UHD.jpg)
+2026-02-27
+----------------
+![2026-02-27-0](https://www.bing.com/th?id=OHR.ArcitcCub_ZH-CN2725049760_UHD.jpg)
+![2026-02-27-1](https://www.bing.com/th?id=OHR.BrockenSunrise_DE-DE4032299807_UHD.jpg)

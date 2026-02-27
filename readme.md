@@ -6510,3 +6510,6 @@ Bing_img
 ----------------
 ![2026-02-27-0](https://www.bing.com/th?id=OHR.ArcitcCub_ZH-CN2725049760_UHD.jpg)
 ![2026-02-27-1](https://www.bing.com/th?id=OHR.BrockenSunrise_DE-DE4032299807_UHD.jpg)
+2026-02-28
+----------------
+![2026-02-28-0](https://www.bing.com/th?id=OHR.OloupenaFalls_ZH-CN2980118660_UHD.jpg)

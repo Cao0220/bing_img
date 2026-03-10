@@ -6562,3 +6562,8 @@ Bing_img
 2026-03-10
 ----------------
 ![2026-03-10-0](https://www.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_UHD.jpg)
+2026-03-11
+----------------
+![2026-03-11-0](https://www.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg)
+![2026-03-11-1](https://www.bing.com/th?id=OHR.Zumaia_ES-ES4174062610_UHD.jpg)
+![2026-03-11-2](https://www.bing.com/th?id=OHR.TohokuEarthquakeMemorial2026_JA-JP5225999611_UHD.jpg)

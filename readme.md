@@ -6567,3 +6567,7 @@ Bing_img
 ![2026-03-11-0](https://www.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg)
 ![2026-03-11-1](https://www.bing.com/th?id=OHR.Zumaia_ES-ES4174062610_UHD.jpg)
 ![2026-03-11-2](https://www.bing.com/th?id=OHR.TohokuEarthquakeMemorial2026_JA-JP5225999611_UHD.jpg)
+2026-03-12
+----------------
+![2026-03-12-0](https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_UHD.jpg)
+![2026-03-12-1](https://www.bing.com/th?id=OHR.TodaijiTempleOmizutori2026_JA-JP4273263363_UHD.jpg)

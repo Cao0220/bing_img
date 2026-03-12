@@ -6571,3 +6571,6 @@ Bing_img
 ----------------
 ![2026-03-12-0](https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_UHD.jpg)
 ![2026-03-12-1](https://www.bing.com/th?id=OHR.TodaijiTempleOmizutori2026_JA-JP4273263363_UHD.jpg)
+2026-03-13
+----------------
+![2026-03-13-0](https://www.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg)

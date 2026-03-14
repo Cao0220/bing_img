@@ -6578,3 +6578,7 @@ Bing_img
 ----------------
 ![2026-03-14-0](https://www.bing.com/th?id=OHR.SwanHesse_ROW3213322861_UHD.jpg)
 ![2026-03-14-1](https://www.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg)
+2026-03-15
+----------------
+![2026-03-15-0](https://www.bing.com/th?id=OHR.AnimalDay_PT-BR1131499821_UHD.jpg)
+![2026-03-15-1](https://www.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_UHD.jpg)

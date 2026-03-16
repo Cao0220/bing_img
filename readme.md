@@ -6588,3 +6588,8 @@ Bing_img
 ![2026-03-16-1](https://www.bing.com/th?id=OHR.KoenigsseeFog_DE-DE0451394349_UHD.jpg)
 ![2026-03-16-2](https://www.bing.com/th?id=OHR.FallasValencia_ES-ES2854700408_UHD.jpg)
 ![2026-03-16-3](https://www.bing.com/th?id=OHR.PeachBloom_JA-JP7397349456_UHD.jpg)
+2026-03-17
+----------------
+![2026-03-17-0](https://www.bing.com/th?id=OHR.AnivRio_ROW3862828341_UHD.jpg)
+![2026-03-17-1](https://www.bing.com/th?id=OHR.AuroraIsland_EN-CA8332911364_UHD.jpg)
+![2026-03-17-2](https://www.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_UHD.jpg)

@@ -6600,3 +6600,8 @@ Bing_img
 ----------------
 ![2026-03-19-0](https://www.bing.com/th?id=OHR.AerialLencois_PT-BR2485824651_UHD.jpg)
 ![2026-03-19-1](https://www.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_UHD.jpg)
+2026-03-20
+----------------
+![2026-03-20-0](https://www.bing.com/th?id=OHR.SpringEquinoxY26_ZH-CN7450181382_UHD.jpg)
+![2026-03-20-1](https://www.bing.com/th?id=OHR.FathersDayItaly_IT-IT6801495105_UHD.jpg)
+![2026-03-20-2](https://www.bing.com/th?id=OHR.SpringSnowdrops_JA-JP8554533353_UHD.jpg)

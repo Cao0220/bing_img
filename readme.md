@@ -6605,3 +6605,8 @@ Bing_img
 ![2026-03-20-0](https://www.bing.com/th?id=OHR.SpringEquinoxY26_ZH-CN7450181382_UHD.jpg)
 ![2026-03-20-1](https://www.bing.com/th?id=OHR.FathersDayItaly_IT-IT6801495105_UHD.jpg)
 ![2026-03-20-2](https://www.bing.com/th?id=OHR.SpringSnowdrops_JA-JP8554533353_UHD.jpg)
+2026-03-21
+----------------
+![2026-03-21-0](https://www.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_UHD.jpg)
+![2026-03-21-1](https://www.bing.com/th?id=OHR.Equinox_ES-ES5576771883_UHD.jpg)
+![2026-03-21-2](https://www.bing.com/th?id=OHR.FrancophonieIf_FR-FR2314499468_UHD.jpg)

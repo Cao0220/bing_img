@@ -6619,3 +6619,8 @@ Bing_img
 2026-03-24
 ----------------
 ![2026-03-24-0](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_UHD.jpg)
+2026-03-25
+----------------
+![2026-03-25-0](https://www.bing.com/th?id=OHR.KoenigsseeFog_ROW4902303534_UHD.jpg)
+![2026-03-25-1](https://www.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_UHD.jpg)
+![2026-03-25-2](https://www.bing.com/th?id=OHR.KapArkonaRuegen_DE-DE8954793398_UHD.jpg)

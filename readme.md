@@ -6633,3 +6633,7 @@ Bing_img
 ----------------
 ![2026-03-27-0](https://www.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg)
 ![2026-03-27-1](https://www.bing.com/th?id=OHR.SakuraDay2026_JA-JP6970025028_UHD.jpg)
+2026-03-28
+----------------
+![2026-03-28-0](https://www.bing.com/th?id=OHR.AuroraIsland_ROW4443502358_UHD.jpg)
+![2026-03-28-1](https://www.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_UHD.jpg)

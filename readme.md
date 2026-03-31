@@ -6650,3 +6650,7 @@ Bing_img
 ----------------
 ![2026-03-31-0](https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg)
 ![2026-03-31-1](https://www.bing.com/th?id=OHR.DolomitiSpring_IT-IT3295923422_UHD.jpg)
+2026-04-01
+----------------
+![2026-04-01-0](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg)
+![2026-04-01-1](https://www.bing.com/th?id=OHR.WildflowerValley_JA-JP7238318324_UHD.jpg)

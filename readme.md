@@ -6654,3 +6654,7 @@ Bing_img
 ----------------
 ![2026-04-01-0](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg)
 ![2026-04-01-1](https://www.bing.com/th?id=OHR.WildflowerValley_JA-JP7238318324_UHD.jpg)
+2026-04-02
+----------------
+![2026-04-02-0](https://www.bing.com/th?id=OHR.SanchiMP_EN-IN5100905412_UHD.jpg)
+![2026-04-02-1](https://www.bing.com/th?id=OHR.MagnoliaBloom2026_JA-JP8135720992_UHD.jpg)

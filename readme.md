@@ -6663,3 +6663,7 @@ Bing_img
 ![2026-04-03-0](https://www.bing.com/th?id=OHR.Jaguarcat_PT-BR9300640460_UHD.jpg)
 ![2026-04-03-1](https://www.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_UHD.jpg)
 ![2026-04-03-2](https://www.bing.com/th?id=OHR.MuscardinNest_FR-FR5342153518_UHD.jpg)
+2026-04-04
+----------------
+![2026-04-04-0](https://www.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_UHD.jpg)
+![2026-04-04-1](https://www.bing.com/th?id=OHR.QingmingFestival2026_JA-JP3473610824_UHD.jpg)

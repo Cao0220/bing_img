@@ -6667,3 +6667,8 @@ Bing_img
 ----------------
 ![2026-04-04-0](https://www.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_UHD.jpg)
 ![2026-04-04-1](https://www.bing.com/th?id=OHR.QingmingFestival2026_JA-JP3473610824_UHD.jpg)
+2026-04-05
+----------------
+![2026-04-05-0](https://www.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_UHD.jpg)
+![2026-04-05-1](https://www.bing.com/th?id=OHR.CastleBlossoms_IT-IT1656060709_UHD.jpg)
+![2026-04-05-2](https://www.bing.com/th?id=OHR.LithuaniaEggs_JA-JP3508325746_UHD.jpg)

@@ -6672,3 +6672,9 @@ Bing_img
 ![2026-04-05-0](https://www.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_UHD.jpg)
 ![2026-04-05-1](https://www.bing.com/th?id=OHR.CastleBlossoms_IT-IT1656060709_UHD.jpg)
 ![2026-04-05-2](https://www.bing.com/th?id=OHR.LithuaniaEggs_JA-JP3508325746_UHD.jpg)
+2026-04-06
+----------------
+![2026-04-06-0](https://www.bing.com/th?id=OHR.LacGentau_ROW3338740451_UHD.jpg)
+![2026-04-06-1](https://www.bing.com/th?id=OHR.Easter_PT-BR6932429593_UHD.jpg)
+![2026-04-06-2](https://www.bing.com/th?id=OHR.SorbianEasterEggs_DE-DE8747014000_UHD.jpg)
+![2026-04-06-3](https://www.bing.com/th?id=OHR.PontArdeche_FR-FR1915151137_UHD.jpg)

@@ -6678,3 +6678,7 @@ Bing_img
 ![2026-04-06-1](https://www.bing.com/th?id=OHR.Easter_PT-BR6932429593_UHD.jpg)
 ![2026-04-06-2](https://www.bing.com/th?id=OHR.SorbianEasterEggs_DE-DE8747014000_UHD.jpg)
 ![2026-04-06-3](https://www.bing.com/th?id=OHR.PontArdeche_FR-FR1915151137_UHD.jpg)
+2026-04-07
+----------------
+![2026-04-07-0](https://www.bing.com/th?id=OHR.BeaverPortrait_ZH-CN4700069789_UHD.jpg)
+![2026-04-07-1](https://www.bing.com/th?id=OHR.CarbonaraRoma_IT-IT1787234049_UHD.jpg)

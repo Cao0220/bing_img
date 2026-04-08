@@ -6686,3 +6686,7 @@ Bing_img
 ----------------
 ![2026-04-08-0](https://www.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_UHD.jpg)
 ![2026-04-08-1](https://www.bing.com/th?id=OHR.OcellarisClownfish_EN-IN1152151443_UHD.jpg)
+2026-04-09
+----------------
+![2026-04-09-0](https://www.bing.com/th?id=OHR.Denphal_PT-BR0145708370_UHD.jpg)
+![2026-04-09-1](https://www.bing.com/th?id=OHR.WalesWaterfall_ZH-CN3175091833_UHD.jpg)

@@ -6690,3 +6690,6 @@ Bing_img
 ----------------
 ![2026-04-09-0](https://www.bing.com/th?id=OHR.Denphal_PT-BR0145708370_UHD.jpg)
 ![2026-04-09-1](https://www.bing.com/th?id=OHR.WalesWaterfall_ZH-CN3175091833_UHD.jpg)
+2026-04-10
+----------------
+![2026-04-10-0](https://www.bing.com/th?id=OHR.FoxSiblings_ZH-CN8133856518_UHD.jpg)

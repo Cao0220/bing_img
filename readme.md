@@ -6693,3 +6693,7 @@ Bing_img
 2026-04-10
 ----------------
 ![2026-04-10-0](https://www.bing.com/th?id=OHR.FoxSiblings_ZH-CN8133856518_UHD.jpg)
+2026-04-11
+----------------
+![2026-04-11-0](https://www.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_UHD.jpg)
+![2026-04-11-1](https://www.bing.com/th?id=OHR.AlhambraGranada_ES-ES7908676665_UHD.jpg)

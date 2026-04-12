@@ -6702,3 +6702,6 @@ Bing_img
 ![2026-04-12-0](https://www.bing.com/th?id=OHR.StanleySakura_EN-CA3455290957_UHD.jpg)
 ![2026-04-12-1](https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg)
 ![2026-04-12-2](https://www.bing.com/th?id=OHR.TrocaderoParisRoubaix_FR-FR8705103593_UHD.jpg)
+2026-04-13
+----------------
+![2026-04-13-0](https://www.bing.com/th?id=OHR.BorregoStars_ZH-CN8915519147_UHD.jpg)

@@ -6715,3 +6715,7 @@ Bing_img
 ![2026-04-15-0](https://www.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_UHD.jpg)
 ![2026-04-15-1](https://www.bing.com/th?id=OHR.AmbedkarJayanti2026_EN-IN3641683791_UHD.jpg)
 ![2026-04-15-2](https://www.bing.com/th?id=OHR.Shibazakura2026_JA-JP4532713069_UHD.jpg)
+2026-04-16
+----------------
+![2026-04-16-0](https://www.bing.com/th?id=OHR.AlbertaSnowMts_ROW3394188074_UHD.jpg)
+![2026-04-16-1](https://www.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_UHD.jpg)

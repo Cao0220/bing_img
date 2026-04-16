@@ -6719,3 +6719,8 @@ Bing_img
 ----------------
 ![2026-04-16-0](https://www.bing.com/th?id=OHR.AlbertaSnowMts_ROW3394188074_UHD.jpg)
 ![2026-04-16-1](https://www.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_UHD.jpg)
+2026-04-17
+----------------
+![2026-04-17-0](https://www.bing.com/th?id=OHR.Wildflowerbloom_EN-CA6661555631_UHD.jpg)
+![2026-04-17-1](https://www.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_UHD.jpg)
+![2026-04-17-2](https://www.bing.com/th?id=OHR.ToscanaSpring_IT-IT2623065946_UHD.jpg)

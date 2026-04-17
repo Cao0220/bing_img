@@ -6724,3 +6724,6 @@ Bing_img
 ![2026-04-17-0](https://www.bing.com/th?id=OHR.Wildflowerbloom_EN-CA6661555631_UHD.jpg)
 ![2026-04-17-1](https://www.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_UHD.jpg)
 ![2026-04-17-2](https://www.bing.com/th?id=OHR.ToscanaSpring_IT-IT2623065946_UHD.jpg)
+2026-04-18
+----------------
+![2026-04-18-0](https://www.bing.com/th?id=OHR.MaoiStatues_ZH-CN3219447748_UHD.jpg)

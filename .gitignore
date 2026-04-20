@@ -1,3 +1,4 @@
 *.jpg
 log.txt
 test.py
+config.yaml

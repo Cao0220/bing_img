@@ -1,59 +1,103 @@
-import json,requests,os,time,re,datetime,random
+import datetime
+import json
+from pathlib import Path
 
-def dl_img():
-    img=[]
+import requests
+import yaml
 
-    now_time=datetime.datetime.now()
-    yes_time=now_time+datetime.timedelta(days=-1)
-    now_time_str=now_time.strftime('%Y-%m-%d')
-    yes_time_str=yes_time.strftime('%Y-%m-%d')
-    with open('/root/bing_img/'+yes_time_str+'/'+yes_time_str+'.json',"r") as log:
-        json_data = json.load(log)
-    for cc in json_data.keys():
-        img_url=json_data[cc][0]['urlbase']
-        img_io=re.search(r'R.*_',img_url,re.I).group()
-        img_io=img_io[2:-1:]
-        if not img_io in img:
-            img.append(img_io)
+COUNTRIES = [
+    "ar",
+    "at",
+    "au",
+    "be",
+    "br",
+    "ca",
+    "ch",
+    "cl",
+    "cn",
+    "de",
+    "dk",
+    "es",
+    "fi",
+    "fr",
+    "hk",
+    "ie",
+    "in",
+    "it",
+    "jp",
+    "kr",
+    "nl",
+    "no",
+    "nz",
+    "ph",
+    "pt",
+    "ru",
+    "se",
+    "sg",
+    "tw",
+    "uk",
+]
 
-    index=0
-    with open('/root/bing_img/'+now_time_str+'/'+now_time_str+'.json',"r") as log:
-        json_data = json.load(log)
-    for cc in json_data.keys():
-        img_url=json_data[cc][0]['urlbase']
-        img_io=re.search(r'R.*_',img_url,re.I).group()
-        img_io=img_io[2:-1:]
-        if not img_io in img:
-            img.append(img_io)
-            os.system("cd /root/bing_img/"+now_time_str+"/ && wget https://www.bing.com"+img_url+"_UHD.jpg "+"-O "+str(index)+".jpg")
-            with open('/root/bing_img/readme.md',"a+") as log:
-                log.write("!["+now_time_str+"-"+str(index)+"]("+"https://www.bing.com"+img_url+"_UHD.jpg)\n")
-            # print("cd /root/bing_img/"+now_time_str+"/ && wget https://www.bing.com"+img_url+"_UHD.jpg "+"-O "+str(index)+".jpg")
-            index+=1
+BING_API = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&video=1&cc={cc}"
+DEFAULT_LOCAL_ROOT = "/root/bing_img"
+DEFAULT_CONFIG_PATH = Path(__file__).with_name("config.yaml")
 
-def get_io(cc):
-    global io
-    url='https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&video=1&cc='+cc
-    json_data=requests.get(url).text
-    data = json.loads(json_data)
-    cc_io=data['images']
-    io[cc]=cc_io
 
-os.system("mkdir /root/bing_img/"+time.strftime('%Y-%m-%d')+"/")
+def load_local_root(config_path: Path = DEFAULT_CONFIG_PATH) -> Path:
+    if not config_path.exists():
+        return Path(DEFAULT_LOCAL_ROOT)
+    with config_path.open("r", encoding="utf-8") as fh:
+        config = yaml.safe_load(fh) or {}
+    local = config.get("local") or {}
+    root = local.get("root") or DEFAULT_LOCAL_ROOT
+    return Path(root)
 
-print('------------------------',time.strftime('%Y-%m-%d %a %H:%M:%S')+' bing.py','========================',sep='\n')
-with open('/root/bing_img/readme.md',"a+") as log:
-    log.write(datetime.datetime.now().strftime('%Y-%m-%d')+"\n----------------\n")
 
-io={}
-for i in ['ar','at','au','be','br','ca','ch','cl','cn','de','dk','es','fi','fr','hk','ie','in','it','jp','kr','nl','no','nz','ph','pt','ru','se','sg','tw','uk']:
-    get_io(i)
+def day_dir(root: Path, day: datetime.date) -> Path:
+    return root / day.strftime("%Y") / day.strftime("%m") / day.strftime("%d")
 
-with open('/root/bing_img/'+time.strftime('%Y-%m-%d')+'/'+time.strftime('%Y-%m-%d')+'.json',"a+") as log:
-    log.write(json.dumps(io, sort_keys=False, indent=4, ensure_ascii=False, separators=(',', ':')))
 
-dl_img()
+def json_path(root: Path, day: datetime.date) -> Path:
+    return day_dir(root, day) / f"{day.strftime('%Y-%m-%d')}.json"
 
-time.sleep(random.randint(0,21600))
-os.system('day=`date +%Y-%m-%d` && cd /root/bing_img/ && /usr/bin/git add . && /usr/bin/git commit -m $day &&/usr/bin/git push -u origin main')
 
+def fetch_country_images(country_code: str) -> list:
+    response = requests.get(BING_API.format(cc=country_code), timeout=20)
+    response.raise_for_status()
+    payload = response.json()
+    return payload.get("images", [])
+
+
+def append_run_log(root: Path, day: datetime.date) -> None:
+    log_file = root / "readme.md"
+    with log_file.open("a", encoding="utf-8") as fh:
+        fh.write(f"{day.strftime('%Y-%m-%d')}\n----------------\n")
+
+
+def main() -> int:
+    today = datetime.date.today()
+    root = load_local_root()
+
+    target_dir = day_dir(root, today)
+    target_dir.mkdir(parents=True, exist_ok=True)
+
+    print("------------------------")
+    print(datetime.datetime.now().strftime("%Y-%m-%d %a %H:%M:%S") + " bing.py")
+    print("========================")
+
+    append_run_log(root, today)
+
+    metadata = {}
+    for country in COUNTRIES:
+        metadata[country] = fetch_country_images(country)
+
+    target_json = json_path(root, today)
+    with target_json.open("w", encoding="utf-8") as fh:
+        json.dump(metadata, fh, sort_keys=False, indent=4, ensure_ascii=False, separators=(",", ":"))
+
+    print(f"Saved metadata to: {target_json}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

@@ -1,5 +1,47 @@
 Bing_img
 ========
+
+## v2 使用说明（分层目录 + WebDAV）
+
+### 目录结构
+- 元数据文件：`YYYY/MM/DD/YYYY-MM-DD.json`
+- 本地图片缓存：`YYYY/MM/DD/{index}.jpg`
+- WebDAV 图片路径：`remote_root/YYYY/MM-DD_id.jpg`
+
+### 配置文件
+`config.yaml` 需要包含以下字段：
+- `local.root`
+- `webdav.base_url`
+- `webdav.username`
+- `webdav.password`
+- `webdav.remote_root`
+- `download.sleep_min_seconds`
+- `download.sleep_max_seconds`
+
+### 日常执行流程
+1. 先抓取当天元数据：
+   `python3 bing.py`
+2. 再补齐 WebDAV 缺失图片：
+   `python3 dl-img.py`
+
+### dl-img.py 常用命令
+- 全量扫描本地元数据并补传：
+  `python3 dl-img.py`
+- 只看计划，不下载/不上传/不删除：
+  `python3 dl-img.py --dry-run`
+- 仅处理单日：
+  `python3 dl-img.py --date 2026-04-20`
+- 处理日期区间：
+  `python3 dl-img.py --from 2026-04-01 --to 2026-04-20`
+
+### 行为说明
+- 运行 `dl-img.py` 时，会自动把旧目录 `YYYY-MM-DD` 迁移为 `YYYY/MM/DD`（可重复执行，幂等）。
+- 若 WebDAV 已存在目标文件，则不会重复上传，并会清理本地同名缓存。
+- 若 WebDAV 缺失目标文件，则按配置限速下载并上传，上传成功后立即删除本地缓存。
+- 上传失败时保留本地图片，便于重试。
+
+
+## 历史图片
 2022-01-01
 ----------------
 ![2022-01-01-0](https://www.bing.com/th?id=OHR.MehrangarhFortIndia_ROW0185434273_UHD.jpg)
@@ -6734,3 +6776,8 @@ Bing_img
 ![2026-04-19-2](https://www.bing.com/th?id=OHR.CathedralCologne_DE-DE0399722778_UHD.jpg)
 ![2026-04-19-3](https://www.bing.com/th?id=OHR.MillauViaductFrance_FR-FR3718442345_UHD.jpg)
 ![2026-04-19-4](https://www.bing.com/th?id=OHR.BelemTowerBank_JA-JP0304685153_UHD.jpg)
+2026-04-20
+----------------
+![2026-04-20-0](https://www.bing.com/th?id=OHR.InDay_PT-BR0410116846_UHD.jpg)
+![2026-04-20-1](https://www.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_UHD.jpg)
+![2026-04-20-2](https://www.bing.com/th?id=OHR.SpitiValley2026_EN-IN0228621600_UHD.jpg)

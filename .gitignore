@@ -4,3 +4,4 @@ test.py
 config.yaml
 nohup.out
 .codex
+__pycache__/

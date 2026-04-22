@@ -16,6 +16,7 @@ DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 IMAGE_KEY_RE = re.compile(r"OHR\.([^_]+)_", re.IGNORECASE)
 DEFAULT_LOCAL_ROOT = "/root/bing_img"
 DEFAULT_CONFIG_PATH = Path(__file__).with_name("config.yaml")
+DEFAULT_RECENT_DAYS = 15
 
 
 @dataclass
@@ -221,6 +222,14 @@ def discover_all_metadata_dates(root: Path) -> list[datetime.date]:
     return sorted(dates)
 
 
+def recent_window_dates(days: int = DEFAULT_RECENT_DAYS) -> list[datetime.date]:
+    if days <= 0:
+        return []
+    end = datetime.date.today()
+    start = end - datetime.timedelta(days=days - 1)
+    return [start + datetime.timedelta(days=offset) for offset in range(days)]
+
+
 def migrate_legacy_flat_dirs(root: Path, dry_run: bool) -> None:
     moved_files = 0
     removed_dirs = 0
@@ -318,6 +327,11 @@ def load_config(config_path: Path) -> dict:
 
 
 def resolve_dates(args: argparse.Namespace, root: Path) -> list[datetime.date]:
+    if args.all:
+        if args.date or args.from_date or args.to_date:
+            raise ValueError("--all cannot be used with --date/--from/--to")
+        return discover_all_metadata_dates(root)
+
     if args.date:
         return [parse_date(args.date)]
 
@@ -331,7 +345,7 @@ def resolve_dates(args: argparse.Namespace, root: Path) -> list[datetime.date]:
         days = (end - start).days
         return [start + datetime.timedelta(days=offset) for offset in range(days + 1)]
 
-    return discover_all_metadata_dates(root)
+    return recent_window_dates()
 
 
 def process_day(
@@ -426,8 +440,11 @@ def merge_stats(total: JobStats, delta: JobStats) -> JobStats:
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="dl-img.py v2: migrate directories and sync missing images to WebDAV")
+    parser = argparse.ArgumentParser(
+        description="dl-img.py v2: migrate directories and sync missing images to WebDAV (default: recent 15 days)"
+    )
     parser.add_argument("--config", default=str(DEFAULT_CONFIG_PATH), help="Path to config.yaml")
+    parser.add_argument("--all", action="store_true", help="Process all metadata dates from oldest to newest")
     parser.add_argument("--date", help="Process one day (YYYY-MM-DD)")
     parser.add_argument("--from", dest="from_date", help="Start date (YYYY-MM-DD)")
     parser.add_argument("--to", dest="to_date", help="End date (YYYY-MM-DD)")

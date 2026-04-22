@@ -1,6 +1,9 @@
 import datetime
 import json
 from pathlib import Path
+import time
+import random
+import os
 
 import requests
 import yaml
@@ -96,6 +99,10 @@ def main() -> int:
         json.dump(metadata, fh, sort_keys=False, indent=4, ensure_ascii=False, separators=(",", ":"))
 
     print(f"Saved metadata to: {target_json}")
+    
+    # time.sleep(random.randint(0,21600))
+    os.system('day=`date +%Y-%m-%d` && cd /root/bing_img/ && /usr/bin/git add . && /usr/bin/git commit -m $day &&/usr/bin/git push -u origin main')
+
     return 0
 
 

@@ -6754,3 +6754,8 @@
 ![2026-04-24-0](https://www.bing.com/th?id=OHR.ChiffchaffSpring_ROW0928406195_UHD.jpg)
 ![2026-04-24-1](https://www.bing.com/th?id=OHR.SlashPine_ZH-CN5629388290_UHD.jpg)
 ![2026-04-24-2](https://www.bing.com/th?id=OHR.SantJordiBook_ES-ES2987257129_UHD.jpg)
+2026-04-25
+----------------
+![2026-04-25-0](https://www.bing.com/th?id=OHR.TranBA_PT-BR9169558101_UHD.jpg)
+![2026-04-25-1](https://www.bing.com/th?id=OHR.GalapagosPenguins_ZH-CN5791845489_UHD.jpg)
+![2026-04-25-2](https://www.bing.com/th?id=OHR.FlamingoAiguesMortes_FR-FR6537694195_UHD.jpg)

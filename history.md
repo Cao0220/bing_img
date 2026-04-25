@@ -6759,3 +6759,6 @@
 ![2026-04-25-0](https://www.bing.com/th?id=OHR.TranBA_PT-BR9169558101_UHD.jpg)
 ![2026-04-25-1](https://www.bing.com/th?id=OHR.GalapagosPenguins_ZH-CN5791845489_UHD.jpg)
 ![2026-04-25-2](https://www.bing.com/th?id=OHR.FlamingoAiguesMortes_FR-FR6537694195_UHD.jpg)
+2026-04-26
+----------------
+![2026-04-26-0](https://www.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_UHD.jpg)

@@ -6768,3 +6768,7 @@
 2026-04-28
 ----------------
 ![2026-04-28-0](https://www.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_UHD.jpg)
+2026-04-29
+----------------
+![2026-04-29-0](https://www.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_UHD.jpg)
+![2026-04-29-1](https://www.bing.com/th?id=OHR.ShowaEraDay2026_JA-JP3778600248_UHD.jpg)

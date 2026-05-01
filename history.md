@@ -6779,3 +6779,10 @@
 ----------------
 ![2026-05-01-0](https://www.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg)
 ![2026-05-01-1](https://www.bing.com/th?id=OHR.GreenJasper_JA-JP1765702331_UHD.jpg)
+2026-05-02
+----------------
+![2026-05-02-0](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_ROW9390350989_UHD.jpg)
+![2026-05-02-1](https://www.bing.com/th?id=OHR.WorkersDay_PT-BR3502974851_UHD.jpg)
+![2026-05-02-2](https://www.bing.com/th?id=OHR.LilyMay_FR-FR4501325006_UHD.jpg)
+![2026-05-02-3](https://www.bing.com/th?id=OHR.MaharashtraDay2026_EN-IN0347211798_UHD.jpg)
+![2026-05-02-4](https://www.bing.com/th?id=OHR.HachijyuHachiya2026_JA-JP2065177671_UHD.jpg)

@@ -6786,3 +6786,7 @@
 ![2026-05-02-2](https://www.bing.com/th?id=OHR.LilyMay_FR-FR4501325006_UHD.jpg)
 ![2026-05-02-3](https://www.bing.com/th?id=OHR.MaharashtraDay2026_EN-IN0347211798_UHD.jpg)
 ![2026-05-02-4](https://www.bing.com/th?id=OHR.HachijyuHachiya2026_JA-JP2065177671_UHD.jpg)
+2026-05-03
+----------------
+![2026-05-03-0](https://www.bing.com/th?id=OHR.MasaiLeopard_ZH-CN3406483238_UHD.jpg)
+![2026-05-03-1](https://www.bing.com/th?id=OHR.MadridRetiro_ES-ES5384378675_UHD.jpg)

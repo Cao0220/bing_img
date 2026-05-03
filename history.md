@@ -6790,3 +6790,7 @@
 ----------------
 ![2026-05-03-0](https://www.bing.com/th?id=OHR.MasaiLeopard_ZH-CN3406483238_UHD.jpg)
 ![2026-05-03-1](https://www.bing.com/th?id=OHR.MadridRetiro_ES-ES5384378675_UHD.jpg)
+2026-05-04
+----------------
+![2026-05-04-0](https://www.bing.com/th?id=OHR.KsarOuledSoltane_ZH-CN3569810663_UHD.jpg)
+![2026-05-04-1](https://www.bing.com/th?id=OHR.MotherCub_ES-ES5649193741_UHD.jpg)

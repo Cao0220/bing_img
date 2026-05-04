@@ -6794,3 +6794,8 @@
 ----------------
 ![2026-05-04-0](https://www.bing.com/th?id=OHR.KsarOuledSoltane_ZH-CN3569810663_UHD.jpg)
 ![2026-05-04-1](https://www.bing.com/th?id=OHR.MotherCub_ES-ES5649193741_UHD.jpg)
+2026-05-05
+----------------
+![2026-05-05-0](https://www.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_UHD.jpg)
+![2026-05-05-1](https://www.bing.com/th?id=OHR.CordobaFestival_ES-ES4539784113_UHD.jpg)
+![2026-05-05-2](https://www.bing.com/th?id=OHR.ChildrensDay2026_JA-JP4339103590_UHD.jpg)

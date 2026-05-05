@@ -6799,3 +6799,10 @@
 ![2026-05-05-0](https://www.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_UHD.jpg)
 ![2026-05-05-1](https://www.bing.com/th?id=OHR.CordobaFestival_ES-ES4539784113_UHD.jpg)
 ![2026-05-05-2](https://www.bing.com/th?id=OHR.ChildrensDay2026_JA-JP4339103590_UHD.jpg)
+2026-05-06
+----------------
+![2026-05-06-0](https://www.bing.com/th?id=OHR.MayoAgave_ROW0279228757_UHD.jpg)
+![2026-05-06-1](https://www.bing.com/th?id=OHR.BullQuebec_EN-CA5955231847_UHD.jpg)
+![2026-05-06-2](https://www.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_UHD.jpg)
+![2026-05-06-3](https://www.bing.com/th?id=OHR.LuebeckChairs_DE-DE4681131575_UHD.jpg)
+![2026-05-06-4](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-IN1989617864_UHD.jpg)

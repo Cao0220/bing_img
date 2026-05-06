@@ -6806,3 +6806,6 @@
 ![2026-05-06-2](https://www.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_UHD.jpg)
 ![2026-05-06-3](https://www.bing.com/th?id=OHR.LuebeckChairs_DE-DE4681131575_UHD.jpg)
 ![2026-05-06-4](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-IN1989617864_UHD.jpg)
+2026-05-07
+----------------
+![2026-05-07-0](https://www.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_UHD.jpg)

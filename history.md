@@ -6809,3 +6809,7 @@
 2026-05-07
 ----------------
 ![2026-05-07-0](https://www.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_UHD.jpg)
+2026-05-08
+----------------
+![2026-05-08-0](https://www.bing.com/th?id=OHR.Bananaquit_PT-BR8722522620_UHD.jpg)
+![2026-05-08-1](https://www.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_UHD.jpg)

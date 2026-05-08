@@ -6813,3 +6813,8 @@
 ----------------
 ![2026-05-08-0](https://www.bing.com/th?id=OHR.Bananaquit_PT-BR8722522620_UHD.jpg)
 ![2026-05-08-1](https://www.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_UHD.jpg)
+2026-05-09
+----------------
+![2026-05-09-0](https://www.bing.com/th?id=OHR.TulipFestOT_EN-CA8431484438_UHD.jpg)
+![2026-05-09-1](https://www.bing.com/th?id=OHR.SkradinskiBuk_ZH-CN0882603359_UHD.jpg)
+![2026-05-09-2](https://www.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_UHD.jpg)

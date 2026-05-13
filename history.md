@@ -6833,3 +6833,6 @@
 ----------------
 ![2026-05-13-0](https://www.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_UHD.jpg)
 ![2026-05-13-1](https://www.bing.com/th?id=OHR.ChairsCannes_FR-FR7320484740_UHD.jpg)
+2026-05-14
+----------------
+![2026-05-14-0](https://www.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_UHD.jpg)

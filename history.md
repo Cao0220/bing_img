@@ -6836,3 +6836,7 @@
 2026-05-14
 ----------------
 ![2026-05-14-0](https://www.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_UHD.jpg)
+2026-05-15
+----------------
+![2026-05-15-0](https://www.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg)
+![2026-05-15-1](https://www.bing.com/th?id=OHR.FathersDayItaly_DE-DE9115360587_UHD.jpg)

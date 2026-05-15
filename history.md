@@ -6840,3 +6840,7 @@
 ----------------
 ![2026-05-15-0](https://www.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg)
 ![2026-05-15-1](https://www.bing.com/th?id=OHR.FathersDayItaly_DE-DE9115360587_UHD.jpg)
+2026-05-16
+----------------
+![2026-05-16-0](https://www.bing.com/th?id=OHR.SmithRockPark_ZH-CN4210144402_UHD.jpg)
+![2026-05-16-1](https://www.bing.com/th?id=OHR.LenticchieNorcia_IT-IT5069422241_UHD.jpg)

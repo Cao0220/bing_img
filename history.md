@@ -6851,3 +6851,7 @@
 ![2026-05-17-2](https://www.bing.com/th?id=OHR.ButterflyFlower_DE-DE3210389568_UHD.jpg)
 ![2026-05-17-3](https://www.bing.com/th?id=OHR.BosqueCielo_ES-ES4003642577_UHD.jpg)
 ![2026-05-17-4](https://www.bing.com/th?id=OHR.BirchForest_FR-FR7115403118_UHD.jpg)
+2026-05-18
+----------------
+![2026-05-18-0](https://www.bing.com/th?id=OHR.MuseumLondon_ZH-CN5602977820_UHD.jpg)
+![2026-05-18-1](https://www.bing.com/th?id=OHR.MuseumDay2026_JA-JP8089592575_UHD.jpg)

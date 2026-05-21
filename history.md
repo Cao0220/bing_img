@@ -6866,3 +6866,7 @@
 2026-05-21
 ----------------
 ![2026-05-21-0](https://www.bing.com/th?id=OHR.SichuanTea_ZH-CN6703437873_UHD.jpg)
+2026-05-22
+----------------
+![2026-05-22-0](https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_UHD.jpg)
+![2026-05-22-1](https://www.bing.com/th?id=OHR.TokyoSkyTreeDay2026_JA-JP8960437090_UHD.jpg)

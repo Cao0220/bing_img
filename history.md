@@ -6870,3 +6870,7 @@
 ----------------
 ![2026-05-22-0](https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_UHD.jpg)
 ![2026-05-22-1](https://www.bing.com/th?id=OHR.TokyoSkyTreeDay2026_JA-JP8960437090_UHD.jpg)
+2026-05-23
+----------------
+![2026-05-23-0](https://www.bing.com/th?id=OHR.PontArdeche_ROW1049828864_UHD.jpg)
+![2026-05-23-1](https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_UHD.jpg)

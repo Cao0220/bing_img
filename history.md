@@ -6877,3 +6877,9 @@
 2026-05-24
 ----------------
 ![2026-05-24-0](https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_UHD.jpg)
+2026-05-25
+----------------
+![2026-05-25-0](https://www.bing.com/th?id=OHR.CoffeeDay_PT-BR1198680562_UHD.jpg)
+![2026-05-25-1](https://www.bing.com/th?id=OHR.MuteSwanGI_EN-CA6792012530_UHD.jpg)
+![2026-05-25-2](https://www.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_UHD.jpg)
+![2026-05-25-3](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_JA-JP9539215085_UHD.jpg)

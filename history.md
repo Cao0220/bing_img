@@ -6883,3 +6883,8 @@
 ![2026-05-25-1](https://www.bing.com/th?id=OHR.MuteSwanGI_EN-CA6792012530_UHD.jpg)
 ![2026-05-25-2](https://www.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_UHD.jpg)
 ![2026-05-25-3](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_JA-JP9539215085_UHD.jpg)
+2026-05-26
+----------------
+![2026-05-26-0](https://www.bing.com/th?id=OHR.LupineBloom_ZH-CN7639721663_UHD.jpg)
+![2026-05-26-1](https://www.bing.com/th?id=OHR.HexenlochMill_DE-DE3552158856_UHD.jpg)
+![2026-05-26-2](https://www.bing.com/th?id=OHR.TivoliVillaAdriana_IT-IT5000773432_UHD.jpg)

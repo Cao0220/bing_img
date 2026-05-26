@@ -6888,3 +6888,6 @@
 ![2026-05-26-0](https://www.bing.com/th?id=OHR.LupineBloom_ZH-CN7639721663_UHD.jpg)
 ![2026-05-26-1](https://www.bing.com/th?id=OHR.HexenlochMill_DE-DE3552158856_UHD.jpg)
 ![2026-05-26-2](https://www.bing.com/th?id=OHR.TivoliVillaAdriana_IT-IT5000773432_UHD.jpg)
+2026-05-27
+----------------
+![2026-05-27-0](https://www.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_UHD.jpg)

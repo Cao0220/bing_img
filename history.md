@@ -6891,3 +6891,6 @@
 2026-05-27
 ----------------
 ![2026-05-27-0](https://www.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_UHD.jpg)
+2026-05-28
+----------------
+![2026-05-28-0](https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_UHD.jpg)

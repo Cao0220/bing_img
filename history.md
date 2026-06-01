@@ -6911,3 +6911,8 @@
 ![2026-06-01-2](https://www.bing.com/th?id=OHR.RapeseedField_DE-DE3303026116_UHD.jpg)
 ![2026-06-01-3](https://www.bing.com/th?id=OHR.CheetahMotherDay_FR-FR3566919266_UHD.jpg)
 ![2026-06-01-4](https://www.bing.com/th?id=OHR.Qinghai_EN-IN1637121010_UHD.jpg)
+2026-06-02
+----------------
+![2026-06-02-0](https://www.bing.com/th?id=OHR.Junina_PT-BR7043034952_UHD.jpg)
+![2026-06-02-1](https://www.bing.com/th?id=OHR.DunseverickCastle2026_IT-IT6990234859_UHD.jpg)
+![2026-06-02-2](https://www.bing.com/th?id=OHR.YokohamaPort2026_JA-JP8907488905_UHD.jpg)

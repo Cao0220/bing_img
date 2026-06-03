@@ -6921,3 +6921,6 @@
 ![2026-06-03-0](https://www.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_UHD.jpg)
 ![2026-06-03-1](https://www.bing.com/th?id=OHR.TelanganaDay2026_EN-IN2729505086_UHD.jpg)
 ![2026-06-03-2](https://www.bing.com/th?id=OHR.ItaliaRepubblica_IT-IT5373102949_UHD.jpg)
+2026-06-04
+----------------
+![2026-06-04-0](https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg)

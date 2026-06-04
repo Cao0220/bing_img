@@ -6924,3 +6924,7 @@
 2026-06-04
 ----------------
 ![2026-06-04-0](https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg)
+2026-06-05
+----------------
+![2026-06-05-0](https://www.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg)
+![2026-06-05-1](https://www.bing.com/th?id=OHR.Qinghai_IT-IT1366157196_UHD.jpg)

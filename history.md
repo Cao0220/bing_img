@@ -6928,3 +6928,7 @@
 ----------------
 ![2026-06-05-0](https://www.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg)
 ![2026-06-05-1](https://www.bing.com/th?id=OHR.Qinghai_IT-IT1366157196_UHD.jpg)
+2026-06-06
+----------------
+![2026-06-06-0](https://www.bing.com/th?id=OHR.HikingNatchez_ZH-CN2495512699_UHD.jpg)
+![2026-06-06-1](https://www.bing.com/th?id=OHR.CastillaLaMancha_ES-ES3536382810_UHD.jpg)

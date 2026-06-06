@@ -6932,3 +6932,9 @@
 ----------------
 ![2026-06-06-0](https://www.bing.com/th?id=OHR.HikingNatchez_ZH-CN2495512699_UHD.jpg)
 ![2026-06-06-1](https://www.bing.com/th?id=OHR.CastillaLaMancha_ES-ES3536382810_UHD.jpg)
+2026-06-07
+----------------
+![2026-06-07-0](https://www.bing.com/th?id=OHR.DunseverickCastle2026_ZH-CN3036266326_UHD.jpg)
+![2026-06-07-1](https://www.bing.com/th?id=OHR.RothenburgPloenlein_DE-DE1102047823_UHD.jpg)
+![2026-06-07-2](https://www.bing.com/th?id=OHR.Cyanea_FR-FR6314357714_UHD.jpg)
+![2026-06-07-3](https://www.bing.com/th?id=OHR.Limpets_JA-JP0282972005_UHD.jpg)

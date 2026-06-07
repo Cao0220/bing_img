@@ -6938,3 +6938,6 @@
 ![2026-06-07-1](https://www.bing.com/th?id=OHR.RothenburgPloenlein_DE-DE1102047823_UHD.jpg)
 ![2026-06-07-2](https://www.bing.com/th?id=OHR.Cyanea_FR-FR6314357714_UHD.jpg)
 ![2026-06-07-3](https://www.bing.com/th?id=OHR.Limpets_JA-JP0282972005_UHD.jpg)
+2026-06-08
+----------------
+![2026-06-08-0](https://www.bing.com/th?id=OHR.Hnausapollur_IT-IT7264622546_UHD.jpg)

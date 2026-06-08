@@ -6941,3 +6941,7 @@
 2026-06-08
 ----------------
 ![2026-06-08-0](https://www.bing.com/th?id=OHR.Hnausapollur_IT-IT7264622546_UHD.jpg)
+2026-06-09
+----------------
+![2026-06-09-0](https://www.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_UHD.jpg)
+![2026-06-09-1](https://www.bing.com/th?id=OHR.PantheonParisNight_FR-FR2285812065_UHD.jpg)

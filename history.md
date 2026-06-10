@@ -6948,3 +6948,9 @@
 2026-06-10
 ----------------
 ![2026-06-10-0](https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_UHD.jpg)
+2026-06-11
+----------------
+![2026-06-11-0](https://www.bing.com/th?id=OHR.BOwl_PT-BR4099408173_UHD.jpg)
+![2026-06-11-1](https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_UHD.jpg)
+![2026-06-11-2](https://www.bing.com/th?id=OHR.OlivaPalermo_IT-IT7720847835_UHD.jpg)
+![2026-06-11-3](https://www.bing.com/th?id=OHR.FireflySeason2026_JA-JP9350920903_UHD.jpg)

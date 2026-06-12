@@ -6957,3 +6957,8 @@
 2026-06-12
 ----------------
 ![2026-06-12-0](https://www.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_UHD.jpg)
+2026-06-13
+----------------
+![2026-06-13-0](https://www.bing.com/th?id=OHR.ValentineFrog_PT-BR1899609261_UHD.jpg)
+![2026-06-13-1](https://www.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg)
+![2026-06-13-2](https://www.bing.com/th?id=OHR.HayabusaDay2026_JA-JP6590656546_UHD.jpg)

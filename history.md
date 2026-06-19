@@ -6983,3 +6983,7 @@
 ----------------
 ![2026-06-19-0](https://www.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417_UHD.jpg)
 ![2026-06-19-1](https://www.bing.com/th?id=OHR.GrandPlace_JA-JP0571812680_UHD.jpg)
+2026-06-20
+----------------
+![2026-06-20-0](https://www.bing.com/th?id=OHR.IsolaElba_ROW4135146629_UHD.jpg)
+![2026-06-20-1](https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_UHD.jpg)

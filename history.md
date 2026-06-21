@@ -6991,3 +6991,12 @@
 ----------------
 ![2026-06-21-0](https://www.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_UHD.jpg)
 ![2026-06-21-1](https://www.bing.com/th?id=OHR.KielSailing_DE-DE0980571166_UHD.jpg)
+2026-06-22
+----------------
+![2026-06-22-0](https://www.bing.com/th?id=OHR.MillauViaductFrance_ROW0201721820_UHD.jpg)
+![2026-06-22-1](https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_UHD.jpg)
+![2026-06-22-2](https://www.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg)
+![2026-06-22-3](https://www.bing.com/th?id=OHR.Fujisan_ES-ES0010704933_UHD.jpg)
+![2026-06-22-4](https://www.bing.com/th?id=OHR.SeineRiverside_FR-FR9034174472_UHD.jpg)
+![2026-06-22-5](https://www.bing.com/th?id=OHR.InternationalDayOfYoga2026_EN-IN8379810108_UHD.jpg)
+![2026-06-22-6](https://www.bing.com/th?id=OHR.Cesenatico_IT-IT1478062900_UHD.jpg)

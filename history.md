@@ -7006,3 +7006,7 @@
 ----------------
 ![2026-06-24-0](https://www.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg)
 ![2026-06-24-1](https://www.bing.com/th?id=OHR.SanJuanFuegos_ES-ES0457674498_UHD.jpg)
+2026-06-25
+----------------
+![2026-06-25-0](https://www.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg)
+![2026-06-25-1](https://www.bing.com/th?id=OHR.LavenderSeason2026_JA-JP7050134160_UHD.jpg)

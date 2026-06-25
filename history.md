@@ -7010,3 +7010,7 @@
 ----------------
 ![2026-06-25-0](https://www.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg)
 ![2026-06-25-1](https://www.bing.com/th?id=OHR.LavenderSeason2026_JA-JP7050134160_UHD.jpg)
+2026-06-26
+----------------
+![2026-06-26-0](https://www.bing.com/th?id=OHR.IbiSP_PT-BR5842175553_UHD.jpg)
+![2026-06-26-1](https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_UHD.jpg)

@@ -7053,3 +7053,6 @@
 ----------------
 ![2026-07-05-0](https://www.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg)
 ![2026-07-05-1](https://www.bing.com/th?id=OHR.TempleEsna_IT-IT9484438188_UHD.jpg)
+2026-07-06
+----------------
+![2026-07-06-0](https://www.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg)

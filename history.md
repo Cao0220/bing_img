@@ -7065,3 +7065,6 @@
 ----------------
 ![2026-07-08-0](https://www.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_UHD.jpg)
 ![2026-07-08-1](https://www.bing.com/th?id=OHR.GranCanaria_ES-ES7578658409_UHD.jpg)
+2026-07-09
+----------------
+![2026-07-09-0](https://www.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_UHD.jpg)

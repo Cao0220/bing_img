@@ -7082,3 +7082,6 @@
 ![2026-07-12-1](https://www.bing.com/th?id=OHR.BoneyardBeach_EN-CA4145832513_UHD.jpg)
 ![2026-07-12-2](https://www.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg)
 ![2026-07-12-3](https://www.bing.com/th?id=OHR.IsolaBella_IT-IT9517303219_UHD.jpg)
+2026-07-13
+----------------
+![2026-07-13-0](https://www.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg)

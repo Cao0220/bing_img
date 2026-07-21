@@ -7121,3 +7121,7 @@
 ----------------
 ![2026-07-21-0](https://www.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_UHD.jpg)
 ![2026-07-21-1](https://www.bing.com/th?id=OHR.Kawagoe2026_JA-JP2060864918_UHD.jpg)
+2026-07-22
+----------------
+![2026-07-22-0](https://www.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg)
+![2026-07-22-1](https://www.bing.com/th?id=OHR.IslaCristina_ES-ES8480409312_UHD.jpg)

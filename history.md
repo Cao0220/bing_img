@@ -7137,3 +7137,9 @@
 ----------------
 ![2026-07-25-0](https://www.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_UHD.jpg)
 ![2026-07-25-1](https://www.bing.com/th?id=OHR.ChicagoTiffany_ES-ES2128020420_UHD.jpg)
+2026-07-26
+----------------
+![2026-07-26-0](https://www.bing.com/th?id=OHR.IslaCristina_ROW3744341515_UHD.jpg)
+![2026-07-26-1](https://www.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg)
+![2026-07-26-2](https://www.bing.com/th?id=OHR.PrideBerlin_DE-DE3369611592_UHD.jpg)
+![2026-07-26-3](https://www.bing.com/th?id=OHR.SardegnaFaro_IT-IT8009785446_UHD.jpg)

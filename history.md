@@ -7146,3 +7146,11 @@
 2026-07-27
 ----------------
 ![2026-07-27-0](https://www.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_UHD.jpg)
+2026-07-28
+----------------
+![2026-07-28-0](https://www.bing.com/th?id=OHR.SummerBC_ROW3830675043_UHD.jpg)
+![2026-07-28-1](https://www.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_UHD.jpg)
+![2026-07-28-2](https://www.bing.com/th?id=OHR.GaliciaSpain_ES-ES2553115650_UHD.jpg)
+![2026-07-28-3](https://www.bing.com/th?id=OHR.VerdonKayaks_FR-FR6935931270_UHD.jpg)
+![2026-07-28-4](https://www.bing.com/th?id=OHR.GaliciaBeach_IT-IT8238080614_UHD.jpg)
+![2026-07-28-5](https://www.bing.com/th?id=OHR.KaysersbergVillage_JA-JP4774929635_UHD.jpg)

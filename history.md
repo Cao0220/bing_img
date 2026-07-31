@@ -7167,3 +7167,9 @@
 ![2026-07-31-1](https://www.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_UHD.jpg)
 ![2026-07-31-2](https://www.bing.com/th?id=OHR.BearBavaria_DE-DE3681217161_UHD.jpg)
 ![2026-07-31-3](https://www.bing.com/th?id=OHR.WildJackalFriends_FR-FR7398331328_UHD.jpg)
+2026-08-01
+----------------
+![2026-08-01-0](https://www.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg)
+![2026-08-01-1](https://www.bing.com/th?id=OHR.DeltaEbro_ES-ES3023885514_UHD.jpg)
+![2026-08-01-2](https://www.bing.com/th?id=OHR.IsoleEolie_IT-IT8736401041_UHD.jpg)
+![2026-08-01-3](https://www.bing.com/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053_UHD.jpg)

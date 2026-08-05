@@ -7188,3 +7188,7 @@
 2026-08-05
 ----------------
 ![2026-08-05-0](https://www.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_UHD.jpg)
+2026-08-06
+----------------
+![2026-08-06-0](https://www.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg)
+![2026-08-06-1](https://www.bing.com/th?id=OHR.HiroshimaPeaceMemorial2026_JA-JP7778121397_UHD.jpg)

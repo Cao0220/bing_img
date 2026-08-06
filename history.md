@@ -7192,3 +7192,7 @@
 ----------------
 ![2026-08-06-0](https://www.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg)
 ![2026-08-06-1](https://www.bing.com/th?id=OHR.HiroshimaPeaceMemorial2026_JA-JP7778121397_UHD.jpg)
+2026-08-07
+----------------
+![2026-08-07-0](https://www.bing.com/th?id=OHR.EDMFolkFest_EN-CA4302918547_UHD.jpg)
+![2026-08-07-1](https://www.bing.com/th?id=OHR.LimeKiln_ZH-CN5664152522_UHD.jpg)

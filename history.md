@@ -7224,3 +7224,6 @@
 ![2026-08-12-1](https://www.bing.com/th?id=OHR.StuDay_PT-BR3798231635_UHD.jpg)
 ![2026-08-12-2](https://www.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg)
 ![2026-08-12-3](https://www.bing.com/th?id=OHR.LloretdeMar_ES-ES9587440947_UHD.jpg)
+2026-08-13
+----------------
+![2026-08-13-0](https://www.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_UHD.jpg)

@@ -7227,3 +7227,8 @@
 2026-08-13
 ----------------
 ![2026-08-13-0](https://www.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_UHD.jpg)
+2026-08-14
+----------------
+![2026-08-14-0](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_UHD.jpg)
+![2026-08-14-1](https://www.bing.com/th?id=OHR.ColorfulCop_ES-ES0268766801_UHD.jpg)
+![2026-08-14-2](https://www.bing.com/th?id=OHR.Shimoda2026_JA-JP6266826592_UHD.jpg)

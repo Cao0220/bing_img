@@ -7246,3 +7246,7 @@
 ![2026-08-16-4](https://www.bing.com/th?id=OHR.MalagaFairAgosto_ES-ES2221508269_UHD.jpg)
 ![2026-08-16-5](https://www.bing.com/th?id=OHR.IndependenceDay2026_EN-IN1491568628_UHD.jpg)
 ![2026-08-16-6](https://www.bing.com/th?id=OHR.EstateItaliana_IT-IT7841784337_UHD.jpg)
+2026-08-17
+----------------
+![2026-08-17-0](https://www.bing.com/th?id=OHR.Furada_ROW7736094795_UHD.jpg)
+![2026-08-17-1](https://www.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg)

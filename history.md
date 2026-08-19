@@ -7258,3 +7258,7 @@
 ----------------
 ![2026-08-19-0](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ROW8094277128_UHD.jpg)
 ![2026-08-19-1](https://www.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg)
+2026-08-20
+----------------
+![2026-08-20-0](https://www.bing.com/th?id=OHR.SandPath_ROW8239489384_UHD.jpg)
+![2026-08-20-1](https://www.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg)

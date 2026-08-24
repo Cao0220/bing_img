@@ -7280,3 +7280,7 @@
 ----------------
 ![2026-08-24-0](https://www.bing.com/th?id=OHR.KatmaiBear_ROW4890016899_UHD.jpg)
 ![2026-08-24-1](https://www.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_UHD.jpg)
+2026-08-25
+----------------
+![2026-08-25-0](https://www.bing.com/th?id=OHR.Lencois_PT-BR9491147631_UHD.jpg)
+![2026-08-25-1](https://www.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg)

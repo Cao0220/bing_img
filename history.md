@@ -7294,3 +7294,6 @@
 ----------------
 ![2026-08-27-0](https://www.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg)
 ![2026-08-27-1](https://www.bing.com/th?id=OHR.TomatinaBunol_ES-ES8709376731_UHD.jpg)
+2026-08-28
+----------------
+![2026-08-28-0](https://www.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg)

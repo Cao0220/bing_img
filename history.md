@@ -7297,3 +7297,7 @@
 2026-08-28
 ----------------
 ![2026-08-28-0](https://www.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg)
+2026-08-29
+----------------
+![2026-08-29-0](https://www.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg)
+![2026-08-29-1](https://www.bing.com/th?id=OHR.OmagariFireworks2026_JA-JP0416831919_UHD.jpg)

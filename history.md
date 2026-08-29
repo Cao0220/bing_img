@@ -7301,3 +7301,7 @@
 ----------------
 ![2026-08-29-0](https://www.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg)
 ![2026-08-29-1](https://www.bing.com/th?id=OHR.OmagariFireworks2026_JA-JP0416831919_UHD.jpg)
+2026-08-30
+----------------
+![2026-08-30-0](https://www.bing.com/th?id=OHR.LloretdeMar_ROW9048268267_UHD.jpg)
+![2026-08-30-1](https://www.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg)

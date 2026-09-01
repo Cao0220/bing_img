@@ -7312,3 +7312,8 @@
 ----------------
 ![2026-09-01-0](https://www.bing.com/th?id=OHR.SellinSunrise_ROW9214234977_UHD.jpg)
 ![2026-09-01-1](https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg)
+2026-09-02
+----------------
+![2026-09-02-0](https://www.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg)
+![2026-09-02-1](https://www.bing.com/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_UHD.jpg)
+![2026-09-02-2](https://www.bing.com/th?id=OHR.CapodannoBizantino_IT-IT2305233649_UHD.jpg)

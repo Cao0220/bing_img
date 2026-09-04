@@ -7326,3 +7326,8 @@
 ![2026-09-04-1](https://www.bing.com/th?id=OHR.JulierPass_EN-CA1672226611_UHD.jpg)
 ![2026-09-04-2](https://www.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_UHD.jpg)
 ![2026-09-04-3](https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_UHD.jpg)
+2026-09-05
+----------------
+![2026-09-05-0](https://www.bing.com/th?id=OHR.BambergTownhall_PT-BR1820123013_UHD.jpg)
+![2026-09-05-1](https://www.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_UHD.jpg)
+![2026-09-05-2](https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_UHD.jpg)

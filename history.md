@@ -7336,3 +7336,7 @@
 ![2026-09-06-0](https://www.bing.com/th?id=OHR.LakeFyans_ZH-CN1067187791_UHD.jpg)
 ![2026-09-06-1](https://www.bing.com/th?id=OHR.LillePlace_FR-FR3992764620_UHD.jpg)
 ![2026-09-06-2](https://www.bing.com/th?id=OHR.PuranaQila2026_EN-IN6620233403_UHD.jpg)
+2026-09-07
+----------------
+![2026-09-07-0](https://www.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_UHD.jpg)
+![2026-09-07-1](https://www.bing.com/th?id=OHR.RegataStoricaVen_IT-IT3438860394_UHD.jpg)

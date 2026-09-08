@@ -7345,3 +7345,8 @@
 ![2026-09-08-0](https://www.bing.com/th?id=OHR.IndependenceBR_PT-BR8326749510_UHD.jpg)
 ![2026-09-08-1](https://www.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg)
 ![2026-09-08-2](https://www.bing.com/th?id=OHR.MisurinaPeak_DE-DE8821401263_UHD.jpg)
+2026-09-09
+----------------
+![2026-09-09-0](https://www.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg)
+![2026-09-09-1](https://www.bing.com/th?id=OHR.ExtremaduraCaceres_ES-ES8424838072_UHD.jpg)
+![2026-09-09-2](https://www.bing.com/th?id=OHR.ChungYang2026_JA-JP4920316432_UHD.jpg)

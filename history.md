@@ -7358,3 +7358,8 @@
 ----------------
 ![2026-09-11-0](https://www.bing.com/th?id=OHR.TIFFRoy_EN-CA6717935809_UHD.jpg)
 ![2026-09-11-1](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg)
+2026-09-12
+----------------
+![2026-09-12-0](https://www.bing.com/th?id=OHR.RedMacaws_PT-BR5164998297_UHD.jpg)
+![2026-09-12-1](https://www.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg)
+![2026-09-12-2](https://www.bing.com/th?id=OHR.Castelmezzano_IT-IT4140249349_UHD.jpg)

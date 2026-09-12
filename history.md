@@ -7363,3 +7363,6 @@
 ![2026-09-12-0](https://www.bing.com/th?id=OHR.RedMacaws_PT-BR5164998297_UHD.jpg)
 ![2026-09-12-1](https://www.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg)
 ![2026-09-12-2](https://www.bing.com/th?id=OHR.Castelmezzano_IT-IT4140249349_UHD.jpg)
+2026-09-13
+----------------
+![2026-09-13-0](https://www.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg)

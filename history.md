@@ -7366,3 +7366,9 @@
 2026-09-13
 ----------------
 ![2026-09-13-0](https://www.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg)
+2026-09-14
+----------------
+![2026-09-14-0](https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg)
+![2026-09-14-1](https://www.bing.com/th?id=OHR.BambergTownhall_DE-DE7159832274_UHD.jpg)
+![2026-09-14-2](https://www.bing.com/th?id=OHR.LaVueltaEnd_ES-ES2544902517_UHD.jpg)
+![2026-09-14-3](https://www.bing.com/th?id=OHR.Cosmos2026_JA-JP5810317842_UHD.jpg)

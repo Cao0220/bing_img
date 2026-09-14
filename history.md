@@ -7372,3 +7372,6 @@
 ![2026-09-14-1](https://www.bing.com/th?id=OHR.BambergTownhall_DE-DE7159832274_UHD.jpg)
 ![2026-09-14-2](https://www.bing.com/th?id=OHR.LaVueltaEnd_ES-ES2544902517_UHD.jpg)
 ![2026-09-14-3](https://www.bing.com/th?id=OHR.Cosmos2026_JA-JP5810317842_UHD.jpg)
+2026-09-15
+----------------
+![2026-09-15-0](https://www.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg)

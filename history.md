@@ -7375,3 +7375,7 @@
 2026-09-15
 ----------------
 ![2026-09-15-0](https://www.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg)
+2026-09-16
+----------------
+![2026-09-16-0](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_PT-BR0717885034_UHD.jpg)
+![2026-09-16-1](https://www.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_UHD.jpg)

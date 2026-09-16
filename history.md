@@ -7379,3 +7379,6 @@
 ----------------
 ![2026-09-16-0](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_PT-BR0717885034_UHD.jpg)
 ![2026-09-16-1](https://www.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_UHD.jpg)
+2026-09-17
+----------------
+![2026-09-17-0](https://www.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg)

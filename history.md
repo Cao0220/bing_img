@@ -7396,3 +7396,7 @@
 ![2026-09-20-1](https://www.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg)
 ![2026-09-20-2](https://www.bing.com/th?id=OHR.OktoberfestMunich_DE-DE1236844623_UHD.jpg)
 ![2026-09-20-3](https://www.bing.com/th?id=OHR.BorgoMarinari_IT-IT7423218886_UHD.jpg)
+2026-09-21
+----------------
+![2026-09-21-0](https://www.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_UHD.jpg)
+![2026-09-21-1](https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727_UHD.jpg)

@@ -7400,3 +7400,6 @@
 ----------------
 ![2026-09-21-0](https://www.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_UHD.jpg)
 ![2026-09-21-1](https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727_UHD.jpg)
+2026-09-22
+----------------
+![2026-09-22-0](https://www.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg)

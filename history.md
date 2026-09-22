@@ -7403,3 +7403,9 @@
 2026-09-22
 ----------------
 ![2026-09-22-0](https://www.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg)
+2026-09-23
+----------------
+![2026-09-23-0](https://www.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg)
+![2026-09-23-1](https://www.bing.com/th?id=OHR.TolkienWeek_DE-DE1744424672_UHD.jpg)
+![2026-09-23-2](https://www.bing.com/th?id=OHR.ElGolfo_EN-IN8071994539_UHD.jpg)
+![2026-09-23-3](https://www.bing.com/th?id=OHR.Japan7Flower2026_JA-JP7430731593_UHD.jpg)

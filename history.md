@@ -7409,3 +7409,7 @@
 ![2026-09-23-1](https://www.bing.com/th?id=OHR.TolkienWeek_DE-DE1744424672_UHD.jpg)
 ![2026-09-23-2](https://www.bing.com/th?id=OHR.ElGolfo_EN-IN8071994539_UHD.jpg)
 ![2026-09-23-3](https://www.bing.com/th?id=OHR.Japan7Flower2026_JA-JP7430731593_UHD.jpg)
+2026-09-24
+----------------
+![2026-09-24-0](https://www.bing.com/th?id=OHR.SpringTree_PT-BR3107057910_UHD.jpg)
+![2026-09-24-1](https://www.bing.com/th?id=OHR.AutumnTrentino_IT-IT8118999546_UHD.jpg)

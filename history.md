@@ -7413,3 +7413,8 @@
 ----------------
 ![2026-09-24-0](https://www.bing.com/th?id=OHR.SpringTree_PT-BR3107057910_UHD.jpg)
 ![2026-09-24-1](https://www.bing.com/th?id=OHR.AutumnTrentino_IT-IT8118999546_UHD.jpg)
+2026-09-25
+----------------
+![2026-09-25-0](https://www.bing.com/th?id=OHR.CastelmezzanoItaly_ROW3044667748_UHD.jpg)
+![2026-09-25-1](https://www.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_UHD.jpg)
+![2026-09-25-2](https://www.bing.com/th?id=OHR.FiestaMerceBarcelona_ES-ES7742458972_UHD.jpg)

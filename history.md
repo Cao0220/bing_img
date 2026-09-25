@@ -7418,3 +7418,7 @@
 ![2026-09-25-0](https://www.bing.com/th?id=OHR.CastelmezzanoItaly_ROW3044667748_UHD.jpg)
 ![2026-09-25-1](https://www.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_UHD.jpg)
 ![2026-09-25-2](https://www.bing.com/th?id=OHR.FiestaMerceBarcelona_ES-ES7742458972_UHD.jpg)
+2026-09-26
+----------------
+![2026-09-26-0](https://www.bing.com/th?id=OHR.JogFalls2026_ROW3282923682_UHD.jpg)
+![2026-09-26-1](https://www.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg)

@@ -7422,3 +7422,11 @@
 ----------------
 ![2026-09-26-0](https://www.bing.com/th?id=OHR.JogFalls2026_ROW3282923682_UHD.jpg)
 ![2026-09-26-1](https://www.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg)
+2026-09-27
+----------------
+![2026-09-27-0](https://www.bing.com/th?id=OHR.ElGolfo_PT-BR1964322549_UHD.jpg)
+![2026-09-27-1](https://www.bing.com/th?id=OHR.NiagaraOnt_EN-CA8662967301_UHD.jpg)
+![2026-09-27-2](https://www.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg)
+![2026-09-27-3](https://www.bing.com/th?id=OHR.StarnbergerseeAutumn_DE-DE3476819754_UHD.jpg)
+![2026-09-27-4](https://www.bing.com/th?id=OHR.BoriesPoppies_FR-FR9955316118_UHD.jpg)
+![2026-09-27-5](https://www.bing.com/th?id=OHR.YokohamaBayBridge_JA-JP8812921625_UHD.jpg)

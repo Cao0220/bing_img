@@ -7430,3 +7430,7 @@
 ![2026-09-27-3](https://www.bing.com/th?id=OHR.StarnbergerseeAutumn_DE-DE3476819754_UHD.jpg)
 ![2026-09-27-4](https://www.bing.com/th?id=OHR.BoriesPoppies_FR-FR9955316118_UHD.jpg)
 ![2026-09-27-5](https://www.bing.com/th?id=OHR.YokohamaBayBridge_JA-JP8812921625_UHD.jpg)
+2026-09-28
+----------------
+![2026-09-28-0](https://www.bing.com/th?id=OHR.NeckarVineyards_ROW5359254474_UHD.jpg)
+![2026-09-28-1](https://www.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_UHD.jpg)

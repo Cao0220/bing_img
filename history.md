@@ -7502,3 +7502,7 @@
 ![2026-10-13-1](https://www.bing.com/th?id=OHR.HeartLakeTG_EN-CA2157233427_UHD.jpg)
 ![2026-10-13-2](https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg)
 ![2026-10-13-3](https://www.bing.com/th?id=OHR.PatrullaAguila_ES-ES5090687481_UHD.jpg)
+2026-10-14
+----------------
+![2026-10-14-0](https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg)
+![2026-10-14-1](https://www.bing.com/th?id=OHR.RailwayDay2026_JA-JP4058067313_UHD.jpg)

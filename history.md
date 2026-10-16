@@ -7514,3 +7514,10 @@
 ----------------
 ![2026-10-16-0](https://www.bing.com/th?id=OHR.NiagaraOnt_ROW1418204353_UHD.jpg)
 ![2026-10-16-1](https://www.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg)
+2026-10-17
+----------------
+![2026-10-17-0](https://www.bing.com/th?id=OHR.Veadeiros_PT-BR0644976929_UHD.jpg)
+![2026-10-17-1](https://www.bing.com/th?id=OHR.MaligneFest_EN-CA6755477171_UHD.jpg)
+![2026-10-17-2](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg)
+![2026-10-17-3](https://www.bing.com/th?id=OHR.AndechsAbbey_DE-DE4997798666_UHD.jpg)
+![2026-10-17-4](https://www.bing.com/th?id=OHR.Persimmons2026_JA-JP2192858733_UHD.jpg)

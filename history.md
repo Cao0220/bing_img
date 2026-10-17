@@ -7521,3 +7521,8 @@
 ![2026-10-17-2](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg)
 ![2026-10-17-3](https://www.bing.com/th?id=OHR.AndechsAbbey_DE-DE4997798666_UHD.jpg)
 ![2026-10-17-4](https://www.bing.com/th?id=OHR.Persimmons2026_JA-JP2192858733_UHD.jpg)
+2026-10-18
+----------------
+![2026-10-18-0](https://www.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_UHD.jpg)
+![2026-10-18-1](https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg)
+![2026-10-18-2](https://www.bing.com/th?id=OHR.SmilingSquirrel_FR-FR7350313584_UHD.jpg)

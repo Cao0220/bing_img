@@ -7561,3 +7561,7 @@
 ![2026-10-26-2](https://www.bing.com/th?id=OHR.GernikaPaisVasco_ES-ES5108223011_UHD.jpg)
 ![2026-10-26-3](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-IN8305689376_UHD.jpg)
 ![2026-10-26-4](https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_UHD.jpg)
+2026-10-27
+----------------
+![2026-10-27-0](https://www.bing.com/th?id=OHR.Nazare_PT-BR0405066219_UHD.jpg)
+![2026-10-27-1](https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg)

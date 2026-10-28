@@ -7568,3 +7568,6 @@
 2026-10-28
 ----------------
 ![2026-10-28-0](https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg)
+2026-10-29
+----------------
+![2026-10-29-0](https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg)

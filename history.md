@@ -7571,3 +7571,9 @@
 2026-10-29
 ----------------
 ![2026-10-29-0](https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg)
+2026-10-30
+----------------
+![2026-10-30-0](https://www.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_UHD.jpg)
+2026-10-31
+----------------
+![2026-10-31-0](https://www.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg)

@@ -7577,3 +7577,7 @@
 2026-10-31
 ----------------
 ![2026-10-31-0](https://www.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg)
+2026-11-01
+----------------
+![2026-11-01-0](https://www.bing.com/th?id=OHR.AlpineBraies_ROW3051494546_UHD.jpg)
+![2026-11-01-1](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_UHD.jpg)

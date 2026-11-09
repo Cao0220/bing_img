@@ -7607,3 +7607,7 @@
 ----------------
 ![2026-11-09-0](https://www.bing.com/th?id=OHR.DeltaEbro_ROW7248981899_UHD.jpg)
 ![2026-11-09-1](https://www.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg)
+2026-11-10
+----------------
+![2026-11-10-0](https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg)
+![2026-11-10-1](https://www.bing.com/th?id=OHR.MauerBerlin_DE-DE4395338070_UHD.jpg)

@@ -7618,3 +7618,6 @@
 ----------------
 ![2026-11-12-0](https://www.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg)
 ![2026-11-12-1](https://www.bing.com/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700_UHD.jpg)
+2026-11-13
+----------------
+![2026-11-13-0](https://www.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg)

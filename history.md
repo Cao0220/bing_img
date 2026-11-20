@@ -7644,3 +7644,6 @@
 ----------------
 ![2026-11-20-0](https://www.bing.com/th?id=OHR.MelbourneRedwoods_ROW6372871248_UHD.jpg)
 ![2026-11-20-1](https://www.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg)
+2026-11-21
+----------------
+![2026-11-21-0](https://www.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg)

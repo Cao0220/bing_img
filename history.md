@@ -7666,3 +7666,6 @@
 2026-11-27
 ----------------
 ![2026-11-27-0](https://www.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg)
+2026-11-28
+----------------
+![2026-11-28-0](https://www.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg)
